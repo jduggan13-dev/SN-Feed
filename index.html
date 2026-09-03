@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SN Feed Viewer</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #f9f9f9; color: #333; }
+        h1 { border-bottom: 2px solid #ddd; padding-bottom: 10px; }
+        .feed-item { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .feed-item h3 { margin-top: 0; color: #0066cc; }
+        .meta { font-size: 0.85em; color: #666; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+    <h1>ServiceNow Feed</h1>
+    <div id="feed-container">Loading feed items...</div>
+
+    <script>
+        async function loadFeed() {
+            try {
+                // Fetch the Feed.xml file from the same directory
+                const response = await fetch('./Feed.xml');
+                if (!response.ok) throw new Error('Failed to fetch Feed.xml');
+                
+                const textData = await response.text();
+                
+                // Parse the XML text into a DOM object
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(textData, "text/xml");
+                
+                // Change 'item' or 'entry' based on your XML structure (RSS vs Atom)
+                const items = xmlDoc.getElementsByTagName("item").length > 0 
+                    ? xmlDoc.getElementsByTagName("item") 
+                    : xmlDoc.getElementsByTagName("entry");
+                
+                let htmlContent = '';
+                
+                if (items.length === 0) {
+                    htmlContent = '<p>No feed items found or unexpected XML structure.</p>';
+                } else {
+                    for (let i = 0; i < items.length; i++) {
+                        const title = items[i].getElementsByTagName("title")[0]?.textContent || "No Title";
+                        const link = items[i].getElementsByTagName("link")[0]?.textContent || 
+                                     items[i].getElementsByTagName("link")[0]?.getAttribute("href") || "#";
+                        const description = items[i].getElementsByTagName("description")[0]?.textContent || 
+                                             items[i].getElementsByTagName("summary")[0]?.textContent || "";
+                        
+                        htmlContent += `
+                            <div class="feed-item">
+                                <h3><a href="${link}" target="_blank">${title}</a></h3>
+                                <p>${description}</p>
+                            </div>
+                        `;
+                    }
+                }
+                
+                document.getElementById('feed-container').innerHTML = htmlContent;
+            } catch (error) {
+                document.getElementById('feed-container').innerHTML = `<p style="color:red;">Error loading feed: ${error.message}</p>`;
+                console.error(error);
+            }
+        }
+
+        loadFeed();
+    </script>
+</body>
+</html>
