@@ -1,0 +1,42 @@
+name: Update SpaceNews feed
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # run every 15 minutes
+  workflow_dispatch:         # allow manual run from Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate feed.xml from SpaceNews
+        run: |
+          python update_spacenews_feed.py
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git status --porcelain feed.xml | grep 'feed.xml'; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add feed.xml
+            git commit -m "Update SpaceNews proxy feed"
+            git push
+          fi
