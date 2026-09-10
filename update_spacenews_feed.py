@@ -8,39 +8,35 @@ SPACE_NEWS_FEED = "https://spacenews.com/feed"
 OUTPUT_FILE = Path("feed.xml")
 
 def fetch_spacenews():
-    resp = requests.get(SPACE_NEWS_FEED, timeout=20)
+    headers = {"User-Agent": "Mozilla/5.0 (GitHub Actions RSS proxy)"}
+    resp = requests.get(SPACE_NEWS_FEED, headers=headers, timeout=20)
+
+    # If we're being rate-limited, don't crash the job
+    if resp.status_code == 429:
+        print("Received 429 Too Many Requests from SpaceNews; keeping existing feed.xml.")
+        return None
+
     resp.raise_for_status()
     return resp.content
 
 def simplify_rss(xml_bytes):
-    """
-    Fetch SpaceNews RSS, strip namespaces, extract <item> blocks,
-    and rewrap them in a simple RSS 2.0 <channel>.
-    """
+    # ... your existing simplify_rss, unchanged ...
     tree = ET.fromstring(xml_bytes)
-
-    # Strip namespace prefixes (e.g., {http://...}tag -> tag)
     for elem in tree.iter():
         if "}" in elem.tag:
             elem.tag = elem.tag.split("}", 1)[1]
-
-    # Find <channel>
     channel = None
     for child in tree:
         if child.tag == "channel":
             channel = child
             break
-
     if channel is None:
-        # If something unexpected happens, just return the original XML
         return xml_bytes.decode("utf-8")
 
     items = [child for child in channel if child.tag == "item"]
 
     now = datetime.now(timezone.utc)
     last_build = format_datetime(now)
-
-    # Convert each item element back to XML text
     items_xml = [ET.tostring(item, encoding="unicode") for item in items]
 
     rss_text = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -59,6 +55,10 @@ def simplify_rss(xml_bytes):
 
 def main():
     xml_bytes = fetch_spacenews()
+    if xml_bytes is None:
+        # 429 – skip update, exit successfully
+        return
+
     rss_text = simplify_rss(xml_bytes)
     OUTPUT_FILE.write_text(rss_text, encoding="utf-8")
 
