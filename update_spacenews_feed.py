@@ -13,6 +13,8 @@ def fetch_spacenews():
     headers = {"User-Agent": "Mozilla/5.0 (GitHub Actions RSS proxy)"}
     resp = requests.get(SPACE_NEWS_FEED, headers=headers, timeout=20)
 
+    print(f"HTTP status from SpaceNews: {resp.status_code}")
+
     if resp.status_code == 429:
         print("Received 429 Too Many Requests from SpaceNews; keeping existing feed.xml.")
         return None
@@ -43,11 +45,15 @@ def main():
 
     channel = tree.find('channel')
     if channel is None:
-        # Fallback: just write original content through
+        print("No <channel> found in SpaceNews feed; writing original content.")
         OUTPUT_FILE.write_text(xml_bytes.decode('utf-8'), encoding='utf-8')
         return
 
     items = channel.findall('item')
+    print(f"Found {len(items)} items in SpaceNews feed.")
+    if items:
+        first_title = items[0].find('title').text if items[0].find('title') is not None else "(no title)"
+        print(f"First item title: {first_title}")
 
     # Take only the top MAX_ITEMS (SpaceNews feed is newest-first)
     items = items[:MAX_ITEMS]
@@ -105,7 +111,7 @@ def main():
                 c = ET.SubElement(new_item, 'category')
                 c.text = cat.text
 
-        # dc:creator
+        # dc:creator (author)
         dc_creator = old.find('dc:creator', ns)
         if dc_creator is not None and dc_creator.text:
             ET.SubElement(new_item, f"{{{ns['dc']}}}creator").text = dc_creator.text
@@ -117,6 +123,7 @@ def main():
 
     xml_str = ET.tostring(rss, encoding='utf-8', xml_declaration=True).decode('utf-8')
     OUTPUT_FILE.write_text(xml_str, encoding='utf-8')
+    print("feed.xml written successfully.")
 
 if __name__ == "__main__":
     main()
