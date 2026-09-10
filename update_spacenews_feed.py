@@ -6,61 +6,118 @@ from xml.etree import ElementTree as ET
 
 SPACE_NEWS_FEED = "https://spacenews.com/feed"
 OUTPUT_FILE = Path("feed.xml")
+PROXY_FEED_URL = "https://jduggan13-dev.github.io/SN-Feed/feed.xml"  # <- your feed URL
 
 def fetch_spacenews():
     headers = {"User-Agent": "Mozilla/5.0 (GitHub Actions RSS proxy)"}
     resp = requests.get(SPACE_NEWS_FEED, headers=headers, timeout=20)
-
-    # If we're being rate-limited, don't crash the job
     if resp.status_code == 429:
         print("Received 429 Too Many Requests from SpaceNews; keeping existing feed.xml.")
         return None
-
     resp.raise_for_status()
     return resp.content
-
-def simplify_rss(xml_bytes):
-    # ... your existing simplify_rss, unchanged ...
-    tree = ET.fromstring(xml_bytes)
-    for elem in tree.iter():
-        if "}" in elem.tag:
-            elem.tag = elem.tag.split("}", 1)[1]
-    channel = None
-    for child in tree:
-        if child.tag == "channel":
-            channel = child
-            break
-    if channel is None:
-        return xml_bytes.decode("utf-8")
-
-    items = [child for child in channel if child.tag == "item"]
-
-    now = datetime.now(timezone.utc)
-    last_build = format_datetime(now)
-    items_xml = [ET.tostring(item, encoding="unicode") for item in items]
-
-    rss_text = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>SpaceNews (GitHub proxy)</title>
-    <link>https://spacenews.com/</link>
-    <description>SpaceNews RSS feed proxied through GitHub for Protopage</description>
-    <lastBuildDate>{last_build}</lastBuildDate>
-    <language>en-US</language>
-{''.join(items_xml)}
-  </channel>
-</rss>
-"""
-    return rss_text
 
 def main():
     xml_bytes = fetch_spacenews()
     if xml_bytes is None:
-        # 429 – skip update, exit successfully
         return
 
-    rss_text = simplify_rss(xml_bytes)
-    OUTPUT_FILE.write_text(rss_text, encoding="utf-8")
+    # Parse with namespaces preserved
+    tree = ET.fromstring(xml_bytes)
+
+    # Namespace map (taken from WordPress feed)
+    ns = {
+        'content': 'http://purl.org/rss/1.0/modules/content/',
+        'wfw': 'http://wellformedweb.org/CommentAPI/',
+        'dc': 'http://purl.org/dc/elements/1.1/',
+        'atom': 'http://www.w3.org/2005/Atom',
+        'sy': 'http://purl.org/rss/1.0/modules/syndication/',
+        'slash': 'http://purl.org/rss/1.0/modules/slash/',
+    }
+
+    # Register namespaces so ElementTree writes prefixes correctly
+    for prefix, uri in ns.items():
+        ET.register_namespace(prefix, uri)
+
+    channel = tree.find('channel')
+    if channel is None:
+        # Fallback: just write original content
+        OUTPUT_FILE.write_text(xml_bytes.decode('utf-8'), encoding='utf-8')
+        return
+
+    items = channel.findall('item')
+
+    now = datetime.now(timezone.utc)
+    last_build = format_datetime(now)
+
+    # Build a new RSS root with proper namespaces
+    rss = ET.Element('rss', attrib={'version': '2.0'})
+    # Attach namespace declarations to root
+    for prefix, uri in ns.items():
+        rss.set(f'xmlns:{prefix}', uri)
+
+    new_channel = ET.SubElement(rss, 'channel')
+
+    ET.SubElement(new_channel, 'title').text = "SpaceNews (GitHub proxy)"
+    ET.SubElement(new_channel, 'link').text = "https://spacenews.com/"
+    ET.SubElement(new_channel, 'description').text = "SpaceNews RSS feed proxied through GitHub for Protopage"
+    ET.SubElement(new_channel, 'lastBuildDate').text = last_build
+    ET.SubElement(new_channel, 'language').text = "en-US"
+
+    # atom:link rel="self"
+    atom_link = ET.SubElement(new_channel, f"{{{ns['atom']}}}link", {
+        'href': PROXY_FEED_URL,
+        'rel': 'self',
+        'type': 'application/rss+xml'
+    })
+
+    # Rebuild each item with clean fields
+    for old in items:
+        new_item = ET.SubElement(new_channel, 'item')
+
+        # Basic tags
+        title = old.find('title')
+        link = old.find('link')
+        desc = old.find('description')
+        pub = old.find('pubDate')
+        guid = old.find('guid')
+
+        if title is not None and title.text:
+            ET.SubElement(new_item, 'title').text = title.text
+        if link is not None and link.text:
+            ET.SubElement(new_item, 'link').text = link.text
+        if desc is not None and desc.text:
+            # description is typically HTML inside CDATA in original;
+            # here we copy text as-is; ElementTree will escape as needed.
+            ET.SubElement(new_item, 'description').text = desc.text
+        if pub is not None and pub.text:
+            ET.SubElement(new_item, 'pubDate').text = pub.text
+        if guid is not None and guid.text:
+            g = ET.SubElement(new_item, 'guid')
+            # preserve isPermaLink attr if present
+            if 'isPermaLink' in guid.attrib:
+                g.set('isPermaLink', guid.attrib['isPermaLink'])
+            g.text = guid.text
+
+        # Categories
+        for cat in old.findall('category'):
+            if cat.text:
+                c = ET.SubElement(new_item, 'category')
+                c.text = cat.text
+
+        # Author (dc:creator)
+        dc_creator = old.find('dc:creator', ns)
+        if dc_creator is not None and dc_creator.text:
+            ET.SubElement(new_item, f"{{{ns['dc']}}}creator").text = dc_creator.text
+
+        # Full content (content:encoded) – many readers look for this
+        content_encoded = old.find('content:encoded', ns)
+        if content_encoded is not None and content_encoded.text:
+            ET.SubElement(new_item, f"{{{ns['content']}}}encoded").text = content_encoded.text
+
+    # Write out the new XML
+    xml_str = ET.tostring(rss, encoding='utf-8', xml_declaration=True).decode('utf-8')
+    OUTPUT_FILE.write_text(xml_str, encoding='utf-8')
 
 if __name__ == "__main__":
     main()
