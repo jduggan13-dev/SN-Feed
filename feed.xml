@@ -4,17 +4,10 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 11 Sep 2026 10:09:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:09:28 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership</title>
-<link>https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</link>
-<guid isPermaLink="true">https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</guid>
-<pubDate>Fri, 11 Sep 2026 05:32:49 +0000</pubDate>
-<description>Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite […]</description>
-</item>
 <item>
 <title>SpaceX confirms plans to launch Starlink satellites on next Starship mission</title>
 <link>https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/</link>
@@ -217,6 +210,13 @@
 <guid isPermaLink="true">https://spacenews.com/esa-opens-call-for-plant-to-produce-radioisotope-spacecraft-heaters-in-europe/</guid>
 <pubDate>Tue, 08 Sep 2026 17:56:26 +0000</pubDate>
 <description>JOHANNESBURG — The European Space Agency is moving ahead with plans to establish a pilot plant intended to produce sovereign European-manufactured americium-241 radioisotope heater units (RHUs), devices that use heat […]</description>
+</item>
+<item>
+<title>War Game: China gets its own Golden Dome, sparking a space arms race</title>
+<link>https://spacenews.com/war-game-china-gets-its-own-golden-dome-sparking-a-space-arms-race/</link>
+<guid isPermaLink="true">https://spacenews.com/war-game-china-gets-its-own-golden-dome-sparking-a-space-arms-race/</guid>
+<pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
+<description>An unspoken assumption in the Golden Dome’s development is that America will be the only nation to deploy such a system. The Nonproliferation Policy Education Center (NPEC)’s three-day multiple-move space […]</description>
 </item>
 </channel>
 </rss>
