@@ -4,17 +4,10 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 11 Sep 2026 07:09:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 08:10:21 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>SpaceX confirms plans to launch Starlink satellites on next Starship mission</title>
-<link>https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/</guid>
-<pubDate>Fri, 11 Sep 2026 03:41:35 +0000</pubDate>
-<description>A SpaceX executive confirmed the next flight of the company’s Starship rocket will carry its first orbital payloads, setting the stage for work on direct-to-device and orbital data center systems.</description>
-</item>
 <item>
 <title>Eutelsat orders extra OneWeb satellites and kicks off IRIS² LEO contracts</title>
 <link>https://spacenews.com/eutelsat-orders-extra-oneweb-satellites-and-kicks-off-iris%c2%b2-leo-contracts/</link>
@@ -217,6 +210,13 @@
 <guid isPermaLink="true">https://spacenews.com/war-game-china-gets-its-own-golden-dome-sparking-a-space-arms-race/</guid>
 <pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
 <description>An unspoken assumption in the Golden Dome’s development is that America will be the only nation to deploy such a system. The Nonproliferation Policy Education Center (NPEC)’s three-day multiple-move space […]</description>
+</item>
+<item>
+<title>Former NGA director Frank Whitworth named president of Satellogic</title>
+<link>https://spacenews.com/former-nga-director-frank-whitworth-named-president-of-satellogic/</link>
+<guid isPermaLink="true">https://spacenews.com/former-nga-director-frank-whitworth-named-president-of-satellogic/</guid>
+<pubDate>Tue, 08 Sep 2026 12:22:48 +0000</pubDate>
+<description>Whitworth joined Satellogic as a strategic adviser in March. He will report to co-founder and chief executive Emiliano Kargieman.</description>
 </item>
 </channel>
 </rss>
