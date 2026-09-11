@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 11 Sep 2026 21:08:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 22:09:05 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Catalyx Space gearing up for heat shield deployment test</title>
+<link>https://spacenews.com/catalyx-space-gearing-up-for-heat-shield-deployment-test/</link>
+<guid isPermaLink="true">https://spacenews.com/catalyx-space-gearing-up-for-heat-shield-deployment-test/</guid>
+<pubDate>Fri, 11 Sep 2026 18:14:37 +0000</pubDate>
+<description>Catalyx Space is preparing to test a newly developed deployable heat shield for its planned ReX reentry vehicle on a suborbital flight from India in mid-October.</description>
+</item>
 <item>
 <title>Agentic AI in space warfare is not risk-free: Military advantage belongs to those who control it</title>
 <link>https://spacenews.com/agentic-ai-in-space-warfare-is-not-risk-free-military-advantage-belongs-to-those-who-control-it/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/national-security-launch-forecast-surges-as-new-rockets-struggle-to-break-spacexs-grip/</guid>
 <pubDate>Wed, 09 Sep 2026 00:57:13 +0000</pubDate>
 <description>Pentagon report puts NSSL procurement quantity at 337 launches and nearly $76 billion</description>
-</item>
-<item>
-<title>Report: Golden Dome orbital interceptors face daunting economics</title>
-<link>https://spacenews.com/report-golden-dome-orbital-interceptors-face-daunting-economics/</link>
-<guid isPermaLink="true">https://spacenews.com/report-golden-dome-orbital-interceptors-face-daunting-economics/</guid>
-<pubDate>Tue, 08 Sep 2026 23:41:59 +0000</pubDate>
-<description>Think tank estimates even limited missile threats could require thousands of orbital weapons, while Pentagon says emerging technology could change the economics</description>
 </item>
 </channel>
 </rss>
