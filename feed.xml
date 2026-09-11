@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 11 Sep 2026 16:10:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 17:08:15 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Protecting satellites from quantum attack</title>
+<link>https://spacenews.com/protecting-satellites-from-quantum-attack/</link>
+<guid isPermaLink="true">https://spacenews.com/protecting-satellites-from-quantum-attack/</guid>
+<pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+<description>Cryptographic tools relied on for decades to protect sensitive communications and critical infrastructure risk becoming easy targets for sufficiently powerful quantum computers. And although those machines remain on the horizon, […]</description>
+</item>
 <item>
 <title>LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership</title>
 <link>https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/fcc-to-draw-line-under-constellation-environmental-review-exemption/</guid>
 <pubDate>Tue, 08 Sep 2026 20:52:47 +0000</pubDate>
 <description>The FCC is poised to cement its longstanding practice of excluding constellations from environmental reviews, amid an unprecedented wave of proposals covering more than a million orbital data centers.</description>
-</item>
-<item>
-<title>ESA opens call for plant to produce radioisotope spacecraft heaters in Europe</title>
-<link>https://spacenews.com/esa-opens-call-for-plant-to-produce-radioisotope-spacecraft-heaters-in-europe/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-opens-call-for-plant-to-produce-radioisotope-spacecraft-heaters-in-europe/</guid>
-<pubDate>Tue, 08 Sep 2026 17:56:26 +0000</pubDate>
-<description>JOHANNESBURG — The European Space Agency is moving ahead with plans to establish a pilot plant intended to produce sovereign European-manufactured americium-241 radioisotope heater units (RHUs), devices that use heat […]</description>
 </item>
 </channel>
 </rss>
