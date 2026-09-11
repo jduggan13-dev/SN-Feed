@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 11 Sep 2026 19:08:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:09:02 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Agentic AI in space warfare is not risk-free: Military advantage belongs to those who control it</title>
+<link>https://spacenews.com/agentic-ai-in-space-warfare-is-not-risk-free-military-advantage-belongs-to-those-who-control-it/</link>
+<guid isPermaLink="true">https://spacenews.com/agentic-ai-in-space-warfare-is-not-risk-free-military-advantage-belongs-to-those-who-control-it/</guid>
+<pubDate>Fri, 11 Sep 2026 13:00:00 +0000</pubDate>
+<description>Agentic AI in space operations is already defining the next era of military advantage, enabling warfighters to sense, decide and act at machine speed across global constellations. China’s Siwei Gaojing-2 […]</description>
+</item>
+<item>
+<title>China details satellite network buildout in new telecom five-year plan</title>
+<link>https://spacenews.com/china-details-satellite-network-buildout-in-new-telecom-five-year-plan/</link>
+<guid isPermaLink="true">https://spacenews.com/china-details-satellite-network-buildout-in-new-telecom-five-year-plan/</guid>
+<pubDate>Fri, 11 Sep 2026 12:44:34 +0000</pubDate>
+<description>THE HAGUE, Netherlands — China’s telecommunications regulator has issued a roadmap to the end of the decade, building on a national five-year plan laid out in March. The plan calls […]</description>
+</item>
+<item>
+<title>Protecting satellites from quantum attack</title>
+<link>https://spacenews.com/protecting-satellites-from-quantum-attack/</link>
+<guid isPermaLink="true">https://spacenews.com/protecting-satellites-from-quantum-attack/</guid>
+<pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+<description>Cryptographic tools relied on for decades to protect sensitive communications and critical infrastructure risk becoming easy targets for sufficiently powerful quantum computers. And although those machines remain on the horizon, […]</description>
+</item>
 <item>
 <title>LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership</title>
 <link>https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/report-golden-dome-orbital-interceptors-face-daunting-economics/</guid>
 <pubDate>Tue, 08 Sep 2026 23:41:59 +0000</pubDate>
 <description>Think tank estimates even limited missile threats could require thousands of orbital weapons, while Pentagon says emerging technology could change the economics</description>
-</item>
-<item>
-<title>U.S. Space Command tests satellite maneuvers across multiple orbits</title>
-<link>https://spacenews.com/u-s-space-command-tests-satellite-maneuvers-across-multiple-orbits/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-space-command-tests-satellite-maneuvers-across-multiple-orbits/</guid>
-<pubDate>Tue, 08 Sep 2026 21:31:24 +0000</pubDate>
-<description>Apollo Maneuvers used real spacecraft operations across low, medium and geosynchronous orbits, with lessons expected to shape future military requirements for in-space logistics and servicing.</description>
-</item>
-<item>
-<title>FCC to draw line under constellation environmental review exemption</title>
-<link>https://spacenews.com/fcc-to-draw-line-under-constellation-environmental-review-exemption/</link>
-<guid isPermaLink="true">https://spacenews.com/fcc-to-draw-line-under-constellation-environmental-review-exemption/</guid>
-<pubDate>Tue, 08 Sep 2026 20:52:47 +0000</pubDate>
-<description>The FCC is poised to cement its longstanding practice of excluding constellations from environmental reviews, amid an unprecedented wave of proposals covering more than a million orbital data centers.</description>
-</item>
-<item>
-<title>ESA opens call for plant to produce radioisotope spacecraft heaters in Europe</title>
-<link>https://spacenews.com/esa-opens-call-for-plant-to-produce-radioisotope-spacecraft-heaters-in-europe/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-opens-call-for-plant-to-produce-radioisotope-spacecraft-heaters-in-europe/</guid>
-<pubDate>Tue, 08 Sep 2026 17:56:26 +0000</pubDate>
-<description>JOHANNESBURG — The European Space Agency is moving ahead with plans to establish a pilot plant intended to produce sovereign European-manufactured americium-241 radioisotope heater units (RHUs), devices that use heat […]</description>
 </item>
 </channel>
 </rss>
