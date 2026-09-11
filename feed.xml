@@ -4,31 +4,10 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 11 Sep 2026 02:09:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 03:09:09 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>Eutelsat orders extra OneWeb satellites and kicks off IRIS² LEO contracts</title>
-<link>https://spacenews.com/eutelsat-orders-extra-oneweb-satellites-and-kicks-off-iris%c2%b2-leo-contracts/</link>
-<guid isPermaLink="true">https://spacenews.com/eutelsat-orders-extra-oneweb-satellites-and-kicks-off-iris%c2%b2-leo-contracts/</guid>
-<pubDate>Thu, 10 Sep 2026 22:38:45 +0000</pubDate>
-<description>Eutelsat has ordered another 229 OneWeb satellites to extend its low Earth orbit broadband constellation through 2034, alongside awarding contracts for the 330 LEO spacecraft in Europe’s proposed IRIS² network.</description>
-</item>
-<item>
-<title>Amazon Leo planning to begin initial services by end of the year</title>
-<link>https://spacenews.com/amazon-leo-planning-to-begin-initial-services-by-end-of-the-year/</link>
-<guid isPermaLink="true">https://spacenews.com/amazon-leo-planning-to-begin-initial-services-by-end-of-the-year/</guid>
-<pubDate>Thu, 10 Sep 2026 21:49:31 +0000</pubDate>
-<description>Amazon Leo still plans to begin limited commercial service by the end of this year despite launch vehicle issues that have slowed the constellation’s deployment.</description>
-</item>
-<item>
-<title>York Space revealed as prime contractor for Tomorrow.io weather constellation</title>
-<link>https://spacenews.com/york-space-revealed-as-prime-contractor-for-tomorrow-io-weather-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/york-space-revealed-as-prime-contractor-for-tomorrow-io-weather-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 20:25:20 +0000</pubDate>
-<description>Denver-based York will manufacture spacecraft and integrate five-instrument weather payloads</description>
-</item>
 <item>
 <title>Space Force turns to simulation technology to prepare for warfare in orbit</title>
 <link>https://spacenews.com/space-force-turns-to-simulation-technology-to-prepare-for-warfare-in-orbit/</link>
@@ -217,6 +196,27 @@
 <guid isPermaLink="true">https://spacenews.com/former-nga-director-frank-whitworth-named-president-of-satellogic/</guid>
 <pubDate>Tue, 08 Sep 2026 12:22:48 +0000</pubDate>
 <description>Whitworth joined Satellogic as a strategic adviser in March. He will report to co-founder and chief executive Emiliano Kargieman.</description>
+</item>
+<item>
+<title>The Exploration Company raises $450 million</title>
+<link>https://spacenews.com/the-exploration-company-raises-450-million/</link>
+<guid isPermaLink="true">https://spacenews.com/the-exploration-company-raises-450-million/</guid>
+<pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+<description>﻿﻿﻿The Exploration Company has raised $450 million to help the European company complete work on a cargo spacecraft and lay the groundwork for a future large launch vehicle.</description>
+</item>
+<item>
+<title>Stoke Space raises $1 billion and unveils larger launch vehicle</title>
+<link>https://spacenews.com/stoke-space-raises-1-billion-and-unveils-larger-launch-vehicle/</link>
+<guid isPermaLink="true">https://spacenews.com/stoke-space-raises-1-billion-and-unveils-larger-launch-vehicle/</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+<description>Stoke Space Technologies, a company nearing the first flight of a fully reusable launch vehicle, has raised $1 billion to help accelerate work on a larger rocket.</description>
+</item>
+<item>
+<title>Space Force backs startup seeking to change how satellites move in orbit</title>
+<link>https://spacenews.com/space-force-backs-startup-seeking-to-change-how-satellites-move-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-backs-startup-seeking-to-change-how-satellites-move-in-orbit/</guid>
+<pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
+<description>Space Kinetic’s Whirlwind system would dispatch small spacecraft from a host vehicle without requiring each one to maneuver under its own propulsion</description>
 </item>
 </channel>
 </rss>
