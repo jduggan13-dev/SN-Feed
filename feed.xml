@@ -4,17 +4,10 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 12 Sep 2026 14:08:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:08:28 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>Rocket Lab protests NASA award of Mars telecom orbiter contract</title>
-<link>https://spacenews.com/rocket-lab-protests-nasa-award-of-mars-telecom-orbiter-contract/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-protests-nasa-award-of-mars-telecom-orbiter-contract/</guid>
-<pubDate>Sat, 12 Sep 2026 08:18:55 +0000</pubDate>
-<description>Rocket Lab announced Sept. 11 it is filing a protest of NASA’s decision to award a $700 million contract for a Mars communications orbiter to Blue Origin.</description>
-</item>
 <item>
 <title>Catalyx Space gearing up for heat shield deployment test</title>
 <link>https://spacenews.com/catalyx-space-gearing-up-for-heat-shield-deployment-test/</link>
@@ -217,6 +210,13 @@
 <guid isPermaLink="true">https://spacenews.com/international-space-summit-to-highlight-european-and-global-space-issues/</guid>
 <pubDate>Wed, 09 Sep 2026 08:31:17 +0000</pubDate>
 <description>A high-level conference organized by the French government on space is intended not just to seek international consensus on key issues but also to bolster Europe’s space efforts.</description>
+</item>
+<item>
+<title>National security launch forecast surges as new rockets struggle to break SpaceX’s grip</title>
+<link>https://spacenews.com/national-security-launch-forecast-surges-as-new-rockets-struggle-to-break-spacexs-grip/</link>
+<guid isPermaLink="true">https://spacenews.com/national-security-launch-forecast-surges-as-new-rockets-struggle-to-break-spacexs-grip/</guid>
+<pubDate>Wed, 09 Sep 2026 00:57:13 +0000</pubDate>
+<description>Pentagon report puts NSSL procurement quantity at 337 launches and nearly $76 billion</description>
 </item>
 </channel>
 </rss>
