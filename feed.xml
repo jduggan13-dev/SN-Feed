@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 12 Sep 2026 21:08:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 22:08:41 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Saudi Arabia’s stc Group orders small GEO satellite in another Astranis Block 3 reshuffle</title>
+<link>https://spacenews.com/saudi-arabias-stc-group-orders-small-geo-satellite-in-another-astranis-block-3-reshuffle/</link>
+<guid isPermaLink="true">https://spacenews.com/saudi-arabias-stc-group-orders-small-geo-satellite-in-another-astranis-block-3-reshuffle/</guid>
+<pubDate>Sat, 12 Sep 2026 20:41:16 +0000</pubDate>
+<description>Saudi telecoms giant stc Group has replaced one of two small GEO satellites Mexican telco Apco Networks had booked as part of Astranis’ delayed Block 3 mission.</description>
+</item>
 <item>
 <title>Rocket Lab protests NASA award of Mars telecom orbiter contract</title>
 <link>https://spacenews.com/rocket-lab-protests-nasa-award-of-mars-telecom-orbiter-contract/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/new-leaders-take-over-as-washington-bets-big-on-military-space/</guid>
 <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
 <description>The test for these new leaders will be whether they can turn the surge in funding into military and intelligence capabilities that lead to success.</description>
-</item>
-<item>
-<title>International Space Summit to highlight European and global space issues</title>
-<link>https://spacenews.com/international-space-summit-to-highlight-european-and-global-space-issues/</link>
-<guid isPermaLink="true">https://spacenews.com/international-space-summit-to-highlight-european-and-global-space-issues/</guid>
-<pubDate>Wed, 09 Sep 2026 08:31:17 +0000</pubDate>
-<description>A high-level conference organized by the French government on space is intended not just to seek international consensus on key issues but also to bolster Europe’s space efforts.</description>
 </item>
 </channel>
 </rss>
