@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sun, 13 Sep 2026 09:32:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 10:15:49 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Summit declarations avoid controversy but fail to earn key endorsements</title>
+<link>https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</link>
+<guid isPermaLink="true">https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</guid>
+<pubDate>Sun, 13 Sep 2026 07:16:08 +0000</pubDate>
+<description>Three declarations signed by dozens of countries at the International Space Summit largely avoided controversial positions but still failed to win support from some of the biggest space powers.</description>
+</item>
 <item>
 <title>NOAA contract signals sharp increase in commercial weather data purchases</title>
 <link>https://spacenews.com/noaa-contract-signals-sharp-increase-in-commercial-weather-data-purchases/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/the-emerging-space-economy-brings-opportunity-and-legal-risks-for-business/</guid>
 <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
 <description>Private companies now design, launch, own and operate space assets on a scale and pace that was unthinkable a decade ago. Even where companies are not directly involved in the […]</description>
-</item>
-<item>
-<title>Eclipse Space unveils three satellite platforms and Gama power partnership</title>
-<link>https://spacenews.com/eclipse-space-unveils-three-satellite-platforms-and-gama-power-partnership/</link>
-<guid isPermaLink="true">https://spacenews.com/eclipse-space-unveils-three-satellite-platforms-and-gama-power-partnership/</guid>
-<pubDate>Wed, 09 Sep 2026 11:26:38 +0000</pubDate>
-<description>Manufacturing startup Eclipse Space has unveiled its CitraSat, SliceSat and SurgeSat satellite platforms, designed to support direct-to-device connectivity, broadband and orbital data center applications.</description>
 </item>
 </channel>
 </rss>
