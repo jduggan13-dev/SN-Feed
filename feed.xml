@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 14 Sep 2026 17:08:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 18:10:43 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -13,7 +13,7 @@
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
 <guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
 <pubDate>Mon, 14 Sep 2026 15:35:10 +0000</pubDate>
-<description>Download our new mapping of every space company valued at $1 billion or more.</description>
+<description>Download our new mapping of every private space company valued at $1 billion or more.</description>
 </item>
 <item>
 <title>U.S. has deployed space-control weapons in orbit, Air Force secretary says</title>
