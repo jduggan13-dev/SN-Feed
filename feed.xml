@@ -4,59 +4,10 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 14 Sep 2026 13:14:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 14:12:26 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>ColliMate demonstrates autonomous satcom orchestration software in orbit</title>
-<link>https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</guid>
-<pubDate>Mon, 14 Sep 2026 12:05:00 +0000</pubDate>
-<description>ColliMate Space has demonstrated its Nexus software for autonomously managing satellite downlinks onboard a spacecraft for the first time, the Silicon Valley startup announced Sept. 14</description>
-</item>
-<item>
-<title>HEO demonstrates close inspection through rendezvous and proximity operations</title>
-<link>https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</link>
-<guid isPermaLink="true">https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-<description>PARIS – HEO, the Australian company non-Earth imagery company, announced Sept. 14 how it repurposed an Earth-observation satellite to conduct close-range inspection of a Chinese Long March 2C rocket. HEO […]</description>
-</item>
-<item>
-<title>Satellogic to expand constellation with October launch</title>
-<link>https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-<description>PARIS – Satellogic announced plans Sept. 14 to launch one NewSat Mark V and two NewSat Mark VI Earth-observation satellite in October. “From now on, we’re launching satellites for our […]</description>
-</item>
-<item>
-<title>Satellogic to launch six more Earth-observation satellites for Office of Naval Research Slingshot III program</title>
-<link>https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</link>
-<guid isPermaLink="true">https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-<description>PARIS – Satellogic announced an agreement Sept. 14 with Innovative Defense Technologies to launch six additional Earth-observation satellites for the U.S. Office of Naval Research Slingshot III program. With artificial-intelligence […]</description>
-</item>
-<item>
-<title>Exolaunch secures additional rideshare launches</title>
-<link>https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</link>
-<guid isPermaLink="true">https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</guid>
-<pubDate>Mon, 14 Sep 2026 09:57:22 +0000</pubDate>
-<description>Launch services provider Exolaunch said Sept. 14 it secured capacity for rideshare payloads on two launches, including a flight on a Japanese rocket.</description>
-</item>
-<item>
-<title>U.S. Air Force awards Antares $161 million to advance nuclear reactor for space</title>
-<link>https://spacenews.com/u-s-air-force-awards-antares-161-million-to-advance-nuclear-reactor-for-space/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-air-force-awards-antares-161-million-to-advance-nuclear-reactor-for-space/</guid>
-<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
-<description>Space Force acquisition office is funding reactor demonstration and spacecraft integration work</description>
-</item>
-<item>
-<title>Pentagon seeks AI to turn space, missile data into decisions within seconds</title>
-<link>https://spacenews.com/pentagon-seeks-ai-to-turn-space-missile-data-into-decisions-within-seconds/</link>
-<guid isPermaLink="true">https://spacenews.com/pentagon-seeks-ai-to-turn-space-missile-data-into-decisions-within-seconds/</guid>
-<pubDate>Mon, 14 Sep 2026 08:15:00 +0000</pubDate>
-<description>DIU is soliciting proposals on software that can fuse sensor and intelligence feeds for human and automated command systems</description>
-</item>
 <item>
 <title>Europe uses space summit to advocate for greater autonomy</title>
 <link>https://spacenews.com/europe-uses-space-summit-to-advocate-for-greater-autonomy/</link>
@@ -217,6 +168,55 @@
 <guid isPermaLink="true">https://spacenews.com/the-exploration-company-wins-esa-contract-for-nyx-mission-to-iss/</guid>
 <pubDate>Thu, 10 Sep 2026 13:45:00 +0000</pubDate>
 <description>The Exploration Company has won a contract from ESA worth up to 760 million euros to fly a demonstration mission of its Nyx spacecraft to the ISS in 2028.</description>
+</item>
+<item>
+<title>China alters Chang’e-8 lunar south pole mission amid lunar program reorganization</title>
+<link>https://spacenews.com/china-alters-change-8-lunar-south-pole-mission-amid-lunar-program-reorganization/</link>
+<guid isPermaLink="true">https://spacenews.com/china-alters-change-8-lunar-south-pole-mission-amid-lunar-program-reorganization/</guid>
+<pubDate>Thu, 10 Sep 2026 13:34:41 +0000</pubDate>
+<description>THE HAGUE, Netherlands — China’s human spaceflight agency appears to be reconfiguring the country’s robotic moon landing program after assuming overall authority for lunar missions. Chang’e-8 had been slated for […]</description>
+</item>
+<item>
+<title>Navigation startup TrustPoint orders 40 satellites from EnduroSat</title>
+<link>https://spacenews.com/navigation-startup-trustpoint-orders-40-satellites-from-endurosat/</link>
+<guid isPermaLink="true">https://spacenews.com/navigation-startup-trustpoint-orders-40-satellites-from-endurosat/</guid>
+<pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
+<description>EnduroSat US will deliver spacecraft in three batches as TrustPoint expands its low-Earth-orbit navigation network</description>
+</item>
+<item>
+<title>The space economy can’t scale on bespoke power systems</title>
+<link>https://spacenews.com/the-space-economy-cant-scale-on-bespoke-power-systems/</link>
+<guid isPermaLink="true">https://spacenews.com/the-space-economy-cant-scale-on-bespoke-power-systems/</guid>
+<pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
+<description>There’s a lot of discussion right now about launch costs dropping and access to space expanding. That’s true. But launch costs and access to space are not the constraints that […]</description>
+</item>
+<item>
+<title>NewOrbit claims launch slot for commercial VLEO mission</title>
+<link>https://spacenews.com/neworbit-claims-launch-slot-for-commercial-vleo-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/neworbit-claims-launch-slot-for-commercial-vleo-mission/</guid>
+<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+<description>SAN FRANCISCO – UK startup NewOrbit announced plans Sept. 10 to send NEO-1, a rideshare mission, to very low Earth orbit (VLEO) in the third quarter of 2028. NewOrbit booked […]</description>
+</item>
+<item>
+<title>Consortium announces plans for billion-dollar AI-enabled satellite imaging constellation</title>
+<link>https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</guid>
+<pubDate>Thu, 10 Sep 2026 07:00:07 +0000</pubDate>
+<description>A group of companies announced plans Sept. 9 for a constellation of AI-enabled imaging satellites projected to cost $1 billion.</description>
+</item>
+<item>
+<title>Greek astronaut to fly on Vast private mission to ISS</title>
+<link>https://spacenews.com/greek-astronaut-to-fly-on-vast-private-mission-to-iss/</link>
+<guid isPermaLink="true">https://spacenews.com/greek-astronaut-to-fly-on-vast-private-mission-to-iss/</guid>
+<pubDate>Thu, 10 Sep 2026 03:29:02 +0000</pubDate>
+<description>Greece’s first astronaut will go to the International Space Station on a private astronaut mission in 2027 as Europe discusses developing its own human spaceflight capabilities.</description>
+</item>
+<item>
+<title>Arianespace wins more Ariane 6 orders amid discussions about increased launch rates</title>
+<link>https://spacenews.com/arianespace-wins-more-ariane-6-orders-amid-discussions-about-increased-launch-rates/</link>
+<guid isPermaLink="true">https://spacenews.com/arianespace-wins-more-ariane-6-orders-amid-discussions-about-increased-launch-rates/</guid>
+<pubDate>Thu, 10 Sep 2026 01:33:14 +0000</pubDate>
+<description>Arianespace announced orders for 10 more Ariane 6 launches Sept. 9 as discussions continue on increasing the vehicle’s cadence.</description>
 </item>
 </channel>
 </rss>
