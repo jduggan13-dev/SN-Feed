@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 14 Sep 2026 10:09:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 11:09:48 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Exolaunch secures additional rideshare launches</title>
+<link>https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</guid>
+<pubDate>Mon, 14 Sep 2026 09:57:22 +0000</pubDate>
+<description>Launch services provider Exolaunch said Sept. 14 it secured capacity for rideshare payloads on two launches, including a flight on a Japanese rocket.</description>
+</item>
+<item>
+<title>U.S. Air Force awards Antares $161 million to advance nuclear reactor for space</title>
+<link>https://spacenews.com/u-s-air-force-awards-antares-161-million-to-advance-nuclear-reactor-for-space/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-air-force-awards-antares-161-million-to-advance-nuclear-reactor-for-space/</guid>
+<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
+<description>Space Force acquisition office is funding reactor demonstration and spacecraft integration work</description>
+</item>
+<item>
+<title>Pentagon seeks AI to turn space, missile data into decisions within seconds</title>
+<link>https://spacenews.com/pentagon-seeks-ai-to-turn-space-missile-data-into-decisions-within-seconds/</link>
+<guid isPermaLink="true">https://spacenews.com/pentagon-seeks-ai-to-turn-space-missile-data-into-decisions-within-seconds/</guid>
+<pubDate>Mon, 14 Sep 2026 08:15:00 +0000</pubDate>
+<description>DIU is soliciting proposals on software that can fuse sensor and intelligence feeds for human and automated command systems</description>
+</item>
+<item>
+<title>Europe uses space summit to advocate for greater autonomy</title>
+<link>https://spacenews.com/europe-uses-space-summit-to-advocate-for-greater-autonomy/</link>
+<guid isPermaLink="true">https://spacenews.com/europe-uses-space-summit-to-advocate-for-greater-autonomy/</guid>
+<pubDate>Mon, 14 Sep 2026 07:40:01 +0000</pubDate>
+<description>European officials used an international space conference to bolster the continent’s own space capabilities as they push for greater autonomy.</description>
+</item>
 <item>
 <title>Startups seek to demonstrate 3D printing in vacuum of space</title>
 <link>https://spacenews.com/startups-seek-to-demonstrate-3d-printing-in-vacuum-of-space/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/neworbit-claims-launch-slot-for-commercial-vleo-mission/</guid>
 <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
 <description>SAN FRANCISCO – UK startup NewOrbit announced plans Sept. 10 to send NEO-1, a rideshare mission, to very low Earth orbit (VLEO) in the third quarter of 2028. NewOrbit booked […]</description>
-</item>
-<item>
-<title>Consortium announces plans for billion-dollar AI-enabled satellite imaging constellation</title>
-<link>https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 07:00:07 +0000</pubDate>
-<description>A group of companies announced plans Sept. 9 for a constellation of AI-enabled imaging satellites projected to cost $1 billion.</description>
-</item>
-<item>
-<title>Greek astronaut to fly on Vast private mission to ISS</title>
-<link>https://spacenews.com/greek-astronaut-to-fly-on-vast-private-mission-to-iss/</link>
-<guid isPermaLink="true">https://spacenews.com/greek-astronaut-to-fly-on-vast-private-mission-to-iss/</guid>
-<pubDate>Thu, 10 Sep 2026 03:29:02 +0000</pubDate>
-<description>Greece’s first astronaut will go to the International Space Station on a private astronaut mission in 2027 as Europe discusses developing its own human spaceflight capabilities.</description>
-</item>
-<item>
-<title>Arianespace wins more Ariane 6 orders amid discussions about increased launch rates</title>
-<link>https://spacenews.com/arianespace-wins-more-ariane-6-orders-amid-discussions-about-increased-launch-rates/</link>
-<guid isPermaLink="true">https://spacenews.com/arianespace-wins-more-ariane-6-orders-amid-discussions-about-increased-launch-rates/</guid>
-<pubDate>Thu, 10 Sep 2026 01:33:14 +0000</pubDate>
-<description>Arianespace announced orders for 10 more Ariane 6 launches Sept. 9 as discussions continue on increasing the vehicle’s cadence.</description>
-</item>
-<item>
-<title>EU prosecutors secure convictions in Galileo fraud case</title>
-<link>https://spacenews.com/eu-prosecutors-secure-convictions-in-galileo-fraud-case/</link>
-<guid isPermaLink="true">https://spacenews.com/eu-prosecutors-secure-convictions-in-galileo-fraud-case/</guid>
-<pubDate>Wed, 09 Sep 2026 21:28:34 +0000</pubDate>
-<description>JOHANNESBURG — Two Belarusian nationals and a Lithuanian company they controlled have been convicted of fraudulently obtaining European Union funding to develop high-precision satellite navigation receivers. The European Public Prosecutor’s Office […]</description>
 </item>
 </channel>
 </rss>
