@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 14 Sep 2026 09:11:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 10:09:03 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Startups seek to demonstrate 3D printing in vacuum of space</title>
+<link>https://spacenews.com/startups-seek-to-demonstrate-3d-printing-in-vacuum-of-space/</link>
+<guid isPermaLink="true">https://spacenews.com/startups-seek-to-demonstrate-3d-printing-in-vacuum-of-space/</guid>
+<pubDate>Mon, 14 Sep 2026 07:00:00 +0000</pubDate>
+<description>PARIS – Poland’s Orbital Matter and Dcubed of Germany are conducting on-orbit demonstrations of 3D printing in cubesats, a step toward creating solar arrays with additively manufactured booms. Orbital Matter […]</description>
+</item>
+<item>
+<title>Apex to set up US D2D satellite manufacturing facility for Elveo Mobile</title>
+<link>https://spacenews.com/apex-to-set-up-us-d2d-satellite-manufacturing-facility-for-elveo-mobile/</link>
+<guid isPermaLink="true">https://spacenews.com/apex-to-set-up-us-d2d-satellite-manufacturing-facility-for-elveo-mobile/</guid>
+<pubDate>Mon, 14 Sep 2026 06:10:00 +0000</pubDate>
+<description>Apex is helping establish a dedicated factory in the United States to churn out direct-to-device satellites for Elveo Mobile, the D2D operator recently formed by the merger of Lynk Global and Omnispace.</description>
+</item>
+<item>
+<title>BlackSky shares first-light imagery from fifth Gen3 satellite</title>
+<link>https://spacenews.com/blacksky-shares-first-light-imagery-from-fifth-gen3-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/blacksky-shares-first-light-imagery-from-fifth-gen3-satellite/</guid>
+<pubDate>Mon, 14 Sep 2026 06:00:00 +0000</pubDate>
+<description>PARIS — BlackSky Technology announced Sept. 14 that it collected and processed first light imagery from its fifth Gen3 satellite in less than 20 hours after liftoff on a Rocket […]</description>
+</item>
 <item>
 <title>Sophia Space and SLI agree on $300 million financing for 10-satellite edge-computing constellation</title>
 <link>https://spacenews.com/sophia-space-and-sli-agree-on-300-million-financing-for-10-satellite-edge-computing-constellation/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/eu-prosecutors-secure-convictions-in-galileo-fraud-case/</guid>
 <pubDate>Wed, 09 Sep 2026 21:28:34 +0000</pubDate>
 <description>JOHANNESBURG — Two Belarusian nationals and a Lithuanian company they controlled have been convicted of fraudulently obtaining European Union funding to develop high-precision satellite navigation receivers. The European Public Prosecutor’s Office […]</description>
-</item>
-<item>
-<title>The space infrastructure race is moving north</title>
-<link>https://spacenews.com/the-space-infrastructure-race-is-moving-north/</link>
-<guid isPermaLink="true">https://spacenews.com/the-space-infrastructure-race-is-moving-north/</guid>
-<pubDate>Wed, 09 Sep 2026 18:59:14 +0000</pubDate>
-<description>What is becoming clearer is how much the Arctic region’s security architecture could be enhanced with space technology.</description>
-</item>
-<item>
-<title>Space Force selects Texas as third site of deep-space radar network</title>
-<link>https://spacenews.com/space-force-selects-texas-as-third-site-of-deep-space-radar-network/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-selects-texas-as-third-site-of-deep-space-radar-network/</guid>
-<pubDate>Wed, 09 Sep 2026 18:52:32 +0000</pubDate>
-<description>Lake Kickapoo is the third and final site of the U.S.-UK-Australia deep-space surveillance network</description>
-</item>
-<item>
-<title>The missing piece of America’s supersonic comeback could also enable inland spaceports</title>
-<link>https://spacenews.com/the-missing-piece-of-americas-supersonic-comeback-could-also-enable-inland-spaceports/</link>
-<guid isPermaLink="true">https://spacenews.com/the-missing-piece-of-americas-supersonic-comeback-could-also-enable-inland-spaceports/</guid>
-<pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
-<description>Two recent FAA actions could reshape how the United States approaches high-speed aviation and spaceflight. In July, the FAA announced a rulemaking effort to allow supersonic overland flight, implementing Executive […]</description>
 </item>
 </channel>
 </rss>
