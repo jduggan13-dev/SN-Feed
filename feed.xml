@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 14 Sep 2026 08:12:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 09:11:00 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sophia Space and SLI agree on $300 million financing for 10-satellite edge-computing constellation</title>
+<link>https://spacenews.com/sophia-space-and-sli-agree-on-300-million-financing-for-10-satellite-edge-computing-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/sophia-space-and-sli-agree-on-300-million-financing-for-10-satellite-edge-computing-constellation/</guid>
+<pubDate>Mon, 14 Sep 2026 04:00:00 +0000</pubDate>
+<description>PARIS – Sophia Space and aerospace leasing specialist SLI announced a $300 million financing framework Sept. 14 for a 10-satellite edge-computing constellation. Under the agreement, SLI will purchase satellites ​from […]</description>
+</item>
+<item>
+<title>NASA offers details about, and defends, proposed space academy</title>
+<link>https://spacenews.com/nasa-offers-details-about-and-defends-proposed-space-academy/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-offers-details-about-and-defends-proposed-space-academy/</guid>
+<pubDate>Mon, 14 Sep 2026 03:43:23 +0000</pubDate>
+<description>NASA has disclosed new details about a proposal to create a national space academy as the agency’s administrator defends the concept against criticism.</description>
+</item>
 <item>
 <title>Summit declarations avoid controversy but fail to earn key endorsements</title>
 <link>https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/the-missing-piece-of-americas-supersonic-comeback-could-also-enable-inland-spaceports/</guid>
 <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
 <description>Two recent FAA actions could reshape how the United States approaches high-speed aviation and spaceflight. In July, the FAA announced a rulemaking effort to allow supersonic overland flight, implementing Executive […]</description>
-</item>
-<item>
-<title>Besxar tests semiconductor production on Falcon 9 boosters</title>
-<link>https://spacenews.com/besxar-tests-semiconductor-production-on-falcon-9-boosters/</link>
-<guid isPermaLink="true">https://spacenews.com/besxar-tests-semiconductor-production-on-falcon-9-boosters/</guid>
-<pubDate>Wed, 09 Sep 2026 14:41:41 +0000</pubDate>
-<description>A space manufacturing startup has successfully tested hardware on a SpaceX launch as a first step toward producing semiconductors in space.</description>
-</item>
-<item>
-<title>The emerging space economy brings opportunity and legal risks for business</title>
-<link>https://spacenews.com/the-emerging-space-economy-brings-opportunity-and-legal-risks-for-business/</link>
-<guid isPermaLink="true">https://spacenews.com/the-emerging-space-economy-brings-opportunity-and-legal-risks-for-business/</guid>
-<pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
-<description>Private companies now design, launch, own and operate space assets on a scale and pace that was unthinkable a decade ago. Even where companies are not directly involved in the […]</description>
 </item>
 </channel>
 </rss>
