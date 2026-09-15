@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 15 Sep 2026 19:08:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 20:09:52 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Viasat nears prime contract for shared D2D constellation</title>
+<link>https://spacenews.com/viasat-nears-prime-contract-for-shared-d2d-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/viasat-nears-prime-contract-for-shared-d2d-constellation/</guid>
+<pubDate>Tue, 15 Sep 2026 19:25:48 +0000</pubDate>
+<description>TAMPA, Fla. — Viasat expects to announce a contract within weeks to build the first satellites for Equatys, the joint venture announced last year with Space42 to pool Mobile Satellite Services spectrum for global direct-to-device services.</description>
+</item>
 <item>
 <title>Air Force and Space Force push for scale as supply-chain constraints persist</title>
 <link>https://spacenews.com/air-force-and-space-force-push-for-scale-as-supply-chain-constraints-persist/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</guid>
 <pubDate>Sun, 13 Sep 2026 07:16:08 +0000</pubDate>
 <description>PARIS — Three declarations signed by dozens of countries at the International Space Summit largely avoided controversial positions but still failed to win support from some of the biggest space powers.</description>
-</item>
-<item>
-<title>NOAA contract signals sharp increase in commercial weather data purchases</title>
-<link>https://spacenews.com/noaa-contract-signals-sharp-increase-in-commercial-weather-data-purchases/</link>
-<guid isPermaLink="true">https://spacenews.com/noaa-contract-signals-sharp-increase-in-commercial-weather-data-purchases/</guid>
-<pubDate>Sat, 12 Sep 2026 21:08:26 +0000</pubDate>
-<description>PARIS – The National Oceanic and Atmospheric Administration announced significant expansion of its commercial satellite data program with the Sept. 10 award of an indefinite delivery, indefinite quantity contract to 14 companies.</description>
 </item>
 </channel>
 </rss>
