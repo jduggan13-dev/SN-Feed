@@ -4,30 +4,163 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 15 Sep 2026 16:43:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 17:03:52 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>More satellites watch the battlefield, putting a premium on making sense of the data</title>
+<link>https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/</link>
+<guid isPermaLink="true">https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/</guid>
+<pubDate>Tue, 15 Sep 2026 15:49:31 +0000</pubDate>
+<description>Space Force programs are tapping satellite data and AI to get intelligence to military commanders faster</description>
+</item>
+<item>
+<title>Space Force chief says Iran war shows service’s expanding combat role</title>
+<link>https://spacenews.com/space-force-chief-says-iran-war-shows-services-expanding-combat-role/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-chief-says-iran-war-shows-services-expanding-combat-role/</guid>
+<pubDate>Tue, 15 Sep 2026 15:10:11 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — The U.S. Space Force played a direct combat role in the war with Iran, with guardians conducting electromagnetic warfare against an adversary in addition to providing satellite communications, navigation and missile warning to U.S. forces, the service’s top general said Sept 15.</description>
+</item>
+<item>
+<title>Vega launches two Earth science satellites</title>
+<link>https://spacenews.com/vega-launches-two-earth-science-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/vega-launches-two-earth-science-satellites/</guid>
+<pubDate>Tue, 15 Sep 2026 11:39:14 +0000</pubDate>
+<description>PARIS — A Vega C rocket successfully launched a pair of Earth observation satellites for the European Space Agency and the European Commission on Sept. 14.</description>
+</item>
+<item>
+<title>Critical design review cleared for 2027 in-orbit cubesat inspection demo</title>
+<link>https://spacenews.com/critical-design-review-cleared-for-2027-in-orbit-cubesat-inspection-demo/</link>
+<guid isPermaLink="true">https://spacenews.com/critical-design-review-cleared-for-2027-in-orbit-cubesat-inspection-demo/</guid>
+<pubDate>Tue, 15 Sep 2026 10:05:00 +0000</pubDate>
+<description>TAMPA, Fla. — British startup Shield Space has completed the critical design review for Broadsword, a 2027 mission aiming to demonstrate satellite-inspection capabilities that defense customers could have in orbit within nine months of contract signing.</description>
+</item>
+<item>
+<title>Companies defend Bromo joint venture</title>
+<link>https://spacenews.com/companies-defend-bromo-joint-venture/</link>
+<guid isPermaLink="true">https://spacenews.com/companies-defend-bromo-joint-venture/</guid>
+<pubDate>Tue, 15 Sep 2026 08:52:44 +0000</pubDate>
+<description>PARIS — Executives with the three European companies seeking to combine their space businesses say the merger is still needed even as European government funding increases.</description>
+</item>
+<item>
+<title>SES and Elveo Mobile plan European D2D satellite factory</title>
+<link>https://spacenews.com/ses-and-elveo-mobile-plan-european-d2d-satellite-factory/</link>
+<guid isPermaLink="true">https://spacenews.com/ses-and-elveo-mobile-plan-european-d2d-satellite-factory/</guid>
+<pubDate>Tue, 15 Sep 2026 07:30:00 +0000</pubDate>
+<description>TAMPA, Fla. — SES outlined plans Sept. 15 to establish direct-to-device satellite production capabilities in Europe with Elveo Mobile, aiming to build out a regional supply chain to expand the D2D operator’s low Earth orbit (LEO) constellation.</description>
+</item>
+<item>
+<title>HawkEye 360 addresses sovereign demand with European entity and partners</title>
+<link>https://spacenews.com/hawkeye-360-addresses-sovereign-demand-with-european-entity-and-partners/</link>
+<guid isPermaLink="true">https://spacenews.com/hawkeye-360-addresses-sovereign-demand-with-european-entity-and-partners/</guid>
+<pubDate>Tue, 15 Sep 2026 06:07:17 +0000</pubDate>
+<description>PARIS – HawkEye 360 is addressing growing demand for sovereign space capabilities by establishing a European subsidiary, working with Leonardo to provide radio-frequency sensing to European customers and collaborating with ERA, part of the Czech Republic’s Omnipol Group, the company announced Sept. 15.</description>
+</item>
+<item>
+<title>Iceye’s global presence expands to address sovereign demand</title>
+<link>https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</link>
+<guid isPermaLink="true">https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […]</description>
+</item>
+<item>
+<title>Sept. 21: What Comes Next for On-Orbit Servicing?</title>
+<link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
+<guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
+<pubDate>Mon, 14 Sep 2026 17:09:21 +0000</pubDate>
+<description>Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem</description>
+</item>
+<item>
+<title>Space’s growing billion-dollar club</title>
+<link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
+<guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
+<pubDate>Mon, 14 Sep 2026 15:35:10 +0000</pubDate>
+<description>Download our new mapping of every private space company valued at $1 billion or more.</description>
+</item>
+<item>
+<title>U.S. has deployed space-control weapons in orbit, Air Force secretary says</title>
+<link>https://spacenews.com/u-s-has-deployed-space-control-weapons-in-orbit-air-force-secretary-says/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-has-deployed-space-control-weapons-in-orbit-air-force-secretary-says/</guid>
+<pubDate>Mon, 14 Sep 2026 15:10:59 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — U.S. Air Force Secretary Troy Meink on Monday revealed that the United States has deployed space-control weapons in orbit, while also disclosing new milestones for military satellite programs tied to missile defense and long-range targeting.</description>
+</item>
+<item>
+<title>U.S. allies commit $302 million to complete funding for Space Force communications satellite</title>
+<link>https://spacenews.com/u-s-allies-commit-302-million-to-complete-funding-for-space-force-communications-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-allies-commit-302-million-to-complete-funding-for-space-force-communications-satellite/</guid>
+<pubDate>Mon, 14 Sep 2026 13:09:15 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — Ten U.S. allies have agreed to provide $302 million to cover launch, ground-system upgrades and operations for the U.S. Space Force’s next Wideband Global SATCOM satellite, completing a funding plan for the Boeing-built military communications spacecraft.</description>
+</item>
+<item>
+<title>Open Cosmos reaches unicorn status with $348 million funding round</title>
+<link>https://spacenews.com/open-cosmos-reaches-unicorn-status-with-348-million-funding-round/</link>
+<guid isPermaLink="true">https://spacenews.com/open-cosmos-reaches-unicorn-status-with-348-million-funding-round/</guid>
+<pubDate>Mon, 14 Sep 2026 13:01:00 +0000</pubDate>
+<description>TAMPA, Fla. — Open Cosmos has raised 300 million euros ($348 million) to expand production facilities and upgrade its space-based intelligence and connectivity services, the British small satellite specialist announced Sept. 14.</description>
+</item>
+<item>
+<title>You cannot task a changing planet</title>
+<link>https://spacenews.com/you-cannot-task-a-changing-planet/</link>
+<guid isPermaLink="true">https://spacenews.com/you-cannot-task-a-changing-planet/</guid>
+<pubDate>Mon, 14 Sep 2026 13:00:00 +0000</pubDate>
+<description>Every satellite tasking request begins with an assumption: Someone already knows where to look.</description>
+</item>
+<item>
+<title>ColliMate demonstrates autonomous satcom orchestration software in orbit</title>
+<link>https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</guid>
+<pubDate>Mon, 14 Sep 2026 12:05:00 +0000</pubDate>
+<description>TAMPA, Fla. — ColliMate Space has demonstrated its Nexus software for autonomously managing satellite downlinks onboard a spacecraft for the first time, the Silicon Valley startup announced Sept. 14</description>
+</item>
+<item>
+<title>HEO demonstrates close inspection through rendezvous and proximity operations</title>
+<link>https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</link>
+<guid isPermaLink="true">https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</guid>
+<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+<description>PARIS – HEO, the Australian company non-Earth imagery company, announced Sept. 14 how it repurposed an Earth-observation satellite to conduct close-range inspection of a Chinese Long March 2C rocket.</description>
+</item>
+<item>
+<title>Satellogic to expand constellation with October launch</title>
+<link>https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</guid>
+<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+<description>PARIS – Satellogic announced plans Sept. 14 to launch one NewSat Mark V and two NewSat Mark VI Earth-observation satellite in October.</description>
+</item>
+<item>
+<title>Satellogic to launch six more Earth-observation satellites for Office of Naval Research Slingshot III program</title>
+<link>https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</link>
+<guid isPermaLink="true">https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</guid>
+<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+<description>PARIS – Satellogic announced an agreement Sept. 14 with Innovative Defense Technologies to launch six additional Earth-observation satellites for the U.S. Office of Naval Research Slingshot III program.</description>
+</item>
+<item>
+<title>Exolaunch secures additional rideshare launches</title>
+<link>https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</guid>
+<pubDate>Mon, 14 Sep 2026 09:57:22 +0000</pubDate>
+<description>PARIS — Launch services provider Exolaunch said Sept. 14 it secured capacity for rideshare payloads on two launches, including a flight on a Japanese rocket.</description>
+</item>
 <item>
 <title>U.S. Air Force awards Antares $161 million to advance nuclear reactor for space</title>
 <link>https://spacenews.com/u-s-air-force-awards-antares-161-million-to-advance-nuclear-reactor-for-space/</link>
 <guid isPermaLink="true">https://spacenews.com/u-s-air-force-awards-antares-161-million-to-advance-nuclear-reactor-for-space/</guid>
 <pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
-<description>Space Force acquisition office is funding reactor demonstration and spacecraft integration work</description>
+<description>WASHINGTON — The nuclear microreactor startup Antares won a $161 million Department of the Air Force contract to develop and demonstrate a nuclear reactor for spacecraft.</description>
 </item>
 <item>
 <title>Pentagon seeks AI to turn space, missile data into decisions within seconds</title>
 <link>https://spacenews.com/pentagon-seeks-ai-to-turn-space-missile-data-into-decisions-within-seconds/</link>
 <guid isPermaLink="true">https://spacenews.com/pentagon-seeks-ai-to-turn-space-missile-data-into-decisions-within-seconds/</guid>
 <pubDate>Mon, 14 Sep 2026 08:15:00 +0000</pubDate>
-<description>DIU is soliciting proposals on software that can fuse sensor and intelligence feeds for human and automated command systems</description>
+<description>WASHINGTON — The Pentagon is seeking an artificial intelligence system capable of turning a flood of space, missile and intelligence data into operational threat assessments within seconds, a demanding application that would move commercial AI closer to the military decision-making loop.</description>
 </item>
 <item>
 <title>Europe uses space summit to advocate for greater autonomy</title>
 <link>https://spacenews.com/europe-uses-space-summit-to-advocate-for-greater-autonomy/</link>
 <guid isPermaLink="true">https://spacenews.com/europe-uses-space-summit-to-advocate-for-greater-autonomy/</guid>
 <pubDate>Mon, 14 Sep 2026 07:40:01 +0000</pubDate>
-<description>European officials used an international space conference to bolster the continent’s own space capabilities as they push for greater autonomy.</description>
+<description>PARIS — European officials used an international space conference to bolster the continent’s own space capabilities as they push for greater autonomy.</description>
 </item>
 <item>
 <title>Startups seek to demonstrate 3D printing in vacuum of space</title>
@@ -41,14 +174,14 @@
 <link>https://spacenews.com/apex-to-set-up-us-d2d-satellite-manufacturing-facility-for-elveo-mobile/</link>
 <guid isPermaLink="true">https://spacenews.com/apex-to-set-up-us-d2d-satellite-manufacturing-facility-for-elveo-mobile/</guid>
 <pubDate>Mon, 14 Sep 2026 06:10:00 +0000</pubDate>
-<description>Apex is helping establish a dedicated factory in the United States to churn out direct-to-device satellites for Elveo Mobile, the D2D operator recently formed by the merger of Lynk Global and Omnispace.</description>
+<description>TAMPA, Fla. — Apex is helping establish a dedicated factory in the United States to churn out direct-to-device satellites for Elveo Mobile, the D2D operator recently formed by the merger of Lynk Global and Omnispace.</description>
 </item>
 <item>
 <title>BlackSky shares first-light imagery from fifth Gen3 satellite</title>
 <link>https://spacenews.com/blacksky-shares-first-light-imagery-from-fifth-gen3-satellite/</link>
 <guid isPermaLink="true">https://spacenews.com/blacksky-shares-first-light-imagery-from-fifth-gen3-satellite/</guid>
 <pubDate>Mon, 14 Sep 2026 06:00:00 +0000</pubDate>
-<description>PARIS — BlackSky Technology announced Sept. 14 that it collected and processed first light imagery from its fifth Gen3 satellite in less than 20 hours after liftoff on a Rocket […]</description>
+<description>PARIS — BlackSky Technology announced Sept. 14 that it collected and processed first light imagery from its fifth Gen3 satellite in less than 20 hours after liftoff on a Rocket Lab Electron rocket.</description>
 </item>
 <item>
 <title>Sophia Space and SLI agree on $300 million financing for 10-satellite edge-computing constellation</title>
@@ -62,161 +195,28 @@
 <link>https://spacenews.com/nasa-offers-details-about-and-defends-proposed-space-academy/</link>
 <guid isPermaLink="true">https://spacenews.com/nasa-offers-details-about-and-defends-proposed-space-academy/</guid>
 <pubDate>Mon, 14 Sep 2026 03:43:23 +0000</pubDate>
-<description>NASA has disclosed new details about a proposal to create a national space academy as the agency’s administrator defends the concept against criticism.</description>
+<description>PARIS — NASA has disclosed new details about a proposal to create a national space academy as the agency’s administrator defends the concept against criticism.</description>
 </item>
 <item>
 <title>Summit declarations avoid controversy but fail to earn key endorsements</title>
 <link>https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</link>
 <guid isPermaLink="true">https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</guid>
 <pubDate>Sun, 13 Sep 2026 07:16:08 +0000</pubDate>
-<description>Three declarations signed by dozens of countries at the International Space Summit largely avoided controversial positions but still failed to win support from some of the biggest space powers.</description>
+<description>PARIS — Three declarations signed by dozens of countries at the International Space Summit largely avoided controversial positions but still failed to win support from some of the biggest space powers.</description>
 </item>
 <item>
 <title>NOAA contract signals sharp increase in commercial weather data purchases</title>
 <link>https://spacenews.com/noaa-contract-signals-sharp-increase-in-commercial-weather-data-purchases/</link>
 <guid isPermaLink="true">https://spacenews.com/noaa-contract-signals-sharp-increase-in-commercial-weather-data-purchases/</guid>
 <pubDate>Sat, 12 Sep 2026 21:08:26 +0000</pubDate>
-<description>PARIS – The National Oceanic and Atmospheric Administration announced significant expansion of its commercial satellite data program with the Sept. 10 award of an indefinite delivery, indefinite quantity contract to […]</description>
+<description>PARIS – The National Oceanic and Atmospheric Administration announced significant expansion of its commercial satellite data program with the Sept. 10 award of an indefinite delivery, indefinite quantity contract to 14 companies.</description>
 </item>
 <item>
 <title>Saudi Arabia’s stc Group orders small GEO satellite in another Astranis Block 3 reshuffle</title>
 <link>https://spacenews.com/saudi-arabias-stc-group-orders-small-geo-satellite-in-another-astranis-block-3-reshuffle/</link>
 <guid isPermaLink="true">https://spacenews.com/saudi-arabias-stc-group-orders-small-geo-satellite-in-another-astranis-block-3-reshuffle/</guid>
 <pubDate>Sat, 12 Sep 2026 20:41:16 +0000</pubDate>
-<description>Saudi telecoms giant stc Group has replaced one of two small GEO satellites Mexican telco Apco Networks had booked as part of Astranis’ delayed Block 3 mission.</description>
-</item>
-<item>
-<title>Rocket Lab protests NASA award of Mars telecom orbiter contract</title>
-<link>https://spacenews.com/rocket-lab-protests-nasa-award-of-mars-telecom-orbiter-contract/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-protests-nasa-award-of-mars-telecom-orbiter-contract/</guid>
-<pubDate>Sat, 12 Sep 2026 08:18:55 +0000</pubDate>
-<description>Rocket Lab announced Sept. 11 it is filing a protest of NASA’s decision to award a $700 million contract for a Mars communications orbiter to Blue Origin.</description>
-</item>
-<item>
-<title>Catalyx Space gearing up for heat shield deployment test</title>
-<link>https://spacenews.com/catalyx-space-gearing-up-for-heat-shield-deployment-test/</link>
-<guid isPermaLink="true">https://spacenews.com/catalyx-space-gearing-up-for-heat-shield-deployment-test/</guid>
-<pubDate>Fri, 11 Sep 2026 18:14:37 +0000</pubDate>
-<description>Catalyx Space is preparing to test a newly developed deployable heat shield for its planned ReX reentry vehicle on a suborbital flight from India in mid-October.</description>
-</item>
-<item>
-<title>Agentic AI in space warfare is not risk-free: Military advantage belongs to those who control it</title>
-<link>https://spacenews.com/agentic-ai-in-space-warfare-is-not-risk-free-military-advantage-belongs-to-those-who-control-it/</link>
-<guid isPermaLink="true">https://spacenews.com/agentic-ai-in-space-warfare-is-not-risk-free-military-advantage-belongs-to-those-who-control-it/</guid>
-<pubDate>Fri, 11 Sep 2026 13:00:00 +0000</pubDate>
-<description>Agentic AI in space operations is already defining the next era of military advantage, enabling warfighters to sense, decide and act at machine speed across global constellations. China’s Siwei Gaojing-2 […]</description>
-</item>
-<item>
-<title>China details satellite network buildout in new telecom five-year plan</title>
-<link>https://spacenews.com/china-details-satellite-network-buildout-in-new-telecom-five-year-plan/</link>
-<guid isPermaLink="true">https://spacenews.com/china-details-satellite-network-buildout-in-new-telecom-five-year-plan/</guid>
-<pubDate>Fri, 11 Sep 2026 12:44:34 +0000</pubDate>
-<description>THE HAGUE, Netherlands — China’s telecommunications regulator has issued a roadmap to the end of the decade, building on a national five-year plan laid out in March. The plan calls […]</description>
-</item>
-<item>
-<title>Protecting satellites from quantum attack</title>
-<link>https://spacenews.com/protecting-satellites-from-quantum-attack/</link>
-<guid isPermaLink="true">https://spacenews.com/protecting-satellites-from-quantum-attack/</guid>
-<pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
-<description>Cryptographic tools relied on for decades to protect sensitive communications and critical infrastructure risk becoming easy targets for sufficiently powerful quantum computers. And although those machines remain on the horizon, […]</description>
-</item>
-<item>
-<title>LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership</title>
-<link>https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</link>
-<guid isPermaLink="true">https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</guid>
-<pubDate>Fri, 11 Sep 2026 05:32:49 +0000</pubDate>
-<description>Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite […]</description>
-</item>
-<item>
-<title>SpaceX confirms plans to launch Starlink satellites on next Starship mission</title>
-<link>https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/</guid>
-<pubDate>Fri, 11 Sep 2026 03:41:35 +0000</pubDate>
-<description>A SpaceX executive confirmed the next flight of the company’s Starship rocket will carry its first orbital payloads, setting the stage for work on direct-to-device and orbital data center systems.</description>
-</item>
-<item>
-<title>Eutelsat orders extra OneWeb satellites and kicks off IRIS² LEO contracts</title>
-<link>https://spacenews.com/eutelsat-orders-extra-oneweb-satellites-and-kicks-off-iris%c2%b2-leo-contracts/</link>
-<guid isPermaLink="true">https://spacenews.com/eutelsat-orders-extra-oneweb-satellites-and-kicks-off-iris%c2%b2-leo-contracts/</guid>
-<pubDate>Thu, 10 Sep 2026 22:38:45 +0000</pubDate>
-<description>Eutelsat has ordered another 229 OneWeb satellites to extend its low Earth orbit broadband constellation through 2034, alongside awarding contracts for the 330 LEO spacecraft in Europe’s proposed IRIS² network.</description>
-</item>
-<item>
-<title>Amazon Leo planning to begin initial services by end of the year</title>
-<link>https://spacenews.com/amazon-leo-planning-to-begin-initial-services-by-end-of-the-year/</link>
-<guid isPermaLink="true">https://spacenews.com/amazon-leo-planning-to-begin-initial-services-by-end-of-the-year/</guid>
-<pubDate>Thu, 10 Sep 2026 21:49:31 +0000</pubDate>
-<description>Amazon Leo still plans to begin limited commercial service by the end of this year despite launch vehicle issues that have slowed the constellation’s deployment.</description>
-</item>
-<item>
-<title>York Space revealed as prime contractor for Tomorrow.io weather constellation</title>
-<link>https://spacenews.com/york-space-revealed-as-prime-contractor-for-tomorrow-io-weather-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/york-space-revealed-as-prime-contractor-for-tomorrow-io-weather-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 20:25:20 +0000</pubDate>
-<description>Denver-based York will manufacture spacecraft and integrate five-instrument weather payloads</description>
-</item>
-<item>
-<title>Space Force turns to simulation technology to prepare for warfare in orbit</title>
-<link>https://spacenews.com/space-force-turns-to-simulation-technology-to-prepare-for-warfare-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-turns-to-simulation-technology-to-prepare-for-warfare-in-orbit/</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-<description>Auria won two contracts for satellite communications and space warfare training systems</description>
-</item>
-<item>
-<title>Tomorrow.io unveils instrument suite for DeepSky weather constellation</title>
-<link>https://spacenews.com/tomorrow-io-unveils-instrument-suite-for-deepsky-weather-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/tomorrow-io-unveils-instrument-suite-for-deepsky-weather-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-<description>SAN FRANCISCO – Tomorrow.io’s DeepSky constellation will gather global weather data with microwave sounders, global navigation satellite systems (GNSS) radio occultation receivers, GNSS reflectometers, precipitation radars and optical and infrared […]</description>
-</item>
-<item>
-<title>Why is NASA in the air show business?</title>
-<link>https://spacenews.com/why-is-nasa-in-the-air-show-business/</link>
-<guid isPermaLink="true">https://spacenews.com/why-is-nasa-in-the-air-show-business/</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-<description>There is no greater spectacle in spaceflight than witnessing a launch in person, particularly of a large rocket. The rocket lifts off in eerie silence for an observer several kilometers […]</description>
-</item>
-<item>
-<title>The Exploration Company wins ESA contract for Nyx mission to ISS</title>
-<link>https://spacenews.com/the-exploration-company-wins-esa-contract-for-nyx-mission-to-iss/</link>
-<guid isPermaLink="true">https://spacenews.com/the-exploration-company-wins-esa-contract-for-nyx-mission-to-iss/</guid>
-<pubDate>Thu, 10 Sep 2026 13:45:00 +0000</pubDate>
-<description>The Exploration Company has won a contract from ESA worth up to 760 million euros to fly a demonstration mission of its Nyx spacecraft to the ISS in 2028.</description>
-</item>
-<item>
-<title>China alters Chang’e-8 lunar south pole mission amid lunar program reorganization</title>
-<link>https://spacenews.com/china-alters-change-8-lunar-south-pole-mission-amid-lunar-program-reorganization/</link>
-<guid isPermaLink="true">https://spacenews.com/china-alters-change-8-lunar-south-pole-mission-amid-lunar-program-reorganization/</guid>
-<pubDate>Thu, 10 Sep 2026 13:34:41 +0000</pubDate>
-<description>THE HAGUE, Netherlands — China’s human spaceflight agency appears to be reconfiguring the country’s robotic moon landing program after assuming overall authority for lunar missions. Chang’e-8 had been slated for […]</description>
-</item>
-<item>
-<title>Navigation startup TrustPoint orders 40 satellites from EnduroSat</title>
-<link>https://spacenews.com/navigation-startup-trustpoint-orders-40-satellites-from-endurosat/</link>
-<guid isPermaLink="true">https://spacenews.com/navigation-startup-trustpoint-orders-40-satellites-from-endurosat/</guid>
-<pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
-<description>EnduroSat US will deliver spacecraft in three batches as TrustPoint expands its low-Earth-orbit navigation network</description>
-</item>
-<item>
-<title>The space economy can’t scale on bespoke power systems</title>
-<link>https://spacenews.com/the-space-economy-cant-scale-on-bespoke-power-systems/</link>
-<guid isPermaLink="true">https://spacenews.com/the-space-economy-cant-scale-on-bespoke-power-systems/</guid>
-<pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
-<description>There’s a lot of discussion right now about launch costs dropping and access to space expanding. That’s true. But launch costs and access to space are not the constraints that […]</description>
-</item>
-<item>
-<title>NewOrbit claims launch slot for commercial VLEO mission</title>
-<link>https://spacenews.com/neworbit-claims-launch-slot-for-commercial-vleo-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/neworbit-claims-launch-slot-for-commercial-vleo-mission/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<description>SAN FRANCISCO – UK startup NewOrbit announced plans Sept. 10 to send NEO-1, a rideshare mission, to very low Earth orbit (VLEO) in the third quarter of 2028. NewOrbit booked […]</description>
-</item>
-<item>
-<title>Consortium announces plans for billion-dollar AI-enabled satellite imaging constellation</title>
-<link>https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 07:00:07 +0000</pubDate>
-<description>A group of companies announced plans Sept. 9 for a constellation of AI-enabled imaging satellites projected to cost $1 billion.</description>
+<description>TAMPA, Fla. — Saudi telecoms giant stc Group has become Astranis’ second broadband satellite customer from the Middle East, alongside Oman-based industrial conglomerate MB Group. The Saudi company replaced one of two satellites Mexican telco Apco Networks had booked as part of the manufacturer’s delayed Block 3 mission, according to an Astranis spokesperson. MB Group earlier took a spot on Block 3 that had been held by Orbits Corp of the Philippines.</description>
 </item>
 </channel>
 </rss>
