@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 15 Sep 2026 17:08:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 18:10:08 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Air Force and Space Force push for scale as supply-chain constraints persist</title>
+<link>https://spacenews.com/air-force-and-space-force-push-for-scale-as-supply-chain-constraints-persist/</link>
+<guid isPermaLink="true">https://spacenews.com/air-force-and-space-force-push-for-scale-as-supply-chain-constraints-persist/</guid>
+<pubDate>Tue, 15 Sep 2026 17:36:48 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — “Scaling” has become a watchword for Air Force and Space Force leaders as they push to field more weapons and space capabilities faster and in greater numbers.</description>
+</item>
 <item>
 <title>More satellites watch the battlefield, putting a premium on making sense of the data</title>
 <link>https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/noaa-contract-signals-sharp-increase-in-commercial-weather-data-purchases/</guid>
 <pubDate>Sat, 12 Sep 2026 21:08:26 +0000</pubDate>
 <description>PARIS – The National Oceanic and Atmospheric Administration announced significant expansion of its commercial satellite data program with the Sept. 10 award of an indefinite delivery, indefinite quantity contract to 14 companies.</description>
-</item>
-<item>
-<title>Saudi Arabia’s stc Group orders small GEO satellite in another Astranis Block 3 reshuffle</title>
-<link>https://spacenews.com/saudi-arabias-stc-group-orders-small-geo-satellite-in-another-astranis-block-3-reshuffle/</link>
-<guid isPermaLink="true">https://spacenews.com/saudi-arabias-stc-group-orders-small-geo-satellite-in-another-astranis-block-3-reshuffle/</guid>
-<pubDate>Sat, 12 Sep 2026 20:41:16 +0000</pubDate>
-<description>TAMPA, Fla. — Saudi telecoms giant stc Group has become Astranis’ second broadband satellite customer from the Middle East, alongside Oman-based industrial conglomerate MB Group. The Saudi company replaced one of two satellites Mexican telco Apco Networks had booked as part of the manufacturer’s delayed Block 3 mission, according to an Astranis spokesperson. MB Group earlier took a spot on Block 3 that had been held by Orbits Corp of the Philippines.</description>
 </item>
 </channel>
 </rss>
