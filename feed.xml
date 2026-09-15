@@ -4,10 +4,87 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 15 Sep 2026 01:09:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 02:10:54 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sept. 21: What Comes Next for On-Orbit Servicing?</title>
+<link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
+<guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
+<pubDate>Mon, 14 Sep 2026 17:09:21 +0000</pubDate>
+<description>Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem</description>
+</item>
+<item>
+<title>Space’s growing billion-dollar club</title>
+<link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
+<guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
+<pubDate>Mon, 14 Sep 2026 15:35:10 +0000</pubDate>
+<description>Download our new mapping of every private space company valued at $1 billion or more.</description>
+</item>
+<item>
+<title>U.S. has deployed space-control weapons in orbit, Air Force secretary says</title>
+<link>https://spacenews.com/u-s-has-deployed-space-control-weapons-in-orbit-air-force-secretary-says/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-has-deployed-space-control-weapons-in-orbit-air-force-secretary-says/</guid>
+<pubDate>Mon, 14 Sep 2026 15:10:59 +0000</pubDate>
+<description>Troy Meink also says Space Force will begin launching air-target tracking satellites this month and has reached flight-ready hardware on a Golden Dome interceptor effort</description>
+</item>
+<item>
+<title>U.S. allies commit $302 million to complete funding for Space Force communications satellite</title>
+<link>https://spacenews.com/u-s-allies-commit-302-million-to-complete-funding-for-space-force-communications-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-allies-commit-302-million-to-complete-funding-for-space-force-communications-satellite/</guid>
+<pubDate>Mon, 14 Sep 2026 13:09:15 +0000</pubDate>
+<description>Ten partner nations will cover launch, ground-system and operations costs for WGS-12, extending a longstanding cost-sharing arrangement</description>
+</item>
+<item>
+<title>Open Cosmos reaches unicorn status with $348 million funding round</title>
+<link>https://spacenews.com/open-cosmos-reaches-unicorn-status-with-348-million-funding-round/</link>
+<guid isPermaLink="true">https://spacenews.com/open-cosmos-reaches-unicorn-status-with-348-million-funding-round/</guid>
+<pubDate>Mon, 14 Sep 2026 13:01:00 +0000</pubDate>
+<description>Open Cosmos has raised $348 million to expand production facilities and upgrade its space-based intelligence and connectivity services, the British small satellite specialist announced Sept. 14.</description>
+</item>
+<item>
+<title>You cannot task a changing planet</title>
+<link>https://spacenews.com/you-cannot-task-a-changing-planet/</link>
+<guid isPermaLink="true">https://spacenews.com/you-cannot-task-a-changing-planet/</guid>
+<pubDate>Mon, 14 Sep 2026 13:00:00 +0000</pubDate>
+<description>Every satellite tasking request begins with an assumption: Someone already knows where to look. That model works when an intelligence report has identified a building, a ship has entered a […]</description>
+</item>
+<item>
+<title>ColliMate demonstrates autonomous satcom orchestration software in orbit</title>
+<link>https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</guid>
+<pubDate>Mon, 14 Sep 2026 12:05:00 +0000</pubDate>
+<description>ColliMate Space has demonstrated its Nexus software for autonomously managing satellite downlinks onboard a spacecraft for the first time, the Silicon Valley startup announced Sept. 14</description>
+</item>
+<item>
+<title>HEO demonstrates close inspection through rendezvous and proximity operations</title>
+<link>https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</link>
+<guid isPermaLink="true">https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</guid>
+<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+<description>PARIS – HEO, the Australian company non-Earth imagery company, announced Sept. 14 how it repurposed an Earth-observation satellite to conduct close-range inspection of a Chinese Long March 2C rocket. HEO […]</description>
+</item>
+<item>
+<title>Satellogic to expand constellation with October launch</title>
+<link>https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</guid>
+<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+<description>PARIS – Satellogic announced plans Sept. 14 to launch one NewSat Mark V and two NewSat Mark VI Earth-observation satellite in October. “From now on, we’re launching satellites for our […]</description>
+</item>
+<item>
+<title>Satellogic to launch six more Earth-observation satellites for Office of Naval Research Slingshot III program</title>
+<link>https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</link>
+<guid isPermaLink="true">https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</guid>
+<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+<description>PARIS – Satellogic announced an agreement Sept. 14 with Innovative Defense Technologies to launch six additional Earth-observation satellites for the U.S. Office of Naval Research Slingshot III program. With artificial-intelligence […]</description>
+</item>
+<item>
+<title>Exolaunch secures additional rideshare launches</title>
+<link>https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/exolaunch-secures-additional-rideshare-launches/</guid>
+<pubDate>Mon, 14 Sep 2026 09:57:22 +0000</pubDate>
+<description>Launch services provider Exolaunch said Sept. 14 it secured capacity for rideshare payloads on two launches, including a flight on a Japanese rocket.</description>
+</item>
 <item>
 <title>U.S. Air Force awards Antares $161 million to advance nuclear reactor for space</title>
 <link>https://spacenews.com/u-s-air-force-awards-antares-161-million-to-advance-nuclear-reactor-for-space/</link>
@@ -140,83 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/eutelsat-orders-extra-oneweb-satellites-and-kicks-off-iris%c2%b2-leo-contracts/</guid>
 <pubDate>Thu, 10 Sep 2026 22:38:45 +0000</pubDate>
 <description>Eutelsat has ordered another 229 OneWeb satellites to extend its low Earth orbit broadband constellation through 2034, alongside awarding contracts for the 330 LEO spacecraft in Europe’s proposed IRIS² network.</description>
-</item>
-<item>
-<title>Amazon Leo planning to begin initial services by end of the year</title>
-<link>https://spacenews.com/amazon-leo-planning-to-begin-initial-services-by-end-of-the-year/</link>
-<guid isPermaLink="true">https://spacenews.com/amazon-leo-planning-to-begin-initial-services-by-end-of-the-year/</guid>
-<pubDate>Thu, 10 Sep 2026 21:49:31 +0000</pubDate>
-<description>Amazon Leo still plans to begin limited commercial service by the end of this year despite launch vehicle issues that have slowed the constellation’s deployment.</description>
-</item>
-<item>
-<title>York Space revealed as prime contractor for Tomorrow.io weather constellation</title>
-<link>https://spacenews.com/york-space-revealed-as-prime-contractor-for-tomorrow-io-weather-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/york-space-revealed-as-prime-contractor-for-tomorrow-io-weather-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 20:25:20 +0000</pubDate>
-<description>Denver-based York will manufacture spacecraft and integrate five-instrument weather payloads</description>
-</item>
-<item>
-<title>Space Force turns to simulation technology to prepare for warfare in orbit</title>
-<link>https://spacenews.com/space-force-turns-to-simulation-technology-to-prepare-for-warfare-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-turns-to-simulation-technology-to-prepare-for-warfare-in-orbit/</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-<description>Auria won two contracts for satellite communications and space warfare training systems</description>
-</item>
-<item>
-<title>Tomorrow.io unveils instrument suite for DeepSky weather constellation</title>
-<link>https://spacenews.com/tomorrow-io-unveils-instrument-suite-for-deepsky-weather-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/tomorrow-io-unveils-instrument-suite-for-deepsky-weather-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-<description>SAN FRANCISCO – Tomorrow.io’s DeepSky constellation will gather global weather data with microwave sounders, global navigation satellite systems (GNSS) radio occultation receivers, GNSS reflectometers, precipitation radars and optical and infrared […]</description>
-</item>
-<item>
-<title>Why is NASA in the air show business?</title>
-<link>https://spacenews.com/why-is-nasa-in-the-air-show-business/</link>
-<guid isPermaLink="true">https://spacenews.com/why-is-nasa-in-the-air-show-business/</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-<description>There is no greater spectacle in spaceflight than witnessing a launch in person, particularly of a large rocket. The rocket lifts off in eerie silence for an observer several kilometers […]</description>
-</item>
-<item>
-<title>The Exploration Company wins ESA contract for Nyx mission to ISS</title>
-<link>https://spacenews.com/the-exploration-company-wins-esa-contract-for-nyx-mission-to-iss/</link>
-<guid isPermaLink="true">https://spacenews.com/the-exploration-company-wins-esa-contract-for-nyx-mission-to-iss/</guid>
-<pubDate>Thu, 10 Sep 2026 13:45:00 +0000</pubDate>
-<description>The Exploration Company has won a contract from ESA worth up to 760 million euros to fly a demonstration mission of its Nyx spacecraft to the ISS in 2028.</description>
-</item>
-<item>
-<title>China alters Chang’e-8 lunar south pole mission amid lunar program reorganization</title>
-<link>https://spacenews.com/china-alters-change-8-lunar-south-pole-mission-amid-lunar-program-reorganization/</link>
-<guid isPermaLink="true">https://spacenews.com/china-alters-change-8-lunar-south-pole-mission-amid-lunar-program-reorganization/</guid>
-<pubDate>Thu, 10 Sep 2026 13:34:41 +0000</pubDate>
-<description>THE HAGUE, Netherlands — China’s human spaceflight agency appears to be reconfiguring the country’s robotic moon landing program after assuming overall authority for lunar missions. Chang’e-8 had been slated for […]</description>
-</item>
-<item>
-<title>Navigation startup TrustPoint orders 40 satellites from EnduroSat</title>
-<link>https://spacenews.com/navigation-startup-trustpoint-orders-40-satellites-from-endurosat/</link>
-<guid isPermaLink="true">https://spacenews.com/navigation-startup-trustpoint-orders-40-satellites-from-endurosat/</guid>
-<pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
-<description>EnduroSat US will deliver spacecraft in three batches as TrustPoint expands its low-Earth-orbit navigation network</description>
-</item>
-<item>
-<title>The space economy can’t scale on bespoke power systems</title>
-<link>https://spacenews.com/the-space-economy-cant-scale-on-bespoke-power-systems/</link>
-<guid isPermaLink="true">https://spacenews.com/the-space-economy-cant-scale-on-bespoke-power-systems/</guid>
-<pubDate>Thu, 10 Sep 2026 13:00:00 +0000</pubDate>
-<description>There’s a lot of discussion right now about launch costs dropping and access to space expanding. That’s true. But launch costs and access to space are not the constraints that […]</description>
-</item>
-<item>
-<title>NewOrbit claims launch slot for commercial VLEO mission</title>
-<link>https://spacenews.com/neworbit-claims-launch-slot-for-commercial-vleo-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/neworbit-claims-launch-slot-for-commercial-vleo-mission/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<description>SAN FRANCISCO – UK startup NewOrbit announced plans Sept. 10 to send NEO-1, a rideshare mission, to very low Earth orbit (VLEO) in the third quarter of 2028. NewOrbit booked […]</description>
-</item>
-<item>
-<title>Consortium announces plans for billion-dollar AI-enabled satellite imaging constellation</title>
-<link>https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/consortium-announces-plans-for-billion-dollar-ai-enabled-satellite-imaging-constellation/</guid>
-<pubDate>Thu, 10 Sep 2026 07:00:07 +0000</pubDate>
-<description>A group of companies announced plans Sept. 9 for a constellation of AI-enabled imaging satellites projected to cost $1 billion.</description>
 </item>
 </channel>
 </rss>
