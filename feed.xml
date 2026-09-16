@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 05:08:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 06:12:18 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hydrosat to provide thermal intelligence through commercial data and sovereign satellites</title>
+<link>https://spacenews.com/hydrosat-to-provide-thermal-intelligence-through-commercial-data-and-sovereign-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/hydrosat-to-provide-thermal-intelligence-through-commercial-data-and-sovereign-satellites/</guid>
+<pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
+<description>PARIS – Hydrosat’s next-generation Osiris constellation will provide thermal infrared observations for government and commercial customers, the company announced Sept. 15 at World Space Business Week.</description>
+</item>
+<item>
+<title>Djibouti signs the Artemis Accords as the State Department unveils new space partnership program</title>
+<link>https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</link>
+<guid isPermaLink="true">https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</guid>
+<pubDate>Wed, 16 Sep 2026 05:26:10 +0000</pubDate>
+<description>PARIS — Djibouti became the latest country to sign the Artemis Accords as the U.S. State Department rolls out a new program to provide benefits to signatories.</description>
+</item>
 <item>
 <title>World Space Business Week</title>
 <link>https://spacenews.com/world-space-business-week/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</guid>
 <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
 <description>PARIS – HEO, the Australian company non-Earth imagery company, announced Sept. 14 how it repurposed an Earth-observation satellite to conduct close-range inspection of a Chinese Long March 2C rocket.</description>
-</item>
-<item>
-<title>Satellogic to expand constellation with October launch</title>
-<link>https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/satellogic-to-expand-its-constellation-with-october-launch/</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-<description>PARIS – Satellogic announced plans Sept. 14 to launch one NewSat Mark V and two NewSat Mark VI Earth-observation satellite in October.</description>
-</item>
-<item>
-<title>Satellogic to launch six more Earth-observation satellites for Office of Naval Research Slingshot III program</title>
-<link>https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</link>
-<guid isPermaLink="true">https://spacenews.com/satellogic-to-launch-six-more-earth-observation-satellites-for-office-of-naval-research-slingshot-iii-program/</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-<description>PARIS – Satellogic announced an agreement Sept. 14 with Innovative Defense Technologies to launch six additional Earth-observation satellites for the U.S. Office of Naval Research Slingshot III program.</description>
 </item>
 </channel>
 </rss>
