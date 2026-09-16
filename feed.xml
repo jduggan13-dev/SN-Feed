@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 13:10:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 14:10:34 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force gives SpaceX latitude on design of $2.3 billion satellite network</title>
+<link>https://spacenews.com/space-force-gives-spacex-latitude-on-design-of-2-3-billion-satellite-network/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-gives-spacex-latitude-on-design-of-2-3-billion-satellite-network/</guid>
+<pubDate>Wed, 16 Sep 2026 13:32:49 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — The U.S. Space Force is giving SpaceX latitude to design one of the military’s new low-Earth orbit satellite networks, setting performance requirements rather than prescribing the number and configuration of spacecraft needed to meet them.</description>
+</item>
 <item>
 <title>India’s satcom market is ready for scale as regulation, pricing and use cases align</title>
 <link>https://spacenews.com/indias-satcom-market-is-ready-for-scale-as-regulation-pricing-and-use-cases-align/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
 <pubDate>Mon, 14 Sep 2026 15:35:10 +0000</pubDate>
 <description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>U.S. has deployed space-control weapons in orbit, Air Force secretary says</title>
-<link>https://spacenews.com/u-s-has-deployed-space-control-weapons-in-orbit-air-force-secretary-says/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-has-deployed-space-control-weapons-in-orbit-air-force-secretary-says/</guid>
-<pubDate>Mon, 14 Sep 2026 15:10:59 +0000</pubDate>
-<description>NATIONAL HARBOR, Md. — U.S. Air Force Secretary Troy Meink on Monday revealed that the United States has deployed space-control weapons in orbit, while also disclosing new milestones for military satellite programs tied to missile defense and long-range targeting.</description>
 </item>
 </channel>
 </rss>
