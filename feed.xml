@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 19:08:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 20:09:54 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>EnduroSat raises $205 million to accelerate satellite production in US and Europe</title>
+<link>https://spacenews.com/endurosat-raises-205-million-to-accelerate-satellite-production-in-us-and-europe/</link>
+<guid isPermaLink="true">https://spacenews.com/endurosat-raises-205-million-to-accelerate-satellite-production-in-us-and-europe/</guid>
+<pubDate>Wed, 16 Sep 2026 19:42:42 +0000</pubDate>
+<description>TAMPA, Fla. — EnduroSat has raised $205 million to ramp up satellite production in Europe and the United States as demand grows for its “constellation-as-a-service” model, the Bulgarian manufacturer announced Sept. 16.</description>
+</item>
+<item>
+<title>Impulse Space raises an additional $308 million</title>
+<link>https://spacenews.com/impulse-space-raises-an-additional-308-million/</link>
+<guid isPermaLink="true">https://spacenews.com/impulse-space-raises-an-additional-308-million/</guid>
+<pubDate>Wed, 16 Sep 2026 19:33:13 +0000</pubDate>
+<description>PARIS — In-space mobility company Impulse Space has added $308 million to a $500 million funding round the company announced in June.</description>
+</item>
 <item>
 <title>L3Harris moves HBTSS missile-tracking satellites into production for Golden Dome</title>
 <link>https://spacenews.com/l3harris-moves-hbtss-missile-tracking-satellites-into-production-for-golden-dome/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/hawkeye-360-addresses-sovereign-demand-with-european-entity-and-partners/</guid>
 <pubDate>Tue, 15 Sep 2026 06:07:17 +0000</pubDate>
 <description>PARIS – HawkEye 360 is addressing growing demand for sovereign space capabilities by establishing a European subsidiary, working with Leonardo to provide radio-frequency sensing to European customers and collaborating with ERA, part of the Czech Republic’s Omnipol Group, the company announced Sept. 15.</description>
-</item>
-<item>
-<title>Iceye’s global presence expands to address sovereign demand</title>
-<link>https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</link>
-<guid isPermaLink="true">https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</guid>
-<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
-<description>Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […]</description>
-</item>
-<item>
-<title>Sept. 21: What Comes Next for On-Orbit Servicing?</title>
-<link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
-<guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
-<pubDate>Mon, 14 Sep 2026 17:09:21 +0000</pubDate>
-<description>Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post Sept. 21: What Comes Next for On-Orbit Servicing? appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
