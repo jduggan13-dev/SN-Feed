@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 08:10:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 09:09:07 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space threats prompt Europe to bolster domestic capabilities and strengthen alliances</title>
+<link>https://spacenews.com/space-threats-prompt-europe-to-bolster-domestic-capabilities-and-strengthen-alliances/</link>
+<guid isPermaLink="true">https://spacenews.com/space-threats-prompt-europe-to-bolster-domestic-capabilities-and-strengthen-alliances/</guid>
+<pubDate>Wed, 16 Sep 2026 08:35:28 +0000</pubDate>
+<description>PARIS – Growing threats to space systems are prompting European nations to strengthen domestic space capabilities while improving coordination with allies, government officials said at the Novaspace Space Security and Defense Summit.</description>
+</item>
+<item>
+<title>Isar Aerospace ready to begin commercial Spectrum launches</title>
+<link>https://spacenews.com/isar-aerospace-ready-to-begin-commercial-spectrum-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/isar-aerospace-ready-to-begin-commercial-spectrum-launches/</guid>
+<pubDate>Wed, 16 Sep 2026 08:11:31 +0000</pubDate>
+<description>PARIS — German launch startup Isar Aerospace will begin commercial launches of its Spectrum rocket after a successful test flight earlier this month as it works to scale up to meet intense demand.</description>
+</item>
 <item>
 <title>Planet wins German federal contract for dedicated constellation services</title>
 <link>https://spacenews.com/planet-wins-german-federal-contract-for-dedicated-constellation-services/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/open-cosmos-reaches-unicorn-status-with-348-million-funding-round/</guid>
 <pubDate>Mon, 14 Sep 2026 13:01:00 +0000</pubDate>
 <description>TAMPA, Fla. — Open Cosmos has raised 300 million euros ($348 million) to expand production facilities and upgrade its space-based intelligence and connectivity services, the British small satellite specialist announced Sept. 14.</description>
-</item>
-<item>
-<title>You cannot task a changing planet</title>
-<link>https://spacenews.com/you-cannot-task-a-changing-planet/</link>
-<guid isPermaLink="true">https://spacenews.com/you-cannot-task-a-changing-planet/</guid>
-<pubDate>Mon, 14 Sep 2026 13:00:00 +0000</pubDate>
-<description>Every satellite tasking request begins with an assumption: Someone already knows where to look.</description>
-</item>
-<item>
-<title>ColliMate demonstrates autonomous satcom orchestration software in orbit</title>
-<link>https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</guid>
-<pubDate>Mon, 14 Sep 2026 12:05:00 +0000</pubDate>
-<description>TAMPA, Fla. — ColliMate Space has demonstrated its Nexus software for autonomously managing satellite downlinks onboard a spacecraft for the first time, the Silicon Valley startup announced Sept. 14</description>
 </item>
 </channel>
 </rss>
