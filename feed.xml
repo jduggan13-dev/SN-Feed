@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 17:08:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 18:11:10 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>L3Harris moves HBTSS missile-tracking satellites into production for Golden Dome</title>
+<link>https://spacenews.com/l3harris-moves-hbtss-missile-tracking-satellites-into-production-for-golden-dome/</link>
+<guid isPermaLink="true">https://spacenews.com/l3harris-moves-hbtss-missile-tracking-satellites-into-production-for-golden-dome/</guid>
+<pubDate>Wed, 16 Sep 2026 17:40:13 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — L3Harris Technologies is moving a missile-tracking satellite developed for the Missile Defense Agency into production for Golden Dome with few design changes.</description>
+</item>
 <item>
 <title>Space Force gives SpaceX latitude on design of $2.3 billion satellite network</title>
 <link>https://spacenews.com/space-force-gives-spacex-latitude-on-design-of-2-3-billion-satellite-network/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
 <pubDate>Mon, 14 Sep 2026 17:09:21 +0000</pubDate>
 <description>Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post Sept. 21: What Comes Next for On-Orbit Servicing? appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
-<link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
-<guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
-<pubDate>Mon, 14 Sep 2026 15:35:10 +0000</pubDate>
-<description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
