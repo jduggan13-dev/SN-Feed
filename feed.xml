@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 07:10:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 08:10:03 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Planet wins German federal contract for dedicated constellation services</title>
+<link>https://spacenews.com/planet-wins-german-federal-contract-for-dedicated-constellation-services/</link>
+<guid isPermaLink="true">https://spacenews.com/planet-wins-german-federal-contract-for-dedicated-constellation-services/</guid>
+<pubDate>Wed, 16 Sep 2026 07:39:35 +0000</pubDate>
+<description>PARIS – The German Federal Ministry of the Interior (BMI) will acquire dedicated Earth-observation capacity from Planet Labs Germany, under a contract announced Sept. 16.</description>
+</item>
 <item>
 <title>Hydrosat to provide thermal intelligence through commercial data and sovereign satellites</title>
 <link>https://spacenews.com/hydrosat-to-provide-thermal-intelligence-through-commercial-data-and-sovereign-satellites/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/collimate-demonstrates-autonomous-satcom-orchestration-software-in-orbit/</guid>
 <pubDate>Mon, 14 Sep 2026 12:05:00 +0000</pubDate>
 <description>TAMPA, Fla. — ColliMate Space has demonstrated its Nexus software for autonomously managing satellite downlinks onboard a spacecraft for the first time, the Silicon Valley startup announced Sept. 14</description>
-</item>
-<item>
-<title>HEO demonstrates close inspection through rendezvous and proximity operations</title>
-<link>https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</link>
-<guid isPermaLink="true">https://spacenews.com/heo-demonstrates-close-inspection-through-rendezvous-and-proximity-operations/</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-<description>PARIS – HEO, the Australian company non-Earth imagery company, announced Sept. 14 how it repurposed an Earth-observation satellite to conduct close-range inspection of a Chinese Long March 2C rocket.</description>
 </item>
 </channel>
 </rss>
