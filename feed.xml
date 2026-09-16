@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 11:09:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 12:12:11 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Cargo Unlimited to fly microgravity payloads on Starfall</title>
+<link>https://spacenews.com/space-cargo-unlimited-to-fly-microgravity-payloads-on-starfall/</link>
+<guid isPermaLink="true">https://spacenews.com/space-cargo-unlimited-to-fly-microgravity-payloads-on-starfall/</guid>
+<pubDate>Wed, 16 Sep 2026 11:29:02 +0000</pubDate>
+<description>PARIS — Space Cargo Unlimited has signed a contract to fly payloads on SpaceX’s Starfall reentry vehicle as it builds out a broad spectrum of options for microgravity research and manufacturing.</description>
+</item>
 <item>
 <title>Space threats prompt Europe to bolster domestic capabilities and strengthen alliances</title>
 <link>https://spacenews.com/space-threats-prompt-europe-to-bolster-domestic-capabilities-and-strengthen-alliances/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/u-s-allies-commit-302-million-to-complete-funding-for-space-force-communications-satellite/</guid>
 <pubDate>Mon, 14 Sep 2026 13:09:15 +0000</pubDate>
 <description>NATIONAL HARBOR, Md. — Ten U.S. allies have agreed to provide $302 million to cover launch, ground-system upgrades and operations for the U.S. Space Force’s next Wideband Global SATCOM satellite, completing a funding plan for the Boeing-built military communications spacecraft.</description>
-</item>
-<item>
-<title>Open Cosmos reaches unicorn status with $348 million funding round</title>
-<link>https://spacenews.com/open-cosmos-reaches-unicorn-status-with-348-million-funding-round/</link>
-<guid isPermaLink="true">https://spacenews.com/open-cosmos-reaches-unicorn-status-with-348-million-funding-round/</guid>
-<pubDate>Mon, 14 Sep 2026 13:01:00 +0000</pubDate>
-<description>TAMPA, Fla. — Open Cosmos has raised 300 million euros ($348 million) to expand production facilities and upgrade its space-based intelligence and connectivity services, the British small satellite specialist announced Sept. 14.</description>
 </item>
 </channel>
 </rss>
