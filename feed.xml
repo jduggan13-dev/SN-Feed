@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 16 Sep 2026 01:08:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 02:09:33 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Isaacman says U.S. return to the moon carries national security stakes</title>
+<link>https://spacenews.com/isaacman-says-u-s-return-to-the-moon-carries-national-security-stakes/</link>
+<guid isPermaLink="true">https://spacenews.com/isaacman-says-u-s-return-to-the-moon-carries-national-security-stakes/</guid>
+<pubDate>Wed, 16 Sep 2026 02:00:00 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — NASA Administrator Jared Isaacman made a national security case for America’s return to the moon, telling a military audience that the outcome of the intensifying lunar competition with China could shape alliances, technology standards and perceptions of U.S. power.</description>
+</item>
+<item>
+<title>Hernandez-Baquero lays out plan to make Space Force acquisition overhaul work</title>
+<link>https://spacenews.com/hernandez-baquero-lays-out-plan-to-make-space-force-acquisition-overhaul-work/</link>
+<guid isPermaLink="true">https://spacenews.com/hernandez-baquero-lays-out-plan-to-make-space-force-acquisition-overhaul-work/</guid>
+<pubDate>Wed, 16 Sep 2026 01:11:00 +0000</pubDate>
+<description>NATIONAL HARBOR, Md. — The Space Force’s new acquisition chief says his immediate task is turning the service’s recently completed acquisition overhaul into faster delivery of satellites, weapons and other capabilities.</description>
+</item>
 <item>
 <title>Viasat nears prime contract for shared D2D constellation</title>
 <link>https://spacenews.com/viasat-nears-prime-contract-for-shared-d2d-constellation/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/sophia-space-and-sli-agree-on-300-million-financing-for-10-satellite-edge-computing-constellation/</guid>
 <pubDate>Mon, 14 Sep 2026 04:00:00 +0000</pubDate>
 <description>PARIS – Sophia Space and aerospace leasing specialist SLI announced a $300 million financing framework Sept. 14 for a 10-satellite edge-computing constellation. Under the agreement, SLI will purchase satellites ​from […]</description>
-</item>
-<item>
-<title>NASA offers details about, and defends, proposed space academy</title>
-<link>https://spacenews.com/nasa-offers-details-about-and-defends-proposed-space-academy/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-offers-details-about-and-defends-proposed-space-academy/</guid>
-<pubDate>Mon, 14 Sep 2026 03:43:23 +0000</pubDate>
-<description>PARIS — NASA has disclosed new details about a proposal to create a national space academy as the agency’s administrator defends the concept against criticism.</description>
-</item>
-<item>
-<title>Summit declarations avoid controversy but fail to earn key endorsements</title>
-<link>https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</link>
-<guid isPermaLink="true">https://spacenews.com/summit-declarations-avoid-controversy-but-fail-to-earn-key-endorsements/</guid>
-<pubDate>Sun, 13 Sep 2026 07:16:08 +0000</pubDate>
-<description>PARIS — Three declarations signed by dozens of countries at the International Space Summit largely avoided controversial positions but still failed to win support from some of the biggest space powers.</description>
 </item>
 </channel>
 </rss>
