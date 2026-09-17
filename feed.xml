@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 17 Sep 2026 12:12:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 14:11:13 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Icarus Robotics tests Joy in Canada ahead of ISS flight</title>
+<link>https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</link>
+<guid isPermaLink="true">https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
+<description>PARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space […]</description>
+</item>
+<item>
+<title>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</title>
+<link>https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</link>
+<guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
+<description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […]</description>
+</item>
+<item>
+<title>Eight African nations signed the Artemis Accords. Now give them a path to the moon.</title>
+<link>https://spacenews.com/eight-african-nations-signed-the-artemis-accords-now-give-them-a-path-to-the-moon/</link>
+<guid isPermaLink="true">https://spacenews.com/eight-african-nations-signed-the-artemis-accords-now-give-them-a-path-to-the-moon/</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
+<description>A year and a half ago, we took to SpaceNews to plead our case: If the United States teamed up with African nations in space, everyone would win. Washington would deepen relationships across a fast-changing continent while African partners could use space technology to tackle critical problems like food insecurity, climate resilience and digital isolation.</description>
+</item>
 <item>
 <title>Intuitive Machines eyes orbital data center opportunities</title>
 <link>https://spacenews.com/intuitive-machines-eyes-orbital-data-center-opportunities/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</guid>
 <pubDate>Wed, 16 Sep 2026 05:26:10 +0000</pubDate>
 <description>PARIS — Djibouti became the latest country to sign the Artemis Accords as the U.S. State Department rolls out a new program to provide benefits to signatories.</description>
-</item>
-<item>
-<title>Isaacman says U.S. return to the moon carries national security stakes</title>
-<link>https://spacenews.com/isaacman-says-u-s-return-to-the-moon-carries-national-security-stakes/</link>
-<guid isPermaLink="true">https://spacenews.com/isaacman-says-u-s-return-to-the-moon-carries-national-security-stakes/</guid>
-<pubDate>Wed, 16 Sep 2026 02:00:00 +0000</pubDate>
-<description>NATIONAL HARBOR, Md. — NASA Administrator Jared Isaacman made a national security case for America’s return to the moon, telling a military audience that the outcome of the intensifying lunar competition with China could shape alliances, technology standards and perceptions of U.S. power.</description>
-</item>
-<item>
-<title>Hernandez-Baquero lays out plan to make Space Force acquisition overhaul work</title>
-<link>https://spacenews.com/hernandez-baquero-lays-out-plan-to-make-space-force-acquisition-overhaul-work/</link>
-<guid isPermaLink="true">https://spacenews.com/hernandez-baquero-lays-out-plan-to-make-space-force-acquisition-overhaul-work/</guid>
-<pubDate>Wed, 16 Sep 2026 01:11:00 +0000</pubDate>
-<description>NATIONAL HARBOR, Md. — The Space Force’s new acquisition chief says his immediate task is turning the service’s recently completed acquisition overhaul into faster delivery of satellites, weapons and other capabilities.</description>
-</item>
-<item>
-<title>Viasat nears prime contract for shared D2D constellation</title>
-<link>https://spacenews.com/viasat-nears-prime-contract-for-shared-d2d-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/viasat-nears-prime-contract-for-shared-d2d-constellation/</guid>
-<pubDate>Tue, 15 Sep 2026 19:25:48 +0000</pubDate>
-<description>TAMPA, Fla. — Viasat expects to announce a contract within weeks to build the first satellites for Equatys, the joint venture announced last year with Space42 to pool Mobile Satellite Services spectrum for global direct-to-device services.</description>
 </item>
 </channel>
 </rss>
