@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 17 Sep 2026 02:09:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 03:09:21 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -49,13 +49,6 @@
 <guid isPermaLink="true">https://spacenews.com/nasa-offers-details-about-and-defends-proposed-space-academy/</guid>
 <pubDate>Thu, 17 Sep 2026 01:09:29 +0000</pubDate>
 <description>NASA offers details about, and defends, proposed space academy</description>
-</item>
-<item>
-<title>LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership</title>
-<link>https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</link>
-<guid isPermaLink="true">https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</guid>
-<pubDate>Thu, 17 Sep 2026 01:09:29 +0000</pubDate>
-<description>Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite […] The post LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager</title>
@@ -217,6 +210,13 @@
 <guid isPermaLink="true">https://spacenews.com/critical-design-review-cleared-for-2027-in-orbit-cubesat-inspection-demo/</guid>
 <pubDate>Tue, 15 Sep 2026 10:05:00 +0000</pubDate>
 <description>TAMPA, Fla. — British startup Shield Space has completed the critical design review for Broadsword, a 2027 mission aiming to demonstrate satellite-inspection capabilities that defense customers could have in orbit within nine months of contract signing.</description>
+</item>
+<item>
+<title>Iceye’s global presence expands to address sovereign demand</title>
+<link>https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</link>
+<guid isPermaLink="true">https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+<description>Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […] The post Iceye’s global presence expands to address sovereign demand appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
