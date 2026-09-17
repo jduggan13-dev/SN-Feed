@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 17 Sep 2026 16:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 17:08:19 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Satellite operators weigh SpaceX IPO impact as dust settles</title>
+<link>https://spacenews.com/satellite-operators-weigh-spacex-ipo-impact-as-dust-settles/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-operators-weigh-spacex-ipo-impact-as-dust-settles/</guid>
+<pubDate>Thu, 17 Sep 2026 16:53:43 +0000</pubDate>
+<description>TAMPA, Fla. — SpaceX’s industry-shaking IPO more than three months ago continues to have far-reaching and mixed effects for other satellite broadband operators.</description>
+</item>
 <item>
 <title>Sept. 21: What Comes Next for On-Orbit Servicing?</title>
 <link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</guid>
 <pubDate>Wed, 16 Sep 2026 05:26:10 +0000</pubDate>
 <description>PARIS — Djibouti became the latest country to sign the Artemis Accords as the U.S. State Department rolls out a new program to provide benefits to signatories.</description>
-</item>
-<item>
-<title>Isaacman says U.S. return to the moon carries national security stakes</title>
-<link>https://spacenews.com/isaacman-says-u-s-return-to-the-moon-carries-national-security-stakes/</link>
-<guid isPermaLink="true">https://spacenews.com/isaacman-says-u-s-return-to-the-moon-carries-national-security-stakes/</guid>
-<pubDate>Wed, 16 Sep 2026 02:00:00 +0000</pubDate>
-<description>NATIONAL HARBOR, Md. — NASA Administrator Jared Isaacman made a national security case for America’s return to the moon, telling a military audience that the outcome of the intensifying lunar competition with China could shape alliances, technology standards and perceptions of U.S. power.</description>
 </item>
 </channel>
 </rss>
