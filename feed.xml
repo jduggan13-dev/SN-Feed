@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 17 Sep 2026 10:09:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 11:09:34 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Intuitive Machines eyes orbital data center opportunities</title>
+<link>https://spacenews.com/intuitive-machines-eyes-orbital-data-center-opportunities/</link>
+<guid isPermaLink="true">https://spacenews.com/intuitive-machines-eyes-orbital-data-center-opportunities/</guid>
+<pubDate>Thu, 17 Sep 2026 10:25:06 +0000</pubDate>
+<description>PARIS — Intuitive Machines is examining how it can leverage satellite capabilities it gained from the acquisition of a major manufacturer into the emerging market for orbital data centers.</description>
+</item>
+<item>
+<title>China conducts four launches inside 48 hours as launch options diversify</title>
+<link>https://spacenews.com/china-conducts-four-launches-inside-48-hours-as-launch-options-diversify/</link>
+<guid isPermaLink="true">https://spacenews.com/china-conducts-four-launches-inside-48-hours-as-launch-options-diversify/</guid>
+<pubDate>Thu, 17 Sep 2026 10:19:52 +0000</pubDate>
+<description>HELSINKI — China carried out four launches in quick succession, starting Tuesday, using its Jiuquan and Hainan spaceports and a maritime mission from the East China Sea.</description>
+</item>
 <item>
 <title>Rocket Lab on track to complete Iridium acquisition</title>
 <link>https://spacenews.com/rocket-lab-on-track-to-complete-iridium-acquisition/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/viasat-nears-prime-contract-for-shared-d2d-constellation/</guid>
 <pubDate>Tue, 15 Sep 2026 19:25:48 +0000</pubDate>
 <description>TAMPA, Fla. — Viasat expects to announce a contract within weeks to build the first satellites for Equatys, the joint venture announced last year with Space42 to pool Mobile Satellite Services spectrum for global direct-to-device services.</description>
-</item>
-<item>
-<title>Air Force and Space Force push for scale as supply-chain constraints persist</title>
-<link>https://spacenews.com/air-force-and-space-force-push-for-scale-as-supply-chain-constraints-persist/</link>
-<guid isPermaLink="true">https://spacenews.com/air-force-and-space-force-push-for-scale-as-supply-chain-constraints-persist/</guid>
-<pubDate>Tue, 15 Sep 2026 17:36:48 +0000</pubDate>
-<description>NATIONAL HARBOR, Md. — “Scaling” has become a watchword for Air Force and Space Force leaders as they push to field more weapons and space capabilities faster and in greater numbers.</description>
-</item>
-<item>
-<title>More satellites watch the battlefield, putting a premium on making sense of the data</title>
-<link>https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/</link>
-<guid isPermaLink="true">https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/</guid>
-<pubDate>Tue, 15 Sep 2026 15:49:31 +0000</pubDate>
-<description>NATIONAL HARBOR, Md. — President Donald Trump has repeatedly pointed to the Space Force’s ability to monitor Iran from orbit.</description>
 </item>
 </channel>
 </rss>
