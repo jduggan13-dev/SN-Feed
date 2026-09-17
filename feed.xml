@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 17 Sep 2026 19:08:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 20:09:47 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Command says satellite tracking must evolve for combat in orbit</title>
+<link>https://spacenews.com/space-command-says-satellite-tracking-must-evolve-for-combat-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/space-command-says-satellite-tracking-must-evolve-for-combat-in-orbit/</guid>
+<pubDate>Thu, 17 Sep 2026 19:55:33 +0000</pubDate>
+<description>WASHINGTON — The U.S. military has expanded its ability to track objects in orbit but still needs to better connect that information to command systems and weapons as it prepares for the possibility of combat in space, the head of U.S. Space Command said.</description>
+</item>
 <item>
 <title>Satellite operators weigh SpaceX IPO impact as dust settles</title>
 <link>https://spacenews.com/satellite-operators-weigh-spacex-ipo-impact-as-dust-settles/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/hydrosat-to-provide-thermal-intelligence-through-commercial-data-and-sovereign-satellites/</guid>
 <pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
 <description>PARIS – Hydrosat’s next-generation Osiris constellation will provide thermal infrared observations for government and commercial customers, the company announced Sept. 15 at World Space Business Week.</description>
-</item>
-<item>
-<title>Djibouti signs the Artemis Accords as the State Department unveils new space partnership program</title>
-<link>https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</link>
-<guid isPermaLink="true">https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</guid>
-<pubDate>Wed, 16 Sep 2026 05:26:10 +0000</pubDate>
-<description>PARIS — Djibouti became the latest country to sign the Artemis Accords as the U.S. State Department rolls out a new program to provide benefits to signatories.</description>
 </item>
 </channel>
 </rss>
