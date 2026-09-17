@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 17 Sep 2026 03:09:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 04:09:53 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -212,11 +212,11 @@
 <description>TAMPA, Fla. — British startup Shield Space has completed the critical design review for Broadsword, a 2027 mission aiming to demonstrate satellite-inspection capabilities that defense customers could have in orbit within nine months of contract signing.</description>
 </item>
 <item>
-<title>Iceye’s global presence expands to address sovereign demand</title>
-<link>https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</link>
-<guid isPermaLink="true">https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</guid>
-<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
-<description>Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […] The post Iceye’s global presence expands to address sovereign demand appeared first on SpaceNews .</description>
+<title>Companies defend Bromo joint venture</title>
+<link>https://spacenews.com/companies-defend-bromo-joint-venture/</link>
+<guid isPermaLink="true">https://spacenews.com/companies-defend-bromo-joint-venture/</guid>
+<pubDate>Tue, 15 Sep 2026 08:52:44 +0000</pubDate>
+<description>PARIS — Executives with the three European companies seeking to combine their space businesses say the merger is still needed even as European government funding increases.</description>
 </item>
 </channel>
 </rss>
