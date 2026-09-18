@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 18 Sep 2026 15:09:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:08:47 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
 <pubDate>Fri, 18 Sep 2026 14:47:38 +0000</pubDate>
 <description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Orders rebound amid signs of a GEO renaissance</title>
+<link>https://spacenews.com/orders-rebound-amid-signs-of-a-geo-renaissance/</link>
+<guid isPermaLink="true">https://spacenews.com/orders-rebound-amid-signs-of-a-geo-renaissance/</guid>
+<pubDate>Fri, 18 Sep 2026 14:44:30 +0000</pubDate>
+<description>TAMPA, Fla. — There are early signs of a resurgence in communications satellites destined for commercial customers in geostationary orbit (GEO), following years of being overshadowed by massive broadband constellations flying much closer to Earth.</description>
 </item>
 <item>
 <title>Jamming created a resilience market. The space industry is losing it to the ground.</title>
@@ -107,18 +114,18 @@
 <description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</title>
-<link>https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</link>
-<guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
-<description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […] The post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews .</description>
-</item>
-<item>
 <title>Icarus Robotics tests Joy in Canada ahead of ISS flight</title>
 <link>https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</link>
 <guid isPermaLink="true">https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</guid>
 <pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
 <description>PARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space […] The post Icarus Robotics tests Joy in Canada ahead of ISS flight appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</title>
+<link>https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</link>
+<guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
+<description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […] The post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Eight African nations signed the Artemis Accords. Now give them a path to the moon.</title>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-threats-prompt-europe-to-bolster-domestic-capabilities-and-strengthen-alliances/</guid>
 <pubDate>Wed, 16 Sep 2026 08:35:28 +0000</pubDate>
 <description>PARIS – Growing threats to space systems are prompting European nations to strengthen domestic space capabilities while improving coordination with allies, government officials said at the Novaspace Space Security and Defense Summit.</description>
-</item>
-<item>
-<title>Iceye’s global presence expands to address sovereign demand</title>
-<link>https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</link>
-<guid isPermaLink="true">https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/</guid>
-<pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
-<description>Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […] The post Iceye’s global presence expands to address sovereign demand appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
