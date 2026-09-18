@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 18 Sep 2026 16:08:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 17:08:39 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Northrop Grumman, True Anomaly to build military geostationary surveillance satellites</title>
+<link>https://spacenews.com/northrop-grumman-true-anomaly-to-build-military-geostationary-surveillance-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/northrop-grumman-true-anomaly-to-build-military-geostationary-surveillance-satellites/</guid>
+<pubDate>Fri, 18 Sep 2026 16:18:28 +0000</pubDate>
+<description>WASHINGTON — The Defense Innovation Unit has selected Northrop Grumman and True Anomaly to build prototype satellites capable of closely monitoring spacecraft in geosynchronous orbit.</description>
+</item>
 <item>
 <title>Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs</title>
 <link>https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-cargo-unlimited-to-fly-microgravity-payloads-on-starfall/</guid>
 <pubDate>Wed, 16 Sep 2026 11:29:02 +0000</pubDate>
 <description>PARIS — Space Cargo Unlimited has signed a contract to fly payloads on SpaceX’s Starfall reentry vehicle as it builds out a broad spectrum of options for microgravity research and manufacturing.</description>
-</item>
-<item>
-<title>Space threats prompt Europe to bolster domestic capabilities and strengthen alliances</title>
-<link>https://spacenews.com/space-threats-prompt-europe-to-bolster-domestic-capabilities-and-strengthen-alliances/</link>
-<guid isPermaLink="true">https://spacenews.com/space-threats-prompt-europe-to-bolster-domestic-capabilities-and-strengthen-alliances/</guid>
-<pubDate>Wed, 16 Sep 2026 08:35:28 +0000</pubDate>
-<description>PARIS – Growing threats to space systems are prompting European nations to strengthen domestic space capabilities while improving coordination with allies, government officials said at the Novaspace Space Security and Defense Summit.</description>
 </item>
 </channel>
 </rss>
