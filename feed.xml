@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 18 Sep 2026 04:09:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 05:08:44 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Astra projecting early 2027 for the introduction of Rocket 4.0</title>
+<link>https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</link>
+<guid isPermaLink="true">https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</guid>
+<pubDate>Fri, 18 Sep 2026 04:07:56 +0000</pubDate>
+<description>PARIS — Astra is now planning a first launch of its Rocket 4.0 vehicle in early 2027 as it aims to reenter a market increasingly desperate for launch capacity.</description>
+</item>
 <item>
 <title>Space Command says satellite tracking must evolve for combat in orbit</title>
 <link>https://spacenews.com/space-command-says-satellite-tracking-must-evolve-for-combat-in-orbit/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/planet-wins-german-federal-contract-for-dedicated-constellation-services/</guid>
 <pubDate>Wed, 16 Sep 2026 07:39:35 +0000</pubDate>
 <description>PARIS – The German Federal Ministry of the Interior (BMI) will acquire dedicated Earth-observation capacity from Planet Labs Germany, under a contract announced Sept. 16.</description>
-</item>
-<item>
-<title>Hydrosat to provide thermal intelligence through commercial data and sovereign satellites</title>
-<link>https://spacenews.com/hydrosat-to-provide-thermal-intelligence-through-commercial-data-and-sovereign-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/hydrosat-to-provide-thermal-intelligence-through-commercial-data-and-sovereign-satellites/</guid>
-<pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
-<description>PARIS – Hydrosat’s next-generation Osiris constellation will provide thermal infrared observations for government and commercial customers, the company announced Sept. 15 at World Space Business Week.</description>
 </item>
 </channel>
 </rss>
