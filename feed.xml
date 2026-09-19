@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 19 Sep 2026 07:08:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:09:43 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -167,7 +167,7 @@
 <link>https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</link>
 <guid isPermaLink="true">https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</guid>
 <pubDate>Thu, 17 Sep 2026 15:05:15 +0000</pubDate>
-<description>PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […]</description>
+<description>PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […]</description>
 </item>
 <item>
 <title>Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges</title>
