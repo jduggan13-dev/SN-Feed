@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 21 Sep 2026 12:11:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 13:08:30 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ukraine’s Starlink experience offers a lesson for the Pentagon</title>
+<link>https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</link>
+<guid isPermaLink="true">https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:00 +0000</pubDate>
+<description>For some time now, the Ukrainian government has been seeking SpaceX’s authorization for the use of Starlink up to 200 kilometers inside Russia. Starlink has long provided high-speed connectivity to soldiers on the frontline, and Starlink terminals mounted on drones have been crucial to the “middle strike” campaign launched this spring, which involves the targeting of logistical routes into Crimea and military bases on the peninsula annexed by Russia. Musk, however, has reportedly had concerns that authorizing its use so deep inside Russian territory would amount to an escalation. Zelenskyy has since awarded Musk the Order of Freedom , one of Ukraine’s highest state honors, which can justifiably be seen as a bid to get him to change his mind.</description>
+</item>
+<item>
+<title>Satellite industry grapples with the end of Falcon 9</title>
+<link>https://spacenews.com/satellite-industry-grapples-with-the-end-of-falcon-9/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-industry-grapples-with-the-end-of-falcon-9/</guid>
+<pubDate>Mon, 21 Sep 2026 12:23:55 +0000</pubDate>
+<description>PARIS — The satellite industry is coming to grips with SpaceX’s plans to end commercial Falcon 9 launches in the next few years, creating a significant, if temporary, gap in access to orbit.</description>
+</item>
 <item>
 <title>GHGSat to improve methane detection with second-generation satellite</title>
 <link>https://spacenews.com/ghgsat-to-improve-methane-detection-with-second-generation-satellite/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
 <pubDate>Thu, 17 Sep 2026 14:37:26 +0000</pubDate>
 <description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Icarus Robotics tests Joy in Canada ahead of ISS flight</title>
-<link>https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</link>
-<guid isPermaLink="true">https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
-<description>PARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space […]</description>
-</item>
-<item>
-<title>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</title>
-<link>https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</link>
-<guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
-<description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […] The post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
