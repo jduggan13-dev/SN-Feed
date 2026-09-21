@@ -4,71 +4,211 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 21 Sep 2026 21:08:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 22:09:15 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>HEO raises $25 million to expand satellite imaging capabilities to GEO</title>
+<link>https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</link>
+<guid isPermaLink="true">https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>WASHINGTON — HEO, an Australian company that uses satellites to image other space objects, has raised $25 million to extend its capabilities into geostationary orbit.</description>
+</item>
+<item>
+<title>Space Development Agency opens $369 million competition for missile-tracking ground network</title>
+<link>https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</link>
+<guid isPermaLink="true">https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>WASHINGTON — The Space Development Agency is seeking industry proposals for a contract worth up to $369 million to expand the worldwide ground infrastructure supporting its constellation of low Earth orbit missile-warning and tracking satellites.</description>
+</item>
+<item>
+<title>Satellite Industry Grapples With The End Of Falcon 9</title>
+<link>https://spacenews.com/satellite-industry-grapples-with-the-end-of-falcon-9/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-industry-grapples-with-the-end-of-falcon-9/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>PARIS — The satellite industry is coming to grips with SpaceX’s plans to end commercial Falcon 9 launches in the next few years, creating a significant, if temporary, gap in access to orbit.</description>
+</item>
+<item>
 <title>Sept. 23: What Comes Next for On-Orbit Servicing?</title>
 <link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
 <guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post Sept. 23: What Comes Next for On-Orbit Servicing? appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Ukraine’s Starlink experience offers a lesson for the Pentagon</title>
+<link>https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</link>
+<guid isPermaLink="true">https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>For some time now, the Ukrainian government has been seeking SpaceX’s authorization for the use of Starlink up to 200 kilometers inside Russia. Starlink has long provided high-speed connectivity to soldiers on the frontline, and Starlink terminals mounted on drones have been crucial to the “middle strike” campaign launched this spring, which involves the targeting of logistical routes into Crimea and military bases on the peninsula annexed by Russia. Musk, however, has reportedly had concerns that authorizing its use so deep inside Russian territory would amount to an escalation. Zelenskyy has since awarded Musk the Order of Freedom , one of Ukraine’s highest state honors, which can justifiably be seen as a bid to get him to change his mind.</description>
+</item>
+<item>
+<title>Ghgsat To Improve Methane Detection With Second Generation Satellite</title>
+<link>https://spacenews.com/ghgsat-to-improve-methane-detection-with-second-generation-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/ghgsat-to-improve-methane-detection-with-second-generation-satellite/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>PARIS – GHGSat’s second-generation satellite, unveiled Sept. 21, is twice as sensitive in detecting methane emissions while providing double the monitoring capacity of the Canadian firm’s original satellites.</description>
 </item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
 <guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
+<link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
+<guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>The Electronics Under The Hood Of Space Networking</title>
 <link>https://spacenews.com/the-electronics-under-the-hood-of-space-networking/</link>
 <guid isPermaLink="true">https://spacenews.com/the-electronics-under-the-hood-of-space-networking/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>The Electronics Under The Hood Of Space Networking</description>
+</item>
+<item>
+<title>Pentagon Plans Phased Golden Dome Buildout Through 2035</title>
+<link>https://spacenews.com/pentagon-plans-phased-golden-dome-buildout-through-2035/</link>
+<guid isPermaLink="true">https://spacenews.com/pentagon-plans-phased-golden-dome-buildout-through-2035/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>WASHINGTON — Gen. Michael Guetlein, head of the Golden Dome missile defense program, said the Pentagon is taking a two-stage approach, planning to stitch together existing military systems for an initial missile shield in 2028 before transitioning to a more affordable architecture designed specifically for homeland defense by 2035.</description>
+</item>
+<item>
+<title>Rocket Lab Continues High Electron Cadence With Synspective Launch</title>
+<link>https://spacenews.com/rocket-lab-continues-high-electron-cadence-with-synspective-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-continues-high-electron-cadence-with-synspective-launch/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>PARIS — Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on Sept. 18 on the fifth flight of its Electron rocket in a month and a half.</description>
+</item>
+<item>
+<title>Space Force expands use of commercial satellites to track electronic interference</title>
+<link>https://spacenews.com/space-force-expands-use-of-commercial-satellites-to-track-electronic-interference/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-expands-use-of-commercial-satellites-to-track-electronic-interference/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>WASHINGTON — The U.S. Space Force is expanding the use of commercial satellites to detect and locate GPS jamming and other electronic interference, turning what began as an experiment into a standing global operation.</description>
+</item>
+<item>
+<title>Astra projecting early 2027 for the introduction of Rocket 4.0</title>
+<link>https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</link>
+<guid isPermaLink="true">https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>PARIS — Astra is now planning a first launch of its Rocket 4.0 vehicle in early 2027 as it aims to reenter a market increasingly desperate for launch capacity.</description>
+</item>
+<item>
+<title>Sedaro gets $45 million in Space Force funding to expand mission analysis software</title>
+<link>https://spacenews.com/sedaro-gets-45-million-in-space-force-funding-to-expand-mission-analysis-software/</link>
+<guid isPermaLink="true">https://spacenews.com/sedaro-gets-45-million-in-space-force-funding-to-expand-mission-analysis-software/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>WASHINGTON — Space software company Sedaro will receive up to $45 million in government funding to expand a platform that helps the U.S. Space Force analyze how different satellites, sensors and other capabilities perform together.</description>
+</item>
+<item>
+<title>NASA adds three ISS missions to SpaceX Crew Dragon contract</title>
+<link>https://spacenews.com/nasa-adds-three-iss-missions-to-spacex-crew-dragon-contract/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-adds-three-iss-missions-to-spacex-crew-dragon-contract/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>PARIS — NASA has proceeded with plans to purchase three additional SpaceX Crew Dragon missions to the International Space Station, although the spacecraft’s long-term future remains uncertain.</description>
+</item>
+<item>
+<title>Aschbacher Upbeat About Winning Support For A European Human Spaceflight Program</title>
+<link>https://spacenews.com/aschbacher-upbeat-about-winning-support-for-a-european-human-spaceflight-program/</link>
+<guid isPermaLink="true">https://spacenews.com/aschbacher-upbeat-about-winning-support-for-a-european-human-spaceflight-program/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>PARIS — The head of the European Space Agency is optimistic that member states will back plans to pursue human spaceflight and other key programs at a critical December meeting.</description>
 </item>
 <item>
 <title>Djibouti signs the Artemis Accords as the State Department unveils new space partnership program</title>
 <link>https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</link>
 <guid isPermaLink="true">https://spacenews.com/djibouti-signs-the-artemis-accords-as-the-state-department-unveils-new-space-partnership-program/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Djibouti signs the Artemis Accords as the State Department unveils new space partnership program</description>
+</item>
+<item>
+<title>China Conducts Four Launches Inside 48 Hours As Launch Options Diversify</title>
+<link>https://spacenews.com/china-conducts-four-launches-inside-48-hours-as-launch-options-diversify/</link>
+<guid isPermaLink="true">https://spacenews.com/china-conducts-four-launches-inside-48-hours-as-launch-options-diversify/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>China Conducts Four Launches Inside 48 Hours As Launch Options Diversify</description>
 </item>
 <item>
 <title>Planet wins German federal contract for dedicated constellation services</title>
 <link>https://spacenews.com/planet-wins-german-federal-contract-for-dedicated-constellation-services/</link>
 <guid isPermaLink="true">https://spacenews.com/planet-wins-german-federal-contract-for-dedicated-constellation-services/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Planet wins German federal contract for dedicated constellation services</description>
+</item>
+<item>
+<title>Jamming created a resilience market. The space industry is losing it to the ground.</title>
+<link>https://spacenews.com/jamming-created-a-resilience-market-the-space-industry-is-losing-it-to-the-ground/</link>
+<guid isPermaLink="true">https://spacenews.com/jamming-created-a-resilience-market-the-space-industry-is-losing-it-to-the-ground/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>In the first quarter of this year, roughly 978,000 maritime GPS jamming events were recorded worldwide. Ninety-eight percent of them happened in one place: the Middle East Gulf. It is the largest single-quarter concentration of maritime jamming ever recorded, and more than 1,100 vessels in the region were affected.</description>
+</item>
+<item>
+<title>Eight African nations signed the Artemis Accords. Now give them a path to the moon.</title>
+<link>https://spacenews.com/eight-african-nations-signed-the-artemis-accords-now-give-them-a-path-to-the-moon/</link>
+<guid isPermaLink="true">https://spacenews.com/eight-african-nations-signed-the-artemis-accords-now-give-them-a-path-to-the-moon/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>Eight African nations signed the Artemis Accords. Now give them a path to the moon.</description>
+</item>
+<item>
+<title>Commercial Space Federation (CSF) Welcomes Two New Members</title>
+<link>https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</link>
+<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs</title>
+<link>https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</link>
+<guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Simera Sense And Idom Partner To Develop And Produce Xscape350 Optical System As Demand For High Resolution Eo Imagery Surges</title>
+<link>https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</link>
+<guid isPermaLink="true">https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</title>
+<link>https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</link>
+<guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
+<description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […] The post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership</title>
 <link>https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</link>
 <guid isPermaLink="true">https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite […] The post LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Stellar Dispatch</title>
 <link>https://spacenews.com/stellar-dispatch/</link>
 <guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Stellar Dispatch</description>
 </item>
 <item>
 <title>Spacenews Terms Conditions</title>
 <link>https://spacenews.com/spacenews-terms-conditions/</link>
 <guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Spacenews Terms Conditions</description>
 </item>
 <item>
 <title>Accessibility Statement</title>
 <link>https://spacenews.com/accessibility-statement/</link>
 <guid isPermaLink="true">https://spacenews.com/accessibility-statement/</guid>
-<pubDate>Mon, 21 Sep 2026 20:09:06 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 22:09:15 +0000</pubDate>
 <description>Accessibility Statement</description>
 </item>
 <item>
@@ -77,146 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/world-space-business-week/</guid>
 <pubDate>Mon, 21 Sep 2026 19:08:10 +0000</pubDate>
 <description>World Space Business Week</description>
-</item>
-<item>
-<title>Commercial Space Federation (CSF) Welcomes Two New Members</title>
-<link>https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</guid>
-<pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-<description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>HEO raises $25 million to expand satellite imaging capabilities to GEO</title>
-<link>https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</link>
-<guid isPermaLink="true">https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</guid>
-<pubDate>Mon, 21 Sep 2026 14:08:23 +0000</pubDate>
-<description>WASHINGTON — HEO, an Australian company that uses satellites to image other space objects, has raised $25 million to extend its capabilities into geostationary orbit.</description>
-</item>
-<item>
-<title>Space Development Agency opens $369 million competition for missile-tracking ground network</title>
-<link>https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</link>
-<guid isPermaLink="true">https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</guid>
-<pubDate>Mon, 21 Sep 2026 13:30:00 +0000</pubDate>
-<description>WASHINGTON — The Space Development Agency is seeking industry proposals for a contract worth up to $369 million to expand the worldwide ground infrastructure supporting its constellation of low Earth orbit missile-warning and tracking satellites.</description>
-</item>
-<item>
-<title>Ukraine’s Starlink experience offers a lesson for the Pentagon</title>
-<link>https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</link>
-<guid isPermaLink="true">https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</guid>
-<pubDate>Mon, 21 Sep 2026 13:00:00 +0000</pubDate>
-<description>For some time now, the Ukrainian government has been seeking SpaceX’s authorization for the use of Starlink up to 200 kilometers inside Russia. Starlink has long provided high-speed connectivity to soldiers on the frontline, and Starlink terminals mounted on drones have been crucial to the “middle strike” campaign launched this spring, which involves the targeting of logistical routes into Crimea and military bases on the peninsula annexed by Russia. Musk, however, has reportedly had concerns that authorizing its use so deep inside Russian territory would amount to an escalation. Zelenskyy has since awarded Musk the Order of Freedom , one of Ukraine’s highest state honors, which can justifiably be seen as a bid to get him to change his mind.</description>
-</item>
-<item>
-<title>Satellite industry grapples with the end of Falcon 9</title>
-<link>https://spacenews.com/satellite-industry-grapples-with-the-end-of-falcon-9/</link>
-<guid isPermaLink="true">https://spacenews.com/satellite-industry-grapples-with-the-end-of-falcon-9/</guid>
-<pubDate>Mon, 21 Sep 2026 12:23:55 +0000</pubDate>
-<description>PARIS — The satellite industry is coming to grips with SpaceX’s plans to end commercial Falcon 9 launches in the next few years, creating a significant, if temporary, gap in access to orbit.</description>
-</item>
-<item>
-<title>GHGSat to improve methane detection with second-generation satellite</title>
-<link>https://spacenews.com/ghgsat-to-improve-methane-detection-with-second-generation-satellite/</link>
-<guid isPermaLink="true">https://spacenews.com/ghgsat-to-improve-methane-detection-with-second-generation-satellite/</guid>
-<pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-<description>PARIS – GHGSat’s second-generation satellite, unveiled Sept. 21, is twice as sensitive in detecting methane emissions while providing double the monitoring capacity of the Canadian firm’s original satellites.</description>
-</item>
-<item>
-<title>Pentagon plans phased Golden Dome buildout through 2035</title>
-<link>https://spacenews.com/pentagon-plans-phased-golden-dome-buildout-through-2035/</link>
-<guid isPermaLink="true">https://spacenews.com/pentagon-plans-phased-golden-dome-buildout-through-2035/</guid>
-<pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
-<description>WASHINGTON — Gen. Michael Guetlein, head of the Golden Dome missile defense program, said the Pentagon is taking a two-stage approach, planning to stitch together existing military systems for an initial missile shield in 2028 before transitioning to a more affordable architecture designed specifically for homeland defense by 2035.</description>
-</item>
-<item>
-<title>Space Force expands use of commercial satellites to track electronic interference</title>
-<link>https://spacenews.com/space-force-expands-use-of-commercial-satellites-to-track-electronic-interference/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-expands-use-of-commercial-satellites-to-track-electronic-interference/</guid>
-<pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
-<description>WASHINGTON — The U.S. Space Force is expanding the use of commercial satellites to detect and locate GPS jamming and other electronic interference, turning what began as an experiment into a standing global operation.</description>
-</item>
-<item>
-<title>Rocket Lab continues high Electron cadence with Synspective launch</title>
-<link>https://spacenews.com/rocket-lab-continues-high-electron-cadence-with-synspective-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-continues-high-electron-cadence-with-synspective-launch/</guid>
-<pubDate>Sat, 19 Sep 2026 09:47:52 +0000</pubDate>
-<description>PARIS — Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on Sept. 18 on the fifth flight of its Electron rocket in a month and a half.</description>
-</item>
-<item>
-<title>Sedaro gets $45 million in Space Force funding to expand mission analysis software</title>
-<link>https://spacenews.com/sedaro-gets-45-million-in-space-force-funding-to-expand-mission-analysis-software/</link>
-<guid isPermaLink="true">https://spacenews.com/sedaro-gets-45-million-in-space-force-funding-to-expand-mission-analysis-software/</guid>
-<pubDate>Fri, 18 Sep 2026 22:42:42 +0000</pubDate>
-<description>WASHINGTON — Space software company Sedaro will receive up to $45 million in government funding to expand a platform that helps the U.S. Space Force analyze how different satellites, sensors and other capabilities perform together.</description>
-</item>
-<item>
-<title>NASA adds three ISS missions to SpaceX Crew Dragon contract</title>
-<link>https://spacenews.com/nasa-adds-three-iss-missions-to-spacex-crew-dragon-contract/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-adds-three-iss-missions-to-spacex-crew-dragon-contract/</guid>
-<pubDate>Fri, 18 Sep 2026 21:47:07 +0000</pubDate>
-<description>PARIS — NASA has proceeded with plans to purchase three additional SpaceX Crew Dragon missions to the International Space Station, although the spacecraft’s long-term future remains uncertain.</description>
-</item>
-<item>
-<title>Final ViaSat-3 enters service as SES wraps up O3b mPower launch campaign</title>
-<link>https://spacenews.com/final-viasat-3-enters-service-as-ses-wraps-up-o3b-mpower-launch-campaign/</link>
-<guid isPermaLink="true">https://spacenews.com/final-viasat-3-enters-service-as-ses-wraps-up-o3b-mpower-launch-campaign/</guid>
-<pubDate>Fri, 18 Sep 2026 20:40:53 +0000</pubDate>
-<description>TAMPA, Fla. — The third and final terabit-class ViaSat-3 broadband satellite has entered service over the Americas, the U.S. operator announced Sept. 17, days after SpaceX launched the final three spacecraft for Luxembourg-based SES’ O3b mPower network.</description>
-</item>
-<item>
-<title>Space Force eyes mesh network of spy satellites in GEO</title>
-<link>https://spacenews.com/space-force-eyes-mesh-network-of-spy-satellites-in-geo/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-eyes-mesh-network-of-spy-satellites-in-geo/</guid>
-<pubDate>Fri, 18 Sep 2026 20:30:24 +0000</pubDate>
-<description>WASHINGTON — The U.S. Space Force is planning a network of satellites that would continuously monitor activity around geosynchronous orbit and communicate with one another to quickly relay surveillance data to military operators.</description>
-</item>
-<item>
-<title>Northrop Grumman, True Anomaly to build military geostationary surveillance satellites</title>
-<link>https://spacenews.com/northrop-grumman-true-anomaly-to-build-military-geostationary-surveillance-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/northrop-grumman-true-anomaly-to-build-military-geostationary-surveillance-satellites/</guid>
-<pubDate>Fri, 18 Sep 2026 16:18:28 +0000</pubDate>
-<description>WASHINGTON — The Defense Innovation Unit has selected Northrop Grumman and True Anomaly to build prototype satellites capable of closely monitoring spacecraft in geosynchronous orbit.</description>
-</item>
-<item>
-<title>Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs</title>
-<link>https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
-<pubDate>Fri, 18 Sep 2026 14:47:38 +0000</pubDate>
-<description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Orders rebound amid signs of a GEO renaissance</title>
-<link>https://spacenews.com/orders-rebound-amid-signs-of-a-geo-renaissance/</link>
-<guid isPermaLink="true">https://spacenews.com/orders-rebound-amid-signs-of-a-geo-renaissance/</guid>
-<pubDate>Fri, 18 Sep 2026 14:44:30 +0000</pubDate>
-<description>TAMPA, Fla. — There are early signs of a resurgence in communications satellites destined for commercial customers in geostationary orbit (GEO), following years of being overshadowed by massive broadband constellations flying much closer to Earth.</description>
-</item>
-<item>
-<title>Jamming created a resilience market. The space industry is losing it to the ground.</title>
-<link>https://spacenews.com/jamming-created-a-resilience-market-the-space-industry-is-losing-it-to-the-ground/</link>
-<guid isPermaLink="true">https://spacenews.com/jamming-created-a-resilience-market-the-space-industry-is-losing-it-to-the-ground/</guid>
-<pubDate>Fri, 18 Sep 2026 13:00:00 +0000</pubDate>
-<description>In the first quarter of this year, roughly 978,000 maritime GPS jamming events were recorded worldwide. Ninety-eight percent of them happened in one place: the Middle East Gulf. It is the largest single-quarter concentration of maritime jamming ever recorded, and more than 1,100 vessels in the region were affected.</description>
-</item>
-<item>
-<title>Aschbacher upbeat about winning support for a European human spaceflight program</title>
-<link>https://spacenews.com/aschbacher-upbeat-about-winning-support-for-a-european-human-spaceflight-program/</link>
-<guid isPermaLink="true">https://spacenews.com/aschbacher-upbeat-about-winning-support-for-a-european-human-spaceflight-program/</guid>
-<pubDate>Fri, 18 Sep 2026 07:23:00 +0000</pubDate>
-<description>PARIS — The head of the European Space Agency is optimistic that member states will back plans to pursue human spaceflight and other key programs at a critical December meeting.</description>
-</item>
-<item>
-<title>Astra projecting early 2027 for the introduction of Rocket 4.0</title>
-<link>https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</link>
-<guid isPermaLink="true">https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</guid>
-<pubDate>Fri, 18 Sep 2026 04:07:56 +0000</pubDate>
-<description>PARIS — Astra is now planning a first launch of its Rocket 4.0 vehicle in early 2027 as it aims to reenter a market increasingly desperate for launch capacity.</description>
-</item>
-<item>
-<title>Space Command says satellite tracking must evolve for combat in orbit</title>
-<link>https://spacenews.com/space-command-says-satellite-tracking-must-evolve-for-combat-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/space-command-says-satellite-tracking-must-evolve-for-combat-in-orbit/</guid>
-<pubDate>Thu, 17 Sep 2026 19:55:33 +0000</pubDate>
-<description>WASHINGTON — The U.S. military has expanded its ability to track objects in orbit but still needs to better connect that information to command systems and weapons as it prepares for the possibility of combat in space, the head of U.S. Space Command said.</description>
 </item>
 </channel>
 </rss>
