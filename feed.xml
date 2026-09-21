@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 21 Sep 2026 06:13:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 07:10:10 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pentagon plans phased Golden Dome buildout through 2035</title>
+<link>https://spacenews.com/pentagon-plans-phased-golden-dome-buildout-through-2035/</link>
+<guid isPermaLink="true">https://spacenews.com/pentagon-plans-phased-golden-dome-buildout-through-2035/</guid>
+<pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
+<description>WASHINGTON — Gen. Michael Guetlein, head of the Golden Dome missile defense program, said the Pentagon is taking a two-stage approach, planning to stitch together existing military systems for an initial missile shield in 2028 before transitioning to a more affordable architecture designed specifically for homeland defense by 2035.</description>
+</item>
 <item>
 <title>Sept. 23: What Comes Next for On-Orbit Servicing?</title>
 <link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/intuitive-machines-eyes-orbital-data-center-opportunities/</guid>
 <pubDate>Thu, 17 Sep 2026 10:25:06 +0000</pubDate>
 <description>PARIS — Intuitive Machines is examining how it can leverage satellite capabilities it gained from the acquisition of a major manufacturer into the emerging market for orbital data centers.</description>
-</item>
-<item>
-<title>China conducts four launches inside 48 hours as launch options diversify</title>
-<link>https://spacenews.com/china-conducts-four-launches-inside-48-hours-as-launch-options-diversify/</link>
-<guid isPermaLink="true">https://spacenews.com/china-conducts-four-launches-inside-48-hours-as-launch-options-diversify/</guid>
-<pubDate>Thu, 17 Sep 2026 10:19:52 +0000</pubDate>
-<description>HELSINKI — China carried out four launches in quick succession, starting Tuesday, using its Jiuquan and Hainan spaceports and a maritime mission from the East China Sea.</description>
 </item>
 </channel>
 </rss>
