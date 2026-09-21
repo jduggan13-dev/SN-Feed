@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 21 Sep 2026 11:09:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 12:11:26 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>GHGSat to improve methane detection with second-generation satellite</title>
+<link>https://spacenews.com/ghgsat-to-improve-methane-detection-with-second-generation-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/ghgsat-to-improve-methane-detection-with-second-generation-satellite/</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+<description>PARIS – GHGSat’s second-generation satellite, unveiled Sept. 21, is twice as sensitive in detecting methane emissions while providing double the monitoring capacity of the Canadian firm’s original satellites.</description>
+</item>
 <item>
 <title>Sept. 23: What Comes Next for On-Orbit Servicing?</title>
 <link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
 <pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
 <description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […] The post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Eight African nations signed the Artemis Accords. Now give them a path to the moon.</title>
-<link>https://spacenews.com/eight-african-nations-signed-the-artemis-accords-now-give-them-a-path-to-the-moon/</link>
-<guid isPermaLink="true">https://spacenews.com/eight-african-nations-signed-the-artemis-accords-now-give-them-a-path-to-the-moon/</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
-<description>A year and a half ago, we took to SpaceNews to plead our case: If the United States teamed up with African nations in space, everyone would win. Washington would deepen relationships across a fast-changing continent while African partners could use space technology to tackle critical problems like food insecurity, climate resilience and digital isolation.</description>
 </item>
 </channel>
 </rss>
