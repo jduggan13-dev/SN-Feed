@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 21 Sep 2026 13:08:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 14:09:23 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>HEO raises $25 million to expand satellite imaging capabilities to GEO</title>
+<link>https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</link>
+<guid isPermaLink="true">https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</guid>
+<pubDate>Mon, 21 Sep 2026 14:08:23 +0000</pubDate>
+<description>WASHINGTON — HEO, an Australian company that uses satellites to image other space objects, has raised $25 million to extend its capabilities into geostationary orbit.</description>
+</item>
+<item>
+<title>Space Development Agency opens $369 million competition for missile-tracking ground network</title>
+<link>https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</link>
+<guid isPermaLink="true">https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</guid>
+<pubDate>Mon, 21 Sep 2026 13:30:00 +0000</pubDate>
+<description>WASHINGTON — The Space Development Agency is seeking industry proposals for a contract worth up to $369 million to expand the worldwide ground infrastructure supporting its constellation of low Earth orbit missile-warning and tracking satellites.</description>
+</item>
 <item>
 <title>Ukraine’s Starlink experience offers a lesson for the Pentagon</title>
 <link>https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</guid>
 <pubDate>Thu, 17 Sep 2026 15:05:15 +0000</pubDate>
 <description>PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […]</description>
-</item>
-<item>
-<title>Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges</title>
-<link>https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</guid>
-<pubDate>Thu, 17 Sep 2026 14:40:51 +0000</pubDate>
-<description>LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
-<link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
-<guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
-<pubDate>Thu, 17 Sep 2026 14:37:26 +0000</pubDate>
-<description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
