@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 21 Sep 2026 23:08:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 00:12:23 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Albania signs the Artemis Accords</title>
+<link>https://spacenews.com/albania-signs-the-artemis-accords/</link>
+<guid isPermaLink="true">https://spacenews.com/albania-signs-the-artemis-accords/</guid>
+<pubDate>Mon, 21 Sep 2026 23:40:58 +0000</pubDate>
+<description>WASHINGTON — Albania is the latest country to sign the Artemis Accords, part of a surge of new signatories ahead of a key meeting next month.</description>
+</item>
 <item>
 <title>Space Force exploring standby fleet of rapid-response satellites</title>
 <link>https://spacenews.com/space-force-exploring-standby-fleet-of-rapid-response-satellites/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/aschbacher-upbeat-about-winning-support-for-a-european-human-spaceflight-program/</guid>
 <pubDate>Fri, 18 Sep 2026 07:23:00 +0000</pubDate>
 <description>PARIS — The head of the European Space Agency is optimistic that member states will back plans to pursue human spaceflight and other key programs at a critical December meeting.</description>
-</item>
-<item>
-<title>Astra projecting early 2027 for the introduction of Rocket 4.0</title>
-<link>https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</link>
-<guid isPermaLink="true">https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</guid>
-<pubDate>Fri, 18 Sep 2026 04:07:56 +0000</pubDate>
-<description>PARIS — Astra is now planning a first launch of its Rocket 4.0 vehicle in early 2027 as it aims to reenter a market increasingly desperate for launch capacity.</description>
 </item>
 </channel>
 </rss>
