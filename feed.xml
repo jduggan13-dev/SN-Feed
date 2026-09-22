@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 22 Sep 2026 12:11:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 13:09:47 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>IP law has a space problem</title>
+<link>https://spacenews.com/ip-law-has-a-space-problem/</link>
+<guid isPermaLink="true">https://spacenews.com/ip-law-has-a-space-problem/</guid>
+<pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
+<description>Falling launch costs and rising launch cadence have turned a once-fanciful idea into a live commercial proposal: data centers in orbit. Several companies have floated space-based facilities that would run AI workloads using space’s free solar power and radiative cooling, without the land-use fights that increasingly slow terrestrial data center construction. These proposals may or may not reach orbit on their backers’ timelines, but they are the most concrete example of a broader shift already underway, one that also sits behind proposed moonbases, asteroid and lunar mining ventures and travel to more distant destinations: the exploitation of space is upon us.</description>
+</item>
+<item>
+<title>ESA awards study contracts for dual-use Earth observation system</title>
+<link>https://spacenews.com/esa-awards-study-contracts-for-dual-use-earth-observation-system/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-awards-study-contracts-for-dual-use-earth-observation-system/</guid>
+<pubDate>Tue, 22 Sep 2026 12:12:12 +0000</pubDate>
+<description>WASHINGTON — The European Space Agency and European Commission awarded contracts to two teams of companies to study architectures for an Earth imaging constellation for security applications.</description>
+</item>
 <item>
 <title>The Electronics Under The Hood Of Space Networking</title>
 <link>https://spacenews.com/the-electronics-under-the-hood-of-space-networking/</link>
@@ -198,25 +212,11 @@
 <description>PARIS — The head of the European Space Agency is optimistic that member states will back plans to pursue human spaceflight and other key programs at a critical December meeting.</description>
 </item>
 <item>
-<title>Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation</title>
-<link>https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</guid>
-<pubDate>Thu, 17 Sep 2026 15:05:15 +0000</pubDate>
-<description>PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […] The post Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges</title>
-<link>https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</guid>
-<pubDate>Thu, 17 Sep 2026 14:40:51 +0000</pubDate>
-<description>LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
-<link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
-<guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
-<pubDate>Thu, 17 Sep 2026 14:37:26 +0000</pubDate>
-<description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
+<title>Astra projecting early 2027 for the introduction of Rocket 4.0</title>
+<link>https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</link>
+<guid isPermaLink="true">https://spacenews.com/astra-projecting-early-2027-for-the-introduction-of-rocket-4-0/</guid>
+<pubDate>Fri, 18 Sep 2026 04:07:56 +0000</pubDate>
+<description>PARIS — Astra is now planning a first launch of its Rocket 4.0 vehicle in early 2027 as it aims to reenter a market increasingly desperate for launch capacity.</description>
 </item>
 </channel>
 </rss>
