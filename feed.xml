@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 23 Sep 2026 09:09:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 10:09:15 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Chinese launch startup Space Epoch raises $343 million</title>
+<link>https://spacenews.com/chinese-launch-startup-space-epoch-raises-343-million/</link>
+<guid isPermaLink="true">https://spacenews.com/chinese-launch-startup-space-epoch-raises-343-million/</guid>
+<pubDate>Wed, 23 Sep 2026 09:57:07 +0000</pubDate>
+<description>HELSINKI — China’s Space Epoch has secured major new funding as it aims to have its Yuanxingzhe-1 rocket ready to fly by the end of the year.</description>
+</item>
 <item>
 <title>ClearSpace signs ESA contract to advance Phoenix GEO life extension mission</title>
 <link>https://spacenews.com/clearspace-signs-esa-contract-to-advance-phoenix-geo-life-extension-mission/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
 <pubDate>Fri, 18 Sep 2026 14:47:38 +0000</pubDate>
 <description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Orders rebound amid signs of a GEO renaissance</title>
-<link>https://spacenews.com/orders-rebound-amid-signs-of-a-geo-renaissance/</link>
-<guid isPermaLink="true">https://spacenews.com/orders-rebound-amid-signs-of-a-geo-renaissance/</guid>
-<pubDate>Fri, 18 Sep 2026 14:44:30 +0000</pubDate>
-<description>TAMPA, Fla. — There are early signs of a resurgence in communications satellites destined for commercial customers in geostationary orbit (GEO), following years of being overshadowed by massive broadband constellations flying much closer to Earth.</description>
 </item>
 </channel>
 </rss>
