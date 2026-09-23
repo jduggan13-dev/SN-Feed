@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 23 Sep 2026 18:12:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 19:09:03 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -30,13 +30,6 @@
 <description>Exolaunch, a company best known for arranging launches of satellites, is moving into microgravity research services by buying a SpaceX Starfall mission.</description>
 </item>
 <item>
-<title>Sept. 23: What Comes Next for On-Orbit Servicing?</title>
-<link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
-<guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post Sept. 23: What Comes Next for On-Orbit Servicing? appeared first on SpaceNews .</description>
-</item>
-<item>
 <title>Chinese launch startup Space Epoch raises $343 million</title>
 <link>https://spacenews.com/chinese-launch-startup-space-epoch-raises-343-million/</link>
 <guid isPermaLink="true">https://spacenews.com/chinese-launch-startup-space-epoch-raises-343-million/</guid>
@@ -49,20 +42,6 @@
 <guid isPermaLink="true">https://spacenews.com/clearspace-signs-esa-contract-to-advance-phoenix-geo-life-extension-mission/</guid>
 <pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
 <description>TAMPA, Fla. — Luxembourg-based in-orbit servicing venture ClearSpace announced a contract Sept. 23 with the European Space Agency to help mature technologies for Phoenix, a mission aiming to extend the life of a geostationary satellite due to retire between 2028 and 2030.</description>
-</item>
-<item>
-<title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
-<link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
-<guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
-<link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
-<guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>The Electronics Under The Hood Of Space Networking</title>
@@ -156,41 +135,6 @@
 <description>For some time now, the Ukrainian government has been seeking SpaceX’s authorization for the use of Starlink up to 200 kilometers inside Russia. Starlink has long provided high-speed connectivity to soldiers on the frontline, and Starlink terminals mounted on drones have been crucial to the “middle strike” campaign launched this spring, which involves the targeting of logistical routes into Crimea and military bases on the peninsula annexed by Russia. Musk, however, has reportedly had concerns that authorizing its use so deep inside Russian territory would amount to an escalation. Zelenskyy has since awarded Musk the Order of Freedom , one of Ukraine’s highest state honors, which can justifiably be seen as a bid to get him to change his mind.</description>
 </item>
 <item>
-<title>Ethereal Space Awarded Noaa Sbem Task Order 1</title>
-<link>https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/</link>
-<guid isPermaLink="true">https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>DENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s […] The post Ethereal Space Awarded NOAA SBEM Task Order 1 appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Commercial Space Federation (CSF) Welcomes Two New Members</title>
-<link>https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs</title>
-<link>https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges</title>
-<link>https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</title>
-<link>https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</link>
-<guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
-<pubDate>Wed, 23 Sep 2026 18:12:08 +0000</pubDate>
-<description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […] The post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews .</description>
-</item>
-<item>
 <title>Stellar Dispatch</title>
 <link>https://spacenews.com/stellar-dispatch/</link>
 <guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
@@ -212,11 +156,67 @@
 <description>Accessibility Statement</description>
 </item>
 <item>
+<title>Ethereal Space Awarded NOAA SBEM Task Order 1</title>
+<link>https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/</link>
+<guid isPermaLink="true">https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/</guid>
+<pubDate>Wed, 23 Sep 2026 15:18:10 +0000</pubDate>
+<description>DENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s […] The post Ethereal Space Awarded NOAA SBEM Task Order 1 appeared first on SpaceNews .</description>
+</item>
+<item>
 <title>Impulse Space Ramps Up Geo Rideshare Program</title>
 <link>https://spacenews.com/impulse-space-ramps-up-geo-rideshare-program/</link>
 <guid isPermaLink="true">https://spacenews.com/impulse-space-ramps-up-geo-rideshare-program/</guid>
 <pubDate>Tue, 22 Sep 2026 23:08:03 +0000</pubDate>
 <description>Impulse Space Ramps Up Geo Rideshare Program</description>
+</item>
+<item>
+<title>Commercial Space Federation (CSF) Welcomes Two New Members</title>
+<link>https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</link>
+<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</guid>
+<pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
+<description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs</title>
+<link>https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</link>
+<guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
+<pubDate>Fri, 18 Sep 2026 14:47:38 +0000</pubDate>
+<description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation</title>
+<link>https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</guid>
+<pubDate>Thu, 17 Sep 2026 15:05:15 +0000</pubDate>
+<description>PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […] The post Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges</title>
+<link>https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</link>
+<guid isPermaLink="true">https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</guid>
+<pubDate>Thu, 17 Sep 2026 14:40:51 +0000</pubDate>
+<description>LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
+<link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
+<guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
+<pubDate>Thu, 17 Sep 2026 14:37:26 +0000</pubDate>
+<description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A</title>
+<link>https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</link>
+<guid isPermaLink="true">https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
+<description>Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […] The post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Icarus Robotics tests Joy in Canada ahead of ISS flight</title>
+<link>https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</link>
+<guid isPermaLink="true">https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
+<description>PARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space […] The post Icarus Robotics tests Joy in Canada ahead of ISS flight appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
