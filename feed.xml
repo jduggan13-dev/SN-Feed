@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 24 Sep 2026 11:09:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 12:11:35 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Isaacman says NASA ‘dodged a bullet’ with Chinese lunar mission delay</title>
+<link>https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</link>
+<guid isPermaLink="true">https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</guid>
+<pubDate>Thu, 24 Sep 2026 11:59:02 +0000</pubDate>
+<description>NASA Administrator Jared Isaacman said the agency “dodged a bullet” with the unexpected delay in a Chinese lunar mission as the countries race to land humans on the moon.</description>
+</item>
 <item>
 <title>D2D satellite operators need to look behind MNOs to reach their full business potential</title>
 <link>https://spacenews.com/d2d-satellite-operators-need-to-look-behind-mnos-to-reach-their-full-business-potential/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</guid>
 <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
 <description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>HEO raises $25 million to expand satellite imaging capabilities to GEO</title>
-<link>https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</link>
-<guid isPermaLink="true">https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</guid>
-<pubDate>Mon, 21 Sep 2026 14:08:23 +0000</pubDate>
-<description>WASHINGTON — HEO, an Australian company that uses satellites to image other space objects, has raised $25 million to extend its capabilities into geostationary orbit.</description>
 </item>
 </channel>
 </rss>
