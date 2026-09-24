@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 24 Sep 2026 15:09:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 16:10:06 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>True or false on space industry trends with Pacôme Révillon</title>
+<link>https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</link>
+<guid isPermaLink="true">https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</guid>
+<pubDate>Thu, 24 Sep 2026 15:51:42 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […]</description>
+</item>
 <item>
 <title>Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production</title>
 <link>https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/</link>
@@ -191,32 +198,25 @@
 <description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs</title>
-<link>https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
-<pubDate>Fri, 18 Sep 2026 14:47:38 +0000</pubDate>
-<description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
+<title>HEO raises $25 million to expand satellite imaging capabilities to GEO</title>
+<link>https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</link>
+<guid isPermaLink="true">https://spacenews.com/heo-raises-25-million-to-expand-satellite-imaging-capabilities-to-geo/</guid>
+<pubDate>Mon, 21 Sep 2026 14:08:23 +0000</pubDate>
+<description>HEO, an Australian company that uses satellites to image other space objects, has raised $25 million to extend its capabilities into geostationary orbit.</description>
 </item>
 <item>
-<title>Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation</title>
-<link>https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</guid>
-<pubDate>Thu, 17 Sep 2026 15:05:15 +0000</pubDate>
-<description>PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […] The post Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation appeared first on SpaceNews .</description>
+<title>Space Development Agency opens $369 million competition for missile-tracking ground network</title>
+<link>https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</link>
+<guid isPermaLink="true">https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</guid>
+<pubDate>Mon, 21 Sep 2026 13:30:00 +0000</pubDate>
+<description>SDA seeks contractor to build gateways linking proliferated LEO satellites to military networks</description>
 </item>
 <item>
-<title>Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges</title>
-<link>https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</guid>
-<pubDate>Thu, 17 Sep 2026 14:40:51 +0000</pubDate>
-<description>LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
-<link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
-<guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
-<pubDate>Thu, 17 Sep 2026 14:37:26 +0000</pubDate>
-<description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
+<title>Ukraine’s Starlink experience offers a lesson for the Pentagon</title>
+<link>https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</link>
+<guid isPermaLink="true">https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:00 +0000</pubDate>
+<description>For some time now, the Ukrainian government has been seeking SpaceX’s authorization for the use of Starlink up to 200 kilometers inside Russia. Starlink has long provided high-speed connectivity to soldiers on the frontline, and Starlink terminals mounted on drones have been crucial to the “middle strike” campaign launched this spring, which involves the targeting of logistical routes into Crimea and military bases on the peninsula annexed by Russia. Musk, however, has reportedly had concerns that authorizing its use so deep inside Russian territory would amount to an escalation. Zelenskyy has since awarded Musk the Order of Freedom , one of Ukraine’s highest state honors, which can justifiably be seen as a bid to get him to change his mind.</description>
 </item>
 </channel>
 </rss>
