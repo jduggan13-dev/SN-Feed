@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 24 Sep 2026 22:09:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 23:08:39 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force missile-tracking constellations advance in low and medium Earth orbit</title>
+<link>https://spacenews.com/space-force-missile-tracking-constellations-advance-in-low-and-medium-earth-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-constellations-advance-in-low-and-medium-earth-orbit/</guid>
+<pubDate>Thu, 24 Sep 2026 22:33:19 +0000</pubDate>
+<description>L3Harris, Rocket Lab and BAE Systems clear design milestones as the military builds out a multilayered sensor network</description>
+</item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/esa-awards-study-contracts-for-dual-use-earth-observation-system/</guid>
 <pubDate>Tue, 22 Sep 2026 12:12:12 +0000</pubDate>
 <description>The European Space Agency and European Commission awarded contracts to two teams of companies to study architectures for an Earth imaging constellation for security applications.</description>
-</item>
-<item>
-<title>Albania signs the Artemis Accords</title>
-<link>https://spacenews.com/albania-signs-the-artemis-accords/</link>
-<guid isPermaLink="true">https://spacenews.com/albania-signs-the-artemis-accords/</guid>
-<pubDate>Mon, 21 Sep 2026 23:40:58 +0000</pubDate>
-<description>WASHINGTON — Albania is the latest country to sign the Artemis Accords, part of a surge of new signatories ahead of a key meeting next month.</description>
 </item>
 </channel>
 </rss>
