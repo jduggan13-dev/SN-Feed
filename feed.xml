@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 23 Sep 2026 23:07:50 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 00:12:15 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force to put commercial satellite servicing to the test in 2027</title>
+<link>https://spacenews.com/space-force-to-put-commercial-satellite-servicing-to-the-test-in-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-to-put-commercial-satellite-servicing-to-the-test-in-2027/</guid>
+<pubDate>Wed, 23 Sep 2026 23:20:49 +0000</pubDate>
+<description>Astroscale and Starfish missions will test two approaches to extending satellite life as the military weighs funding, standards and operating rules</description>
+</item>
 <item>
 <title>The Electronics Under The Hood Of Space Networking</title>
 <link>https://spacenews.com/the-electronics-under-the-hood-of-space-networking/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/sedaro-gets-45-million-in-space-force-funding-to-expand-mission-analysis-software/</guid>
 <pubDate>Fri, 18 Sep 2026 22:42:42 +0000</pubDate>
 <description>Funding will scale software designed to show how satellites, sensors and other systems perform together in complex missions</description>
-</item>
-<item>
-<title>NASA adds three ISS missions to SpaceX Crew Dragon contract</title>
-<link>https://spacenews.com/nasa-adds-three-iss-missions-to-spacex-crew-dragon-contract/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-adds-three-iss-missions-to-spacex-crew-dragon-contract/</guid>
-<pubDate>Fri, 18 Sep 2026 21:47:07 +0000</pubDate>
-<description>NASA has proceeded with plans to purchase three additional SpaceX Crew Dragon missions to the International Space Station, although the spacecraft’s long-term future remains uncertain.</description>
 </item>
 </channel>
 </rss>
