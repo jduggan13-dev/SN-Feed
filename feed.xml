@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 24 Sep 2026 18:11:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:08:50 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>HawkEye 360 secures multiple Middle East contracts</title>
+<link>https://spacenews.com/hawkeye-360-secures-multiple-middle-east-contracts/</link>
+<guid isPermaLink="true">https://spacenews.com/hawkeye-360-secures-multiple-middle-east-contracts/</guid>
+<pubDate>Thu, 24 Sep 2026 18:14:58 +0000</pubDate>
+<description>SAN FRANCISCO – HawkEye 360 announced multiple contracts Sept. 24 with a combined value of about $18 million for Middle Eastern customers.</description>
+</item>
 <item>
 <title>True or false on space industry trends with Pacôme Révillon</title>
 <link>https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-development-agency-opens-369-million-competition-for-missile-tracking-ground-network/</guid>
 <pubDate>Mon, 21 Sep 2026 13:30:00 +0000</pubDate>
 <description>SDA seeks contractor to build gateways linking proliferated LEO satellites to military networks</description>
-</item>
-<item>
-<title>Ukraine’s Starlink experience offers a lesson for the Pentagon</title>
-<link>https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</link>
-<guid isPermaLink="true">https://spacenews.com/ukraines-starlink-experience-offers-a-lesson-for-the-pentagon/</guid>
-<pubDate>Mon, 21 Sep 2026 13:00:00 +0000</pubDate>
-<description>For some time now, the Ukrainian government has been seeking SpaceX’s authorization for the use of Starlink up to 200 kilometers inside Russia. Starlink has long provided high-speed connectivity to soldiers on the frontline, and Starlink terminals mounted on drones have been crucial to the “middle strike” campaign launched this spring, which involves the targeting of logistical routes into Crimea and military bases on the peninsula annexed by Russia. Musk, however, has reportedly had concerns that authorizing its use so deep inside Russian territory would amount to an escalation. Zelenskyy has since awarded Musk the Order of Freedom , one of Ukraine’s highest state honors, which can justifiably be seen as a bid to get him to change his mind.</description>
 </item>
 </channel>
 </rss>
