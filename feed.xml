@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 24 Sep 2026 13:10:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 14:09:36 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Starfish Space ready to launch its first Otter spacecraft</title>
+<link>https://spacenews.com/starfish-space-ready-to-launch-its-first-otter-spacecraft/</link>
+<guid isPermaLink="true">https://spacenews.com/starfish-space-ready-to-launch-its-first-otter-spacecraft/</guid>
+<pubDate>Thu, 24 Sep 2026 13:38:05 +0000</pubDate>
+<description>Starfish Space will launch its first Otter satellite-servicing spacecraft next month to test inspection and docking technologies.</description>
+</item>
 <item>
 <title>Isaacman says NASA ‘dodged a bullet’ with Chinese lunar mission delay</title>
 <link>https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-force-exploring-standby-fleet-of-rapid-response-satellites/</guid>
 <pubDate>Mon, 21 Sep 2026 22:39:44 +0000</pubDate>
 <description>WASHINGTON — The U.S. Space Force is looking for satellites that could be kept on standby, launched on short notice and sent to approach and inspect spacecraft in orbit.</description>
-</item>
-<item>
-<title>Commercial Space Federation (CSF) Welcomes Two New Members</title>
-<link>https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</guid>
-<pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-<description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
