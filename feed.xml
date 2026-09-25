@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 25 Sep 2026 14:10:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 15:10:00 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force opens new competition for satellite-control antennas</title>
+<link>https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/</guid>
+<pubDate>Fri, 25 Sep 2026 14:38:04 +0000</pubDate>
+<description>Space Force relaunches troubled SCAR program with broader competition</description>
+</item>
 <item>
 <title>Swift reboost mission ends with Link reentry</title>
 <link>https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/clearspace-signs-esa-contract-to-advance-phoenix-geo-life-extension-mission/</guid>
 <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
 <description>Luxembourg-based in-orbit servicing venture ClearSpace signed a contract Sept. 23 with the European Space Agency to help mature technologies for Phoenix, a mission aiming to extend the life of a geostationary satellite due to retire between 2028 and 2030.</description>
-</item>
-<item>
-<title>China continues rapid launch cadence with Long March 2D, Kinetica-1 missions</title>
-<link>https://spacenews.com/china-continues-rapid-launch-cadence-with-long-march-2d-kinetica-1-missions/</link>
-<guid isPermaLink="true">https://spacenews.com/china-continues-rapid-launch-cadence-with-long-march-2d-kinetica-1-missions/</guid>
-<pubDate>Wed, 23 Sep 2026 07:46:56 +0000</pubDate>
-<description>HELSINKI — China launched 13 satellites across two missions over the weekend, including commercial radar satellites and a nine-satellite rideshare featuring on-orbit computing and communications testbeds.</description>
 </item>
 </channel>
 </rss>
