@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 25 Sep 2026 12:11:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 13:11:16 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Swift reboost mission ends with Link reentry</title>
+<link>https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</link>
+<guid isPermaLink="true">https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</guid>
+<pubDate>Fri, 25 Sep 2026 13:00:00 +0000</pubDate>
+<description>A mission that attempted to raise the orbit of a NASA astrophysics spacecraft has officially ended, with lessons both NASA and the company involved plan to apply to future efforts.</description>
+</item>
 <item>
 <title>Britain can see the threats to its satellites. It still can’t stop them.</title>
 <link>https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/china-continues-rapid-launch-cadence-with-long-march-2d-kinetica-1-missions/</guid>
 <pubDate>Wed, 23 Sep 2026 07:46:56 +0000</pubDate>
 <description>HELSINKI — China launched 13 satellites across two missions over the weekend, including commercial radar satellites and a nine-satellite rideshare featuring on-orbit computing and communications testbeds.</description>
-</item>
-<item>
-<title>Space Force orders another Mira vehicle from Impulse Space for surveillance mission</title>
-<link>https://spacenews.com/space-force-orders-another-mira-vehicle-from-impulse-space-for-surveillance-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-orders-another-mira-vehicle-from-impulse-space-for-surveillance-mission/</guid>
-<pubDate>Wed, 23 Sep 2026 00:08:55 +0000</pubDate>
-<description>WASHINGTON — The U.S. Space Force has awarded Impulse Space a contract worth up to $31.2 million for a 2029 space. domain awareness mission using an optical sensor in low Earth orbit to monitor objects as far away as geosynchronous orbit.</description>
 </item>
 </channel>
 </rss>
