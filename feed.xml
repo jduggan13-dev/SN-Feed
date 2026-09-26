@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 26 Sep 2026 18:10:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 19:08:02 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>EU commissioner focuses on increasing European launch rates</title>
+<link>https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</link>
+<guid isPermaLink="true">https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</guid>
+<pubDate>Sat, 26 Sep 2026 17:48:46 +0000</pubDate>
+<description>The European Union commissioner responsible for space is taking a more active role in launch as he presses European companies to increase launch activity.</description>
+</item>
 <item>
 <title>Rocket Lab launches 13th Synspective satellite</title>
 <link>https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/ip-law-has-a-space-problem/</guid>
 <pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
 <description>Falling launch costs and rising launch cadence have turned a once-fanciful idea into a live commercial proposal: data centers in orbit. Several companies have floated space-based facilities that would run AI workloads using space’s free solar power and radiative cooling, without the land-use fights that increasingly slow terrestrial data center construction. These proposals may or may not reach orbit on their backers’ timelines, but they are the most concrete example of a broader shift already underway, one that also sits behind proposed moonbases, asteroid and lunar mining ventures and travel to more distant destinations: the exploitation of space is upon us.</description>
-</item>
-<item>
-<title>ESA awards study contracts for dual-use Earth observation system</title>
-<link>https://spacenews.com/esa-awards-study-contracts-for-dual-use-earth-observation-system/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-awards-study-contracts-for-dual-use-earth-observation-system/</guid>
-<pubDate>Tue, 22 Sep 2026 12:12:12 +0000</pubDate>
-<description>The European Space Agency and European Commission awarded contracts to two teams of companies to study architectures for an Earth imaging constellation for security applications.</description>
 </item>
 </channel>
 </rss>
