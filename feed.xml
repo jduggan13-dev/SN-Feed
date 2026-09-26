@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 26 Sep 2026 16:09:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 17:08:34 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rocket Lab launches 13th Synspective satellite</title>
+<link>https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/</guid>
+<pubDate>Sat, 26 Sep 2026 16:05:15 +0000</pubDate>
+<description>Rocket Lab continued a rapid pace of Electron launches with another mission for Japanese radar-imaging company Synspective on Sept. 25.</description>
+</item>
+<item>
+<title>U.S. secures authority for Golden Dome missile defense in Greenland</title>
+<link>https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</guid>
+<pubDate>Sat, 26 Sep 2026 15:56:21 +0000</pubDate>
+<description>New agreement permits expansion at Pituffik Space Force base and other areas</description>
+</item>
 <item>
 <title>Satellite Industry Grapples With The End Of Falcon 9</title>
 <link>https://spacenews.com/satellite-industry-grapples-with-the-end-of-falcon-9/</link>
@@ -184,39 +198,25 @@
 <description>HELSINKI — China launched 13 satellites across two missions over the weekend, including commercial radar satellites and a nine-satellite rideshare featuring on-orbit computing and communications testbeds.</description>
 </item>
 <item>
-<title>Commercial Space Federation (CSF) Welcomes Two New Members</title>
-<link>https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/</guid>
-<pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-<description>September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […] The post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews .</description>
+<title>Space Force orders another Mira vehicle from Impulse Space for surveillance mission</title>
+<link>https://spacenews.com/space-force-orders-another-mira-vehicle-from-impulse-space-for-surveillance-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-orders-another-mira-vehicle-from-impulse-space-for-surveillance-mission/</guid>
+<pubDate>Wed, 23 Sep 2026 00:08:55 +0000</pubDate>
+<description>Mira will operate in low Earth orbit with an MIT Lincoln Laboratory sensor observing objects in geosynchronous orbit</description>
 </item>
 <item>
-<title>Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs</title>
-<link>https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/</guid>
-<pubDate>Fri, 18 Sep 2026 14:47:38 +0000</pubDate>
-<description>IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […] The post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations &amp; Head of Strategic Programs appeared first on SpaceNews .</description>
+<title>IP law has a space problem</title>
+<link>https://spacenews.com/ip-law-has-a-space-problem/</link>
+<guid isPermaLink="true">https://spacenews.com/ip-law-has-a-space-problem/</guid>
+<pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
+<description>Falling launch costs and rising launch cadence have turned a once-fanciful idea into a live commercial proposal: data centers in orbit. Several companies have floated space-based facilities that would run AI workloads using space’s free solar power and radiative cooling, without the land-use fights that increasingly slow terrestrial data center construction. These proposals may or may not reach orbit on their backers’ timelines, but they are the most concrete example of a broader shift already underway, one that also sits behind proposed moonbases, asteroid and lunar mining ventures and travel to more distant destinations: the exploitation of space is upon us.</description>
 </item>
 <item>
-<title>Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation</title>
-<link>https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/</guid>
-<pubDate>Thu, 17 Sep 2026 15:05:15 +0000</pubDate>
-<description>PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […] The post Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges</title>
-<link>https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/</guid>
-<pubDate>Thu, 17 Sep 2026 14:40:51 +0000</pubDate>
-<description>LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
-<link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
-<guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
-<pubDate>Thu, 17 Sep 2026 14:37:26 +0000</pubDate>
-<description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
+<title>ESA awards study contracts for dual-use Earth observation system</title>
+<link>https://spacenews.com/esa-awards-study-contracts-for-dual-use-earth-observation-system/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-awards-study-contracts-for-dual-use-earth-observation-system/</guid>
+<pubDate>Tue, 22 Sep 2026 12:12:12 +0000</pubDate>
+<description>The European Space Agency and European Commission awarded contracts to two teams of companies to study architectures for an Earth imaging constellation for security applications.</description>
 </item>
 </channel>
 </rss>
