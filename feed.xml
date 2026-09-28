@@ -4,65 +4,16 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 28 Sep 2026 21:09:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 22:09:26 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>SpaceComputer’s first mission to travel from low-Earth to geostationary orbit</title>
-<link>https://spacenews.com/spacecomputers-first-mission-to-travel-from-low-earth-to-geostationary-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/spacecomputers-first-mission-to-travel-from-low-earth-to-geostationary-orbit/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>SAN FRANCISCO — SpaceComputer, a startup developing distributed computing infrastructure, is preparing to fly its first mission on a spacecraft traveling from low-Earth to geostationary orbit in 2027.</description>
-</item>
-<item>
-<title>Meridian Space Splits From Spinlaunch To Pursue Broadband Constellation Plans</title>
-<link>https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</link>
-<guid isPermaLink="true">https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Meridian Space has split from kinetic launch technology developer SpinLaunch as it seeks more funding to develop flat satellites it says could launch up to 250 at a time on a Falcon 9, enough for global broadband coverage.</description>
-</item>
-<item>
-<title>Northrop Grumman Delivers 21 Data Relay Satellites For Military Constellation</title>
-<link>https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>The spacecraft are the first of 42 Tranche 1 Transport Layer satellites ordered by the Space Development Agency in 2022</description>
-</item>
-<item>
-<title>Starship Lifts Off On First Orbital Flight Attempt</title>
-<link>https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</link>
-<guid isPermaLink="true">https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>SpaceX launched its Starship vehicle Sept. 28 on its first attempt to reach orbit and deploy operational satellites.</description>
-</item>
-<item>
-<title>Common data for shared detection: a blueprint for space cybersecurity</title>
-<link>https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</link>
-<guid isPermaLink="true">https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Space systems now underpin a growing share of federal and daily commercial operations, from navigation and communications to intelligence collection and emergency-response data. At the same time, these environments have become more software-defined, cloud-connected and dependent on enterprise-sized identity systems.</description>
-</item>
-<item>
-<title>Deep Blue Aerospace raises close to $300 million for reusable launch plans</title>
-<link>https://spacenews.com/deep-blue-aerospace-raises-close-to-300-million-for-reusable-launch-plans/</link>
-<guid isPermaLink="true">https://spacenews.com/deep-blue-aerospace-raises-close-to-300-million-for-reusable-launch-plans/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>HELSINKI — Chinese launch startup Deep Blue Aerospace has raised nearly $300 million for its reusable Nebula rockets while also testing an upgraded rocket engine.</description>
-</item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
 <guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
 <pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
 <description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>True Or False On Space Industry Trends With Pacome Revillon</title>
-<link>https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</link>
-<guid isPermaLink="true">https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […] The post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
@@ -77,118 +28,6 @@
 <guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
 <pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
 <description>A conversation about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post What Comes Next for On-Orbit Servicing? (Replay) appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>U.S. secures authority for Golden Dome missile defense in Greenland</title>
-<link>https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>New agreement permits expansion at Pituffik Space Force base and other areas</description>
-</item>
-<item>
-<title>Aerospacelab To Supply Satellite Platforms To Lockheed Martin</title>
-<link>https://spacenews.com/aerospacelab-to-supply-satellite-platforms-to-lockheed-martin/</link>
-<guid isPermaLink="true">https://spacenews.com/aerospacelab-to-supply-satellite-platforms-to-lockheed-martin/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>The company said Lockheed Martin has placed an order for two VSP-300 spacecraft buses</description>
-</item>
-<item>
-<title>Space Force Opens New Competition For Satellite Control Antennas</title>
-<link>https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Space Force relaunches troubled SCAR program with broader competition</description>
-</item>
-<item>
-<title>Eu Commissioner Focuses On Increasing European Launch Rates</title>
-<link>https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</link>
-<guid isPermaLink="true">https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>The European Union commissioner responsible for space is taking a more active role in launch as he presses European companies to increase launch activity.</description>
-</item>
-<item>
-<title>Rocket Lab launches 13th Synspective satellite</title>
-<link>https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Rocket Lab continued a rapid pace of Electron launches with another mission for Japanese radar-imaging company Synspective on Sept. 25.</description>
-</item>
-<item>
-<title>KBR taps veteran defense executive to lead Trinzic spinoff</title>
-<link>https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/</link>
-<guid isPermaLink="true">https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Michael LaRouche will lead a $5 billion company encompassing KBR’s national security and space businesses</description>
-</item>
-<item>
-<title>Three Countries Join The Artemis Accords</title>
-<link>https://spacenews.com/three-countries-join-the-artemis-accords/</link>
-<guid isPermaLink="true">https://spacenews.com/three-countries-join-the-artemis-accords/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Three countries signed the Artemis Accords in as many days last week, part of a surge of signatories ahead of a meeting at the upcoming International Astronautical Congress.</description>
-</item>
-<item>
-<title>Isaacman says NASA ‘dodged a bullet’ with Chinese lunar mission delay</title>
-<link>https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</link>
-<guid isPermaLink="true">https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Isaacman says NASA ‘dodged a bullet’ with Chinese lunar mission delay</description>
-</item>
-<item>
-<title>Swift Reboost Mission Ends With Link Reentry</title>
-<link>https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</link>
-<guid isPermaLink="true">https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>A mission that attempted to raise the orbit of a NASA astrophysics spacecraft has officially ended, with lessons both NASA and the company involved plan to apply to future efforts.</description>
-</item>
-<item>
-<title>Rocket Lab downplays importance of NASA business as it pursues Mars mission protest</title>
-<link>https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>Even as Rocket Lab protests a NASA Mars contract, the company is downplaying the role the agency plays in its overall business.</description>
-</item>
-<item>
-<title>Britain can see the threats to its satellites. It still can’t stop them.</title>
-<link>https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/</link>
-<guid isPermaLink="true">https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>With the announcement of the new UK Space Strategy 2026 , Britain has formally recognized that space is now a contested military domain. Nevertheless, recognizing the threat is not the same as acquiring the means to confront it. It puts defense and national security ahead of everything as the first of its two outcomes. It names control of space as a strategic requirement and a component of national power — in plain terms, protecting and defending U.K. interests in, from and through space. It also makes a useful industrial shift, moving to fewer, higher-value awards and acting as an anchor customer through the new Enterprise Space category, backing companies with flight heritage and a route to market rather than spreading thin grants across the field. Each of those is the right call; the sector is right to welcome them.</description>
-</item>
-<item>
-<title>D2D satellite operators need to look behind MNOs to reach their full business potential</title>
-<link>https://spacenews.com/d2d-satellite-operators-need-to-look-behind-mnos-to-reach-their-full-business-potential/</link>
-<guid isPermaLink="true">https://spacenews.com/d2d-satellite-operators-need-to-look-behind-mnos-to-reach-their-full-business-potential/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>D2D satellite operators need to look behind MNOs to reach their full business potential</description>
-</item>
-<item>
-<title>Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando</title>
-<link>https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</link>
-<guid isPermaLink="true">https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create […] The post Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Agile Space Industries Expands Leadership Structure To Support Next Phase Of Growth</title>
-<link>https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</link>
-<guid isPermaLink="true">https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company […] The post Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Moog Completes Iso Class 8 Clean Room At Niagara Falls Facility To Expand Thruster Production</title>
-<link>https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/</link>
-<guid isPermaLink="true">https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This […] The post Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Ethereal Space Awarded NOAA SBEM Task Order 1</title>
-<link>https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/</link>
-<guid isPermaLink="true">https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/</guid>
-<pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
-<description>DENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s […] The post Ethereal Space Awarded NOAA SBEM Task Order 1 appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Commercial Space Federation (CSF) Welcomes Two New Members</title>
@@ -217,6 +56,167 @@
 <guid isPermaLink="true">https://spacenews.com/accessibility-statement/</guid>
 <pubDate>Mon, 28 Sep 2026 21:09:23 +0000</pubDate>
 <description>Accessibility Statement</description>
+</item>
+<item>
+<title>SpaceComputer’s first mission to travel from low-Earth to geostationary orbit</title>
+<link>https://spacenews.com/spacecomputers-first-mission-to-travel-from-low-earth-to-geostationary-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/spacecomputers-first-mission-to-travel-from-low-earth-to-geostationary-orbit/</guid>
+<pubDate>Mon, 28 Sep 2026 17:45:04 +0000</pubDate>
+<description>SAN FRANCISCO — SpaceComputer, a startup developing distributed computing infrastructure, is preparing to fly its first mission on a spacecraft traveling from low-Earth to geostationary orbit in 2027.</description>
+</item>
+<item>
+<title>Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando</title>
+<link>https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</link>
+<guid isPermaLink="true">https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</guid>
+<pubDate>Mon, 28 Sep 2026 14:57:21 +0000</pubDate>
+<description>ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create […] The post Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Meridian Space splits from SpinLaunch to pursue broadband constellation plans</title>
+<link>https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</guid>
+<pubDate>Mon, 28 Sep 2026 14:40:13 +0000</pubDate>
+<description>Meridian Space has split from kinetic launch technology developer SpinLaunch as it seeks more funding to develop flat satellites it says could launch up to 250 at a time on a Falcon 9, enough for global broadband coverage.</description>
+</item>
+<item>
+<title>Northrop Grumman delivers 21 data-relay satellites for military constellation</title>
+<link>https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</guid>
+<pubDate>Mon, 28 Sep 2026 14:37:43 +0000</pubDate>
+<description>The spacecraft are the first of 42 Tranche 1 Transport Layer satellites ordered by the Space Development Agency in 2022</description>
+</item>
+<item>
+<title>Starship lifts off on first orbital flight attempt</title>
+<link>https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</link>
+<guid isPermaLink="true">https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</guid>
+<pubDate>Mon, 28 Sep 2026 13:19:44 +0000</pubDate>
+<description>SpaceX launched its Starship vehicle Sept. 28 on its first attempt to reach orbit and deploy operational satellites.</description>
+</item>
+<item>
+<title>Common data for shared detection: a blueprint for space cybersecurity</title>
+<link>https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</link>
+<guid isPermaLink="true">https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<description>Space systems now underpin a growing share of federal and daily commercial operations, from navigation and communications to intelligence collection and emergency-response data. At the same time, these environments have become more software-defined, cloud-connected and dependent on enterprise-sized identity systems.</description>
+</item>
+<item>
+<title>Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth</title>
+<link>https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</link>
+<guid isPermaLink="true">https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</guid>
+<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+<description>DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company […] The post Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Deep Blue Aerospace raises close to $300 million for reusable launch plans</title>
+<link>https://spacenews.com/deep-blue-aerospace-raises-close-to-300-million-for-reusable-launch-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/deep-blue-aerospace-raises-close-to-300-million-for-reusable-launch-plans/</guid>
+<pubDate>Mon, 28 Sep 2026 11:26:53 +0000</pubDate>
+<description>HELSINKI — Chinese launch startup Deep Blue Aerospace has raised nearly $300 million for its reusable Nebula rockets while also testing an upgraded rocket engine.</description>
+</item>
+<item>
+<title>Three countries join the Artemis Accords</title>
+<link>https://spacenews.com/three-countries-join-the-artemis-accords/</link>
+<guid isPermaLink="true">https://spacenews.com/three-countries-join-the-artemis-accords/</guid>
+<pubDate>Mon, 28 Sep 2026 10:08:20 +0000</pubDate>
+<description>Three countries signed the Artemis Accords in as many days last week, part of a surge of signatories ahead of a meeting at the upcoming International Astronautical Congress.</description>
+</item>
+<item>
+<title>Aerospacelab to supply satellite platforms to Lockheed Martin</title>
+<link>https://spacenews.com/aerospacelab-to-supply-satellite-platforms-to-lockheed-martin/</link>
+<guid isPermaLink="true">https://spacenews.com/aerospacelab-to-supply-satellite-platforms-to-lockheed-martin/</guid>
+<pubDate>Sun, 27 Sep 2026 11:14:26 +0000</pubDate>
+<description>The company said Lockheed Martin has placed an order for two VSP-300 spacecraft buses</description>
+</item>
+<item>
+<title>KBR taps veteran defense executive to lead Trinzic spinoff</title>
+<link>https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/</link>
+<guid isPermaLink="true">https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/</guid>
+<pubDate>Sat, 26 Sep 2026 20:03:12 +0000</pubDate>
+<description>Michael LaRouche will lead a $5 billion company encompassing KBR’s national security and space businesses</description>
+</item>
+<item>
+<title>EU commissioner focuses on increasing European launch rates</title>
+<link>https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</link>
+<guid isPermaLink="true">https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</guid>
+<pubDate>Sat, 26 Sep 2026 17:48:46 +0000</pubDate>
+<description>The European Union commissioner responsible for space is taking a more active role in launch as he presses European companies to increase launch activity.</description>
+</item>
+<item>
+<title>Rocket Lab launches 13th Synspective satellite</title>
+<link>https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/</guid>
+<pubDate>Sat, 26 Sep 2026 16:05:15 +0000</pubDate>
+<description>Rocket Lab continued a rapid pace of Electron launches with another mission for Japanese radar-imaging company Synspective on Sept. 25.</description>
+</item>
+<item>
+<title>U.S. secures authority for Golden Dome missile defense in Greenland</title>
+<link>https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</guid>
+<pubDate>Sat, 26 Sep 2026 15:56:21 +0000</pubDate>
+<description>New agreement permits expansion at Pituffik Space Force base and other areas</description>
+</item>
+<item>
+<title>Finland’s Iceye launches new Polish satellite technology center, eyes $31 million investments</title>
+<link>https://spacenews.com/finlands-iceye-launches-new-polish-satellite-technology-center-eyes-31-million-investments/</link>
+<guid isPermaLink="true">https://spacenews.com/finlands-iceye-launches-new-polish-satellite-technology-center-eyes-31-million-investments/</guid>
+<pubDate>Fri, 25 Sep 2026 20:32:26 +0000</pubDate>
+<description>WARSAW — Finnish synthetic aperture radar (SAR) constellation operator Iceye has established a new satellite technology center in Poland’s capital Warsaw. The new facility is designed to boost the company’s R&amp;D and production capacities in Poland, where Iceye aims to invest more than 120 million zloty ($31 million) between 2026 and 2028.</description>
+</item>
+<item>
+<title>Space Force opens new competition for satellite-control antennas</title>
+<link>https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/</guid>
+<pubDate>Fri, 25 Sep 2026 14:38:04 +0000</pubDate>
+<description>Space Force relaunches troubled SCAR program with broader competition</description>
+</item>
+<item>
+<title>Swift reboost mission ends with Link reentry</title>
+<link>https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</link>
+<guid isPermaLink="true">https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</guid>
+<pubDate>Fri, 25 Sep 2026 13:00:00 +0000</pubDate>
+<description>A mission that attempted to raise the orbit of a NASA astrophysics spacecraft has officially ended, with lessons both NASA and the company involved plan to apply to future efforts.</description>
+</item>
+<item>
+<title>Britain can see the threats to its satellites. It still can’t stop them.</title>
+<link>https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/</link>
+<guid isPermaLink="true">https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/</guid>
+<pubDate>Fri, 25 Sep 2026 11:00:00 +0000</pubDate>
+<description>With the announcement of the new UK Space Strategy 2026 , Britain has formally recognized that space is now a contested military domain. Nevertheless, recognizing the threat is not the same as acquiring the means to confront it. It puts defense and national security ahead of everything as the first of its two outcomes. It names control of space as a strategic requirement and a component of national power — in plain terms, protecting and defending U.K. interests in, from and through space. It also makes a useful industrial shift, moving to fewer, higher-value awards and acting as an anchor customer through the new Enterprise Space category, backing companies with flight heritage and a route to market rather than spreading thin grants across the field. Each of those is the right call; the sector is right to welcome them.</description>
+</item>
+<item>
+<title>Rocket Lab downplays importance of NASA business as it pursues Mars mission protest</title>
+<link>https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/</guid>
+<pubDate>Fri, 25 Sep 2026 10:59:26 +0000</pubDate>
+<description>Even as Rocket Lab protests a NASA Mars contract, the company is downplaying the role the agency plays in its overall business.</description>
+</item>
+<item>
+<title>Space Force missile-tracking constellations advance in low and medium Earth orbit</title>
+<link>https://spacenews.com/space-force-missile-tracking-constellations-advance-in-low-and-medium-earth-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-constellations-advance-in-low-and-medium-earth-orbit/</guid>
+<pubDate>Thu, 24 Sep 2026 22:33:19 +0000</pubDate>
+<description>L3Harris, Rocket Lab and BAE Systems clear design milestones as the military builds out a multilayered sensor network</description>
+</item>
+<item>
+<title>HawkEye 360 secures multiple Middle East contracts</title>
+<link>https://spacenews.com/hawkeye-360-secures-multiple-middle-east-contracts/</link>
+<guid isPermaLink="true">https://spacenews.com/hawkeye-360-secures-multiple-middle-east-contracts/</guid>
+<pubDate>Thu, 24 Sep 2026 18:14:58 +0000</pubDate>
+<description>SAN FRANCISCO – HawkEye 360 announced multiple contracts Sept. 24 with a combined value of about $18 million for Middle Eastern customers.</description>
+</item>
+<item>
+<title>True or false on space industry trends with Pacôme Révillon</title>
+<link>https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</link>
+<guid isPermaLink="true">https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</guid>
+<pubDate>Thu, 24 Sep 2026 15:51:42 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […] The post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production</title>
+<link>https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/</link>
+<guid isPermaLink="true">https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/</guid>
+<pubDate>Thu, 24 Sep 2026 15:05:28 +0000</pubDate>
+<description>East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This […] The post Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
