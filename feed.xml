@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 28 Sep 2026 13:10:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 14:12:27 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Starship lifts off on first orbital flight attempt</title>
+<link>https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</link>
+<guid isPermaLink="true">https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</guid>
+<pubDate>Mon, 28 Sep 2026 13:19:44 +0000</pubDate>
+<description>SpaceX launched its Starship vehicle Sept. 28 on its first attempt to reach orbit and deploy operational satellites.</description>
+</item>
 <item>
 <title>Common data for shared detection: a blueprint for space cybersecurity</title>
 <link>https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</guid>
 <pubDate>Thu, 24 Sep 2026 11:59:02 +0000</pubDate>
 <description>NASA Administrator Jared Isaacman said the agency “dodged a bullet” with the unexpected delay in a Chinese lunar mission as the countries race to land humans on the moon.</description>
-</item>
-<item>
-<title>D2D satellite operators need to look behind MNOs to reach their full business potential</title>
-<link>https://spacenews.com/d2d-satellite-operators-need-to-look-behind-mnos-to-reach-their-full-business-potential/</link>
-<guid isPermaLink="true">https://spacenews.com/d2d-satellite-operators-need-to-look-behind-mnos-to-reach-their-full-business-potential/</guid>
-<pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
-<description>Direct-to-device (D2D) services are primarily provided to end-users by Mobile Network Operators (MNOs). That’s because they are a valuable enhancement of terrestrial cellular services, making it logical that almost all D2D satellite operators focus their distribution on these MNOs. However new providers of telecommunications communications services besides MNOs have emerged over the last few years. Based on their high level of service tailoring for specific market segments these providers are increasingly playing a larger role in the global provision of terrestrial cellular services and, as a consequence, represent a growing share of the total global cellular business.</description>
 </item>
 </channel>
 </rss>
