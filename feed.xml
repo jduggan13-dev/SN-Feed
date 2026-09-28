@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 28 Sep 2026 14:12:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 15:12:20 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando</title>
+<link>https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</link>
+<guid isPermaLink="true">https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</guid>
+<pubDate>Mon, 28 Sep 2026 14:57:21 +0000</pubDate>
+<description>ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create […]</description>
+</item>
+<item>
+<title>Meridian Space splits from SpinLaunch to pursue broadband constellation plans</title>
+<link>https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</guid>
+<pubDate>Mon, 28 Sep 2026 14:40:13 +0000</pubDate>
+<description>Meridian Space has split from kinetic launch technology developer SpinLaunch as it seeks more funding to develop flat satellites it says could launch up to 250 at a time on a Falcon 9, enough for global broadband coverage.</description>
+</item>
+<item>
+<title>Northrop Grumman delivers 21 data-relay satellites for military constellation</title>
+<link>https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</guid>
+<pubDate>Mon, 28 Sep 2026 14:37:43 +0000</pubDate>
+<description>The spacecraft are the first of 42 Tranche 1 Transport Layer satellites ordered by the Space Development Agency in 2022</description>
+</item>
 <item>
 <title>Starship lifts off on first orbital flight attempt</title>
 <link>https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</guid>
 <pubDate>Thu, 24 Sep 2026 15:51:42 +0000</pubDate>
 <description>In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […] The post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production</title>
-<link>https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/</link>
-<guid isPermaLink="true">https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/</guid>
-<pubDate>Thu, 24 Sep 2026 15:05:28 +0000</pubDate>
-<description>East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This […] The post Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Starfish Space ready to launch its first Otter spacecraft</title>
-<link>https://spacenews.com/starfish-space-ready-to-launch-its-first-otter-spacecraft/</link>
-<guid isPermaLink="true">https://spacenews.com/starfish-space-ready-to-launch-its-first-otter-spacecraft/</guid>
-<pubDate>Thu, 24 Sep 2026 13:38:05 +0000</pubDate>
-<description>Starfish Space will launch its first Otter satellite-servicing spacecraft next month to test inspection and docking technologies.</description>
-</item>
-<item>
-<title>Isaacman says NASA ‘dodged a bullet’ with Chinese lunar mission delay</title>
-<link>https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</link>
-<guid isPermaLink="true">https://spacenews.com/isaacman-says-nasa-dodged-a-bullet-with-chinese-lunar-mission-delay/</guid>
-<pubDate>Thu, 24 Sep 2026 11:59:02 +0000</pubDate>
-<description>NASA Administrator Jared Isaacman said the agency “dodged a bullet” with the unexpected delay in a Chinese lunar mission as the countries race to land humans on the moon.</description>
 </item>
 </channel>
 </rss>
