@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 29 Sep 2026 17:09:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 18:12:25 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Terran Orbital Names Jamin Brown Chief Operating Officer</title>
+<link>https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</link>
+<guid isPermaLink="true">https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</guid>
+<pubDate>Tue, 29 Sep 2026 17:42:20 +0000</pubDate>
+<description>IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […]</description>
+</item>
 <item>
 <title>Electric-pump propulsion emerges as new front in China’s commercial launch sector</title>
 <link>https://spacenews.com/electric-pump-propulsion-emerges-as-new-front-in-chinas-commercial-launch-sector/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/aerospacelab-to-supply-satellite-platforms-to-lockheed-martin/</guid>
 <pubDate>Sun, 27 Sep 2026 11:14:26 +0000</pubDate>
 <description>The company said Lockheed Martin has placed an order for two VSP-300 spacecraft buses</description>
-</item>
-<item>
-<title>KBR taps veteran defense executive to lead Trinzic spinoff</title>
-<link>https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/</link>
-<guid isPermaLink="true">https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/</guid>
-<pubDate>Sat, 26 Sep 2026 20:03:12 +0000</pubDate>
-<description>Michael LaRouche will lead a $5 billion company encompassing KBR’s national security and space businesses</description>
 </item>
 </channel>
 </rss>
