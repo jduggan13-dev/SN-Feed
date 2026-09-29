@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 29 Sep 2026 11:09:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 12:12:37 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Poland’s Eycore secures first Earth images from flagship satellite</title>
+<link>https://spacenews.com/polands-eycore-secures-first-earth-images-from-flagship-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/polands-eycore-secures-first-earth-images-from-flagship-satellite/</guid>
+<pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+<description>WARSAW, Poland — Polish space company Eycore has presented the first images of the Earth’s surface captured by its flagship EYCORE-1 satellite, demonstrating the performance of the company’s synthetic aperture radar (SAR) system.</description>
+</item>
 <item>
 <title>If AI cannot be trusted in a classroom, why should it be trusted in orbit?</title>
 <link>https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/</guid>
 <pubDate>Fri, 25 Sep 2026 10:59:26 +0000</pubDate>
 <description>Even as Rocket Lab protests a NASA Mars contract, the company is downplaying the role the agency plays in its overall business.</description>
-</item>
-<item>
-<title>Space Force missile-tracking constellations advance in low and medium Earth orbit</title>
-<link>https://spacenews.com/space-force-missile-tracking-constellations-advance-in-low-and-medium-earth-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-constellations-advance-in-low-and-medium-earth-orbit/</guid>
-<pubDate>Thu, 24 Sep 2026 22:33:19 +0000</pubDate>
-<description>L3Harris, Rocket Lab and BAE Systems clear design milestones as the military builds out a multilayered sensor network</description>
 </item>
 </channel>
 </rss>
