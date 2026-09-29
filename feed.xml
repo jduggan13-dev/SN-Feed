@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 29 Sep 2026 12:12:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 13:12:25 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Network lines up $150 million in pre-orders for decentralized satellite network</title>
+<link>https://spacenews.com/space-network-lines-up-150-million-in-pre-orders-for-decentralized-satellite-network/</link>
+<guid isPermaLink="true">https://spacenews.com/space-network-lines-up-150-million-in-pre-orders-for-decentralized-satellite-network/</guid>
+<pubDate>Tue, 29 Sep 2026 13:05:04 +0000</pubDate>
+<description>Space Network has secured a $50 million binding pre-order from a renewable energy infrastructure developer in the Philippines for capacity from its planned network of independently owned broadband satellites, the startup announced Sept. 29.</description>
+</item>
+<item>
+<title>Momentus tests low-cost sensor suite for spacecraft proximity operations</title>
+<link>https://spacenews.com/momentus-tests-low-cost-sensor-suite-for-spacecraft-proximity-operations/</link>
+<guid isPermaLink="true">https://spacenews.com/momentus-tests-low-cost-sensor-suite-for-spacecraft-proximity-operations/</guid>
+<pubDate>Tue, 29 Sep 2026 12:30:00 +0000</pubDate>
+<description>Momentus has successfully tested a low-cost sensor suite intended to enable future satellite servicing missions.</description>
+</item>
 <item>
 <title>Poland’s Eycore secures first Earth images from flagship satellite</title>
 <link>https://spacenews.com/polands-eycore-secures-first-earth-images-from-flagship-satellite/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</guid>
 <pubDate>Fri, 25 Sep 2026 13:00:00 +0000</pubDate>
 <description>A mission that attempted to raise the orbit of a NASA astrophysics spacecraft has officially ended, with lessons both NASA and the company involved plan to apply to future efforts.</description>
-</item>
-<item>
-<title>Britain can see the threats to its satellites. It still can’t stop them.</title>
-<link>https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/</link>
-<guid isPermaLink="true">https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/</guid>
-<pubDate>Fri, 25 Sep 2026 11:00:00 +0000</pubDate>
-<description>With the announcement of the new UK Space Strategy 2026 , Britain has formally recognized that space is now a contested military domain. Nevertheless, recognizing the threat is not the same as acquiring the means to confront it. It puts defense and national security ahead of everything as the first of its two outcomes. It names control of space as a strategic requirement and a component of national power — in plain terms, protecting and defending U.K. interests in, from and through space. It also makes a useful industrial shift, moving to fewer, higher-value awards and acting as an anchor customer through the new Enterprise Space category, backing companies with flight heritage and a route to market rather than spreading thin grants across the field. Each of those is the right call; the sector is right to welcome them.</description>
-</item>
-<item>
-<title>Rocket Lab downplays importance of NASA business as it pursues Mars mission protest</title>
-<link>https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/</guid>
-<pubDate>Fri, 25 Sep 2026 10:59:26 +0000</pubDate>
-<description>Even as Rocket Lab protests a NASA Mars contract, the company is downplaying the role the agency plays in its overall business.</description>
 </item>
 </channel>
 </rss>
