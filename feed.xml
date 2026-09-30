@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 30 Sep 2026 14:13:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 15:13:50 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier</title>
+<link>https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/</link>
+<guid isPermaLink="true">https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/</guid>
+<pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+<description>ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise […]</description>
+</item>
 <item>
 <title>Astranis secures $468 million EXIM loan to expand satellite production</title>
 <link>https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/polands-eycore-secures-first-earth-images-from-flagship-satellite/</guid>
 <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
 <description>WARSAW, Poland — Polish space company Eycore has presented the first images of the Earth’s surface captured by its flagship EYCORE-1 satellite, demonstrating the performance of the company’s synthetic aperture radar (SAR) system.</description>
-</item>
-<item>
-<title>If AI cannot be trusted in a classroom, why should it be trusted in orbit?</title>
-<link>https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</guid>
-<pubDate>Tue, 29 Sep 2026 11:00:00 +0000</pubDate>
-<description>On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […] The post If AI cannot be trusted in a classroom, why should it be trusted in orbit? appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
