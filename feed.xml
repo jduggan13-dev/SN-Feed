@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 30 Sep 2026 11:09:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 12:13:15 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sophia Space and Redwire to work together to develop orbital data center infrastructure</title>
+<link>https://spacenews.com/sophia-space-and-redwire-to-work-together-to-develop-orbital-data-center-infrastructure/</link>
+<guid isPermaLink="true">https://spacenews.com/sophia-space-and-redwire-to-work-together-to-develop-orbital-data-center-infrastructure/</guid>
+<pubDate>Wed, 30 Sep 2026 11:30:00 +0000</pubDate>
+<description>SAN FRANCISCO — Sophia Space and Redwire Corp. announced an agreement Sept. 30 to work together to address development and deployment of scalable, space-based computing infrastructure.</description>
+</item>
+<item>
+<title>Astro Digital plans SPAC listing to expand satellite production and defense business</title>
+<link>https://spacenews.com/astro-digital-plans-spac-listing-to-expand-satellite-production-and-defense-business/</link>
+<guid isPermaLink="true">https://spacenews.com/astro-digital-plans-spac-listing-to-expand-satellite-production-and-defense-business/</guid>
+<pubDate>Wed, 30 Sep 2026 11:16:10 +0000</pubDate>
+<description>The proposed merger with Proem is valued at $587 million</description>
+</item>
 <item>
 <title>CAS Space targets early 2027 debut of reusable Lihong-2 suborbital rocket</title>
 <link>https://spacenews.com/cas-space-targets-early-2027-debut-of-reusable-lihong-2-suborbital-rocket/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</guid>
 <pubDate>Mon, 28 Sep 2026 14:37:43 +0000</pubDate>
 <description>The spacecraft are the first of 42 Tranche 1 Transport Layer satellites ordered by the Space Development Agency in 2022</description>
-</item>
-<item>
-<title>Starship lifts off on first orbital flight attempt</title>
-<link>https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</link>
-<guid isPermaLink="true">https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</guid>
-<pubDate>Mon, 28 Sep 2026 13:19:44 +0000</pubDate>
-<description>SpaceX launched its Starship vehicle Sept. 28 on its first attempt to reach orbit and deploy operational satellites.</description>
-</item>
-<item>
-<title>Common data for shared detection: a blueprint for space cybersecurity</title>
-<link>https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</link>
-<guid isPermaLink="true">https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</guid>
-<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
-<description>Space systems now underpin a growing share of federal and daily commercial operations, from navigation and communications to intelligence collection and emergency-response data. At the same time, these environments have become more software-defined, cloud-connected and dependent on enterprise-sized identity systems.</description>
 </item>
 </channel>
 </rss>
