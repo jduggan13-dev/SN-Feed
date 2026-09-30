@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 30 Sep 2026 10:11:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 11:09:45 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>CAS Space targets early 2027 debut of reusable Lihong-2 suborbital rocket</title>
+<link>https://spacenews.com/cas-space-targets-early-2027-debut-of-reusable-lihong-2-suborbital-rocket/</link>
+<guid isPermaLink="true">https://spacenews.com/cas-space-targets-early-2027-debut-of-reusable-lihong-2-suborbital-rocket/</guid>
+<pubDate>Wed, 30 Sep 2026 10:29:08 +0000</pubDate>
+<description>HELSINKI — Chinese commercial launch firm CAS Space is targeting a first flight of the Lihong-2 suborbital rocket in early 2027, carrying pharmaceutical payloads.</description>
+</item>
 <item>
 <title>Blackswan raises $2.9 million seed round for satellite rendezvous technology</title>
 <link>https://spacenews.com/blackswan-raises-2-9-million-seed-round-for-satellite-rendezvous-technology/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</guid>
 <pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
 <description>Space systems now underpin a growing share of federal and daily commercial operations, from navigation and communications to intelligence collection and emergency-response data. At the same time, these environments have become more software-defined, cloud-connected and dependent on enterprise-sized identity systems.</description>
-</item>
-<item>
-<title>Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth</title>
-<link>https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</link>
-<guid isPermaLink="true">https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</guid>
-<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
-<description>DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company […] The post Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
