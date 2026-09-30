@@ -4,51 +4,16 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 30 Sep 2026 07:11:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 08:11:57 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Astroforge To Test Full Spacecraft Autonomy Using Ai</title>
-<link>https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</link>
-<guid isPermaLink="true">https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>Space mining company AstroForge plans to fly a spacecraft next year that will test its ability to operate fully autonomously using artificial intelligence.</description>
-</item>
-<item>
-<title>Avio Usa Breaks Ground On Solid Rocket Motor Factory In Virginia</title>
-<link>https://spacenews.com/avio-usa-breaks-ground-on-solid-rocket-motor-factory-in-virginia/</link>
-<guid isPermaLink="true">https://spacenews.com/avio-usa-breaks-ground-on-solid-rocket-motor-factory-in-virginia/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>The plant is expected to produce thousands of solid rocket motors annually after production begins in 2029</description>
-</item>
-<item>
-<title>Electric-pump propulsion emerges as new front in China’s commercial launch sector</title>
-<link>https://spacenews.com/electric-pump-propulsion-emerges-as-new-front-in-chinas-commercial-launch-sector/</link>
-<guid isPermaLink="true">https://spacenews.com/electric-pump-propulsion-emerges-as-new-front-in-chinas-commercial-launch-sector/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>HELSINKI — A cluster of new Chinese commercial launch companies are attempting to develop electric-pump-fed liquid engines, indicating a new emerging trend in the sector.</description>
-</item>
-<item>
-<title>Esa Announces Leaders For Studies On Crewed European Space Stations</title>
-<link>https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>JOHANNESBURG – The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies for a future European-led space station in low Earth orbit.</description>
-</item>
-<item>
-<title>Parsons lands $85 million deal to oversee design and construction of Space Command HQ</title>
-<link>https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</link>
-<guid isPermaLink="true">https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>The 950,000-square-foot complex at Redstone Arsenal will eventually house as many as 1,800 personnel</description>
-</item>
-<item>
-<title>Space Force Delays Procurement Of Maneuverable Geo Satellite Services</title>
-<link>https://spacenews.com/space-force-delays-procurement-of-maneuverable-geo-satellite-services/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-delays-procurement-of-maneuverable-geo-satellite-services/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>Military satcom procurement forecast points to growing demand for multi-orbit, multi-band communications</description>
+<title>Blackswan raises $2.9 million seed round for satellite rendezvous technology</title>
+<link>https://spacenews.com/blackswan-raises-2-9-million-seed-round-for-satellite-rendezvous-technology/</link>
+<guid isPermaLink="true">https://spacenews.com/blackswan-raises-2-9-million-seed-round-for-satellite-rendezvous-technology/</guid>
+<pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
+<description>Lithuania’s Blackswan Space has raised around $2.9 million to support the development of its rendezvous &amp; proximity operations payload, which Orbit Fab plans to use for Europe’s first in-space refueling demo in 2028.</description>
 </item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
@@ -79,116 +44,11 @@
 <description>A conversation about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post What Comes Next for On-Orbit Servicing? (Replay) appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>Northrop Grumman Delivers 21 Data Relay Satellites For Military Constellation</title>
-<link>https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>The spacecraft are the first of 42 Tranche 1 Transport Layer satellites ordered by the Space Development Agency in 2022</description>
-</item>
-<item>
-<title>U.S. secures authority for Golden Dome missile defense in Greenland</title>
-<link>https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>U.S. secures authority for Golden Dome missile defense in Greenland</description>
-</item>
-<item>
-<title>Starship Lifts Off On First Orbital Flight Attempt</title>
-<link>https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</link>
-<guid isPermaLink="true">https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>SpaceX launched its Starship vehicle Sept. 28 on its first attempt to reach orbit and deploy operational satellites.</description>
-</item>
-<item>
-<title>Deep Blue Aerospace raises close to $300 million for reusable launch plans</title>
-<link>https://spacenews.com/deep-blue-aerospace-raises-close-to-300-million-for-reusable-launch-plans/</link>
-<guid isPermaLink="true">https://spacenews.com/deep-blue-aerospace-raises-close-to-300-million-for-reusable-launch-plans/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>HELSINKI — Chinese launch startup Deep Blue Aerospace has raised nearly $300 million for its reusable Nebula rockets while also testing an upgraded rocket engine.</description>
-</item>
-<item>
-<title>Space Network lines up $150 million in pre-orders for decentralized satellite network</title>
-<link>https://spacenews.com/space-network-lines-up-150-million-in-pre-orders-for-decentralized-satellite-network/</link>
-<guid isPermaLink="true">https://spacenews.com/space-network-lines-up-150-million-in-pre-orders-for-decentralized-satellite-network/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>Space Network has secured a $50 million binding pre-order from a renewable energy infrastructure developer in the Philippines for capacity from its planned network of independently owned broadband satellites, the startup announced Sept. 29.</description>
-</item>
-<item>
-<title>Momentus tests low-cost sensor suite for spacecraft proximity operations</title>
-<link>https://spacenews.com/momentus-tests-low-cost-sensor-suite-for-spacecraft-proximity-operations/</link>
-<guid isPermaLink="true">https://spacenews.com/momentus-tests-low-cost-sensor-suite-for-spacecraft-proximity-operations/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>Momentus has successfully tested a low-cost sensor suite intended to enable future satellite servicing missions.</description>
-</item>
-<item>
-<title>Three Countries Join The Artemis Accords</title>
-<link>https://spacenews.com/three-countries-join-the-artemis-accords/</link>
-<guid isPermaLink="true">https://spacenews.com/three-countries-join-the-artemis-accords/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>Three countries signed the Artemis Accords in as many days last week, part of a surge of signatories ahead of a meeting at the upcoming International Astronautical Congress.</description>
-</item>
-<item>
-<title>EU commissioner focuses on increasing European launch rates</title>
-<link>https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</link>
-<guid isPermaLink="true">https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>The European Union commissioner responsible for space is taking a more active role in launch as he presses European companies to increase launch activity.</description>
-</item>
-<item>
-<title>Nasa Extends Work With Boeing On Starliner</title>
-<link>https://spacenews.com/nasa-extends-work-with-boeing-on-starliner/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-extends-work-with-boeing-on-starliner/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>NASA is supporting Boeing as it completes revisions to the company’s CST-100 Starliner spacecraft, ensuring it is available for crewed missions after the expected retirement of SpaceX’s Crew Dragon.</description>
-</item>
-<item>
 <title>Swift reboost mission ends with Link reentry</title>
 <link>https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</link>
 <guid isPermaLink="true">https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/</guid>
 <pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
 <description>Swift reboost mission ends with Link reentry</description>
-</item>
-<item>
-<title>If AI cannot be trusted in a classroom, why should it be trusted in orbit?</title>
-<link>https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […] The post If AI cannot be trusted in a classroom, why should it be trusted in orbit? appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Common data for shared detection: a blueprint for space cybersecurity</title>
-<link>https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</link>
-<guid isPermaLink="true">https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>Space systems now underpin a growing share of federal and daily commercial operations, from navigation and communications to intelligence collection and emergency-response data. At the same time, these environments have become more software-defined, cloud-connected and dependent on enterprise-sized identity systems.</description>
-</item>
-<item>
-<title>Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035</title>
-<link>https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>Paris, France | September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues […] The post Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Terran Orbital Names Jamin Brown Chief Operating Officer</title>
-<link>https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</link>
-<guid isPermaLink="true">https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […] The post Terran Orbital Names Jamin Brown Chief Operating Officer appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando</title>
-<link>https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</link>
-<guid isPermaLink="true">https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create […] The post Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth</title>
-<link>https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</link>
-<guid isPermaLink="true">https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</guid>
-<pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
-<description>DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company […] The post Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production</title>
@@ -217,6 +77,146 @@
 <guid isPermaLink="true">https://spacenews.com/accessibility-statement/</guid>
 <pubDate>Wed, 30 Sep 2026 07:11:37 +0000</pubDate>
 <description>Accessibility Statement</description>
+</item>
+<item>
+<title>AstroForge to test full spacecraft autonomy using AI</title>
+<link>https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</link>
+<guid isPermaLink="true">https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</guid>
+<pubDate>Tue, 29 Sep 2026 21:19:17 +0000</pubDate>
+<description>Space mining company AstroForge plans to fly a spacecraft next year that will test its ability to operate fully autonomously using artificial intelligence.</description>
+</item>
+<item>
+<title>Avio USA breaks ground on solid rocket motor factory in Virginia</title>
+<link>https://spacenews.com/avio-usa-breaks-ground-on-solid-rocket-motor-factory-in-virginia/</link>
+<guid isPermaLink="true">https://spacenews.com/avio-usa-breaks-ground-on-solid-rocket-motor-factory-in-virginia/</guid>
+<pubDate>Tue, 29 Sep 2026 20:44:06 +0000</pubDate>
+<description>The plant is expected to produce thousands of solid rocket motors annually after production begins in 2029</description>
+</item>
+<item>
+<title>Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035</title>
+<link>https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</link>
+<guid isPermaLink="true">https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</guid>
+<pubDate>Tue, 29 Sep 2026 20:32:07 +0000</pubDate>
+<description>Paris, France | September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues […] The post Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Terran Orbital Names Jamin Brown Chief Operating Officer</title>
+<link>https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</link>
+<guid isPermaLink="true">https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</guid>
+<pubDate>Tue, 29 Sep 2026 17:42:20 +0000</pubDate>
+<description>IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […] The post Terran Orbital Names Jamin Brown Chief Operating Officer appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Electric-pump propulsion emerges as new front in China’s commercial launch sector</title>
+<link>https://spacenews.com/electric-pump-propulsion-emerges-as-new-front-in-chinas-commercial-launch-sector/</link>
+<guid isPermaLink="true">https://spacenews.com/electric-pump-propulsion-emerges-as-new-front-in-chinas-commercial-launch-sector/</guid>
+<pubDate>Tue, 29 Sep 2026 16:57:29 +0000</pubDate>
+<description>HELSINKI — A cluster of new Chinese commercial launch companies are attempting to develop electric-pump-fed liquid engines, indicating a new emerging trend in the sector.</description>
+</item>
+<item>
+<title>ESA announces leaders for studies on crewed European space stations</title>
+<link>https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</guid>
+<pubDate>Tue, 29 Sep 2026 16:56:49 +0000</pubDate>
+<description>JOHANNESBURG – The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies for a future European-led space station in low Earth orbit.</description>
+</item>
+<item>
+<title>Parsons lands $85 million deal to oversee design and construction of Space Command HQ</title>
+<link>https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</link>
+<guid isPermaLink="true">https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</guid>
+<pubDate>Tue, 29 Sep 2026 15:32:02 +0000</pubDate>
+<description>The 950,000-square-foot complex at Redstone Arsenal will eventually house as many as 1,800 personnel</description>
+</item>
+<item>
+<title>Space Force delays procurement of maneuverable GEO satellite services</title>
+<link>https://spacenews.com/space-force-delays-procurement-of-maneuverable-geo-satellite-services/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-delays-procurement-of-maneuverable-geo-satellite-services/</guid>
+<pubDate>Tue, 29 Sep 2026 13:50:54 +0000</pubDate>
+<description>Military satcom procurement forecast points to growing demand for multi-orbit, multi-band communications</description>
+</item>
+<item>
+<title>Space Network lines up $150 million in pre-orders for decentralized satellite network</title>
+<link>https://spacenews.com/space-network-lines-up-150-million-in-pre-orders-for-decentralized-satellite-network/</link>
+<guid isPermaLink="true">https://spacenews.com/space-network-lines-up-150-million-in-pre-orders-for-decentralized-satellite-network/</guid>
+<pubDate>Tue, 29 Sep 2026 13:05:04 +0000</pubDate>
+<description>Space Network has secured a $50 million binding pre-order from a renewable energy infrastructure developer in the Philippines for capacity from its planned network of independently owned broadband satellites, the startup announced Sept. 29.</description>
+</item>
+<item>
+<title>Momentus tests low-cost sensor suite for spacecraft proximity operations</title>
+<link>https://spacenews.com/momentus-tests-low-cost-sensor-suite-for-spacecraft-proximity-operations/</link>
+<guid isPermaLink="true">https://spacenews.com/momentus-tests-low-cost-sensor-suite-for-spacecraft-proximity-operations/</guid>
+<pubDate>Tue, 29 Sep 2026 12:30:00 +0000</pubDate>
+<description>Momentus has successfully tested a low-cost sensor suite intended to enable future satellite servicing missions.</description>
+</item>
+<item>
+<title>Poland’s Eycore secures first Earth images from flagship satellite</title>
+<link>https://spacenews.com/polands-eycore-secures-first-earth-images-from-flagship-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/polands-eycore-secures-first-earth-images-from-flagship-satellite/</guid>
+<pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+<description>WARSAW, Poland — Polish space company Eycore has presented the first images of the Earth’s surface captured by its flagship EYCORE-1 satellite, demonstrating the performance of the company’s synthetic aperture radar (SAR) system.</description>
+</item>
+<item>
+<title>If AI cannot be trusted in a classroom, why should it be trusted in orbit?</title>
+<link>https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</guid>
+<pubDate>Tue, 29 Sep 2026 11:00:00 +0000</pubDate>
+<description>On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […] The post If AI cannot be trusted in a classroom, why should it be trusted in orbit? appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>NASA extends work with Boeing on Starliner</title>
+<link>https://spacenews.com/nasa-extends-work-with-boeing-on-starliner/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-extends-work-with-boeing-on-starliner/</guid>
+<pubDate>Mon, 28 Sep 2026 22:44:12 +0000</pubDate>
+<description>NASA is supporting Boeing as it completes revisions to the company’s CST-100 Starliner spacecraft, ensuring it is available for crewed missions after the expected retirement of SpaceX’s Crew Dragon.</description>
+</item>
+<item>
+<title>SpaceComputer’s first mission to travel from low-Earth to geostationary orbit</title>
+<link>https://spacenews.com/spacecomputers-first-mission-to-travel-from-low-earth-to-geostationary-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/spacecomputers-first-mission-to-travel-from-low-earth-to-geostationary-orbit/</guid>
+<pubDate>Mon, 28 Sep 2026 17:45:04 +0000</pubDate>
+<description>SAN FRANCISCO — SpaceComputer, a startup developing distributed computing infrastructure, is preparing to fly its first mission on a spacecraft traveling from low-Earth to geostationary orbit in 2027.</description>
+</item>
+<item>
+<title>Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando</title>
+<link>https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</link>
+<guid isPermaLink="true">https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/</guid>
+<pubDate>Mon, 28 Sep 2026 14:57:21 +0000</pubDate>
+<description>ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create […] The post Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Meridian Space splits from SpinLaunch to pursue broadband constellation plans</title>
+<link>https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/meridian-space-splits-from-spinlaunch-to-pursue-broadband-constellation-plans/</guid>
+<pubDate>Mon, 28 Sep 2026 14:40:13 +0000</pubDate>
+<description>Meridian Space has split from kinetic launch technology developer SpinLaunch as it seeks more funding to develop flat satellites it says could launch up to 250 at a time on a Falcon 9, enough for global broadband coverage.</description>
+</item>
+<item>
+<title>Northrop Grumman delivers 21 data-relay satellites for military constellation</title>
+<link>https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/northrop-grumman-delivers-21-data-relay-satellites-for-military-constellation/</guid>
+<pubDate>Mon, 28 Sep 2026 14:37:43 +0000</pubDate>
+<description>The spacecraft are the first of 42 Tranche 1 Transport Layer satellites ordered by the Space Development Agency in 2022</description>
+</item>
+<item>
+<title>Starship lifts off on first orbital flight attempt</title>
+<link>https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</link>
+<guid isPermaLink="true">https://spacenews.com/starship-lifts-off-on-first-orbital-flight-attempt/</guid>
+<pubDate>Mon, 28 Sep 2026 13:19:44 +0000</pubDate>
+<description>SpaceX launched its Starship vehicle Sept. 28 on its first attempt to reach orbit and deploy operational satellites.</description>
+</item>
+<item>
+<title>Common data for shared detection: a blueprint for space cybersecurity</title>
+<link>https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</link>
+<guid isPermaLink="true">https://spacenews.com/common-data-for-shared-detection-a-blueprint-for-space-cybersecurity/</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+<description>Space systems now underpin a growing share of federal and daily commercial operations, from navigation and communications to intelligence collection and emergency-response data. At the same time, these environments have become more software-defined, cloud-connected and dependent on enterprise-sized identity systems.</description>
+</item>
+<item>
+<title>Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth</title>
+<link>https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</link>
+<guid isPermaLink="true">https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/</guid>
+<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+<description>DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company […] The post Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
