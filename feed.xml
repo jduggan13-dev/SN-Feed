@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 19:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 20:10:18 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Iceye teams up with Nokia to develop sovereign broadband constellations</title>
+<link>https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/</link>
+<guid isPermaLink="true">https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/</guid>
+<pubDate>Thu, 01 Oct 2026 19:01:32 +0000</pubDate>
+<description>Iceye is partnering with Nokia to develop secure broadband constellations for governments, with initial satellite deployments slated for 2028 as the Finnish radar imaging specialist expands beyond Earth observation.</description>
+</item>
+<item>
+<title>Space Force retires Cold War-era missile-warning constellation after final maneuver exercise</title>
+<link>https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/</guid>
+<pubDate>Thu, 01 Oct 2026 19:00:56 +0000</pubDate>
+<description>Two aging DSP satellites were used in September’s Apollo Maneuvers exercise before being moved into disposal orbits</description>
+</item>
 <item>
 <title>EU nations back military space project worth up to $27 billion, propose shared tracking data</title>
 <link>https://spacenews.com/eu-nations-back-military-space-project-worth-up-to-27-billion-propose-shared-tracking-data/</link>
@@ -184,13 +198,6 @@
 <description>ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise […] The post NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission</title>
-<link>https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</guid>
-<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-<description>ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […] The post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews .</description>
-</item>
-<item>
 <title>Astranis secures $468 million EXIM loan to expand satellite production</title>
 <link>https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</link>
 <guid isPermaLink="true">https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</guid>
@@ -205,18 +212,11 @@
 <description>In August, the U.S. Space Force selected five companies to help develop its next-generation Space Data Network, an open architecture intended to connect commercial satellite systems through standardized interfaces and reduce dependence on any single provider.</description>
 </item>
 <item>
-<title>Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035</title>
-<link>https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</guid>
-<pubDate>Tue, 29 Sep 2026 20:32:07 +0000</pubDate>
-<description>Paris, France | September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues […] The post Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Terran Orbital Names Jamin Brown Chief Operating Officer</title>
-<link>https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</link>
-<guid isPermaLink="true">https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</guid>
-<pubDate>Tue, 29 Sep 2026 17:42:20 +0000</pubDate>
-<description>IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […] The post Terran Orbital Names Jamin Brown Chief Operating Officer appeared first on SpaceNews .</description>
+<title>Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission</title>
+<link>https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</guid>
+<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
+<description>ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […] The post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
