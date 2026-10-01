@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 16:10:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 17:11:01 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>EU nations back military space project worth up to $27 billion, propose shared tracking data</title>
+<link>https://spacenews.com/eu-nations-back-military-space-project-worth-up-to-27-billion-propose-shared-tracking-data/</link>
+<guid isPermaLink="true">https://spacenews.com/eu-nations-back-military-space-project-worth-up-to-27-billion-propose-shared-tracking-data/</guid>
+<pubDate>Thu, 01 Oct 2026 17:06:51 +0000</pubDate>
+<description>JOHANNESBURG — European governments are preparing to invest up to 24 billion euros ($27 billion) in SPACE, a joint military space project spanning satellite communications, surveillance and missile warning. The initiative is part of a broader EU effort to expand its defense capabilities in orbit.</description>
+</item>
 <item>
 <title>Crew-13 launches to the ISS</title>
 <link>https://spacenews.com/crew-13-launches-to-the-iss/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</guid>
 <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
 <description>ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […] The post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Space Force Lt. Gen. David Miller expected to be tapped for U.S. Space Command</title>
-<link>https://spacenews.com/space-force-lt-gen-david-miller-expected-to-be-tapped-for-u-s-space-command/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-lt-gen-david-miller-expected-to-be-tapped-for-u-s-space-command/</guid>
-<pubDate>Wed, 30 Sep 2026 12:55:31 +0000</pubDate>
-<description>Space Force Lt Gen David Miller Expected To Be Tapped For U S Space Command</description>
 </item>
 </channel>
 </rss>
