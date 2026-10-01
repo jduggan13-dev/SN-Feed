@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 15:10:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 16:10:30 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Crew-13 launches to the ISS</title>
+<link>https://spacenews.com/crew-13-launches-to-the-iss/</link>
+<guid isPermaLink="true">https://spacenews.com/crew-13-launches-to-the-iss/</guid>
+<pubDate>Thu, 01 Oct 2026 16:05:23 +0000</pubDate>
+<description>SpaceX launched a new crew to the International Space Station on Oct. 1 on a mission delayed by repairs to the Crew Dragon spacecraft.</description>
+</item>
+<item>
+<title>Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation</title>
+<link>https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</link>
+<guid isPermaLink="true">https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</guid>
+<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+<description>When a spacecraft closes in on another satellite, the operator tracking its trajectory on the other side now also has to consider whether that spacecraft is a weapon. On Sept. 14, 2026, Secretary of the Air Force Troy Meink revealed that the United States has “on-orbit space control weapons” to defend United States forces. Then Chief of Space Operations Gen. Douglas Schiess confirmed that Space Force personnel operate weapons in orbit . The world now knows that American weapons are in orbit, but since officials left their number, capabilities and locations undisclosed, there is no reliable public way to tell them apart from other spacecraft. For other operators, that silence adds to the dual-use dilemma, since an American spacecraft that appears to be inspecting or servicing a satellite may now turn out to be one of those weapons.</description>
+</item>
+<item>
+<title>Foundational emerges from stealth to commercialize satellite laser ranging</title>
+<link>https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</link>
+<guid isPermaLink="true">https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</guid>
+<pubDate>Thu, 01 Oct 2026 15:39:21 +0000</pubDate>
+<description>British startup Foundational emerged from stealth Oct. 1 with nearly $11 million in funding to upgrade and commercialize Satellite Laser Ranging, a decades-old technology for pinpointing satellites in orbit used mainly by scientific and government groups.</description>
+</item>
 <item>
 <title>World Space Week 2026 Celebrates the “Rocket Revolution”</title>
 <link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-force-lt-gen-david-miller-expected-to-be-tapped-for-u-s-space-command/</guid>
 <pubDate>Wed, 30 Sep 2026 12:55:31 +0000</pubDate>
 <description>Space Force Lt Gen David Miller Expected To Be Tapped For U S Space Command</description>
-</item>
-<item>
-<title>Varda Space Industries raises $251 million</title>
-<link>https://spacenews.com/varda-space-industries-raises-251-million/</link>
-<guid isPermaLink="true">https://spacenews.com/varda-space-industries-raises-251-million/</guid>
-<pubDate>Wed, 30 Sep 2026 12:21:17 +0000</pubDate>
-<description>Varda Space Industries, a company that operates reentry spacecraft for pharmaceutical and hypersonics research applications, has raised $251 million as it prepares to launch three missions in the next month.</description>
-</item>
-<item>
-<title>Sophia Space and Redwire to work together to develop orbital data center infrastructure</title>
-<link>https://spacenews.com/sophia-space-and-redwire-to-work-together-to-develop-orbital-data-center-infrastructure/</link>
-<guid isPermaLink="true">https://spacenews.com/sophia-space-and-redwire-to-work-together-to-develop-orbital-data-center-infrastructure/</guid>
-<pubDate>Wed, 30 Sep 2026 11:30:00 +0000</pubDate>
-<description>SAN FRANCISCO — Sophia Space and Redwire Corp. announced an agreement Sept. 30 to work together to address development and deployment of scalable, space-based computing infrastructure.</description>
-</item>
-<item>
-<title>Astro Digital plans SPAC listing to expand satellite production and defense business</title>
-<link>https://spacenews.com/astro-digital-plans-spac-listing-to-expand-satellite-production-and-defense-business/</link>
-<guid isPermaLink="true">https://spacenews.com/astro-digital-plans-spac-listing-to-expand-satellite-production-and-defense-business/</guid>
-<pubDate>Wed, 30 Sep 2026 11:16:10 +0000</pubDate>
-<description>The proposed merger with Proem is valued at $587 million</description>
 </item>
 </channel>
 </rss>
