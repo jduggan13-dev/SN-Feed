@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 00:14:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 01:11:01 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit</title>
+<link>https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</guid>
+<pubDate>Thu, 01 Oct 2026 00:24:08 +0000</pubDate>
+<description>Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […]</description>
+</item>
 <item>
 <title>Blue Origin seeking to increase New Glenn launch cadence at Cape Canaveral</title>
 <link>https://spacenews.com/blue-origin-seeking-to-increase-new-glenn-launch-cadence-at-cape-canaveral/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</guid>
 <pubDate>Tue, 29 Sep 2026 16:56:49 +0000</pubDate>
 <description>JOHANNESBURG – The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies for a future European-led space station in low Earth orbit.</description>
-</item>
-<item>
-<title>Parsons lands $85 million deal to oversee design and construction of Space Command HQ</title>
-<link>https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</link>
-<guid isPermaLink="true">https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</guid>
-<pubDate>Tue, 29 Sep 2026 15:32:02 +0000</pubDate>
-<description>The 950,000-square-foot complex at Redstone Arsenal will eventually house as many as 1,800 personnel</description>
 </item>
 </channel>
 </rss>
