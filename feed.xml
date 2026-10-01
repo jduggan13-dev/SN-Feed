@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 30 Sep 2026 23:08:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 00:14:37 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Blue Origin seeking to increase New Glenn launch cadence at Cape Canaveral</title>
+<link>https://spacenews.com/blue-origin-seeking-to-increase-new-glenn-launch-cadence-at-cape-canaveral/</link>
+<guid isPermaLink="true">https://spacenews.com/blue-origin-seeking-to-increase-new-glenn-launch-cadence-at-cape-canaveral/</guid>
+<pubDate>Wed, 30 Sep 2026 23:23:10 +0000</pubDate>
+<description>As Blue Origin continues to recover from a New Glenn pad explosion in May, the company is seeking permission to significantly increase the vehicle’s launch rate.</description>
+</item>
 <item>
 <title>FCC votes to exclude space from NEPA reviews</title>
 <link>https://spacenews.com/fcc-votes-to-exclude-space-from-nepa-reviews/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</guid>
 <pubDate>Tue, 29 Sep 2026 15:32:02 +0000</pubDate>
 <description>The 950,000-square-foot complex at Redstone Arsenal will eventually house as many as 1,800 personnel</description>
-</item>
-<item>
-<title>Space Force delays procurement of maneuverable GEO satellite services</title>
-<link>https://spacenews.com/space-force-delays-procurement-of-maneuverable-geo-satellite-services/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-delays-procurement-of-maneuverable-geo-satellite-services/</guid>
-<pubDate>Tue, 29 Sep 2026 13:50:54 +0000</pubDate>
-<description>Military satcom procurement forecast points to growing demand for multi-orbit, multi-band communications</description>
 </item>
 </channel>
 </rss>
