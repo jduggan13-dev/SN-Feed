@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 18:13:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:10:09 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -41,21 +41,21 @@
 <link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
 <guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
 <pubDate>Thu, 01 Oct 2026 15:06:43 +0000</pubDate>
-<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […]</description>
+<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Rethinking risk with electronics for space</title>
 <link>https://spacenews.com/rethinking-risk-with-electronics-for-space/</link>
 <guid isPermaLink="true">https://spacenews.com/rethinking-risk-with-electronics-for-space/</guid>
 <pubDate>Thu, 01 Oct 2026 14:51:34 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […]</description>
+<description>In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […] The post Rethinking risk with electronics for space appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia</title>
 <link>https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</link>
 <guid isPermaLink="true">https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</guid>
 <pubDate>Thu, 01 Oct 2026 14:40:51 +0000</pubDate>
-<description>Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […]</description>
+<description>Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […] The post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>L3Harris’ contract for executive aircraft satcom grows to $462 million</title>
@@ -70,13 +70,6 @@
 <guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
 <pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
 <description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>True Or False On Space Industry Trends With Pacome Revillon</title>
-<link>https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</link>
-<guid isPermaLink="true">https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […] The post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
@@ -105,13 +98,6 @@
 <guid isPermaLink="true">https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</guid>
 <pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
 <description>EU commissioner focuses on increasing European launch rates</description>
-</item>
-<item>
-<title>If AI cannot be trusted in a classroom, why should it be trusted in orbit?</title>
-<link>https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
-<description>On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […] The post If AI cannot be trusted in a classroom, why should it be trusted in orbit? appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Stellar Dispatch</title>
@@ -198,6 +184,13 @@
 <description>ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise […] The post NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier appeared first on SpaceNews .</description>
 </item>
 <item>
+<title>Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission</title>
+<link>https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</guid>
+<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
+<description>ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […] The post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews .</description>
+</item>
+<item>
 <title>Astranis secures $468 million EXIM loan to expand satellite production</title>
 <link>https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</link>
 <guid isPermaLink="true">https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</guid>
@@ -212,11 +205,18 @@
 <description>In August, the U.S. Space Force selected five companies to help develop its next-generation Space Data Network, an open architecture intended to connect commercial satellite systems through standardized interfaces and reduce dependence on any single provider.</description>
 </item>
 <item>
-<title>Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission</title>
-<link>https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</guid>
-<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-<description>ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […] The post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews .</description>
+<title>Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035</title>
+<link>https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</link>
+<guid isPermaLink="true">https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/</guid>
+<pubDate>Tue, 29 Sep 2026 20:32:07 +0000</pubDate>
+<description>Paris, France | September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues […] The post Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Terran Orbital Names Jamin Brown Chief Operating Officer</title>
+<link>https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</link>
+<guid isPermaLink="true">https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</guid>
+<pubDate>Tue, 29 Sep 2026 17:42:20 +0000</pubDate>
+<description>IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […] The post Terran Orbital Names Jamin Brown Chief Operating Officer appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
