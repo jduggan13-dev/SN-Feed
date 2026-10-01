@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 14:12:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 15:10:59 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>World Space Week 2026 Celebrates the “Rocket Revolution”</title>
+<link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
+<guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
+<pubDate>Thu, 01 Oct 2026 15:06:43 +0000</pubDate>
+<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […]</description>
+</item>
+<item>
+<title>Rethinking risk with electronics for space</title>
+<link>https://spacenews.com/rethinking-risk-with-electronics-for-space/</link>
+<guid isPermaLink="true">https://spacenews.com/rethinking-risk-with-electronics-for-space/</guid>
+<pubDate>Thu, 01 Oct 2026 14:51:34 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […]</description>
+</item>
+<item>
+<title>LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia</title>
+<link>https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</link>
+<guid isPermaLink="true">https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</guid>
+<pubDate>Thu, 01 Oct 2026 14:40:51 +0000</pubDate>
+<description>Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […]</description>
+</item>
 <item>
 <title>L3Harris’ contract for executive aircraft satcom grows to $462 million</title>
 <link>https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/astro-digital-plans-spac-listing-to-expand-satellite-production-and-defense-business/</guid>
 <pubDate>Wed, 30 Sep 2026 11:16:10 +0000</pubDate>
 <description>The proposed merger with Proem is valued at $587 million</description>
-</item>
-<item>
-<title>CAS Space targets early 2027 debut of reusable Lihong-2 suborbital rocket</title>
-<link>https://spacenews.com/cas-space-targets-early-2027-debut-of-reusable-lihong-2-suborbital-rocket/</link>
-<guid isPermaLink="true">https://spacenews.com/cas-space-targets-early-2027-debut-of-reusable-lihong-2-suborbital-rocket/</guid>
-<pubDate>Wed, 30 Sep 2026 10:29:08 +0000</pubDate>
-<description>HELSINKI — Chinese commercial launch firm CAS Space is targeting a first flight of the Lihong-2 suborbital rocket in early 2027, carrying pharmaceutical payloads.</description>
-</item>
-<item>
-<title>Blackswan raises $2.9 million seed round for satellite rendezvous technology</title>
-<link>https://spacenews.com/blackswan-raises-2-9-million-seed-round-for-satellite-rendezvous-technology/</link>
-<guid isPermaLink="true">https://spacenews.com/blackswan-raises-2-9-million-seed-round-for-satellite-rendezvous-technology/</guid>
-<pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
-<description>Lithuania’s Blackswan Space has raised around $2.9 million to support the development of its rendezvous &amp; proximity operations payload, which Orbit Fab plans to use for Europe’s first in-space refueling demo in 2028.</description>
-</item>
-<item>
-<title>AstroForge to test full spacecraft autonomy using AI</title>
-<link>https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</link>
-<guid isPermaLink="true">https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/</guid>
-<pubDate>Tue, 29 Sep 2026 21:19:17 +0000</pubDate>
-<description>Space mining company AstroForge plans to fly a spacecraft next year that will test its ability to operate fully autonomously using artificial intelligence.</description>
 </item>
 </channel>
 </rss>
