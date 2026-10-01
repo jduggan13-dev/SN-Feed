@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 20:10:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 21:09:24 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Contracts signal growing interest in space-based solar power</title>
+<link>https://spacenews.com/contracts-signal-growing-interest-in-space-based-solar-power/</link>
+<guid isPermaLink="true">https://spacenews.com/contracts-signal-growing-interest-in-space-based-solar-power/</guid>
+<pubDate>Thu, 01 Oct 2026 21:01:23 +0000</pubDate>
+<description>Two companies with plans for space-based solar power systems have secured agreements to further their development as the industry reaches out to the energy sector to stimulate interest.</description>
+</item>
 <item>
 <title>Iceye teams up with Nokia to develop sovereign broadband constellations</title>
 <link>https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/the-new-trust-problem-in-space/</guid>
 <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
 <description>In August, the U.S. Space Force selected five companies to help develop its next-generation Space Data Network, an open architecture intended to connect commercial satellite systems through standardized interfaces and reduce dependence on any single provider.</description>
-</item>
-<item>
-<title>Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission</title>
-<link>https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</guid>
-<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-<description>ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […] The post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
