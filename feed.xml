@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 10:11:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 11:10:37 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rocket Lab signs contract with Synspective for 20 Electron launches</title>
+<link>https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/</guid>
+<pubDate>Thu, 01 Oct 2026 10:46:27 +0000</pubDate>
+<description>Rocket Lab announced Sept. 30 its largest commercial contract for the Electron rocket, a 20-launch deal with longtime Japanese customer Synspective.</description>
+</item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/</guid>
 <pubDate>Tue, 29 Sep 2026 17:42:20 +0000</pubDate>
 <description>IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […] The post Terran Orbital Names Jamin Brown Chief Operating Officer appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Electric-pump propulsion emerges as new front in China’s commercial launch sector</title>
-<link>https://spacenews.com/electric-pump-propulsion-emerges-as-new-front-in-chinas-commercial-launch-sector/</link>
-<guid isPermaLink="true">https://spacenews.com/electric-pump-propulsion-emerges-as-new-front-in-chinas-commercial-launch-sector/</guid>
-<pubDate>Tue, 29 Sep 2026 16:57:29 +0000</pubDate>
-<description>HELSINKI — A cluster of new Chinese commercial launch companies are attempting to develop electric-pump-fed liquid engines, indicating a new emerging trend in the sector.</description>
 </item>
 </channel>
 </rss>
