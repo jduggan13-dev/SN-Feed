@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 02 Oct 2026 14:11:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 15:11:23 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nordic launch race heats up as Sweden secures 2028 orbital launch at Esrange</title>
+<link>https://spacenews.com/nordic-launch-race-heats-up-as-sweden-secures-2028-orbital-launch-at-esrange/</link>
+<guid isPermaLink="true">https://spacenews.com/nordic-launch-race-heats-up-as-sweden-secures-2028-orbital-launch-at-esrange/</guid>
+<pubDate>Fri, 02 Oct 2026 14:39:23 +0000</pubDate>
+<description>JOHANNESBURG — Sweden’s Esrange Space Center is preparing for a busy period of launch activity as political scrutiny grows over efforts to establish an orbital launch capability at the site.</description>
+</item>
 <item>
 <title>Space exploration should learn from deep sea technology</title>
 <link>https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/fcc-votes-to-exclude-space-from-nepa-reviews/</guid>
 <pubDate>Wed, 30 Sep 2026 22:04:16 +0000</pubDate>
 <description>The FCC voted Sept. 30 to formally exclude the space activities it regulates from reviews under the National Environmental Policy Act, while also making more than 1,000 megahertz of spectrum available for the industry.</description>
-</item>
-<item>
-<title>Chinese electric-pump rocket startup Z-Trak raises new funding, targets 2027 debut for reusable Fission-A</title>
-<link>https://spacenews.com/chinese-electric-pump-rocket-startup-z-trak-raises-new-funding-targets-2027-debut-for-reusable-fission-a/</link>
-<guid isPermaLink="true">https://spacenews.com/chinese-electric-pump-rocket-startup-z-trak-raises-new-funding-targets-2027-debut-for-reusable-fission-a/</guid>
-<pubDate>Wed, 30 Sep 2026 21:56:09 +0000</pubDate>
-<description>HELSINKI — Chinese launch startup Z-Trak Space has secured a new funding round for a small reusable rocket and is targeting late 2027 for a first flight.</description>
 </item>
 </channel>
 </rss>
