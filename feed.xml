@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 02 Oct 2026 12:12:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 13:11:35 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space exploration should learn from deep sea technology</title>
+<link>https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/</link>
+<guid isPermaLink="true">https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/</guid>
+<pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
+<description>When the Artemis astronauts step onto the lunar surface, they will have spent considerable time and effort installing themselves in their bulky, heavy spacesuits. They will lumber onto the surface having limited mobility and time, struggling to accomplish their assigned tasks. Their activities will kick up clinging, razor-sharp lunar dust that they will invariably carry back into their capsule on their suits. And they will enter that capsule exhausted, perhaps even injured.</description>
+</item>
 <item>
 <title>SpaceX, analysts satisfied with latest Starship flight</title>
 <link>https://spacenews.com/spacex-analysts-satisfied-with-latest-starship-flight/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/chinese-electric-pump-rocket-startup-z-trak-raises-new-funding-targets-2027-debut-for-reusable-fission-a/</guid>
 <pubDate>Wed, 30 Sep 2026 21:56:09 +0000</pubDate>
 <description>HELSINKI — Chinese launch startup Z-Trak Space has secured a new funding round for a small reusable rocket and is targeting late 2027 for a first flight.</description>
-</item>
-<item>
-<title>What will Golden Dome actually defend? Senators press for answers</title>
-<link>https://spacenews.com/what-will-golden-dome-actually-defend-senators-press-for-answers/</link>
-<guid isPermaLink="true">https://spacenews.com/what-will-golden-dome-actually-defend-senators-press-for-answers/</guid>
-<pubDate>Wed, 30 Sep 2026 21:51:13 +0000</pubDate>
-<description>CBO confirms it has seen the Pentagon's Golden Dome plan, but cannot discuss what it learned</description>
 </item>
 </channel>
 </rss>
