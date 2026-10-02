@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 01 Oct 2026 23:07:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 00:13:45 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>SpaceX launches Transporter-18 rideshare mission</title>
+<link>https://spacenews.com/spacex-launches-transporter-18-rideshare-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/spacex-launches-transporter-18-rideshare-mission/</guid>
+<pubDate>Fri, 02 Oct 2026 00:01:29 +0000</pubDate>
+<description>SpaceX launched its latest rideshare mission Oct. 1, carrying a wide variety of spacecraft even as the industry struggles to deal with the impending end of such missions.</description>
+</item>
 <item>
 <title>Contracts signal growing interest in space-based solar power</title>
 <link>https://spacenews.com/contracts-signal-growing-interest-in-space-based-solar-power/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</guid>
 <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
 <description>U.S. export credit agency is backing the satellite maker as it pursues growing international demand for dedicated communications networks</description>
-</item>
-<item>
-<title>The new trust problem in space</title>
-<link>https://spacenews.com/the-new-trust-problem-in-space/</link>
-<guid isPermaLink="true">https://spacenews.com/the-new-trust-problem-in-space/</guid>
-<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-<description>In August, the U.S. Space Force selected five companies to help develop its next-generation Space Data Network, an open architecture intended to connect commercial satellite systems through standardized interfaces and reduce dependence on any single provider.</description>
 </item>
 </channel>
 </rss>
