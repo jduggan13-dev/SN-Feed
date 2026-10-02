@@ -4,219 +4,219 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 02 Oct 2026 08:11:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 09:11:23 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>SpaceX launches Transporter-18 rideshare mission</title>
+<title>Spacex Launches Transporter 18 Rideshare Mission</title>
 <link>https://spacenews.com/spacex-launches-transporter-18-rideshare-mission/</link>
 <guid isPermaLink="true">https://spacenews.com/spacex-launches-transporter-18-rideshare-mission/</guid>
-<pubDate>Fri, 02 Oct 2026 00:01:29 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>SpaceX launched its latest rideshare mission Oct. 1, carrying a wide variety of spacecraft even as the industry struggles to deal with the impending end of such missions.</description>
 </item>
 <item>
-<title>Contracts signal growing interest in space-based solar power</title>
+<title>Contracts Signal Growing Interest In Space Based Solar Power</title>
 <link>https://spacenews.com/contracts-signal-growing-interest-in-space-based-solar-power/</link>
 <guid isPermaLink="true">https://spacenews.com/contracts-signal-growing-interest-in-space-based-solar-power/</guid>
-<pubDate>Thu, 01 Oct 2026 21:01:23 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>Two companies with plans for space-based solar power systems have secured agreements to further their development as the industry reaches out to the energy sector to stimulate interest.</description>
 </item>
 <item>
-<title>Iceye teams up with Nokia to develop sovereign broadband constellations</title>
+<title>Iceye Teams Up With Nokia To Develop Sovereign Broadband Constellations</title>
 <link>https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/</link>
 <guid isPermaLink="true">https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/</guid>
-<pubDate>Thu, 01 Oct 2026 19:01:32 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>Iceye is partnering with Nokia to develop secure broadband constellations for governments, with initial satellite deployments slated for 2028 as the Finnish radar imaging specialist expands beyond Earth observation.</description>
 </item>
 <item>
-<title>Space Force retires Cold War-era missile-warning constellation after final maneuver exercise</title>
+<title>Space Force Retires Cold War Era Missile Warning Constellation After Final Maneuver Exercise</title>
 <link>https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/</link>
 <guid isPermaLink="true">https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/</guid>
-<pubDate>Thu, 01 Oct 2026 19:00:56 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>Two aging DSP satellites were used in September’s Apollo Maneuvers exercise before being moved into disposal orbits</description>
 </item>
 <item>
 <title>EU nations back military space project worth up to $27 billion, propose shared tracking data</title>
 <link>https://spacenews.com/eu-nations-back-military-space-project-worth-up-to-27-billion-propose-shared-tracking-data/</link>
 <guid isPermaLink="true">https://spacenews.com/eu-nations-back-military-space-project-worth-up-to-27-billion-propose-shared-tracking-data/</guid>
-<pubDate>Thu, 01 Oct 2026 17:06:51 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>JOHANNESBURG — European governments are preparing to invest up to 24 billion euros ($27 billion) in SPACE, a joint military space project spanning satellite communications, surveillance and missile warning. The initiative is part of a broader EU effort to expand its defense capabilities in orbit.</description>
 </item>
 <item>
-<title>Crew-13 launches to the ISS</title>
+<title>Crew 13 Launches To The Iss</title>
 <link>https://spacenews.com/crew-13-launches-to-the-iss/</link>
 <guid isPermaLink="true">https://spacenews.com/crew-13-launches-to-the-iss/</guid>
-<pubDate>Thu, 01 Oct 2026 16:05:23 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>SpaceX launched a new crew to the International Space Station on Oct. 1 on a mission delayed by repairs to the Crew Dragon spacecraft.</description>
-</item>
-<item>
-<title>Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation</title>
-<link>https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</link>
-<guid isPermaLink="true">https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</guid>
-<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
-<description>When a spacecraft closes in on another satellite, the operator tracking its trajectory on the other side now also has to consider whether that spacecraft is a weapon. On Sept. 14, 2026, Secretary of the Air Force Troy Meink revealed that the United States has “on-orbit space control weapons” to defend United States forces. Then Chief of Space Operations Gen. Douglas Schiess confirmed that Space Force personnel operate weapons in orbit . The world now knows that American weapons are in orbit, but since officials left their number, capabilities and locations undisclosed, there is no reliable public way to tell them apart from other spacecraft. For other operators, that silence adds to the dual-use dilemma, since an American spacecraft that appears to be inspecting or servicing a satellite may now turn out to be one of those weapons.</description>
-</item>
-<item>
-<title>Foundational emerges from stealth to commercialize satellite laser ranging</title>
-<link>https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</link>
-<guid isPermaLink="true">https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</guid>
-<pubDate>Thu, 01 Oct 2026 15:39:21 +0000</pubDate>
-<description>British startup Foundational emerged from stealth Oct. 1 with nearly $11 million in funding to upgrade and commercialize Satellite Laser Ranging, a decades-old technology for pinpointing satellites in orbit used mainly by scientific and government groups.</description>
-</item>
-<item>
-<title>World Space Week 2026 Celebrates the “Rocket Revolution”</title>
-<link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
-<guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
-<pubDate>Thu, 01 Oct 2026 15:06:43 +0000</pubDate>
-<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Rethinking risk with electronics for space</title>
-<link>https://spacenews.com/rethinking-risk-with-electronics-for-space/</link>
-<guid isPermaLink="true">https://spacenews.com/rethinking-risk-with-electronics-for-space/</guid>
-<pubDate>Thu, 01 Oct 2026 14:51:34 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […] The post Rethinking risk with electronics for space appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia</title>
-<link>https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</link>
-<guid isPermaLink="true">https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</guid>
-<pubDate>Thu, 01 Oct 2026 14:40:51 +0000</pubDate>
-<description>Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […] The post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>L3Harris’ contract for executive aircraft satcom grows to $462 million</title>
-<link>https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/</link>
-<guid isPermaLink="true">https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/</guid>
-<pubDate>Thu, 01 Oct 2026 13:54:01 +0000</pubDate>
-<description>Under the two-year deal L3Harris will integrate multi-orbit, multi-band satellite connectivity for government executive aircraft</description>
 </item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
 <guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Rethinking Risk With Electronics For Space</title>
+<link>https://spacenews.com/rethinking-risk-with-electronics-for-space/</link>
+<guid isPermaLink="true">https://spacenews.com/rethinking-risk-with-electronics-for-space/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […] The post Rethinking risk with electronics for space appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>True Or False On Space Industry Trends With Pacome Revillon</title>
+<link>https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</link>
+<guid isPermaLink="true">https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […] The post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
 <link>https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</link>
 <guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>What Comes Next for On-Orbit Servicing? (Replay)</title>
-<link>https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</link>
-<guid isPermaLink="true">https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
-<description>A conversation about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post What Comes Next for On-Orbit Servicing? (Replay) appeared first on SpaceNews .</description>
+<title>Parsons Lands 85 Million Deal To Oversee Design And Construction Of Space Command Hq</title>
+<link>https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</link>
+<guid isPermaLink="true">https://spacenews.com/parsons-lands-85-million-deal-to-oversee-design-and-construction-of-space-command-hq/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Parsons Lands 85 Million Deal To Oversee Design And Construction Of Space Command Hq</description>
 </item>
 <item>
-<title>Three Countries Join The Artemis Accords</title>
-<link>https://spacenews.com/three-countries-join-the-artemis-accords/</link>
-<guid isPermaLink="true">https://spacenews.com/three-countries-join-the-artemis-accords/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
-<description>Three Countries Join The Artemis Accords</description>
-</item>
-<item>
-<title>EU commissioner focuses on increasing European launch rates</title>
-<link>https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</link>
-<guid isPermaLink="true">https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
-<description>EU commissioner focuses on increasing European launch rates</description>
-</item>
-<item>
-<title>Stellar Dispatch</title>
-<link>https://spacenews.com/stellar-dispatch/</link>
-<guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
-<pubDate>Thu, 01 Oct 2026 13:13:42 +0000</pubDate>
-<description>Stellar Dispatch</description>
-</item>
-<item>
-<title>China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest</title>
-<link>https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/</link>
-<guid isPermaLink="true">https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/</guid>
-<pubDate>Thu, 01 Oct 2026 12:46:32 +0000</pubDate>
-<description>HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […] The post China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.</title>
-<link>https://spacenews.com/weve-spent-eight-years-hacking-satellites-heres-what-the-space-industry-needs-to-know-now/</link>
-<guid isPermaLink="true">https://spacenews.com/weve-spent-eight-years-hacking-satellites-heres-what-the-space-industry-needs-to-know-now/</guid>
-<pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-<description>Our team recently demonstrated that an on-orbit commercial satellite could be compromised. But that is only one finding from a much larger body of work.</description>
-</item>
-<item>
-<title>Honda joins forces with Redwire to develop robots for commercial space stations</title>
-<link>https://spacenews.com/honda-joins-forces-with-redwire-to-develop-robots-for-commercial-space-stations/</link>
-<guid isPermaLink="true">https://spacenews.com/honda-joins-forces-with-redwire-to-develop-robots-for-commercial-space-stations/</guid>
-<pubDate>Thu, 01 Oct 2026 11:30:00 +0000</pubDate>
-<description>SAN FRANCISCO – Honda announced plans Oct. 1 to work with Redwire to develop robots to assist commercial space station crews.</description>
-</item>
-<item>
-<title>Rocket Lab signs contract with Synspective for 20 Electron launches</title>
-<link>https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/</guid>
-<pubDate>Thu, 01 Oct 2026 10:46:27 +0000</pubDate>
-<description>Rocket Lab announced Sept. 30 its largest commercial contract for the Electron rocket, a 20-launch deal with longtime Japanese customer Synspective.</description>
-</item>
-<item>
-<title>Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit</title>
-<link>https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</guid>
-<pubDate>Thu, 01 Oct 2026 00:24:08 +0000</pubDate>
-<description>Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […] The post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Blue Origin seeking to increase New Glenn launch cadence at Cape Canaveral</title>
+<title>Blue Origin Seeking To Increase New Glenn Launch Cadence At Cape Canaveral</title>
 <link>https://spacenews.com/blue-origin-seeking-to-increase-new-glenn-launch-cadence-at-cape-canaveral/</link>
 <guid isPermaLink="true">https://spacenews.com/blue-origin-seeking-to-increase-new-glenn-launch-cadence-at-cape-canaveral/</guid>
-<pubDate>Wed, 30 Sep 2026 23:23:10 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>As Blue Origin continues to recover from a New Glenn pad explosion in May, the company is seeking permission to significantly increase the vehicle’s launch rate.</description>
 </item>
 <item>
-<title>FCC votes to exclude space from NEPA reviews</title>
-<link>https://spacenews.com/fcc-votes-to-exclude-space-from-nepa-reviews/</link>
-<guid isPermaLink="true">https://spacenews.com/fcc-votes-to-exclude-space-from-nepa-reviews/</guid>
-<pubDate>Wed, 30 Sep 2026 22:04:16 +0000</pubDate>
-<description>The FCC voted Sept. 30 to formally exclude the space activities it regulates from reviews under the National Environmental Policy Act, while also making more than 1,000 megahertz of spectrum available for the industry.</description>
+<title>Foundational Emerges From Stealth To Commercialize Satellite Laser Ranging</title>
+<link>https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</link>
+<guid isPermaLink="true">https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>British startup Foundational emerged from stealth Oct. 1 with nearly $11 million in funding to upgrade and commercialize Satellite Laser Ranging, a decades-old technology for pinpointing satellites in orbit used mainly by scientific and government groups.</description>
 </item>
 <item>
-<title>Chinese electric-pump rocket startup Z-Trak raises new funding, targets 2027 debut for reusable Fission-A</title>
-<link>https://spacenews.com/chinese-electric-pump-rocket-startup-z-trak-raises-new-funding-targets-2027-debut-for-reusable-fission-a/</link>
-<guid isPermaLink="true">https://spacenews.com/chinese-electric-pump-rocket-startup-z-trak-raises-new-funding-targets-2027-debut-for-reusable-fission-a/</guid>
-<pubDate>Wed, 30 Sep 2026 21:56:09 +0000</pubDate>
-<description>HELSINKI — Chinese launch startup Z-Trak Space has secured a new funding round for a small reusable rocket and is targeting late 2027 for a first flight.</description>
+<title>L3Harris’ contract for executive aircraft satcom grows to $462 million</title>
+<link>https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/</link>
+<guid isPermaLink="true">https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Under the two-year deal L3Harris will integrate multi-orbit, multi-band satellite connectivity for government executive aircraft</description>
 </item>
 <item>
 <title>What will Golden Dome actually defend? Senators press for answers</title>
 <link>https://spacenews.com/what-will-golden-dome-actually-defend-senators-press-for-answers/</link>
 <guid isPermaLink="true">https://spacenews.com/what-will-golden-dome-actually-defend-senators-press-for-answers/</guid>
-<pubDate>Wed, 30 Sep 2026 21:51:13 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>CBO confirms it has seen the Pentagon's Golden Dome plan, but cannot discuss what it learned</description>
 </item>
 <item>
-<title>Viridian wins NASA contract to explore aerodynamic control surfaces for VLEO operations</title>
+<title>Rocket Lab Signs Contract With Synspective For 20 Electron Launches</title>
+<link>https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Rocket Lab announced Sept. 30 its largest commercial contract for the Electron rocket, a 20-launch deal with longtime Japanese customer Synspective.</description>
+</item>
+<item>
+<title>Honda joins forces with Redwire to develop robots for commercial space stations</title>
+<link>https://spacenews.com/honda-joins-forces-with-redwire-to-develop-robots-for-commercial-space-stations/</link>
+<guid isPermaLink="true">https://spacenews.com/honda-joins-forces-with-redwire-to-develop-robots-for-commercial-space-stations/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>SAN FRANCISCO – Honda announced plans Oct. 1 to work with Redwire to develop robots to assist commercial space station crews.</description>
+</item>
+<item>
+<title>Fcc Votes To Exclude Space From Nepa Reviews</title>
+<link>https://spacenews.com/fcc-votes-to-exclude-space-from-nepa-reviews/</link>
+<guid isPermaLink="true">https://spacenews.com/fcc-votes-to-exclude-space-from-nepa-reviews/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>The FCC voted Sept. 30 to formally exclude the space activities it regulates from reviews under the National Environmental Policy Act, while also making more than 1,000 megahertz of spectrum available for the industry.</description>
+</item>
+<item>
+<title>Three countries join the Artemis Accords</title>
+<link>https://spacenews.com/three-countries-join-the-artemis-accords/</link>
+<guid isPermaLink="true">https://spacenews.com/three-countries-join-the-artemis-accords/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Three countries join the Artemis Accords</description>
+</item>
+<item>
+<title>Viridian Wins Nasa Contract To Explore Aerodynamic Control Surfaces For Vleo Operations</title>
 <link>https://spacenews.com/viridian-wins-nasa-contract-to-explore-aerodynamic-control-surfaces-for-vleo-operations/</link>
 <guid isPermaLink="true">https://spacenews.com/viridian-wins-nasa-contract-to-explore-aerodynamic-control-surfaces-for-vleo-operations/</guid>
-<pubDate>Wed, 30 Sep 2026 17:02:58 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>SAN FRANCISCO – Viridian Space will work with the University of Washington to improve the simulation and design of control surfaces for satellites maneuvering in very low Earth orbit (VLEO), under a $225,000 NASA Small Business Technology Transfer contract announced Sept. 30.</description>
+</item>
+<item>
+<title>ESA announces leaders for studies on crewed European space stations</title>
+<link>https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>ESA announces leaders for studies on crewed European space stations</description>
+</item>
+<item>
+<title>Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation</title>
+<link>https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</link>
+<guid isPermaLink="true">https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>When a spacecraft closes in on another satellite, the operator tracking its trajectory on the other side now also has to consider whether that spacecraft is a weapon. On Sept. 14, 2026, Secretary of the Air Force Troy Meink revealed that the United States has “on-orbit space control weapons” to defend United States forces. Then Chief of Space Operations Gen. Douglas Schiess confirmed that Space Force personnel operate weapons in orbit . The world now knows that American weapons are in orbit, but since officials left their number, capabilities and locations undisclosed, there is no reliable public way to tell them apart from other spacecraft. For other operators, that silence adds to the dual-use dilemma, since an American spacecraft that appears to be inspecting or servicing a satellite may now turn out to be one of those weapons.</description>
+</item>
+<item>
+<title>We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.</title>
+<link>https://spacenews.com/weve-spent-eight-years-hacking-satellites-heres-what-the-space-industry-needs-to-know-now/</link>
+<guid isPermaLink="true">https://spacenews.com/weve-spent-eight-years-hacking-satellites-heres-what-the-space-industry-needs-to-know-now/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Our team recently demonstrated that an on-orbit commercial satellite could be compromised. But that is only one finding from a much larger body of work.</description>
+</item>
+<item>
+<title>World Space Week 2026 Celebrates the “Rocket Revolution”</title>
+<link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
+<guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Lmt Group And Novaspace Partner To Develop Strategy For 5G 6G Satellite Communications Hub In Latvia</title>
+<link>https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</link>
+<guid isPermaLink="true">https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […] The post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Galileo Space Is Building Satellites That Turn Signals Into Answers In Orbit</title>
+<link>https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […] The post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier</title>
 <link>https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/</link>
 <guid isPermaLink="true">https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/</guid>
-<pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
 <description>ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise […] The post NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>Astranis secures $468 million EXIM loan to expand satellite production</title>
-<link>https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</link>
-<guid isPermaLink="true">https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/</guid>
-<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
-<description>U.S. export credit agency is backing the satellite maker as it pursues growing international demand for dedicated communications networks</description>
+<title>Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission</title>
+<link>https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […] The post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Stellar Dispatch</title>
+<link>https://spacenews.com/stellar-dispatch/</link>
+<guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Stellar Dispatch</description>
+</item>
+<item>
+<title>Spacenews Terms Conditions</title>
+<link>https://spacenews.com/spacenews-terms-conditions/</link>
+<guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
+<pubDate>Fri, 02 Oct 2026 09:11:23 +0000</pubDate>
+<description>Spacenews Terms Conditions</description>
 </item>
 </channel>
 </rss>
