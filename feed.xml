@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 03 Oct 2026 05:08:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 06:17:56 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -28,13 +28,6 @@
 <guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
 <pubDate>Fri, 02 Oct 2026 19:10:45 +0000</pubDate>
 <description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>True Or False On Space Industry Trends With Pacome Revillon</title>
-<link>https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</link>
-<guid isPermaLink="true">https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/</guid>
-<pubDate>Fri, 02 Oct 2026 19:10:45 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […] The post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Inside Europe’s push for space autonomy with Josef Aschbacher</title>
@@ -174,7 +167,7 @@
 <link>https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/</link>
 <guid isPermaLink="true">https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/</guid>
 <pubDate>Thu, 01 Oct 2026 12:46:32 +0000</pubDate>
-<description>HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […]</description>
+<description>HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […] The post China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.</title>
@@ -217,6 +210,13 @@
 <guid isPermaLink="true">https://spacenews.com/fcc-votes-to-exclude-space-from-nepa-reviews/</guid>
 <pubDate>Wed, 30 Sep 2026 22:04:16 +0000</pubDate>
 <description>The FCC voted Sept. 30 to formally exclude the space activities it regulates from reviews under the National Environmental Policy Act, while also making more than 1,000 megahertz of spectrum available for the industry.</description>
+</item>
+<item>
+<title>NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier</title>
+<link>https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/</link>
+<guid isPermaLink="true">https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/</guid>
+<pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+<description>ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise […] The post NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
