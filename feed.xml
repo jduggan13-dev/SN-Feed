@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 03 Oct 2026 21:58:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 00:25:55 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Army awards $67 million for technologies to counter space-enabled surveillance</title>
+<link>https://spacenews.com/army-awards-67-million-for-technologies-to-counter-space-enabled-surveillance/</link>
+<guid isPermaLink="true">https://spacenews.com/army-awards-67-million-for-technologies-to-counter-space-enabled-surveillance/</guid>
+<pubDate>Sat, 03 Oct 2026 23:58:37 +0000</pubDate>
+<description>Five agreements to develop prototypes were awarded to KBR, Raytheon, Northrop Grumman-Xetron, STR and ICR</description>
+</item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/</guid>
 <pubDate>Thu, 01 Oct 2026 10:46:27 +0000</pubDate>
 <description>Rocket Lab announced Sept. 30 its largest commercial contract for the Electron rocket, a 20-launch deal with longtime Japanese customer Synspective.</description>
-</item>
-<item>
-<title>Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit</title>
-<link>https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/</guid>
-<pubDate>Thu, 01 Oct 2026 00:24:08 +0000</pubDate>
-<description>Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […] The post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
