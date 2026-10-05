@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 05 Oct 2026 15:32:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 22:19:00 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dish TV and Sling TV emerge from bankruptcy</title>
+<link>https://spacenews.com/dish-tv-and-sling-tv-emerge-from-bankruptcy/</link>
+<guid isPermaLink="true">https://spacenews.com/dish-tv-and-sling-tv-emerge-from-bankruptcy/</guid>
+<pubDate>Mon, 05 Oct 2026 21:10:09 +0000</pubDate>
+<description>The EchoStar subsidiary behind U.S. satellite broadcaster Dish TV and online streaming service Sling TV has emerged from bankruptcy protection after completing a prepackaged restructuring plan.</description>
+</item>
+<item>
+<title>Pentagon betting on solar power from space</title>
+<link>https://spacenews.com/pentagon-betting-on-solar-power-from-space/</link>
+<guid isPermaLink="true">https://spacenews.com/pentagon-betting-on-solar-power-from-space/</guid>
+<pubDate>Mon, 05 Oct 2026 20:59:40 +0000</pubDate>
+<description>Overview Energy plans to beam power to Earth. Making the economics work will take much more</description>
+</item>
+<item>
+<title>Another way to address the launch capacity crunch</title>
+<link>https://spacenews.com/another-way-to-address-the-launch-capacity-crunch-connecting-the-dots/</link>
+<guid isPermaLink="true">https://spacenews.com/another-way-to-address-the-launch-capacity-crunch-connecting-the-dots/</guid>
+<pubDate>Mon, 05 Oct 2026 19:24:15 +0000</pubDate>
+<description>A worse-than-expected lack of launch capacity has blindsided an industry that had come to rely on growing access to space, not least the Falcon 9 launches and rideshares SpaceX is moving away from as it shifts focus to Starship.</description>
+</item>
+<item>
+<title>Resource competition intensifies with surge in megaconstellations</title>
+<link>https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/</link>
+<guid isPermaLink="true">https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/</guid>
+<pubDate>Mon, 05 Oct 2026 19:13:40 +0000</pubDate>
+<description>Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […]</description>
+</item>
+<item>
+<title>Open Cosmos sets 192-satellite target for connectivity network amid launch shortage</title>
+<link>https://spacenews.com/open-cosmos-sets-192-satellite-target-for-connectivity-network-amid-launch-shortage/</link>
+<guid isPermaLink="true">https://spacenews.com/open-cosmos-sets-192-satellite-target-for-connectivity-network-amid-launch-shortage/</guid>
+<pubDate>Mon, 05 Oct 2026 16:48:46 +0000</pubDate>
+<description>Open Cosmos has built at least 50 of the more than 96 ConnectedCosmos connectivity satellites the British company said Oct. 5 it plans to deploy before the end of 2028, CEO Rafel Siquier told SpaceNews.</description>
+</item>
 <item>
 <title>Voyager wins $22.4 million Pentagon award for small-satellite deployers</title>
 <link>https://spacenews.com/voyager-wins-22-4-million-pentagon-award-for-small-satellite-deployers/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/</guid>
 <pubDate>Thu, 01 Oct 2026 19:00:56 +0000</pubDate>
 <description>Two aging DSP satellites were used in September’s Apollo Maneuvers exercise before being moved into disposal orbits</description>
-</item>
-<item>
-<title>EU nations back military space project worth up to $27 billion, propose shared tracking data</title>
-<link>https://spacenews.com/eu-nations-back-military-space-project-worth-up-to-27-billion-propose-shared-tracking-data/</link>
-<guid isPermaLink="true">https://spacenews.com/eu-nations-back-military-space-project-worth-up-to-27-billion-propose-shared-tracking-data/</guid>
-<pubDate>Thu, 01 Oct 2026 17:06:51 +0000</pubDate>
-<description>JOHANNESBURG — European governments are preparing to invest up to 24 billion euros ($27 billion) in SPACE, a joint military space project spanning satellite communications, surveillance and missile warning. The initiative is part of a broader EU effort to expand its defense capabilities in orbit.</description>
-</item>
-<item>
-<title>Crew-13 launches to the ISS</title>
-<link>https://spacenews.com/crew-13-launches-to-the-iss/</link>
-<guid isPermaLink="true">https://spacenews.com/crew-13-launches-to-the-iss/</guid>
-<pubDate>Thu, 01 Oct 2026 16:05:23 +0000</pubDate>
-<description>SpaceX launched a new crew to the International Space Station on Oct. 1 on a mission delayed by repairs to the Crew Dragon spacecraft.</description>
-</item>
-<item>
-<title>Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation</title>
-<link>https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</link>
-<guid isPermaLink="true">https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/</guid>
-<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
-<description>When a spacecraft closes in on another satellite, the operator tracking its trajectory on the other side now also has to consider whether that spacecraft is a weapon. On Sept. 14, 2026, Secretary of the Air Force Troy Meink revealed that the United States has “on-orbit space control weapons” to defend United States forces. Then Chief of Space Operations Gen. Douglas Schiess confirmed that Space Force personnel operate weapons in orbit . The world now knows that American weapons are in orbit, but since officials left their number, capabilities and locations undisclosed, there is no reliable public way to tell them apart from other spacecraft. For other operators, that silence adds to the dual-use dilemma, since an American spacecraft that appears to be inspecting or servicing a satellite may now turn out to be one of those weapons.</description>
-</item>
-<item>
-<title>Foundational emerges from stealth to commercialize satellite laser ranging</title>
-<link>https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</link>
-<guid isPermaLink="true">https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/</guid>
-<pubDate>Thu, 01 Oct 2026 15:39:21 +0000</pubDate>
-<description>British startup Foundational emerged from stealth Oct. 1 with nearly $11 million in funding to upgrade and commercialize Satellite Laser Ranging, a decades-old technology for pinpointing satellites in orbit used mainly by scientific and government groups.</description>
-</item>
-<item>
-<title>World Space Week 2026 Celebrates the “Rocket Revolution”</title>
-<link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
-<guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
-<pubDate>Thu, 01 Oct 2026 15:06:43 +0000</pubDate>
-<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
