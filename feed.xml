@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 05 Oct 2026 06:32:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 15:32:24 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Voyager wins $22.4 million Pentagon award for small-satellite deployers</title>
+<link>https://spacenews.com/voyager-wins-22-4-million-pentagon-award-for-small-satellite-deployers/</link>
+<guid isPermaLink="true">https://spacenews.com/voyager-wins-22-4-million-pentagon-award-for-small-satellite-deployers/</guid>
+<pubDate>Mon, 05 Oct 2026 14:53:20 +0000</pubDate>
+<description>The company will build flight-ready prototypes designed to make use of spare capacity on national security launches</description>
+</item>
+<item>
+<title>York Space satellites cleared for Space Force GEO tracking mission</title>
+<link>https://spacenews.com/york-space-satellites-cleared-for-space-force-geo-tracking-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/york-space-satellites-cleared-for-space-force-geo-tracking-mission/</guid>
+<pubDate>Mon, 05 Oct 2026 13:00:00 +0000</pubDate>
+<description>Tetra 3 and 4 will carry infrared, LiDAR and GPS sensors for experiments in geosynchronous orbit</description>
+</item>
+<item>
+<title>Do you really need space-grade components?</title>
+<link>https://spacenews.com/do-you-really-need-space-grade-components/</link>
+<guid isPermaLink="true">https://spacenews.com/do-you-really-need-space-grade-components/</guid>
+<pubDate>Mon, 05 Oct 2026 13:00:00 +0000</pubDate>
+<description>One challenge in the industry is that we’ve gotten comfortable using the term “space-grade” as if everyone agrees on what it means. I don’t think they do.</description>
+</item>
+<item>
+<title>Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth</title>
+<link>https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/</link>
+<guid isPermaLink="true">https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/</guid>
+<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+<description>DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His […]</description>
+</item>
+<item>
+<title>The Exploration Company considers Middle Eastern launch sites for heavy-lift rocket</title>
+<link>https://spacenews.com/the-exploration-company-considers-middle-eastern-launch-sites-for-heavy-lift-rocket/</link>
+<guid isPermaLink="true">https://spacenews.com/the-exploration-company-considers-middle-eastern-launch-sites-for-heavy-lift-rocket/</guid>
+<pubDate>Mon, 05 Oct 2026 10:14:17 +0000</pubDate>
+<description>The Exploration Company is considering spaceports in the Middle East for a large reusable launch vehicle it plans to develop.</description>
+</item>
 <item>
 <title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
 <link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
 <pubDate>Thu, 01 Oct 2026 15:06:43 +0000</pubDate>
 <description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Rethinking risk with electronics for space</title>
-<link>https://spacenews.com/rethinking-risk-with-electronics-for-space/</link>
-<guid isPermaLink="true">https://spacenews.com/rethinking-risk-with-electronics-for-space/</guid>
-<pubDate>Thu, 01 Oct 2026 14:51:34 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […] The post Rethinking risk with electronics for space appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia</title>
-<link>https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</link>
-<guid isPermaLink="true">https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/</guid>
-<pubDate>Thu, 01 Oct 2026 14:40:51 +0000</pubDate>
-<description>Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […] The post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>L3Harris’ contract for executive aircraft satcom grows to $462 million</title>
-<link>https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/</link>
-<guid isPermaLink="true">https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/</guid>
-<pubDate>Thu, 01 Oct 2026 13:54:01 +0000</pubDate>
-<description>Under the two-year deal L3Harris will integrate multi-orbit, multi-band satellite connectivity for government executive aircraft</description>
-</item>
-<item>
-<title>China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest</title>
-<link>https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/</link>
-<guid isPermaLink="true">https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/</guid>
-<pubDate>Thu, 01 Oct 2026 12:46:32 +0000</pubDate>
-<description>HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […]</description>
-</item>
-<item>
-<title>We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.</title>
-<link>https://spacenews.com/weve-spent-eight-years-hacking-satellites-heres-what-the-space-industry-needs-to-know-now/</link>
-<guid isPermaLink="true">https://spacenews.com/weve-spent-eight-years-hacking-satellites-heres-what-the-space-industry-needs-to-know-now/</guid>
-<pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-<description>Our team recently demonstrated that an on-orbit commercial satellite could be compromised. But that is only one finding from a much larger body of work.</description>
 </item>
 </channel>
 </rss>
