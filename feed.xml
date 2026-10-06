@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 06 Oct 2026 09:45:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 16:29:20 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Colorado Springs and Huntsville look beyond Space Command fight</title>
+<link>https://spacenews.com/colorado-springs-and-huntsville-look-beyond-space-command-fight/</link>
+<guid isPermaLink="true">https://spacenews.com/colorado-springs-and-huntsville-look-beyond-space-command-fight/</guid>
+<pubDate>Tue, 06 Oct 2026 15:41:00 +0000</pubDate>
+<description>Business and civic leaders are looking to a growing military space budget for opportunities that could benefit both cities</description>
+</item>
+<item>
+<title>Rockets are scaling faster than the infrastructure beneath them</title>
+<link>https://spacenews.com/rockets-are-scaling-faster-than-the-infrastructure-beneath-them/</link>
+<guid isPermaLink="true">https://spacenews.com/rockets-are-scaling-faster-than-the-infrastructure-beneath-them/</guid>
+<pubDate>Tue, 06 Oct 2026 13:00:00 +0000</pubDate>
+<description>Western launch capacity is usually discussed in terms of rockets: how many, how reusable, how cheap. Those questions still matter, but they are increasingly not the ones setting the pace. In 2021, 36 rockets launched from Cape Canaveral . Last year it was 110, with another 65 from Vandenberg, and the Space Force has said the two ranges could see up to 3,000 launches a year by 2036. Much of that growth has run through ground infrastructure built decades ago. As reusable rockets start to behave more like transportation assets, the infrastructure beneath them will need to make the same transition.</description>
+</item>
+<item>
+<title>Can taking dead military satellites out of orbit become a business?</title>
+<link>https://spacenews.com/the-space-development-agency-is-backing-five-companies-developing-vehicles-to-remove-satellites-from-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/the-space-development-agency-is-backing-five-companies-developing-vehicles-to-remove-satellites-from-orbit/</guid>
+<pubDate>Tue, 06 Oct 2026 11:00:00 +0000</pubDate>
+<description>Space Development Agency backing five companies developing vehicles to remove satellites from orbit</description>
+</item>
+<item>
+<title>Government reticent to step into launch bottleneck issue</title>
+<link>https://spacenews.com/government-reticent-to-step-into-launch-bottleneck-issue/</link>
+<guid isPermaLink="true">https://spacenews.com/government-reticent-to-step-into-launch-bottleneck-issue/</guid>
+<pubDate>Tue, 06 Oct 2026 09:48:50 +0000</pubDate>
+<description>As evidence grows of a launch bottleneck in the space industry, government officials are shying away from taking measures to address it out of concerns about making the problem worse.</description>
+</item>
 <item>
 <title>Dish TV and Sling TV emerge from bankruptcy</title>
 <link>https://spacenews.com/dish-tv-and-sling-tv-emerge-from-bankruptcy/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/spacex-analysts-satisfied-with-latest-starship-flight/</guid>
 <pubDate>Fri, 02 Oct 2026 10:13:49 +0000</pubDate>
 <description>Both SpaceX and outside analysts appear largely satisfied with the first orbital flight of Starship despite some technical issues during the mission.</description>
-</item>
-<item>
-<title>SpaceX launches Transporter-18 rideshare mission</title>
-<link>https://spacenews.com/spacex-launches-transporter-18-rideshare-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-launches-transporter-18-rideshare-mission/</guid>
-<pubDate>Fri, 02 Oct 2026 00:01:29 +0000</pubDate>
-<description>SpaceX launched its latest rideshare mission Oct. 1, carrying a wide variety of spacecraft even as the industry struggles to deal with the impending end of such missions.</description>
-</item>
-<item>
-<title>Contracts signal growing interest in space-based solar power</title>
-<link>https://spacenews.com/contracts-signal-growing-interest-in-space-based-solar-power/</link>
-<guid isPermaLink="true">https://spacenews.com/contracts-signal-growing-interest-in-space-based-solar-power/</guid>
-<pubDate>Thu, 01 Oct 2026 21:01:23 +0000</pubDate>
-<description>Two companies with plans for space-based solar power systems have secured agreements to further their development as the industry reaches out to the energy sector to stimulate interest.</description>
-</item>
-<item>
-<title>Iceye teams up with Nokia to develop sovereign broadband constellations</title>
-<link>https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/</link>
-<guid isPermaLink="true">https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/</guid>
-<pubDate>Thu, 01 Oct 2026 19:01:32 +0000</pubDate>
-<description>Iceye is partnering with Nokia to develop secure broadband constellations for governments, with initial satellite deployments slated for 2028 as the Finnish radar imaging specialist expands beyond Earth observation.</description>
-</item>
-<item>
-<title>Space Force retires Cold War-era missile-warning constellation after final maneuver exercise</title>
-<link>https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/</guid>
-<pubDate>Thu, 01 Oct 2026 19:00:56 +0000</pubDate>
-<description>Two aging DSP satellites were used in September’s Apollo Maneuvers exercise before being moved into disposal orbits</description>
 </item>
 </channel>
 </rss>
