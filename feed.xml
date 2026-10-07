@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 07 Oct 2026 08:08:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 16:05:01 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Announcing the finalists for the 2026 SpaceNews Icon Awards</title>
+<link>https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/</link>
+<guid isPermaLink="true">https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/</guid>
+<pubDate>Wed, 07 Oct 2026 14:18:18 +0000</pubDate>
+<description>Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews .</description>
+</item>
 <item>
 <title>Nebex and U.N. to work on supporting emerging space programs</title>
 <link>https://spacenews.com/nebex-and-u-n-to-work-on-supporting-emerging-space-programs/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/more-than-600-soldiers-join-armys-new-space-operations-career-field/</guid>
 <pubDate>Sat, 03 Oct 2026 15:43:08 +0000</pubDate>
 <description>Selected from nearly 3,000 applicants, the first class reflects the growing importance of space to forces fighting on the ground.</description>
-</item>
-<item>
-<title>HyImpulse secures launch license as Orbex assets are sold</title>
-<link>https://spacenews.com/hyimpulse-secures-launch-license-as-orbex-assets-are-sold/</link>
-<guid isPermaLink="true">https://spacenews.com/hyimpulse-secures-launch-license-as-orbex-assets-are-sold/</guid>
-<pubDate>Fri, 02 Oct 2026 21:20:58 +0000</pubDate>
-<description>A German company has secured a license to launch from a Scottish spaceport while another company that planned to use the site has had its assets sold.</description>
 </item>
 </channel>
 </rss>
