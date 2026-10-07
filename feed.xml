@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 07 Oct 2026 01:12:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 08:08:15 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nebex and U.N. to work on supporting emerging space programs</title>
+<link>https://spacenews.com/nebex-and-u-n-to-work-on-supporting-emerging-space-programs/</link>
+<guid isPermaLink="true">https://spacenews.com/nebex-and-u-n-to-work-on-supporting-emerging-space-programs/</guid>
+<pubDate>Wed, 07 Oct 2026 03:49:51 +0000</pubDate>
+<description>A startup with plans to help connect space industry suppliers with space projects around the world has signed agreements with a United Nations office.</description>
+</item>
+<item>
+<title>California turns to Iceye for flood and wildfire observations</title>
+<link>https://spacenews.com/california-turns-to-iceye-for-flood-and-wildfire-observations/</link>
+<guid isPermaLink="true">https://spacenews.com/california-turns-to-iceye-for-flood-and-wildfire-observations/</guid>
+<pubDate>Wed, 07 Oct 2026 02:48:49 +0000</pubDate>
+<description>SAN FRANCISCO — California Gov. Gavin Newsom announced plans Oct. 6 to integrate Iceye satellite-derived flood and wildfire observations into the state’s emergency plans for winter weather.</description>
+</item>
 <item>
 <title>NorthStar SDA sensor expansion on track despite investor redemptions</title>
 <link>https://spacenews.com/northstar-sda-sensor-expansion-on-track-despite-investor-redemptions/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/hyimpulse-secures-launch-license-as-orbex-assets-are-sold/</guid>
 <pubDate>Fri, 02 Oct 2026 21:20:58 +0000</pubDate>
 <description>A German company has secured a license to launch from a Scottish spaceport while another company that planned to use the site has had its assets sold.</description>
-</item>
-<item>
-<title>Rheinmetall, Argotec launch first satellite for military air-defense network</title>
-<link>https://spacenews.com/rheinmetall-argotec-launch-first-satellite-for-military-air-defense-network/</link>
-<guid isPermaLink="true">https://spacenews.com/rheinmetall-argotec-launch-first-satellite-for-military-air-defense-network/</guid>
-<pubDate>Fri, 02 Oct 2026 20:22:48 +0000</pubDate>
-<description>The satellite is first step toward planned constellation designed to provide early warning of airborne threats</description>
-</item>
-<item>
-<title>Nordic launch race heats up as Sweden secures 2028 orbital launch at Esrange</title>
-<link>https://spacenews.com/nordic-launch-race-heats-up-as-sweden-secures-2028-orbital-launch-at-esrange/</link>
-<guid isPermaLink="true">https://spacenews.com/nordic-launch-race-heats-up-as-sweden-secures-2028-orbital-launch-at-esrange/</guid>
-<pubDate>Fri, 02 Oct 2026 14:39:23 +0000</pubDate>
-<description>JOHANNESBURG — Sweden’s Esrange Space Center is preparing for a busy period of launch activity as political scrutiny grows over efforts to establish an orbital launch capability at the site.</description>
 </item>
 </channel>
 </rss>
