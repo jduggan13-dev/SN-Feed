@@ -4,16 +4,51 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 07 Oct 2026 16:05:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 21:45:47 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>U.S. military GPS upgrades stretching into 2040s</title>
+<link>https://spacenews.com/u-s-military-gps-upgrades-stretching-into-2040s/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-military-gps-upgrades-stretching-into-2040s/</guid>
+<pubDate>Wed, 07 Oct 2026 15:38:40 +0000</pubDate>
+<description>Government Accountability Office flags long timelines, limited M-code chip supply and fragmented GPS modernization programs</description>
+</item>
 <item>
 <title>Announcing the finalists for the 2026 SpaceNews Icon Awards</title>
 <link>https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/</link>
 <guid isPermaLink="true">https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/</guid>
 <pubDate>Wed, 07 Oct 2026 14:18:18 +0000</pubDate>
 <description>Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>The new multi-orbit model of sovereignty and resilience</title>
+<link>https://spacenews.com/the-new-multi-orbit-model-of-sovereignty-and-resilience/</link>
+<guid isPermaLink="true">https://spacenews.com/the-new-multi-orbit-model-of-sovereignty-and-resilience/</guid>
+<pubDate>Wed, 07 Oct 2026 13:00:00 +0000</pubDate>
+<description>In June, SpaceX completed the largest IPO in history, reaching a market value high of over $2 trillion. This valuation has established a new financial center of gravity for the industry, with significant consequences and implications.</description>
+</item>
+<item>
+<title>Experience and in-house work speeding SLS/Orion preparations for Artemis 3</title>
+<link>https://spacenews.com/experience-and-in-house-work-speeding-sls-orion-preparations-for-artemis-3/</link>
+<guid isPermaLink="true">https://spacenews.com/experience-and-in-house-work-speeding-sls-orion-preparations-for-artemis-3/</guid>
+<pubDate>Wed, 07 Oct 2026 11:09:55 +0000</pubDate>
+<description>NASA is making faster progress preparing the Space Launch System and Orion for Artemis 3 than on prior missions, in part by taking some work in-house.</description>
+</item>
+<item>
+<title>Europe’s push to enhance space autonomy</title>
+<link>https://spacenews.com/europes-push-to-enhance-space-autonomy/</link>
+<guid isPermaLink="true">https://spacenews.com/europes-push-to-enhance-space-autonomy/</guid>
+<pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
+<description>As attendees to the International Space Summit walked into the Grand Palais in Paris in early September, a sign of Europe’s ambitions in space greeted them.</description>
+</item>
+<item>
+<title>Axiom Space working to revise lunar spacesuit for early Artemis missions</title>
+<link>https://spacenews.com/axiom-space-working-to-revise-lunar-spacesuit-for-early-artemis-missions/</link>
+<guid isPermaLink="true">https://spacenews.com/axiom-space-working-to-revise-lunar-spacesuit-for-early-artemis-missions/</guid>
+<pubDate>Wed, 07 Oct 2026 10:05:54 +0000</pubDate>
+<description>Axiom Space expects to hear from NASA soon on the configuration for a simplified spacesuit the company will develop for the initial Artemis lunar landing missions.</description>
 </item>
 <item>
 <title>Nebex and U.N. to work on supporting emerging space programs</title>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</guid>
 <pubDate>Sun, 04 Oct 2026 17:58:11 +0000</pubDate>
 <description>Esa Announces Leaders For Studies On Crewed European Space Stations</description>
-</item>
-<item>
-<title>Stellar Dispatch</title>
-<link>https://spacenews.com/stellar-dispatch/</link>
-<guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
-<pubDate>Sun, 04 Oct 2026 17:58:11 +0000</pubDate>
-<description>Stellar Dispatch</description>
-</item>
-<item>
-<title>Spacenews Terms Conditions</title>
-<link>https://spacenews.com/spacenews-terms-conditions/</link>
-<guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
-<pubDate>Sun, 04 Oct 2026 17:58:11 +0000</pubDate>
-<description>Spacenews Terms Conditions</description>
-</item>
-<item>
-<title>Former NASA science leader joins Blue Origin</title>
-<link>https://spacenews.com/former-nasa-science-leader-joins-blue-origin/</link>
-<guid isPermaLink="true">https://spacenews.com/former-nasa-science-leader-joins-blue-origin/</guid>
-<pubDate>Sun, 04 Oct 2026 16:40:53 +0000</pubDate>
-<description>A former NASA associate administrator for science is joining Blue Origin to lead the company’s advanced technology work.</description>
-</item>
-<item>
-<title>Army awards $67 million for technologies to counter space-enabled surveillance</title>
-<link>https://spacenews.com/army-awards-67-million-for-technologies-to-counter-space-enabled-surveillance/</link>
-<guid isPermaLink="true">https://spacenews.com/army-awards-67-million-for-technologies-to-counter-space-enabled-surveillance/</guid>
-<pubDate>Sat, 03 Oct 2026 23:58:37 +0000</pubDate>
-<description>Five agreements to develop prototypes were awarded to KBR, Raytheon, Northrop Grumman-Xetron, STR and ICR</description>
-</item>
-<item>
-<title>More than 600 soldiers join Army’s new space operations career field</title>
-<link>https://spacenews.com/more-than-600-soldiers-join-armys-new-space-operations-career-field/</link>
-<guid isPermaLink="true">https://spacenews.com/more-than-600-soldiers-join-armys-new-space-operations-career-field/</guid>
-<pubDate>Sat, 03 Oct 2026 15:43:08 +0000</pubDate>
-<description>Selected from nearly 3,000 applicants, the first class reflects the growing importance of space to forces fighting on the ground.</description>
 </item>
 </channel>
 </rss>
