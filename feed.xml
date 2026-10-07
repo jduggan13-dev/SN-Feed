@@ -4,16 +4,44 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 06 Oct 2026 21:25:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 01:12:28 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NorthStar SDA sensor expansion on track despite investor redemptions</title>
+<link>https://spacenews.com/northstar-sda-sensor-expansion-on-track-despite-investor-redemptions/</link>
+<guid isPermaLink="true">https://spacenews.com/northstar-sda-sensor-expansion-on-track-despite-investor-redemptions/</guid>
+<pubDate>Tue, 06 Oct 2026 22:42:51 +0000</pubDate>
+<description>NorthStar Earth and Space remains on track to expand its in-orbit space domain awareness network, CEO Stewart Bain said, despite heavy investor withdrawals from the blank-check company merger that took it public last week.</description>
+</item>
+<item>
+<title>Space Force experiment uses HawkEye 360 satellites to listen for signals in orbit</title>
+<link>https://spacenews.com/space-force-experiment-uses-hawkeye-360-satellites-to-listen-for-signals-in-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-experiment-uses-hawkeye-360-satellites-to-listen-for-signals-in-orbit/</guid>
+<pubDate>Tue, 06 Oct 2026 21:33:57 +0000</pubDate>
+<description>An 18-month experiment showed commercial RF monitoring satellites can detect transmissions from spacecraft in LEO, MEO and GEO</description>
+</item>
+<item>
+<title>Kymeta to add RF sensing, edge computing to Osprey satellite terminal</title>
+<link>https://spacenews.com/kymeta-to-add-rf-sensing-edge-computing-to-osprey-satellite-terminal/</link>
+<guid isPermaLink="true">https://spacenews.com/kymeta-to-add-rf-sensing-edge-computing-to-osprey-satellite-terminal/</guid>
+<pubDate>Tue, 06 Oct 2026 20:14:09 +0000</pubDate>
+<description>The upgrade, funded by the Defense Department, would combine satellite communications, computing and radio-frequency monitoring in a single tactical terminal</description>
+</item>
 <item>
 <title>Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format</title>
 <link>https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</link>
 <guid isPermaLink="true">https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</guid>
 <pubDate>Tue, 06 Oct 2026 19:20:20 +0000</pubDate>
 <description>Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Linse Capital looks to expand early-stage bets on space</title>
+<link>https://spacenews.com/linse-capital-looks-to-expand-early-stage-bets-on-space/</link>
+<guid isPermaLink="true">https://spacenews.com/linse-capital-looks-to-expand-early-stage-bets-on-space/</guid>
+<pubDate>Tue, 06 Oct 2026 19:19:02 +0000</pubDate>
+<description>Linse Capital is exploring another early-stage fund to place more bets on space and other deep tech startups, after quietly deploying most of an initial $150 million foray beyond its traditional focus on more mature businesses.</description>
 </item>
 <item>
 <title>Colorado Springs and Huntsville look beyond Space Command fight</title>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/nordic-launch-race-heats-up-as-sweden-secures-2028-orbital-launch-at-esrange/</guid>
 <pubDate>Fri, 02 Oct 2026 14:39:23 +0000</pubDate>
 <description>JOHANNESBURG — Sweden’s Esrange Space Center is preparing for a busy period of launch activity as political scrutiny grows over efforts to establish an orbital launch capability at the site.</description>
-</item>
-<item>
-<title>Space exploration should learn from deep sea technology</title>
-<link>https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/</link>
-<guid isPermaLink="true">https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/</guid>
-<pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
-<description>When the Artemis astronauts step onto the lunar surface, they will have spent considerable time and effort installing themselves in their bulky, heavy spacesuits. They will lumber onto the surface having limited mobility and time, struggling to accomplish their assigned tasks. Their activities will kick up clinging, razor-sharp lunar dust that they will invariably carry back into their capsule on their suits. And they will enter that capsule exhausted, perhaps even injured.</description>
-</item>
-<item>
-<title>SpaceX, analysts satisfied with latest Starship flight</title>
-<link>https://spacenews.com/spacex-analysts-satisfied-with-latest-starship-flight/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-analysts-satisfied-with-latest-starship-flight/</guid>
-<pubDate>Fri, 02 Oct 2026 10:13:49 +0000</pubDate>
-<description>Both SpaceX and outside analysts appear largely satisfied with the first orbital flight of Starship despite some technical issues during the mission.</description>
-</item>
-<item>
-<title>World Space Week 2026 Celebrates the “Rocket Revolution”</title>
-<link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
-<guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
-<pubDate>Thu, 01 Oct 2026 15:06:43 +0000</pubDate>
-<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Rethinking risk with electronics for space</title>
-<link>https://spacenews.com/rethinking-risk-with-electronics-for-space/</link>
-<guid isPermaLink="true">https://spacenews.com/rethinking-risk-with-electronics-for-space/</guid>
-<pubDate>Thu, 01 Oct 2026 14:51:34 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […] The post Rethinking risk with electronics for space appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
