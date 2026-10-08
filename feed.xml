@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 08 Oct 2026 16:07:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 21:48:56 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force seeks clearer view of private capital behind emerging technologies</title>
+<link>https://spacenews.com/space-force-seeks-clearer-view-of-private-capital-behind-emerging-technologies/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-seeks-clearer-view-of-private-capital-behind-emerging-technologies/</guid>
+<pubDate>Thu, 08 Oct 2026 20:52:12 +0000</pubDate>
+<description>A $1.49 million award to startup USAX will support development of a platform to analyze technology investments and inform government co-investment decisions.</description>
+</item>
+<item>
+<title>Astrolight delivers first space-to-ground laser communication link to client</title>
+<link>https://spacenews.com/astrolight-delivers-first-space-to-ground-laser-communication-link-to-client/</link>
+<guid isPermaLink="true">https://spacenews.com/astrolight-delivers-first-space-to-ground-laser-communication-link-to-client/</guid>
+<pubDate>Thu, 08 Oct 2026 17:12:52 +0000</pubDate>
+<description>WARSAW, Poland — The Lithuanian space startup Astrolight has announced the successful commissioning of a space-to-ground laser communication link. The link company’s ATLAS-1 laser communication terminal aboard ERMIS-3, an 8U cubesat led by the National and Kapodistrian University of Athens as part of the ERMIS mission, connected with HolOGS-1, the optical ground station of Aristotle University of Thessaloniki in Greece.</description>
+</item>
 <item>
 <title>What will it take to build a moon base?</title>
 <link>https://spacenews.com/what-will-it-take-to-build-a-moon-base/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/pentagon-betting-on-solar-power-from-space/</guid>
 <pubDate>Mon, 05 Oct 2026 20:59:40 +0000</pubDate>
 <description>Overview Energy plans to beam power to Earth. Making the economics work will take much more</description>
-</item>
-<item>
-<title>Another way to address the launch capacity crunch</title>
-<link>https://spacenews.com/another-way-to-address-the-launch-capacity-crunch-connecting-the-dots/</link>
-<guid isPermaLink="true">https://spacenews.com/another-way-to-address-the-launch-capacity-crunch-connecting-the-dots/</guid>
-<pubDate>Mon, 05 Oct 2026 19:24:15 +0000</pubDate>
-<description>A worse-than-expected lack of launch capacity has blindsided an industry that had come to rely on growing access to space, not least the Falcon 9 launches and rideshares SpaceX is moving away from as it shifts focus to Starship.</description>
-</item>
-<item>
-<title>Resource competition intensifies with surge in megaconstellations</title>
-<link>https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/</link>
-<guid isPermaLink="true">https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/</guid>
-<pubDate>Mon, 05 Oct 2026 19:13:40 +0000</pubDate>
-<description>Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […] The post Resource competition intensifies with surge in megaconstellations appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
