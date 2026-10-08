@@ -4,10 +4,59 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 08 Oct 2026 08:24:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 16:07:08 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>What will it take to build a moon base?</title>
+<link>https://spacenews.com/what-will-it-take-to-build-a-moon-base/</link>
+<guid isPermaLink="true">https://spacenews.com/what-will-it-take-to-build-a-moon-base/</guid>
+<pubDate>Thu, 08 Oct 2026 13:57:38 +0000</pubDate>
+<description>In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […]</description>
+</item>
+<item>
+<title>Fortastra closes $30 million Series A round</title>
+<link>https://spacenews.com/fortastra-closes-30-million-series-a-round/</link>
+<guid isPermaLink="true">https://spacenews.com/fortastra-closes-30-million-series-a-round/</guid>
+<pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
+<description>SAN FRANCISCO – Fortastra, a Los Angeles startup developing maneuverable spacecraft for on-orbit security, raised $30 million in a Series A investment round announced Oct. 8.</description>
+</item>
+<item>
+<title>The U.S. already oversees commercial space. Novelty is not a regulatory gap.</title>
+<link>https://spacenews.com/the-u-s-already-oversees-commercial-space-novelty-is-not-a-regulatory-gap/</link>
+<guid isPermaLink="true">https://spacenews.com/the-u-s-already-oversees-commercial-space-novelty-is-not-a-regulatory-gap/</guid>
+<pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
+<description>A voluntary federal pilot could determine whether America’s next generation of commercial-space businesses operates under clear, generally applicable rules or must first obtain discretionary government permission merely because an activity is new. The Office of Space Commerce’s new Space Commerce Certification (SCC) pilot program may help coordinate novel proposals, but it could become the basis for, or evolve into, an informal permission system if policymakers misinterpret Article VI of the Outer Space Treaty as requiring a bespoke authorization and supervision regime whenever a commercial mission is unfamiliar. Article VI requires states to authorize and continuously supervise nongovernmental activities in outer space, but leaves each state to determine the domestic form, intensity and timing of those functions; it neither requires mission-specific approval because an activity is novel nor compels a customized federal supervisory regime for each unfamiliar use of a spacecraft.</description>
+</item>
+<item>
+<title>BlackSky claims six-figure contract with international intelligence agency</title>
+<link>https://spacenews.com/blacksky-claims-six-figure-contract-with-international-intelligence-agency/</link>
+<guid isPermaLink="true">https://spacenews.com/blacksky-claims-six-figure-contract-with-international-intelligence-agency/</guid>
+<pubDate>Thu, 08 Oct 2026 12:30:00 +0000</pubDate>
+<description>SAN FRANCISCO – BlackSky Technology announced a six-figure pilot contract with an international intelligence agency to provide global, on-demand, high-resolution imagery.</description>
+</item>
+<item>
+<title>NASA releases Artemis 2 science data</title>
+<link>https://spacenews.com/nasa-releases-artemis-2-science-data/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-releases-artemis-2-science-data/</guid>
+<pubDate>Thu, 08 Oct 2026 12:07:36 +0000</pubDate>
+<description>Six months after Artemis 2 flew around the moon, NASA has released the full science data collected from the flight, “passing the baton” of the mission to the science community.</description>
+</item>
+<item>
+<title>York expands Austin presence with new software-development office</title>
+<link>https://spacenews.com/york-expands-austin-presence-with-new-software-development-office/</link>
+<guid isPermaLink="true">https://spacenews.com/york-expands-austin-presence-with-new-software-development-office/</guid>
+<pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+<description>SAN FRANCISCO — York Space Systems is expanding its Austin, Texas, operations with a new office for software developers.</description>
+</item>
+<item>
+<title>Study validates feasibility of European heavy-lift reusable rocket</title>
+<link>https://spacenews.com/study-validates-feasibility-of-european-heavy-lift-reusable-rocket/</link>
+<guid isPermaLink="true">https://spacenews.com/study-validates-feasibility-of-european-heavy-lift-reusable-rocket/</guid>
+<pubDate>Thu, 08 Oct 2026 09:55:53 +0000</pubDate>
+<description>A European Space Agency study has found it is technically and financially feasible for Europe to pursue development of a heavy-lift reusable rocket.</description>
+</item>
 <item>
 <title>Artemis Accords countries offered opportunities to participate in lunar base and space academy</title>
 <link>https://spacenews.com/artemis-accords-countries-offered-opportunities-to-participate-in-lunar-base-and-space-academy/</link>
@@ -168,55 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/</guid>
 <pubDate>Mon, 05 Oct 2026 19:13:40 +0000</pubDate>
 <description>Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […] The post Resource competition intensifies with surge in megaconstellations appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Open Cosmos sets 192-satellite target for connectivity network amid launch shortage</title>
-<link>https://spacenews.com/open-cosmos-sets-192-satellite-target-for-connectivity-network-amid-launch-shortage/</link>
-<guid isPermaLink="true">https://spacenews.com/open-cosmos-sets-192-satellite-target-for-connectivity-network-amid-launch-shortage/</guid>
-<pubDate>Mon, 05 Oct 2026 16:48:46 +0000</pubDate>
-<description>Open Cosmos has built at least 50 of the more than 96 ConnectedCosmos connectivity satellites the British company said Oct. 5 it plans to deploy before the end of 2028, CEO Rafel Siquier told SpaceNews.</description>
-</item>
-<item>
-<title>Voyager wins $22.4 million Pentagon award for small-satellite deployers</title>
-<link>https://spacenews.com/voyager-wins-22-4-million-pentagon-award-for-small-satellite-deployers/</link>
-<guid isPermaLink="true">https://spacenews.com/voyager-wins-22-4-million-pentagon-award-for-small-satellite-deployers/</guid>
-<pubDate>Mon, 05 Oct 2026 14:53:20 +0000</pubDate>
-<description>The company will build flight-ready prototypes designed to make use of spare capacity on national security launches</description>
-</item>
-<item>
-<title>York Space satellites cleared for Space Force GEO tracking mission</title>
-<link>https://spacenews.com/york-space-satellites-cleared-for-space-force-geo-tracking-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/york-space-satellites-cleared-for-space-force-geo-tracking-mission/</guid>
-<pubDate>Mon, 05 Oct 2026 13:00:00 +0000</pubDate>
-<description>Tetra 3 and 4 will carry infrared, LiDAR and GPS sensors for experiments in geosynchronous orbit</description>
-</item>
-<item>
-<title>Do you really need space-grade components?</title>
-<link>https://spacenews.com/do-you-really-need-space-grade-components/</link>
-<guid isPermaLink="true">https://spacenews.com/do-you-really-need-space-grade-components/</guid>
-<pubDate>Mon, 05 Oct 2026 13:00:00 +0000</pubDate>
-<description>One challenge in the industry is that we’ve gotten comfortable using the term “space-grade” as if everyone agrees on what it means. I don’t think they do.</description>
-</item>
-<item>
-<title>Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth</title>
-<link>https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/</link>
-<guid isPermaLink="true">https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/</guid>
-<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-<description>DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His […] The post Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>The Exploration Company considers Middle Eastern launch sites for heavy-lift rocket</title>
-<link>https://spacenews.com/the-exploration-company-considers-middle-eastern-launch-sites-for-heavy-lift-rocket/</link>
-<guid isPermaLink="true">https://spacenews.com/the-exploration-company-considers-middle-eastern-launch-sites-for-heavy-lift-rocket/</guid>
-<pubDate>Mon, 05 Oct 2026 10:14:17 +0000</pubDate>
-<description>The Exploration Company is considering spaceports in the Middle East for a large reusable launch vehicle it plans to develop.</description>
-</item>
-<item>
-<title>Spaces Growing Billion Dollar Club Spacenews Intelligence</title>
-<link>https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</link>
-<guid isPermaLink="true">https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/</guid>
-<pubDate>Sun, 04 Oct 2026 17:58:11 +0000</pubDate>
-<description>Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
