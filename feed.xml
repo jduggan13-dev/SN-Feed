@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 07 Oct 2026 21:45:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 01:32:53 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>FCC tees up another D2D boost after approving Starlink Mobile upgrade</title>
+<link>https://spacenews.com/fcc-tees-up-another-d2d-boost-after-approving-starlink-mobile-upgrade/</link>
+<guid isPermaLink="true">https://spacenews.com/fcc-tees-up-another-d2d-boost-after-approving-starlink-mobile-upgrade/</guid>
+<pubDate>Wed, 07 Oct 2026 23:07:38 +0000</pubDate>
+<description>The FCC announced plans Oct. 7 to make more wireless spectrum available for direct-to-device services, a day after authorizing SpaceX to deploy 15,000 next-gen D2D satellites for its Starlink Mobile constellation.</description>
+</item>
 <item>
 <title>U.S. military GPS upgrades stretching into 2040s</title>
 <link>https://spacenews.com/u-s-military-gps-upgrades-stretching-into-2040s/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/</guid>
 <pubDate>Sun, 04 Oct 2026 17:58:11 +0000</pubDate>
 <description>In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […] The post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Esa Announces Leaders For Studies On Crewed European Space Stations</title>
-<link>https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-announces-leaders-for-studies-on-crewed-european-space-stations/</guid>
-<pubDate>Sun, 04 Oct 2026 17:58:11 +0000</pubDate>
-<description>Esa Announces Leaders For Studies On Crewed European Space Stations</description>
 </item>
 </channel>
 </rss>
