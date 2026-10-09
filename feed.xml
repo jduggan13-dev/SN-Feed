@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 09 Oct 2026 01:44:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 08:28:18 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Crew-12 returns to Earth</title>
+<link>https://spacenews.com/crew-12-returns-to-earth/</link>
+<guid isPermaLink="true">https://spacenews.com/crew-12-returns-to-earth/</guid>
+<pubDate>Fri, 09 Oct 2026 04:20:12 +0000</pubDate>
+<description>A Crew Dragon returned to Earth Oct. 8 after nearly eight months in space, completing the Crew-12 mission to the International Space Station.</description>
+</item>
 <item>
 <title>Space Force seeks clearer view of private capital behind emerging technologies</title>
 <link>https://spacenews.com/space-force-seeks-clearer-view-of-private-capital-behind-emerging-technologies/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/dish-tv-and-sling-tv-emerge-from-bankruptcy/</guid>
 <pubDate>Mon, 05 Oct 2026 21:10:09 +0000</pubDate>
 <description>The EchoStar subsidiary behind U.S. satellite broadcaster Dish TV and online streaming service Sling TV has emerged from bankruptcy protection after completing a prepackaged restructuring plan.</description>
-</item>
-<item>
-<title>Pentagon betting on solar power from space</title>
-<link>https://spacenews.com/pentagon-betting-on-solar-power-from-space/</link>
-<guid isPermaLink="true">https://spacenews.com/pentagon-betting-on-solar-power-from-space/</guid>
-<pubDate>Mon, 05 Oct 2026 20:59:40 +0000</pubDate>
-<description>Overview Energy plans to beam power to Earth. Making the economics work will take much more</description>
 </item>
 </channel>
 </rss>
