@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 09 Oct 2026 15:48:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 20:32:17 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space communications startup AnySignal expands into undersea market</title>
+<link>https://spacenews.com/space-communications-startup-anysignal-expands-into-undersea-market/</link>
+<guid isPermaLink="true">https://spacenews.com/space-communications-startup-anysignal-expands-into-undersea-market/</guid>
+<pubDate>Fri, 09 Oct 2026 20:20:56 +0000</pubDate>
+<description>AnySignal, Andrenam plan to develop acoustic modems that would allow submerged systems to exchange data with remote operators through surface buoys and satellite networks</description>
+</item>
+<item>
+<title>SpaceX could seek more spectrum to feed terrestrial wireless ambitions</title>
+<link>https://spacenews.com/spacex-could-seek-more-spectrum-to-feed-terrestrial-wireless-ambitions/</link>
+<guid isPermaLink="true">https://spacenews.com/spacex-could-seek-more-spectrum-to-feed-terrestrial-wireless-ambitions/</guid>
+<pubDate>Fri, 09 Oct 2026 19:55:01 +0000</pubDate>
+<description>SpaceX’s acquisition of low-band spectrum to improve Starlink Mobile’s indoor coverage could signal an appetite for even more frequencies to take on established terrestrial wireless giants, analysts say.</description>
+</item>
+<item>
+<title>Poland’s SpaceForest completes fourth flight of suborbital PERUN rocket</title>
+<link>https://spacenews.com/polands-spaceforest-completes-fourth-flight-of-suborbital-perun-rocket/</link>
+<guid isPermaLink="true">https://spacenews.com/polands-spaceforest-completes-fourth-flight-of-suborbital-perun-rocket/</guid>
+<pubDate>Fri, 09 Oct 2026 16:26:32 +0000</pubDate>
+<description>JOHANNESBURG — Polish rocket builder SpaceForest completed the fourth launch of its suborbital PERUN rocket, calling it the vehicle’s most successful test to date.</description>
+</item>
 <item>
 <title>Kapta Space raises $24 million to expand military radar business</title>
 <link>https://spacenews.com/kapta-space-raises-24-million-to-expand-military-radar-business/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/northstar-sda-sensor-expansion-on-track-despite-investor-redemptions/</guid>
 <pubDate>Tue, 06 Oct 2026 22:42:51 +0000</pubDate>
 <description>NorthStar Earth and Space remains on track to expand its in-orbit space domain awareness network, CEO Stewart Bain said, despite heavy investor withdrawals from the blank-check company merger that took it public last week.</description>
-</item>
-<item>
-<title>Space Force experiment uses HawkEye 360 satellites to listen for signals in orbit</title>
-<link>https://spacenews.com/space-force-experiment-uses-hawkeye-360-satellites-to-listen-for-signals-in-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-experiment-uses-hawkeye-360-satellites-to-listen-for-signals-in-orbit/</guid>
-<pubDate>Tue, 06 Oct 2026 21:33:57 +0000</pubDate>
-<description>An 18-month experiment showed commercial RF monitoring satellites can detect transmissions from spacecraft in LEO, MEO and GEO</description>
-</item>
-<item>
-<title>Kymeta to add RF sensing, edge computing to Osprey satellite terminal</title>
-<link>https://spacenews.com/kymeta-to-add-rf-sensing-edge-computing-to-osprey-satellite-terminal/</link>
-<guid isPermaLink="true">https://spacenews.com/kymeta-to-add-rf-sensing-edge-computing-to-osprey-satellite-terminal/</guid>
-<pubDate>Tue, 06 Oct 2026 20:14:09 +0000</pubDate>
-<description>The upgrade, funded by the Defense Department, would combine satellite communications, computing and radio-frequency monitoring in a single tactical terminal</description>
-</item>
-<item>
-<title>Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format</title>
-<link>https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</link>
-<guid isPermaLink="true">https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</guid>
-<pubDate>Tue, 06 Oct 2026 19:20:20 +0000</pubDate>
-<description>Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
