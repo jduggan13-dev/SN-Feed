@@ -4,10 +4,52 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 09 Oct 2026 08:28:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 15:48:49 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Kapta Space raises $24 million to expand military radar business</title>
+<link>https://spacenews.com/kapta-space-raises-24-million-to-expand-military-radar-business/</link>
+<guid isPermaLink="true">https://spacenews.com/kapta-space-raises-24-million-to-expand-military-radar-business/</guid>
+<pubDate>Fri, 09 Oct 2026 14:17:35 +0000</pubDate>
+<description>The Seattle startup is developing lower-cost radar payloads for satellites that could help the military track moving targets on the ground</description>
+</item>
+<item>
+<title>Russia may turn to nuclear space weapons to counter U.S. missile defenses, report says</title>
+<link>https://spacenews.com/russia-may-turn-to-nuclear-space-weapons-to-counter-u-s-missile-defenses-report-says/</link>
+<guid isPermaLink="true">https://spacenews.com/russia-may-turn-to-nuclear-space-weapons-to-counter-u-s-missile-defenses-report-says/</guid>
+<pubDate>Fri, 09 Oct 2026 13:28:25 +0000</pubDate>
+<description>RUSI study warns that Moscow could target proliferated satellite networks supporting U.S. missile defenses</description>
+</item>
+<item>
+<title>The rideshare era is ending. Small satellites need anchor customers for small launch, now.</title>
+<link>https://spacenews.com/the-rideshare-era-is-ending-small-satellites-need-anchor-customers-for-small-launch-now/</link>
+<guid isPermaLink="true">https://spacenews.com/the-rideshare-era-is-ending-small-satellites-need-anchor-customers-for-small-launch-now/</guid>
+<pubDate>Fri, 09 Oct 2026 13:00:00 +0000</pubDate>
+<description>If your small satellite is supposed to fly in 2029, you probably don’t have a ride yet. And the cheapest seat in the business is no longer taking your booking.</description>
+</item>
+<item>
+<title>Planet addresses sovereign demand and sees promise in large Earth models</title>
+<link>https://spacenews.com/planet-addresses-sovereign-demand-and-sees-promise-in-large-earth-models/</link>
+<guid isPermaLink="true">https://spacenews.com/planet-addresses-sovereign-demand-and-sees-promise-in-large-earth-models/</guid>
+<pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
+<description>In recent weeks, the Earth observation and analytics company Planet Labs has extended roots in Germany by opening a major manufacturing hub in Berlin and announcing a contract to provide data and analytics to civil government agencies through the German Federal Agency for Cartography and Geodesy (BKG).</description>
+</item>
+<item>
+<title>Blue Origin expands in Texas as its founder contemplates an IPO</title>
+<link>https://spacenews.com/blue-origin-expands-in-texas-as-its-founder-contemplates-an-ipo/</link>
+<guid isPermaLink="true">https://spacenews.com/blue-origin-expands-in-texas-as-its-founder-contemplates-an-ipo/</guid>
+<pubDate>Fri, 09 Oct 2026 10:28:11 +0000</pubDate>
+<description>Blue Origin announced plans to develop a new manufacturing complex in central Texas as the company’s founder says the firm could be a few years away from going public.</description>
+</item>
+<item>
+<title>Commercial space station companies consider future without Crew Dragon</title>
+<link>https://spacenews.com/commercial-space-station-companies-consider-future-without-crew-dragon/</link>
+<guid isPermaLink="true">https://spacenews.com/commercial-space-station-companies-consider-future-without-crew-dragon/</guid>
+<pubDate>Fri, 09 Oct 2026 09:38:50 +0000</pubDate>
+<description>Companies developing commercial space stations have varying opinions on the severity of the problem of how to get astronauts to and from those stations once SpaceX retires Crew Dragon.</description>
+</item>
 <item>
 <title>Crew-12 returns to Earth</title>
 <link>https://spacenews.com/crew-12-returns-to-earth/</link>
@@ -175,48 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</guid>
 <pubDate>Tue, 06 Oct 2026 19:20:20 +0000</pubDate>
 <description>Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Linse Capital looks to expand early-stage bets on space</title>
-<link>https://spacenews.com/linse-capital-looks-to-expand-early-stage-bets-on-space/</link>
-<guid isPermaLink="true">https://spacenews.com/linse-capital-looks-to-expand-early-stage-bets-on-space/</guid>
-<pubDate>Tue, 06 Oct 2026 19:19:02 +0000</pubDate>
-<description>Linse Capital is exploring another early-stage fund to place more bets on space and other deep tech startups, after quietly deploying most of an initial $150 million foray beyond its traditional focus on more mature businesses.</description>
-</item>
-<item>
-<title>Colorado Springs and Huntsville look beyond Space Command fight</title>
-<link>https://spacenews.com/colorado-springs-and-huntsville-look-beyond-space-command-fight/</link>
-<guid isPermaLink="true">https://spacenews.com/colorado-springs-and-huntsville-look-beyond-space-command-fight/</guid>
-<pubDate>Tue, 06 Oct 2026 15:41:00 +0000</pubDate>
-<description>Business and civic leaders are looking to a growing military space budget for opportunities that could benefit both cities</description>
-</item>
-<item>
-<title>Rockets are scaling faster than the infrastructure beneath them</title>
-<link>https://spacenews.com/rockets-are-scaling-faster-than-the-infrastructure-beneath-them/</link>
-<guid isPermaLink="true">https://spacenews.com/rockets-are-scaling-faster-than-the-infrastructure-beneath-them/</guid>
-<pubDate>Tue, 06 Oct 2026 13:00:00 +0000</pubDate>
-<description>Western launch capacity is usually discussed in terms of rockets: how many, how reusable, how cheap. Those questions still matter, but they are increasingly not the ones setting the pace. In 2021, 36 rockets launched from Cape Canaveral . Last year it was 110, with another 65 from Vandenberg, and the Space Force has said the two ranges could see up to 3,000 launches a year by 2036. Much of that growth has run through ground infrastructure built decades ago. As reusable rockets start to behave more like transportation assets, the infrastructure beneath them will need to make the same transition.</description>
-</item>
-<item>
-<title>Can taking dead military satellites out of orbit become a business?</title>
-<link>https://spacenews.com/the-space-development-agency-is-backing-five-companies-developing-vehicles-to-remove-satellites-from-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/the-space-development-agency-is-backing-five-companies-developing-vehicles-to-remove-satellites-from-orbit/</guid>
-<pubDate>Tue, 06 Oct 2026 11:00:00 +0000</pubDate>
-<description>Space Development Agency backing five companies developing vehicles to remove satellites from orbit</description>
-</item>
-<item>
-<title>Government reticent to step into launch bottleneck issue</title>
-<link>https://spacenews.com/government-reticent-to-step-into-launch-bottleneck-issue/</link>
-<guid isPermaLink="true">https://spacenews.com/government-reticent-to-step-into-launch-bottleneck-issue/</guid>
-<pubDate>Tue, 06 Oct 2026 09:48:50 +0000</pubDate>
-<description>As evidence grows of a launch bottleneck in the space industry, government officials are shying away from taking measures to address it out of concerns about making the problem worse.</description>
-</item>
-<item>
-<title>Dish TV and Sling TV emerge from bankruptcy</title>
-<link>https://spacenews.com/dish-tv-and-sling-tv-emerge-from-bankruptcy/</link>
-<guid isPermaLink="true">https://spacenews.com/dish-tv-and-sling-tv-emerge-from-bankruptcy/</guid>
-<pubDate>Mon, 05 Oct 2026 21:10:09 +0000</pubDate>
-<description>The EchoStar subsidiary behind U.S. satellite broadcaster Dish TV and online streaming service Sling TV has emerged from bankruptcy protection after completing a prepackaged restructuring plan.</description>
 </item>
 </channel>
 </rss>
