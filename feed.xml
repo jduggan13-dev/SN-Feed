@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 12 Oct 2026 21:32:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 02:49:52 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Army expands use of software combining satellite and drone imagery</title>
+<link>https://spacenews.com/army-expands-use-of-software-combining-satellite-and-drone-imagery/</link>
+<guid isPermaLink="true">https://spacenews.com/army-expands-use-of-software-combining-satellite-and-drone-imagery/</guid>
+<pubDate>Mon, 12 Oct 2026 22:21:47 +0000</pubDate>
+<description>Reveal Technology introduced a 3D mapping platform that combines satellite and drone imagery</description>
+</item>
 <item>
 <title>Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.</title>
 <link>https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/astrolight-delivers-first-space-to-ground-laser-communication-link-to-client/</guid>
 <pubDate>Thu, 08 Oct 2026 17:12:52 +0000</pubDate>
 <description>WARSAW, Poland — The Lithuanian space startup Astrolight has announced the successful commissioning of a space-to-ground laser communication link. The link company’s ATLAS-1 laser communication terminal aboard ERMIS-3, an 8U cubesat led by the National and Kapodistrian University of Athens as part of the ERMIS mission, connected with HolOGS-1, the optical ground station of Aristotle University of Thessaloniki in Greece.</description>
-</item>
-<item>
-<title>What will it take to build a moon base?</title>
-<link>https://spacenews.com/what-will-it-take-to-build-a-moon-base/</link>
-<guid isPermaLink="true">https://spacenews.com/what-will-it-take-to-build-a-moon-base/</guid>
-<pubDate>Thu, 08 Oct 2026 13:57:38 +0000</pubDate>
-<description>In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
