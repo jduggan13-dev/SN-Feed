@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 14 Oct 2026 07:05:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 13:18:36 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How mini-constellations could more quickly bring new tech to Europe, and to orbit</title>
+<link>https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/</link>
+<guid isPermaLink="true">https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/</guid>
+<pubDate>Wed, 14 Oct 2026 13:09:21 +0000</pubDate>
+<description>When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be […]</description>
+</item>
+<item>
+<title>TrustPoint demonstrates C-band satellite navigation signals with Calian antenna</title>
+<link>https://spacenews.com/trustpoint-demonstrates-c-band-satellite-navigation-signals-with-calian-antenna/</link>
+<guid isPermaLink="true">https://spacenews.com/trustpoint-demonstrates-c-band-satellite-navigation-signals-with-calian-antenna/</guid>
+<pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
+<description>Demonstration adds another hardware supplier as the startup develops a low Earth orbit navigation network designed to complement GPS</description>
+</item>
+<item>
+<title>Rescuing astronomy from its satellite megaconstellation crisis</title>
+<link>https://spacenews.com/rescuing-astronomy-from-its-satellite-megaconstellation-crisis/</link>
+<guid isPermaLink="true">https://spacenews.com/rescuing-astronomy-from-its-satellite-megaconstellation-crisis/</guid>
+<pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
+<description>In the late 1800s, long enough ago that it’s almost been forgotten, research astronomy faced an existential crisis brought on by the lighting of cities in the early industrial age. Such electric lighting created strong sky brightness (now called light pollution), which forced research-grade astronomical observatories to move from cities to remote, “dark sky” sites. Today, both the public and astronomers take it as natural that, despite the significant costs of doing so, all serious research telescopes are in remote locations.</description>
+</item>
+<item>
+<title>Reflect Orbital books two launches with India’s Skyroot Aerospace</title>
+<link>https://spacenews.com/reflect-orbital-books-two-launches-with-indias-skyroot-aerospace/</link>
+<guid isPermaLink="true">https://spacenews.com/reflect-orbital-books-two-launches-with-indias-skyroot-aerospace/</guid>
+<pubDate>Wed, 14 Oct 2026 12:12:04 +0000</pubDate>
+<description>Reflect Orbital has purchased two launches from Skyroot Aerospace to deploy satellites it is developing to redirect sunlight to locations on the ground.</description>
+</item>
+<item>
+<title>Czech defense company CSG buys stake in MDA Space</title>
+<link>https://spacenews.com/czech-defense-company-csg-buys-stake-in-mda-space/</link>
+<guid isPermaLink="true">https://spacenews.com/czech-defense-company-csg-buys-stake-in-mda-space/</guid>
+<pubDate>Wed, 14 Oct 2026 11:22:52 +0000</pubDate>
+<description>CSG, a Czech defense and industrial company, has purchased a 9.5% stake in Canadian space company MDA Space, becoming that company’s largest shareholder.</description>
+</item>
 <item>
 <title>Space Force activates unit to support U.S. special operations</title>
 <link>https://spacenews.com/space-force-activates-unit-to-support-u-s-special-operations/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-communications-startup-anysignal-expands-into-undersea-market/</guid>
 <pubDate>Fri, 09 Oct 2026 20:20:56 +0000</pubDate>
 <description>AnySignal, Andrenam plan to develop acoustic modems that would allow submerged systems to exchange data with remote operators through surface buoys and satellite networks</description>
-</item>
-<item>
-<title>SpaceX could seek more spectrum to feed terrestrial wireless ambitions</title>
-<link>https://spacenews.com/spacex-could-seek-more-spectrum-to-feed-terrestrial-wireless-ambitions/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-could-seek-more-spectrum-to-feed-terrestrial-wireless-ambitions/</guid>
-<pubDate>Fri, 09 Oct 2026 19:55:01 +0000</pubDate>
-<description>SpaceX’s acquisition of low-band spectrum to improve Starlink Mobile’s indoor coverage could signal an appetite for even more frequencies to take on established terrestrial wireless giants, analysts say.</description>
-</item>
-<item>
-<title>Poland’s SpaceForest completes fourth flight of suborbital PERUN rocket</title>
-<link>https://spacenews.com/polands-spaceforest-completes-fourth-flight-of-suborbital-perun-rocket/</link>
-<guid isPermaLink="true">https://spacenews.com/polands-spaceforest-completes-fourth-flight-of-suborbital-perun-rocket/</guid>
-<pubDate>Fri, 09 Oct 2026 16:26:32 +0000</pubDate>
-<description>JOHANNESBURG — Polish rocket builder SpaceForest completed the fourth launch of its suborbital PERUN rocket, calling it the vehicle’s most successful test to date.</description>
-</item>
-<item>
-<title>Kapta Space raises $24 million to expand military radar business</title>
-<link>https://spacenews.com/kapta-space-raises-24-million-to-expand-military-radar-business/</link>
-<guid isPermaLink="true">https://spacenews.com/kapta-space-raises-24-million-to-expand-military-radar-business/</guid>
-<pubDate>Fri, 09 Oct 2026 14:17:35 +0000</pubDate>
-<description>The Seattle startup is developing lower-cost radar payloads for satellites that could help the military track moving targets on the ground</description>
-</item>
-<item>
-<title>Russia may turn to nuclear space weapons to counter U.S. missile defenses, report says</title>
-<link>https://spacenews.com/russia-may-turn-to-nuclear-space-weapons-to-counter-u-s-missile-defenses-report-says/</link>
-<guid isPermaLink="true">https://spacenews.com/russia-may-turn-to-nuclear-space-weapons-to-counter-u-s-missile-defenses-report-says/</guid>
-<pubDate>Fri, 09 Oct 2026 13:28:25 +0000</pubDate>
-<description>RUSI study warns that Moscow could target proliferated satellite networks supporting U.S. missile defenses</description>
-</item>
-<item>
-<title>The rideshare era is ending. Small satellites need anchor customers for small launch, now.</title>
-<link>https://spacenews.com/the-rideshare-era-is-ending-small-satellites-need-anchor-customers-for-small-launch-now/</link>
-<guid isPermaLink="true">https://spacenews.com/the-rideshare-era-is-ending-small-satellites-need-anchor-customers-for-small-launch-now/</guid>
-<pubDate>Fri, 09 Oct 2026 13:00:00 +0000</pubDate>
-<description>If your small satellite is supposed to fly in 2029, you probably don’t have a ride yet. And the cheapest seat in the business is no longer taking your booking.</description>
 </item>
 </channel>
 </rss>
