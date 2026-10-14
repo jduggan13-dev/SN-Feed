@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 14 Oct 2026 18:17:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 22:02:43 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Army’s space specialists take on growing battlefield role</title>
+<link>https://spacenews.com/armys-space-specialists-take-on-growing-battlefield-role/</link>
+<guid isPermaLink="true">https://spacenews.com/armys-space-specialists-take-on-growing-battlefield-role/</guid>
+<pubDate>Wed, 14 Oct 2026 19:57:40 +0000</pubDate>
+<description>Lt. Gen. John Rafferty says the service is building up its space forces to help protect ground troops from enemy surveillance and targeting</description>
+</item>
 <item>
 <title>How mini-constellations could more quickly bring new tech to Europe, and to orbit</title>
 <link>https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/spacex-launches-21-northrop-grumman-satellites-for-u-s-military-data-network/</guid>
 <pubDate>Sat, 10 Oct 2026 10:51:01 +0000</pubDate>
 <description>The Oct. 10 mission carried Northrop Grumman’s first operational plane for the Space Development Agency’s Tranche 1 Transport Layer</description>
-</item>
-<item>
-<title>Space communications startup AnySignal expands into undersea market</title>
-<link>https://spacenews.com/space-communications-startup-anysignal-expands-into-undersea-market/</link>
-<guid isPermaLink="true">https://spacenews.com/space-communications-startup-anysignal-expands-into-undersea-market/</guid>
-<pubDate>Fri, 09 Oct 2026 20:20:56 +0000</pubDate>
-<description>AnySignal, Andrenam plan to develop acoustic modems that would allow submerged systems to exchange data with remote operators through surface buoys and satellite networks</description>
 </item>
 </channel>
 </rss>
