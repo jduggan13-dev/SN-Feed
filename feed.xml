@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 14 Oct 2026 22:02:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 01:12:30 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space-based methane monitoring proves accuracy in large-scale testing</title>
+<link>https://spacenews.com/space-based-methane-monitoring-proves-accuracy-in-large-scale-testing/</link>
+<guid isPermaLink="true">https://spacenews.com/space-based-methane-monitoring-proves-accuracy-in-large-scale-testing/</guid>
+<pubDate>Wed, 14 Oct 2026 22:55:08 +0000</pubDate>
+<description>SAN FRANCISCO – Space-based instruments accurately detected methane plumes in large-scale tests led by researchers at Stanford University.</description>
+</item>
 <item>
 <title>Army’s space specialists take on growing battlefield role</title>
 <link>https://spacenews.com/armys-space-specialists-take-on-growing-battlefield-role/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/nasa-issues-final-rfp-for-commercial-space-station-procurement/</guid>
 <pubDate>Mon, 12 Oct 2026 03:57:19 +0000</pubDate>
 <description>NASA released the final request for proposals for the next phase of its program to develop commercial space stations, providing companies with some relief on one key issue.</description>
-</item>
-<item>
-<title>SpaceX launches 21 Northrop Grumman satellites for U.S. military data network</title>
-<link>https://spacenews.com/spacex-launches-21-northrop-grumman-satellites-for-u-s-military-data-network/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-launches-21-northrop-grumman-satellites-for-u-s-military-data-network/</guid>
-<pubDate>Sat, 10 Oct 2026 10:51:01 +0000</pubDate>
-<description>The Oct. 10 mission carried Northrop Grumman’s first operational plane for the Space Development Agency’s Tranche 1 Transport Layer</description>
 </item>
 </channel>
 </rss>
