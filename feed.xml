@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 15 Oct 2026 17:35:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:55:22 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Oct. 29: Applying AI to the GEOINT Mission</title>
+<link>https://spacenews.com/applying-ai-to-the-geoint-mission-event/</link>
+<guid isPermaLink="true">https://spacenews.com/applying-ai-to-the-geoint-mission-event/</guid>
+<pubDate>Thu, 15 Oct 2026 20:41:50 +0000</pubDate>
+<description>Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets</description>
+</item>
+<item>
+<title>Rocket startup LEAP targets 2028 orbital launch</title>
+<link>https://spacenews.com/rocket-startup-leap-targets-2028-orbital-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-startup-leap-targets-2028-orbital-launch/</guid>
+<pubDate>Thu, 15 Oct 2026 20:33:23 +0000</pubDate>
+<description>The company is betting on simplified manufacturing, mobile launch infrastructure and a growing military logistics business</description>
+</item>
 <item>
 <title>How NASA is thinking about a moon base</title>
 <link>https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/heo-captured-images-of-satellogics-merlin-01-days-after-launch/</guid>
 <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 <description>SAN FRANCISCO – Satellogic and Australian non-Earth imagery company HEO released images Oct. 13 of Satellogic’s Merlin.01 Earth-observation satellite in orbit.</description>
-</item>
-<item>
-<title>What is politically savvy for a NASA administrator?</title>
-<link>https://spacenews.com/what-is-politically-savvy-for-a-nasa-administrator/</link>
-<guid isPermaLink="true">https://spacenews.com/what-is-politically-savvy-for-a-nasa-administrator/</guid>
-<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-<description>Being a NASA administrator is a full-time job, especially when you’re trying to reshape the agency and accelerate plans to return humans to the moon. Jared Isaacman has also found time for flying fighter jets, often in the service of NASA. Some of his flights carry NASA employees as rewards for their work, while in another case he led a flyover before a Cleveland Browns game.</description>
-</item>
-<item>
-<title>Launch shortage driving record space investments</title>
-<link>https://spacenews.com/launch-shortage-driving-record-space-investments/</link>
-<guid isPermaLink="true">https://spacenews.com/launch-shortage-driving-record-space-investments/</guid>
-<pubDate>Tue, 13 Oct 2026 11:56:03 +0000</pubDate>
-<description>A looming launch capacity shortage is helping drive record investment in the space economy as demand for alternative rockets rises and satellite firms seek resources to weather deployment delays.</description>
 </item>
 </channel>
 </rss>
