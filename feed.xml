@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 15 Oct 2026 06:56:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 12:29:31 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Agile Space Industries Expands to Seattle Area with New Bellevue Office</title>
+<link>https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/</link>
+<guid isPermaLink="true">https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/</guid>
+<pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+<description>BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […]</description>
+</item>
+<item>
+<title>Lunar lander companies planning precision landing demonstrations</title>
+<link>https://spacenews.com/lunar-lander-companies-planning-precision-landing-demonstrations/</link>
+<guid isPermaLink="true">https://spacenews.com/lunar-lander-companies-planning-precision-landing-demonstrations/</guid>
+<pubDate>Thu, 15 Oct 2026 10:32:48 +0000</pubDate>
+<description>Two companies are planning robotic lunar lander missions that will attempt to land near other spacecraft, demonstrating precision landing technologies.</description>
+</item>
+<item>
+<title>UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission</title>
+<link>https://spacenews.com/uk-awards-clearspace-80-million-prime-contract-for-dual-satellite-deorbit-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/uk-awards-clearspace-80-million-prime-contract-for-dual-satellite-deorbit-mission/</guid>
+<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
+<description>The UK Space Agency has picked Luxembourg-headquartered ClearSpace’s British unit as prime contractor for a 2029 mission aiming to de-orbit two defunct small satellites, the in-orbit servicing venture announced Oct. 15.</description>
+</item>
 <item>
 <title>Rocket Lab delays first Neutron launch again</title>
 <link>https://spacenews.com/rocket-lab-delays-first-neutron-launch-again/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/army-expands-use-of-software-combining-satellite-and-drone-imagery/</guid>
 <pubDate>Mon, 12 Oct 2026 22:21:47 +0000</pubDate>
 <description>Reveal Technology introduced a 3D mapping platform that combines satellite and drone imagery</description>
-</item>
-<item>
-<title>Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.</title>
-<link>https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/</guid>
-<pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
-<description>MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […] The post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Spain’s EarthPulse seeks investors for first funding round</title>
-<link>https://spacenews.com/spains-earthpulse-seeks-investors-for-first-funding-round/</link>
-<guid isPermaLink="true">https://spacenews.com/spains-earthpulse-seeks-investors-for-first-funding-round/</guid>
-<pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-<description>SAN FRANCISCO – After six years in business, geospatial analytics company EarthPulse is seeking investors for its first venture funding round.</description>
-</item>
-<item>
-<title>Space Force has money to grow. Building guardians is harder.</title>
-<link>https://spacenews.com/space-force-has-money-to-grow-building-guardians-is-harder/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-has-money-to-grow-building-guardians-is-harder/</guid>
-<pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-<description>The Space Force expects to go from about 370 new officers this year to nearly 1,600 next year. Enlisted accessions are projected to roughly double, from about 730 to nearly 1,500.</description>
 </item>
 </channel>
 </rss>
