@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 15 Oct 2026 12:29:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:35:28 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How NASA is thinking about a moon base</title>
+<link>https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/</link>
+<guid isPermaLink="true">https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/</guid>
+<pubDate>Thu, 15 Oct 2026 15:14:24 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […]</description>
+</item>
+<item>
+<title>Chinese launches boost Guowang constellation, add space computing sats</title>
+<link>https://spacenews.com/chinese-launches-boost-guowang-constellation-add-space-computing-sats/</link>
+<guid isPermaLink="true">https://spacenews.com/chinese-launches-boost-guowang-constellation-add-space-computing-sats/</guid>
+<pubDate>Thu, 15 Oct 2026 14:53:28 +0000</pubDate>
+<description>HELSINKI — China launched Long March 12 and commercial Zhuque-2E rockets over the past week, adding to the Guowang constellation and testing orbital computing and laser links.</description>
+</item>
+<item>
+<title>BlackSky and HEO extend agreement to gather non-Earth imagery</title>
+<link>https://spacenews.com/blacksky-and-heo-extend-agreement-to-gather-non-earth-imagery/</link>
+<guid isPermaLink="true">https://spacenews.com/blacksky-and-heo-extend-agreement-to-gather-non-earth-imagery/</guid>
+<pubDate>Thu, 15 Oct 2026 12:30:00 +0000</pubDate>
+<description>SAN FRANCISCO – BlackSky Technology announced a seven-figure extension contract Oct. 15 with Australian non-Earth imagery company HEO.</description>
+</item>
 <item>
 <title>Agile Space Industries Expands to Seattle Area with New Bellevue Office</title>
 <link>https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/launch-shortage-driving-record-space-investments/</guid>
 <pubDate>Tue, 13 Oct 2026 11:56:03 +0000</pubDate>
 <description>A looming launch capacity shortage is helping drive record investment in the space economy as demand for alternative rockets rises and satellite firms seek resources to weather deployment delays.</description>
-</item>
-<item>
-<title>Falcon 9 launches 35th cargo Dragon mission to ISS</title>
-<link>https://spacenews.com/falcon-9-launches-35th-cargo-dragon-mission-to-iss/</link>
-<guid isPermaLink="true">https://spacenews.com/falcon-9-launches-35th-cargo-dragon-mission-to-iss/</guid>
-<pubDate>Tue, 13 Oct 2026 11:34:31 +0000</pubDate>
-<description>SpaceX launched a cargo Dragon mission to the International Space Station on Oct. 13, the second Dragon mission to the station in less than two weeks.</description>
-</item>
-<item>
-<title>ESA member states signal support for new European human spaceflight plans</title>
-<link>https://spacenews.com/esa-member-states-signal-support-for-new-european-human-spaceflight-plans/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-member-states-signal-support-for-new-european-human-spaceflight-plans/</guid>
-<pubDate>Tue, 13 Oct 2026 07:00:49 +0000</pubDate>
-<description>Representatives of several European national space agencies expressed support for plans by the European Space Agency to develop a human spaceflight capability and other new projects.</description>
-</item>
-<item>
-<title>Army expands use of software combining satellite and drone imagery</title>
-<link>https://spacenews.com/army-expands-use-of-software-combining-satellite-and-drone-imagery/</link>
-<guid isPermaLink="true">https://spacenews.com/army-expands-use-of-software-combining-satellite-and-drone-imagery/</guid>
-<pubDate>Mon, 12 Oct 2026 22:21:47 +0000</pubDate>
-<description>Reveal Technology introduced a 3D mapping platform that combines satellite and drone imagery</description>
 </item>
 </channel>
 </rss>
