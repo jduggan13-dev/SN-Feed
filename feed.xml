@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 15 Oct 2026 23:32:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 03:05:55 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Command’s new headquarters estimated to cost $4 billion</title>
+<link>https://spacenews.com/space-commands-new-headquarters-estimated-to-cost-4-billion/</link>
+<guid isPermaLink="true">https://spacenews.com/space-commands-new-headquarters-estimated-to-cost-4-billion/</guid>
+<pubDate>Thu, 15 Oct 2026 22:32:24 +0000</pubDate>
+<description>The Air Force seeks a ‘design-build’ contractor to deliver the facility by 2031</description>
+</item>
 <item>
 <title>Oct. 29: Applying AI to the GEOINT Mission</title>
 <link>https://spacenews.com/applying-ai-to-the-geoint-mission-event/</link>
@@ -184,39 +191,32 @@
 <description>SAN FRANCISCO – Satellogic and Australian non-Earth imagery company HEO released images Oct. 13 of Satellogic’s Merlin.01 Earth-observation satellite in orbit.</description>
 </item>
 <item>
-<title>Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.</title>
-<link>https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/</guid>
-<pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
-<description>MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […] The post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews .</description>
+<title>What is politically savvy for a NASA administrator?</title>
+<link>https://spacenews.com/what-is-politically-savvy-for-a-nasa-administrator/</link>
+<guid isPermaLink="true">https://spacenews.com/what-is-politically-savvy-for-a-nasa-administrator/</guid>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+<description>Being a NASA administrator is a full-time job, especially when you’re trying to reshape the agency and accelerate plans to return humans to the moon. Jared Isaacman has also found time for flying fighter jets, often in the service of NASA. Some of his flights carry NASA employees as rewards for their work, while in another case he led a flyover before a Cleveland Browns game.</description>
 </item>
 <item>
-<title>What will it take to build a moon base?</title>
-<link>https://spacenews.com/what-will-it-take-to-build-a-moon-base/</link>
-<guid isPermaLink="true">https://spacenews.com/what-will-it-take-to-build-a-moon-base/</guid>
-<pubDate>Thu, 08 Oct 2026 13:57:38 +0000</pubDate>
-<description>In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews .</description>
+<title>Launch shortage driving record space investments</title>
+<link>https://spacenews.com/launch-shortage-driving-record-space-investments/</link>
+<guid isPermaLink="true">https://spacenews.com/launch-shortage-driving-record-space-investments/</guid>
+<pubDate>Tue, 13 Oct 2026 11:56:03 +0000</pubDate>
+<description>A looming launch capacity shortage is helping drive record investment in the space economy as demand for alternative rockets rises and satellite firms seek resources to weather deployment delays.</description>
 </item>
 <item>
-<title>Announcing the finalists for the 2026 SpaceNews Icon Awards</title>
-<link>https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/</link>
-<guid isPermaLink="true">https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/</guid>
-<pubDate>Wed, 07 Oct 2026 14:18:18 +0000</pubDate>
-<description>Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews .</description>
+<title>Falcon 9 launches 35th cargo Dragon mission to ISS</title>
+<link>https://spacenews.com/falcon-9-launches-35th-cargo-dragon-mission-to-iss/</link>
+<guid isPermaLink="true">https://spacenews.com/falcon-9-launches-35th-cargo-dragon-mission-to-iss/</guid>
+<pubDate>Tue, 13 Oct 2026 11:34:31 +0000</pubDate>
+<description>SpaceX launched a cargo Dragon mission to the International Space Station on Oct. 13, the second Dragon mission to the station in less than two weeks.</description>
 </item>
 <item>
-<title>Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format</title>
-<link>https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</link>
-<guid isPermaLink="true">https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</guid>
-<pubDate>Tue, 06 Oct 2026 19:20:20 +0000</pubDate>
-<description>Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Resource competition intensifies with surge in megaconstellations</title>
-<link>https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/</link>
-<guid isPermaLink="true">https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/</guid>
-<pubDate>Mon, 05 Oct 2026 19:13:40 +0000</pubDate>
-<description>Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […] The post Resource competition intensifies with surge in megaconstellations appeared first on SpaceNews .</description>
+<title>ESA member states signal support for new European human spaceflight plans</title>
+<link>https://spacenews.com/esa-member-states-signal-support-for-new-european-human-spaceflight-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-member-states-signal-support-for-new-european-human-spaceflight-plans/</guid>
+<pubDate>Tue, 13 Oct 2026 07:00:49 +0000</pubDate>
+<description>Representatives of several European national space agencies expressed support for plans by the European Space Agency to develop a human spaceflight capability and other new projects.</description>
 </item>
 </channel>
 </rss>
