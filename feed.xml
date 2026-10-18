@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sun, 18 Oct 2026 07:56:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 12:29:04 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force plans wider global deployment of satellite jammers</title>
+<link>https://spacenews.com/space-force-plans-wider-global-deployment-of-satellite-jammers/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-plans-wider-global-deployment-of-satellite-jammers/</guid>
+<pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
+<description>Market survey seeks contractors to maintain a worldwide fleet of at least 32 Meadowlands systems, with support capacity for as many as 56</description>
+</item>
 <item>
 <title>As Space Force opens market for in-orbit surveillance, Northrop Grumman touts its experience</title>
 <link>https://spacenews.com/as-space-force-opens-market-for-in-orbit-surveillance-northrop-grumman-touts-its-experience/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/rocket-lab-delays-first-neutron-launch-again/</guid>
 <pubDate>Thu, 15 Oct 2026 03:45:58 +0000</pubDate>
 <description>Rocket Lab announced Oct. 14 that the first launch of its Neutron rocket has been delayed again, to sometime in 2027, citing issues producing carbon composite components for the vehicle.</description>
-</item>
-<item>
-<title>Space-based methane monitoring proves accuracy in large-scale testing</title>
-<link>https://spacenews.com/space-based-methane-monitoring-proves-accuracy-in-large-scale-testing/</link>
-<guid isPermaLink="true">https://spacenews.com/space-based-methane-monitoring-proves-accuracy-in-large-scale-testing/</guid>
-<pubDate>Wed, 14 Oct 2026 22:55:08 +0000</pubDate>
-<description>SAN FRANCISCO – Space-based instruments accurately detected methane plumes in large-scale tests led by researchers at Stanford University.</description>
 </item>
 </channel>
 </rss>
