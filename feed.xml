@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 19 Oct 2026 05:42:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 12:06:10 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Studies confirm performance of Artemis 2 heat shield</title>
+<link>https://spacenews.com/studies-confirm-performance-of-artemis-2-heat-shield/</link>
+<guid isPermaLink="true">https://spacenews.com/studies-confirm-performance-of-artemis-2-heat-shield/</guid>
+<pubDate>Mon, 19 Oct 2026 12:01:22 +0000</pubDate>
+<description>Detailed engineering studies have confirmed that the Orion heat shield on the Artemis 2 mission performed as expected, without the erosion seen on Artemis 1.</description>
+</item>
+<item>
+<title>GAO report flags risk of geostationary weather satellite data gap</title>
+<link>https://spacenews.com/gao-report-flags-risk-of-geostationary-weather-satellite-data-gap/</link>
+<guid isPermaLink="true">https://spacenews.com/gao-report-flags-risk-of-geostationary-weather-satellite-data-gap/</guid>
+<pubDate>Mon, 19 Oct 2026 09:58:20 +0000</pubDate>
+<description>A report warns that a gap in weather satellite coverage could emerge in the early 2030s as NOAA develops a new generation of spacecraft.</description>
+</item>
 <item>
 <title>Space Force plans wider global deployment of satellite jammers</title>
 <link>https://spacenews.com/space-force-plans-wider-global-deployment-of-satellite-jammers/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/</guid>
 <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
 <description>BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […] The post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Lunar lander companies planning precision landing demonstrations</title>
-<link>https://spacenews.com/lunar-lander-companies-planning-precision-landing-demonstrations/</link>
-<guid isPermaLink="true">https://spacenews.com/lunar-lander-companies-planning-precision-landing-demonstrations/</guid>
-<pubDate>Thu, 15 Oct 2026 10:32:48 +0000</pubDate>
-<description>Two companies are planning robotic lunar lander missions that will attempt to land near other spacecraft, demonstrating precision landing technologies.</description>
-</item>
-<item>
-<title>UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission</title>
-<link>https://spacenews.com/uk-awards-clearspace-80-million-prime-contract-for-dual-satellite-deorbit-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/uk-awards-clearspace-80-million-prime-contract-for-dual-satellite-deorbit-mission/</guid>
-<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
-<description>The UK Space Agency has picked Luxembourg-headquartered ClearSpace’s British unit as prime contractor for a 2029 mission aiming to de-orbit two defunct small satellites, the in-orbit servicing venture announced Oct. 15.</description>
 </item>
 </channel>
 </rss>
