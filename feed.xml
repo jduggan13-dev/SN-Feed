@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 19 Oct 2026 00:47:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 05:42:42 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -156,6 +156,13 @@
 <description>The Air Force seeks a ‘design-build’ contractor to deliver the facility by 2031</description>
 </item>
 <item>
+<title>Oct. 29: Applying AI/SI to the GEOINT Mission</title>
+<link>https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/</link>
+<guid isPermaLink="true">https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/</guid>
+<pubDate>Thu, 15 Oct 2026 20:41:50 +0000</pubDate>
+<description>Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets</description>
+</item>
+<item>
 <title>Oct. 29: Applying AI to the GEOINT Mission</title>
 <link>https://spacenews.com/applying-ai-to-the-geoint-mission-event/</link>
 <guid isPermaLink="true">https://spacenews.com/applying-ai-to-the-geoint-mission-event/</guid>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/uk-awards-clearspace-80-million-prime-contract-for-dual-satellite-deorbit-mission/</guid>
 <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
 <description>The UK Space Agency has picked Luxembourg-headquartered ClearSpace’s British unit as prime contractor for a 2029 mission aiming to de-orbit two defunct small satellites, the in-orbit servicing venture announced Oct. 15.</description>
-</item>
-<item>
-<title>Rocket Lab delays first Neutron launch again</title>
-<link>https://spacenews.com/rocket-lab-delays-first-neutron-launch-again/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-lab-delays-first-neutron-launch-again/</guid>
-<pubDate>Thu, 15 Oct 2026 03:45:58 +0000</pubDate>
-<description>Rocket Lab announced Oct. 14 that the first launch of its Neutron rocket has been delayed again, to sometime in 2027, citing issues producing carbon composite components for the vehicle.</description>
 </item>
 </channel>
 </rss>
