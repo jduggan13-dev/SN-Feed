@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 19 Oct 2026 18:59:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 22:52:13 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Japan launches sample-return mission to Martian moon Phobos</title>
+<link>https://spacenews.com/japan-launches-sample-return-mission-to-martian-moon-phobos/</link>
+<guid isPermaLink="true">https://spacenews.com/japan-launches-sample-return-mission-to-martian-moon-phobos/</guid>
+<pubDate>Mon, 19 Oct 2026 21:37:11 +0000</pubDate>
+<description>Japan has launched an ambitious mission that will be the first to attempt to return samples from a moon of Mars.</description>
+</item>
+<item>
+<title>European cellular giants seek satellite partner for sovereign D2D service</title>
+<link>https://spacenews.com/european-cellular-giants-seek-satellite-partner-for-sovereign-d2d-service/</link>
+<guid isPermaLink="true">https://spacenews.com/european-cellular-giants-seek-satellite-partner-for-sovereign-d2d-service/</guid>
+<pubDate>Mon, 19 Oct 2026 20:53:05 +0000</pubDate>
+<description>Four of Europe’s largest cellular operators said Oct. 19 they are seeking a satellite partner to deploy sovereign direct-to-device services, after signing a letter of intent to explore a joint bid for spectrum needed to provide connectivity from space.</description>
+</item>
+<item>
+<title>Space Force eyes fivefold expansion of Middle East command</title>
+<link>https://spacenews.com/space-force-eyes-fivefold-expansion-of-middle-east-command/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-eyes-fivefold-expansion-of-middle-east-command/</guid>
+<pubDate>Mon, 19 Oct 2026 20:37:41 +0000</pubDate>
+<description>Brig. Gen. Todd Benson: More personnel needed for targeting, intelligence and operational planning as space becomes central to U.S. military operations</description>
+</item>
 <item>
 <title>Russia’s close approach to commercial satellite raises alarm</title>
 <link>https://spacenews.com/russias-close-approach-to-commercial-satellite-raises-alarm/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-commands-new-headquarters-estimated-to-cost-4-billion/</guid>
 <pubDate>Thu, 15 Oct 2026 22:32:24 +0000</pubDate>
 <description>The Air Force seeks a ‘design-build’ contractor to deliver the facility by 2031</description>
-</item>
-<item>
-<title>Oct. 29: Applying AI/SI to the GEOINT Mission</title>
-<link>https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/</link>
-<guid isPermaLink="true">https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/</guid>
-<pubDate>Thu, 15 Oct 2026 20:41:50 +0000</pubDate>
-<description>Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets</description>
-</item>
-<item>
-<title>Oct. 29: Applying AI to the GEOINT Mission</title>
-<link>https://spacenews.com/applying-ai-to-the-geoint-mission-event/</link>
-<guid isPermaLink="true">https://spacenews.com/applying-ai-to-the-geoint-mission-event/</guid>
-<pubDate>Thu, 15 Oct 2026 20:41:50 +0000</pubDate>
-<description>Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Rocket startup LEAP targets 2028 orbital launch</title>
-<link>https://spacenews.com/rocket-startup-leap-targets-2028-orbital-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/rocket-startup-leap-targets-2028-orbital-launch/</guid>
-<pubDate>Thu, 15 Oct 2026 20:33:23 +0000</pubDate>
-<description>The company is betting on simplified manufacturing, mobile launch infrastructure and a growing military logistics business</description>
 </item>
 </channel>
 </rss>
