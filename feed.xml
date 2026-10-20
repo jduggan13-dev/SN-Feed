@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 20 Oct 2026 18:19:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 22:05:14 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>SES, Planet to test satellite data relay technology</title>
+<link>https://spacenews.com/ses-planet-to-test-satellite-data-relay-technology/</link>
+<guid isPermaLink="true">https://spacenews.com/ses-planet-to-test-satellite-data-relay-technology/</guid>
+<pubDate>Tue, 20 Oct 2026 21:23:35 +0000</pubDate>
+<description>The demonstration aboard Planet Labs' Pelican-12 satellite is part of NASA’s Communications Services Project</description>
+</item>
+<item>
+<title>Samara claims NASA contract to demonstrate attitude-control technology</title>
+<link>https://spacenews.com/samara-claims-nasa-contract-to-demonstrate-attitude-control-technology/</link>
+<guid isPermaLink="true">https://spacenews.com/samara-claims-nasa-contract-to-demonstrate-attitude-control-technology/</guid>
+<pubDate>Tue, 20 Oct 2026 20:57:26 +0000</pubDate>
+<description>SAN FRANCISCO – NASA awarded a $1.3 million contract to Samara Aerospace to demonstrate hardware and software for the company’s attitude-control technology in a laboratory setting.</description>
+</item>
 <item>
 <title>Chinese on-orbit servicing startup Space Robot raises funds for constellation plans</title>
 <link>https://spacenews.com/chinese-on-orbit-servicing-startup-space-robot-raises-funds-for-constellation-plans/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
 <pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
 <description>Stellar Dispatch</description>
-</item>
-<item>
-<title>Spacenews Terms Conditions</title>
-<link>https://spacenews.com/spacenews-terms-conditions/</link>
-<guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>Spacenews Terms Conditions</description>
-</item>
-<item>
-<title>Accessibility Statement</title>
-<link>https://spacenews.com/accessibility-statement/</link>
-<guid isPermaLink="true">https://spacenews.com/accessibility-statement/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>Accessibility Statement</description>
 </item>
 </channel>
 </rss>
