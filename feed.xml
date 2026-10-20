@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 20 Oct 2026 07:09:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 13:19:20 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions</title>
+<link>https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/</link>
+<guid isPermaLink="true">https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/</guid>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+<description>LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […]</description>
+</item>
+<item>
+<title>Sound decisions will enable U.S. crewed lunar landings</title>
+<link>https://spacenews.com/sound-decisions-will-enable-u-s-crewed-lunar-landings/</link>
+<guid isPermaLink="true">https://spacenews.com/sound-decisions-will-enable-u-s-crewed-lunar-landings/</guid>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+<description>NASA has successfully led off the Artemis human lunar program with the Artemis 1 test flight and the exciting Artemis 2 crewed flight around the moon. These missions demonstrated the United States’ capability to conduct human deep space exploration with the highly proven Space Launch System (SLS) and Orion crew vehicle. It is essential to continue an accelerated mission cadence to reduce risk and validate increasing capabilities on a pace to safely land astronauts on the moon as soon as possible.</description>
+</item>
+<item>
+<title>SpaceX launches second Starfall reentry vehicle</title>
+<link>https://spacenews.com/spacex-launches-second-starfall-reentry-vehicle/</link>
+<guid isPermaLink="true">https://spacenews.com/spacex-launches-second-starfall-reentry-vehicle/</guid>
+<pubDate>Tue, 20 Oct 2026 11:53:49 +0000</pubDate>
+<description>SpaceX launched a rideshare mission Oct. 20 whose payload included the company’s second Starfall reentry vehicle.</description>
+</item>
+<item>
+<title>Uzbekistan signs the Artemis Accords</title>
+<link>https://spacenews.com/uzbekistan-signs-the-artemis-accords/</link>
+<guid isPermaLink="true">https://spacenews.com/uzbekistan-signs-the-artemis-accords/</guid>
+<pubDate>Tue, 20 Oct 2026 10:26:35 +0000</pubDate>
+<description>Uzbekistan signed the Artemis Accords outlining best practices for space exploration on Oct. 19, becoming the 77th country to do so.</description>
+</item>
 <item>
 <title>Japan launches sample-return mission to Martian moon Phobos</title>
 <link>https://spacenews.com/japan-launches-sample-return-mission-to-martian-moon-phobos/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/musk-blames-indias-oligarchs-new-delhi-cites-security-and-the-villages-keep-waiting/</guid>
 <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
 <description>Late on October 7, Elon Musk complained on X that “certain oligarchs” were keeping Starlink out of India, and the next day he asked, by name , whether Mukesh Ambani really runs the country. India’s communications ministry answered that all three licensed satellite operators sit at the same stage of review, that security checks are still under way for all of them, and it called the charge “baseless and misconceived.”</description>
-</item>
-<item>
-<title>Axiom CEO satisfied with NASA RFP for commercial space stations</title>
-<link>https://spacenews.com/axiom-ceo-satisfied-with-nasa-rfp-for-commercial-space-stations/</link>
-<guid isPermaLink="true">https://spacenews.com/axiom-ceo-satisfied-with-nasa-rfp-for-commercial-space-stations/</guid>
-<pubDate>Fri, 16 Oct 2026 11:28:36 +0000</pubDate>
-<description>NASA’s call for proposals for a commercial space station development program addresses concerns raised by industry, one executive says, but wants NASA to do more to reduce requirements in general.</description>
-</item>
-<item>
-<title>Three Chinese reusable launch startups emerge with diverse rocket designs and funding</title>
-<link>https://spacenews.com/three-chinese-reusable-launch-startups-emerge-with-diverse-rocket-designs-and-funding/</link>
-<guid isPermaLink="true">https://spacenews.com/three-chinese-reusable-launch-startups-emerge-with-diverse-rocket-designs-and-funding/</guid>
-<pubDate>Fri, 16 Oct 2026 11:03:17 +0000</pubDate>
-<description>HELSINKI — Three newer Chinese rocket startups have announced rocket series or funding within the space of a week, despite an increasingly crowded launch sector.</description>
-</item>
-<item>
-<title>Blue Origin outlines New Glenn launch infrastructure upgrades</title>
-<link>https://spacenews.com/blue-origin-outlines-new-glenn-launch-infrastructure-upgrades/</link>
-<guid isPermaLink="true">https://spacenews.com/blue-origin-outlines-new-glenn-launch-infrastructure-upgrades/</guid>
-<pubDate>Fri, 16 Oct 2026 10:07:40 +0000</pubDate>
-<description>Blue Origin plans to build additional launch pads and landing platform ships as part of investments needed to enable a much higher cadence of New Glenn launches from Florida.</description>
-</item>
-<item>
-<title>Space Command’s new headquarters estimated to cost $4 billion</title>
-<link>https://spacenews.com/space-commands-new-headquarters-estimated-to-cost-4-billion/</link>
-<guid isPermaLink="true">https://spacenews.com/space-commands-new-headquarters-estimated-to-cost-4-billion/</guid>
-<pubDate>Thu, 15 Oct 2026 22:32:24 +0000</pubDate>
-<description>The Air Force seeks a ‘design-build’ contractor to deliver the facility by 2031</description>
 </item>
 </channel>
 </rss>
