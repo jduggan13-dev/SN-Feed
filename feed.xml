@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 20 Oct 2026 13:19:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 18:19:47 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Chinese on-orbit servicing startup Space Robot raises funds for constellation plans</title>
+<link>https://spacenews.com/chinese-on-orbit-servicing-startup-space-robot-raises-funds-for-constellation-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/chinese-on-orbit-servicing-startup-space-robot-raises-funds-for-constellation-plans/</guid>
+<pubDate>Tue, 20 Oct 2026 17:58:24 +0000</pubDate>
+<description>HELSINKI — Chinese startup Space Robot has raised nearly $15 million to build a constellation of servicing spacecraft, having launched a tech demo satellite in 2025.</description>
+</item>
+<item>
+<title>Xona launches six satellites to begin commercial navigation service</title>
+<link>https://spacenews.com/xona-launches-six-satellites-to-begin-commercial-navigation-service/</link>
+<guid isPermaLink="true">https://spacenews.com/xona-launches-six-satellites-to-begin-commercial-navigation-service/</guid>
+<pubDate>Tue, 20 Oct 2026 15:24:04 +0000</pubDate>
+<description>Four-satellite cluster will test independent navigation as startup pursues commercial and defense customers</description>
+</item>
 <item>
 <title>AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions</title>
 <link>https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/accessibility-statement/</guid>
 <pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
 <description>Accessibility Statement</description>
-</item>
-<item>
-<title>SpaceX proposing sharp increase in Starship launches from Texas</title>
-<link>https://spacenews.com/spacex-proposing-sharp-increase-in-starship-launches-from-texas/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-proposing-sharp-increase-in-starship-launches-from-texas/</guid>
-<pubDate>Fri, 16 Oct 2026 12:17:47 +0000</pubDate>
-<description>SpaceX is seeking approval for a significant increase in Starship launches from Texas while the FAA works to revise launch regulations to enable more launches in general.</description>
-</item>
-<item>
-<title>Musk blames India’s oligarchs, New Delhi cites security and the villages keep waiting</title>
-<link>https://spacenews.com/musk-blames-indias-oligarchs-new-delhi-cites-security-and-the-villages-keep-waiting/</link>
-<guid isPermaLink="true">https://spacenews.com/musk-blames-indias-oligarchs-new-delhi-cites-security-and-the-villages-keep-waiting/</guid>
-<pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-<description>Late on October 7, Elon Musk complained on X that “certain oligarchs” were keeping Starlink out of India, and the next day he asked, by name , whether Mukesh Ambani really runs the country. India’s communications ministry answered that all three licensed satellite operators sit at the same stage of review, that security checks are still under way for all of them, and it called the charge “baseless and misconceived.”</description>
 </item>
 </channel>
 </rss>
