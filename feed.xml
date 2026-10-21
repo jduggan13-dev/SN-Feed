@@ -4,10 +4,52 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 21 Oct 2026 07:02:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 13:25:05 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space systems need a new defense layer — and it needs to fly</title>
+<link>https://spacenews.com/space-systems-need-a-new-defense-layer-and-it-needs-to-fly/</link>
+<guid isPermaLink="true">https://spacenews.com/space-systems-need-a-new-defense-layer-and-it-needs-to-fly/</guid>
+<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+<description>Spacecraft are becoming software-defined, increasingly autonomous computing systems. Yet the tools used to protect them often treat cybersecurity, equipment failures and environmental hazards as separate problems. In orbit, they can look remarkably alike.</description>
+</item>
+<item>
+<title>PLD Space delays Miura 5 debut to 2027</title>
+<link>https://spacenews.com/pld-space-delays-miura-5-debut-to-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/pld-space-delays-miura-5-debut-to-2027/</guid>
+<pubDate>Wed, 21 Oct 2026 12:24:27 +0000</pubDate>
+<description>Spanish launch company PLD Space is now planning a first launch of the Miura 5 in the first half of 2027 as it works on several qualification and flight vehicles.</description>
+</item>
+<item>
+<title>Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration</title>
+<link>https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/</link>
+<guid isPermaLink="true">https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/</guid>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<description>SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar […]</description>
+</item>
+<item>
+<title>Summer of Quantum: Building momentum for space-based QKD</title>
+<link>https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/</link>
+<guid isPermaLink="true">https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/</guid>
+<pubDate>Wed, 21 Oct 2026 11:54:30 +0000</pubDate>
+<description>Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […]</description>
+</item>
+<item>
+<title>Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services</title>
+<link>https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/</link>
+<guid isPermaLink="true">https://spacenews.com/chinese-space-robotics-startup-sinxbot-raises-tens-of-millions-of-dollars-for-on-orbit-refueling-deorbit-services/</guid>
+<pubDate>Wed, 21 Oct 2026 11:39:02 +0000</pubDate>
+<description>HELSINKI — Chinese startup Sinxbot has raised tens of millions of dollars from investors including Alibaba and China Mobile to develop robotic arms for servicing satellites.</description>
+</item>
+<item>
+<title>Ceres-1 sea launch lofts first satellite for low-inclination Wuyang remote sensing constellation</title>
+<link>https://spacenews.com/ceres-1-sea-launch-lofts-first-satellite-for-low-inclination-wuyang-remote-sensing-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/ceres-1-sea-launch-lofts-first-satellite-for-low-inclination-wuyang-remote-sensing-constellation/</guid>
+<pubDate>Wed, 21 Oct 2026 08:54:07 +0000</pubDate>
+<description>HELSINKI — A commercial Ceres-1 solid rocket launched a pathfinder satellite from the Yellow Sea late Tuesday, kicking off a Guangzhou-backed remote sensing constellation project.</description>
+</item>
 <item>
 <title>Eutelsat exploring GEO life-extension mission with ClearSpace</title>
 <link>https://spacenews.com/eutelsat-exploring-geo-life-extension-mission-with-clearspace/</link>
@@ -175,48 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/what-will-it-take-to-build-a-moon-base/</guid>
 <pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
 <description>In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Russia may turn to nuclear space weapons to counter U.S. missile defenses, report says</title>
-<link>https://spacenews.com/russia-may-turn-to-nuclear-space-weapons-to-counter-u-s-missile-defenses-report-says/</link>
-<guid isPermaLink="true">https://spacenews.com/russia-may-turn-to-nuclear-space-weapons-to-counter-u-s-missile-defenses-report-says/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>Russia may turn to nuclear space weapons to counter U.S. missile defenses, report says</description>
-</item>
-<item>
-<title>Nasa Issues Final Rfp For Commercial Space Station Procurement</title>
-<link>https://spacenews.com/nasa-issues-final-rfp-for-commercial-space-station-procurement/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-issues-final-rfp-for-commercial-space-station-procurement/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>Nasa Issues Final Rfp For Commercial Space Station Procurement</description>
-</item>
-<item>
-<title>Commercial space station companies consider future without Crew Dragon</title>
-<link>https://spacenews.com/commercial-space-station-companies-consider-future-without-crew-dragon/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-space-station-companies-consider-future-without-crew-dragon/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>Commercial space station companies consider future without Crew Dragon</description>
-</item>
-<item>
-<title>The U.S. already oversees commercial space. Novelty is not a regulatory gap.</title>
-<link>https://spacenews.com/the-u-s-already-oversees-commercial-space-novelty-is-not-a-regulatory-gap/</link>
-<guid isPermaLink="true">https://spacenews.com/the-u-s-already-oversees-commercial-space-novelty-is-not-a-regulatory-gap/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>The U.S. already oversees commercial space. Novelty is not a regulatory gap.</description>
-</item>
-<item>
-<title>Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.</title>
-<link>https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […] The post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format</title>
-<link>https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</link>
-<guid isPermaLink="true">https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
