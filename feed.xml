@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 21 Oct 2026 18:21:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 22:05:03 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force weighs new spaceport for heavy launches by 2030</title>
+<link>https://spacenews.com/space-force-weighs-new-spaceport-for-heavy-launches-by-2030/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-weighs-new-spaceport-for-heavy-launches-by-2030/</guid>
+<pubDate>Wed, 21 Oct 2026 22:02:00 +0000</pubDate>
+<description>Congress directed the Pentagon to consider federal, state and commercial land to increase launch capacity</description>
+</item>
+<item>
+<title>Space Force expects ULA Vulcan return as it reshuffles military launches</title>
+<link>https://spacenews.com/space-force-expects-ula-vulcan-return-as-it-reshuffles-military-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-expects-ula-vulcan-return-as-it-reshuffles-military-launches/</guid>
+<pubDate>Wed, 21 Oct 2026 20:20:00 +0000</pubDate>
+<description>Space Systems Command says ULA missions are being delayed, not permanently reassigned, while Vulcan undergoes technical review</description>
+</item>
 <item>
 <title>TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner</title>
 <link>https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/the-space-superiority-imperative-to-increase-ground-and-network-resilience/</guid>
 <pubDate>Mon, 19 Oct 2026 13:00:00 +0000</pubDate>
 <description>The past three decades have seen a marked increase in the capability, capacity and integration of American space capabilities to enhance and conduct combat operations. That same period has seen a corresponding growth in the threats against those space systems. Many have been focused on the increasingly capable spectrum of threats posed by China, including cyber, direct-ascent and co-orbital systems, or the spread of GPS and SATCOM jammers to countries around the world. However, a more rudimentary threat has also emerged: attacks against the ground stations that connect end users to space data and services. These ground systems are now in the crosshairs as a lucrative target for adversaries that do not possess the means or will to attack satellites.</description>
-</item>
-<item>
-<title>Studies confirm performance of Artemis 2 heat shield</title>
-<link>https://spacenews.com/studies-confirm-performance-of-artemis-2-heat-shield/</link>
-<guid isPermaLink="true">https://spacenews.com/studies-confirm-performance-of-artemis-2-heat-shield/</guid>
-<pubDate>Mon, 19 Oct 2026 12:01:22 +0000</pubDate>
-<description>Detailed engineering studies have confirmed that the Orion heat shield on the Artemis 2 mission performed as expected, without the erosion seen on Artemis 1.</description>
-</item>
-<item>
-<title>GAO report flags risk of geostationary weather satellite data gap</title>
-<link>https://spacenews.com/gao-report-flags-risk-of-geostationary-weather-satellite-data-gap/</link>
-<guid isPermaLink="true">https://spacenews.com/gao-report-flags-risk-of-geostationary-weather-satellite-data-gap/</guid>
-<pubDate>Mon, 19 Oct 2026 09:58:20 +0000</pubDate>
-<description>A report warns that a gap in weather satellite coverage could emerge in the early 2030s as NOAA develops a new generation of spacecraft.</description>
 </item>
 </channel>
 </rss>
