@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 21 Oct 2026 01:16:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 07:02:09 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Eutelsat exploring GEO life-extension mission with ClearSpace</title>
+<link>https://spacenews.com/eutelsat-exploring-geo-life-extension-mission-with-clearspace/</link>
+<guid isPermaLink="true">https://spacenews.com/eutelsat-exploring-geo-life-extension-mission-with-clearspace/</guid>
+<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+<description>Luxembourg-based ClearSpace signed an agreement Oct. 20 with Eutelsat to explore extending the life of one of the French operator’s aging geostationary satellites by up to 10 years.</description>
+</item>
+<item>
+<title>SpaceX plans Starship upper stage catch on next launch</title>
+<link>https://spacenews.com/spacex-plans-starship-upper-stage-catch-on-next-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/spacex-plans-starship-upper-stage-catch-on-next-launch/</guid>
+<pubDate>Wed, 21 Oct 2026 02:28:07 +0000</pubDate>
+<description>SpaceX plans to attempt to recover both stages of its Starship vehicle on its next launch, planned for as early as next month, pending regulatory approval.</description>
+</item>
 <item>
 <title>Space Force plans overhaul of launch ranges as traffic surges</title>
 <link>https://spacenews.com/space-force-plans-overhaul-of-launch-ranges-as-traffic-surges/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/</guid>
 <pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
 <description>Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth</title>
-<link>https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/</link>
-<guid isPermaLink="true">https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His […] The post Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>World Space Week 2026 Celebrates the “Rocket Revolution”</title>
-<link>https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</link>
-<guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
