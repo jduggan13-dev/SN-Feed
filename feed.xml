@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 20 Oct 2026 22:05:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 01:16:14 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force plans overhaul of launch ranges as traffic surges</title>
+<link>https://spacenews.com/space-force-plans-overhaul-of-launch-ranges-as-traffic-surges/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-plans-overhaul-of-launch-ranges-as-traffic-surges/</guid>
+<pubDate>Tue, 20 Oct 2026 22:05:59 +0000</pubDate>
+<description>A newly released ‘Vision &amp; Requirements’ document calls for simultaneous operations, remote range control and new financing tools at Cape Canaveral and Vandenberg</description>
+</item>
 <item>
 <title>SES, Planet to test satellite data relay technology</title>
 <link>https://spacenews.com/ses-planet-to-test-satellite-data-relay-technology/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/</guid>
 <pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
 <description>HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Stellar Dispatch</title>
-<link>https://spacenews.com/stellar-dispatch/</link>
-<guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
-<pubDate>Fri, 16 Oct 2026 20:29:35 +0000</pubDate>
-<description>Stellar Dispatch</description>
 </item>
 </channel>
 </rss>
