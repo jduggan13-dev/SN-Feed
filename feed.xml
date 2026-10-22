@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 22 Oct 2026 07:04:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:26:12 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Navigation startup Xona raises $250 million as it begins satellite deployment</title>
+<link>https://spacenews.com/navigation-startup-xona-raises-250-million-as-it-begins-satellite-deployment/</link>
+<guid isPermaLink="true">https://spacenews.com/navigation-startup-xona-raises-250-million-as-it-begins-satellite-deployment/</guid>
+<pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
+<description>Future Ventures leads financing; Series D values the company at $2.45 billion</description>
+</item>
+<item>
+<title>China seeks payloads for crewed moon lander test mission</title>
+<link>https://spacenews.com/china-seeks-payloads-for-crewed-moon-lander-test-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/china-seeks-payloads-for-crewed-moon-lander-test-mission/</guid>
+<pubDate>Thu, 22 Oct 2026 12:36:16 +0000</pubDate>
+<description>HELSINKI — China is seeking payloads to fly on an uncrewed mission of its Lanyue human moon landing system, ahead of a planned crewed landing before 2030.</description>
+</item>
+<item>
+<title>BlackSky announces Gen-3 contract with international defense agency</title>
+<link>https://spacenews.com/blacksky-announces-gen-3-contract-with-international-defense-agency/</link>
+<guid isPermaLink="true">https://spacenews.com/blacksky-announces-gen-3-contract-with-international-defense-agency/</guid>
+<pubDate>Thu, 22 Oct 2026 12:30:00 +0000</pubDate>
+<description>SAN FRANCISCO — BlackSky Technology announced a “seven-figure” contract to provide an international defense agency in a “contested region” with assured access to high-resolution Gen-3 imagery and data, Herndon, Virginia-based BlackSky announced Oct. 22.</description>
+</item>
+<item>
+<title>Study recommends four locations for human lunar missions beyond the south pole</title>
+<link>https://spacenews.com/study-recommends-four-locations-for-human-lunar-missions-beyond-the-south-pole/</link>
+<guid isPermaLink="true">https://spacenews.com/study-recommends-four-locations-for-human-lunar-missions-beyond-the-south-pole/</guid>
+<pubDate>Thu, 22 Oct 2026 10:13:36 +0000</pubDate>
+<description>A study recommended several locations on the moon for future crewed missions, including a farside crater and an Apollo landing site, even as NASA focuses on a south pole base.</description>
+</item>
+<item>
+<title>NASA to change how it selects science missions</title>
+<link>https://spacenews.com/nasa-to-change-how-it-selects-science-missions/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-to-change-how-it-selects-science-missions/</guid>
+<pubDate>Thu, 22 Oct 2026 09:05:39 +0000</pubDate>
+<description>NASA is rolling out changes to how it selects science missions in an effort to speed up and simplify the process.</description>
+</item>
 <item>
 <title>U.S. Air Force explores military resupply from space in latest SpaceX Starfall flight</title>
 <link>https://spacenews.com/u-s-air-force-explores-military-resupply-from-space-in-latest-spacex-starfall-flight/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/japan-launches-sample-return-mission-to-martian-moon-phobos/</guid>
 <pubDate>Mon, 19 Oct 2026 21:37:11 +0000</pubDate>
 <description>Japan has launched an ambitious mission that will be the first to attempt to return samples from a moon of Mars.</description>
-</item>
-<item>
-<title>European cellular giants seek satellite partner for sovereign D2D service</title>
-<link>https://spacenews.com/european-cellular-giants-seek-satellite-partner-for-sovereign-d2d-service/</link>
-<guid isPermaLink="true">https://spacenews.com/european-cellular-giants-seek-satellite-partner-for-sovereign-d2d-service/</guid>
-<pubDate>Mon, 19 Oct 2026 20:53:05 +0000</pubDate>
-<description>Four of Europe’s largest cellular operators said Oct. 19 they are seeking a satellite partner to deploy sovereign direct-to-device services, after signing a letter of intent to explore a joint bid for spectrum needed to provide connectivity from space.</description>
-</item>
-<item>
-<title>Space Force eyes fivefold expansion of Middle East command</title>
-<link>https://spacenews.com/space-force-eyes-fivefold-expansion-of-middle-east-command/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-eyes-fivefold-expansion-of-middle-east-command/</guid>
-<pubDate>Mon, 19 Oct 2026 20:37:41 +0000</pubDate>
-<description>Brig. Gen. Todd Benson: More personnel needed for targeting, intelligence and operational planning as space becomes central to U.S. military operations</description>
-</item>
-<item>
-<title>Russia’s close approach to commercial satellite raises alarm</title>
-<link>https://spacenews.com/russias-close-approach-to-commercial-satellite-raises-alarm/</link>
-<guid isPermaLink="true">https://spacenews.com/russias-close-approach-to-commercial-satellite-raises-alarm/</guid>
-<pubDate>Mon, 19 Oct 2026 16:48:56 +0000</pubDate>
-<description>Iceye: ‘We are aware of the situation and tracking it closely’</description>
-</item>
-<item>
-<title>UARX Space troubleshoots anomalies on maiden OTV Flight</title>
-<link>https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/</link>
-<guid isPermaLink="true">https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/</guid>
-<pubDate>Mon, 19 Oct 2026 16:31:12 +0000</pubDate>
-<description>SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX’s Transporter-18 mission. At least […]</description>
-</item>
-<item>
-<title>EraDrive wins Space Force contract for vision-based hardware</title>
-<link>https://spacenews.com/eradrive-wins-space-force-contract-for-vision-based-hardware/</link>
-<guid isPermaLink="true">https://spacenews.com/eradrive-wins-space-force-contract-for-vision-based-hardware/</guid>
-<pubDate>Mon, 19 Oct 2026 14:00:00 +0000</pubDate>
-<description>SAN FRANCISCO – The U.S. Space Force awarded a $13 million contract to Silicon Valley startup EraDrive for Era-Nodes, vision-based hardware modules designed for satellite autonomy.</description>
 </item>
 </channel>
 </rss>
