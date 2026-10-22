@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 21 Oct 2026 22:05:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 01:12:00 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>U.S. Air Force explores military resupply from space in latest SpaceX Starfall flight</title>
+<link>https://spacenews.com/u-s-air-force-explores-military-resupply-from-space-in-latest-spacex-starfall-flight/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-air-force-explores-military-resupply-from-space-in-latest-spacex-starfall-flight/</guid>
+<pubDate>Thu, 22 Oct 2026 00:22:00 +0000</pubDate>
+<description>The experiment measured conditions inside the spacecraft as the Pentagon explores using commercial rockets and reentry vehicles to deliver supplies worldwide</description>
+</item>
 <item>
 <title>Space Force weighs new spaceport for heavy launches by 2030</title>
 <link>https://spacenews.com/space-force-weighs-new-spaceport-for-heavy-launches-by-2030/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/eradrive-wins-space-force-contract-for-vision-based-hardware/</guid>
 <pubDate>Mon, 19 Oct 2026 14:00:00 +0000</pubDate>
 <description>SAN FRANCISCO – The U.S. Space Force awarded a $13 million contract to Silicon Valley startup EraDrive for Era-Nodes, vision-based hardware modules designed for satellite autonomy.</description>
-</item>
-<item>
-<title>The space superiority imperative to increase ground and network resilience</title>
-<link>https://spacenews.com/the-space-superiority-imperative-to-increase-ground-and-network-resilience/</link>
-<guid isPermaLink="true">https://spacenews.com/the-space-superiority-imperative-to-increase-ground-and-network-resilience/</guid>
-<pubDate>Mon, 19 Oct 2026 13:00:00 +0000</pubDate>
-<description>The past three decades have seen a marked increase in the capability, capacity and integration of American space capabilities to enhance and conduct combat operations. That same period has seen a corresponding growth in the threats against those space systems. Many have been focused on the increasingly capable spectrum of threats posed by China, including cyber, direct-ascent and co-orbital systems, or the spread of GPS and SATCOM jammers to countries around the world. However, a more rudimentary threat has also emerged: attacks against the ground stations that connect end users to space data and services. These ground systems are now in the crosshairs as a lucrative target for adversaries that do not possess the means or will to attack satellites.</description>
 </item>
 </channel>
 </rss>
