@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 23 Oct 2026 17:41:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 20:58:25 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nov. 5: Satellite Mission Management at the Edge</title>
+<link>https://spacenews.com/satellite-mission-management-at-the-edge-event/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-mission-management-at-the-edge-event/</guid>
+<pubDate>Fri, 23 Oct 2026 19:53:25 +0000</pubDate>
+<description>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations</description>
+</item>
+<item>
+<title>ESA says Ariane 6 engine issues resolved</title>
+<link>https://spacenews.com/esa-says-ariane-6-engine-issues-resolved/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-says-ariane-6-engine-issues-resolved/</guid>
+<pubDate>Fri, 23 Oct 2026 17:57:04 +0000</pubDate>
+<description>The European Space Agency says engine issues that have delayed Ariane 6 launches have been resolved as it continues to study ways to increase the vehicle’s flight rate.</description>
+</item>
 <item>
 <title>Pentagon looking past Earth orbit for its next military frontier</title>
 <link>https://spacenews.com/pentagon-looking-past-earth-orbit-for-its-next-military-frontier/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-force-expects-ula-vulcan-return-as-it-reshuffles-military-launches/</guid>
 <pubDate>Wed, 21 Oct 2026 20:20:00 +0000</pubDate>
 <description>Space Systems Command says ULA missions are being delayed, not permanently reassigned, while Vulcan undergoes technical review</description>
-</item>
-<item>
-<title>TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner</title>
-<link>https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/</link>
-<guid isPermaLink="true">https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/</guid>
-<pubDate>Wed, 21 Oct 2026 15:26:29 +0000</pubDate>
-<description>TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Global Satcom Services Revenues to Reach $145 Billion by 2035</title>
-<link>https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/</link>
-<guid isPermaLink="true">https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/</guid>
-<pubDate>Wed, 21 Oct 2026 15:00:22 +0000</pubDate>
-<description>Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […] The post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
