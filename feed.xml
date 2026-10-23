@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 23 Oct 2026 20:58:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:48:03 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NASA keeps options open to preserve 2028 Artemis lunar landing</title>
+<link>https://spacenews.com/nasa-keeps-options-open-to-preserve-2028-artemis-lunar-landing/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-keeps-options-open-to-preserve-2028-artemis-lunar-landing/</guid>
+<pubDate>Fri, 23 Oct 2026 23:46:13 +0000</pubDate>
+<description>NASA officials say they are keeping open options regarding launch vehicles and landers to preserve a crewed lunar landing in 2028, even while noting Artemis 3 remains behind schedule.</description>
+</item>
+<item>
+<title>Space Force looks to build depth into its satellite-jamming arsenal</title>
+<link>https://spacenews.com/space-force-looks-to-build-depth-into-its-satellite-jamming-arsenal/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-looks-to-build-depth-into-its-satellite-jamming-arsenal/</guid>
+<pubDate>Fri, 23 Oct 2026 21:03:06 +0000</pubDate>
+<description>Lt. Gen. Gagnon says units need more equipment to absorb wartime losses</description>
+</item>
 <item>
 <title>Nov. 5: Satellite Mission Management at the Edge</title>
 <link>https://spacenews.com/satellite-mission-management-at-the-edge-event/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/u-s-air-force-explores-military-resupply-from-space-in-latest-spacex-starfall-flight/</guid>
 <pubDate>Thu, 22 Oct 2026 00:22:00 +0000</pubDate>
 <description>The experiment measured conditions inside the spacecraft as the Pentagon explores using commercial rockets and reentry vehicles to deliver supplies worldwide</description>
-</item>
-<item>
-<title>Space Force weighs new spaceport for heavy launches by 2030</title>
-<link>https://spacenews.com/space-force-weighs-new-spaceport-for-heavy-launches-by-2030/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-weighs-new-spaceport-for-heavy-launches-by-2030/</guid>
-<pubDate>Wed, 21 Oct 2026 22:02:00 +0000</pubDate>
-<description>Congress directed the Pentagon to consider federal, state and commercial land to increase launch capacity</description>
-</item>
-<item>
-<title>Space Force expects ULA Vulcan return as it reshuffles military launches</title>
-<link>https://spacenews.com/space-force-expects-ula-vulcan-return-as-it-reshuffles-military-launches/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-expects-ula-vulcan-return-as-it-reshuffles-military-launches/</guid>
-<pubDate>Wed, 21 Oct 2026 20:20:00 +0000</pubDate>
-<description>Space Systems Command says ULA missions are being delayed, not permanently reassigned, while Vulcan undergoes technical review</description>
 </item>
 </channel>
 </rss>
