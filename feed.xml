@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 23 Oct 2026 12:26:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 17:41:41 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pentagon looking past Earth orbit for its next military frontier</title>
+<link>https://spacenews.com/pentagon-looking-past-earth-orbit-for-its-next-military-frontier/</link>
+<guid isPermaLink="true">https://spacenews.com/pentagon-looking-past-earth-orbit-for-its-next-military-frontier/</guid>
+<pubDate>Fri, 23 Oct 2026 14:31:33 +0000</pubDate>
+<description>Military officials are describing the vast region between Earth and the moon as a future battlefield. The Space Force is starting to put acquisition plans behind the rhetoric.</description>
+</item>
+<item>
+<title>Turning capacity into capability: recommendations for America’s ground station infrastructure.</title>
+<link>https://spacenews.com/turning-capacity-into-capability-recommendations-for-americas-ground-station-infrastructure/</link>
+<guid isPermaLink="true">https://spacenews.com/turning-capacity-into-capability-recommendations-for-americas-ground-station-infrastructure/</guid>
+<pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
+<description>The commercial space industry is rapidly adding ground station capacity around the world. This collective investment will lower the cost of antenna access, increase supply and lower prices — but counterintuitively, more antenna capacity does not necessarily translate to capability across the diverse landscape of satellite operators and missions.</description>
+</item>
 <item>
 <title>NASA advisers raise new concerns about Artemis lunar landing plans</title>
 <link>https://spacenews.com/nasa-advisers-raise-new-concerns-about-artemis-lunar-landing-plans/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/</guid>
 <pubDate>Wed, 21 Oct 2026 15:00:22 +0000</pubDate>
 <description>Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […] The post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller</title>
-<link>https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/</link>
-<guid isPermaLink="true">https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/</guid>
-<pubDate>Wed, 21 Oct 2026 14:29:57 +0000</pubDate>
-<description>LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Space Development Agency eyes new missile-tracking technologies for future satellites</title>
-<link>https://spacenews.com/space-development-agency-eyes-new-missile-tracking-technologies-for-future-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/space-development-agency-eyes-new-missile-tracking-technologies-for-future-satellites/</guid>
-<pubDate>Wed, 21 Oct 2026 13:30:00 +0000</pubDate>
-<description>A new industry notice outlines plans for Tranche 4 production contracts and separate demonstrations of advanced satellite payloads</description>
 </item>
 </channel>
 </rss>
