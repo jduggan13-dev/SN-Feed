@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 24 Oct 2026 08:37:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 13:05:34 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>China launches highly retrograde Yaogan-50 spy satellite, Long March 4B lofts six further Yaogan spacecraft</title>
+<link>https://spacenews.com/china-launches-highly-retrograde-yaogan-50-spy-satellite-long-march-4b-lofts-six-further-yaogan-spacecraft/</link>
+<guid isPermaLink="true">https://spacenews.com/china-launches-highly-retrograde-yaogan-50-spy-satellite-long-march-4b-lofts-six-further-yaogan-spacecraft/</guid>
+<pubDate>Sat, 24 Oct 2026 08:39:55 +0000</pubDate>
+<description>HELSINKI — China conducted a pair of launches Friday, first sending a new retrograde spy bird into orbit, and following up with two sets of Yaogan triplets.</description>
+</item>
 <item>
 <title>NASA keeps options open to preserve 2028 Artemis lunar landing</title>
 <link>https://spacenews.com/nasa-keeps-options-open-to-preserve-2028-artemis-lunar-landing/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/nasa-to-change-how-it-selects-science-missions/</guid>
 <pubDate>Thu, 22 Oct 2026 09:05:39 +0000</pubDate>
 <description>NASA is rolling out changes to how it selects science missions in an effort to speed up and simplify the process.</description>
-</item>
-<item>
-<title>U.S. Air Force explores military resupply from space in latest SpaceX Starfall flight</title>
-<link>https://spacenews.com/u-s-air-force-explores-military-resupply-from-space-in-latest-spacex-starfall-flight/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-air-force-explores-military-resupply-from-space-in-latest-spacex-starfall-flight/</guid>
-<pubDate>Thu, 22 Oct 2026 00:22:00 +0000</pubDate>
-<description>The experiment measured conditions inside the spacecraft as the Pentagon explores using commercial rockets and reentry vehicles to deliver supplies worldwide</description>
 </item>
 </channel>
 </rss>
