@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 24 Oct 2026 22:52:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 00:48:28 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ESA downplays Space Rider test mishap</title>
+<link>https://spacenews.com/esa-downplays-space-rider-test-mishap/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-downplays-space-rider-test-mishap/</guid>
+<pubDate>Sat, 24 Oct 2026 23:12:32 +0000</pubDate>
+<description>The European Space Agency acknowledged it lost a test article for its Space Rider spaceplane in a recent drop test but said the mishap would not significantly delay its development.</description>
+</item>
 <item>
 <title>Space Force shifts missile-warning, cislunar missions from Vulcan to Falcon Heavy</title>
 <link>https://spacenews.com/space-force-shifts-missile-warning-cislunar-missions-from-vulcan-to-spacex/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/china-seeks-payloads-for-crewed-moon-lander-test-mission/</guid>
 <pubDate>Thu, 22 Oct 2026 12:36:16 +0000</pubDate>
 <description>HELSINKI — China is seeking payloads to fly on an uncrewed mission of its Lanyue human moon landing system, ahead of a planned crewed landing before 2030.</description>
-</item>
-<item>
-<title>BlackSky announces Gen-3 contract with international defense agency</title>
-<link>https://spacenews.com/blacksky-announces-gen-3-contract-with-international-defense-agency/</link>
-<guid isPermaLink="true">https://spacenews.com/blacksky-announces-gen-3-contract-with-international-defense-agency/</guid>
-<pubDate>Thu, 22 Oct 2026 12:30:00 +0000</pubDate>
-<description>SAN FRANCISCO — BlackSky Technology announced a “seven-figure” contract to provide an international defense agency in a “contested region” with assured access to high-resolution Gen-3 imagery and data, Herndon, Virginia-based BlackSky announced Oct. 22.</description>
 </item>
 </channel>
 </rss>
