@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 27 Oct 2026 19:15:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 23:28:04 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ukrainian startup, GomSpace test satellite for future communications network</title>
+<link>https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</link>
+<guid isPermaLink="true">https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</guid>
+<pubDate>Tue, 27 Oct 2026 20:21:30 +0000</pubDate>
+<description>The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network</description>
+</item>
+<item>
+<title>FCC clears Globalstar’s $11.5 billion sale to Amazon</title>
+<link>https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</link>
+<guid isPermaLink="true">https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</guid>
+<pubDate>Tue, 27 Oct 2026 19:18:19 +0000</pubDate>
+<description>The Federal Communications Commission has approved Amazon’s plans to buy U.S. satellite operator Globalstar for around $11.5 billion, clearing a key regulatory hurdle to fast-track its entry into the direct-to-device connectivity market.</description>
+</item>
 <item>
 <title>Craft Prospect kicks off PERSEUS project to advance optical communications for space</title>
 <link>https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/uzbekistan-signs-the-artemis-accords/</guid>
 <pubDate>Fri, 23 Oct 2026 01:11:27 +0000</pubDate>
 <description>Uzbekistan Signs The Artemis Accords</description>
-</item>
-<item>
-<title>SpaceX proposing sharp increase in Starship launches from Texas</title>
-<link>https://spacenews.com/spacex-proposing-sharp-increase-in-starship-launches-from-texas/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-proposing-sharp-increase-in-starship-launches-from-texas/</guid>
-<pubDate>Fri, 23 Oct 2026 01:11:27 +0000</pubDate>
-<description>SpaceX proposing sharp increase in Starship launches from Texas</description>
-</item>
-<item>
-<title>Sound decisions will enable U.S. crewed lunar landings</title>
-<link>https://spacenews.com/sound-decisions-will-enable-u-s-crewed-lunar-landings/</link>
-<guid isPermaLink="true">https://spacenews.com/sound-decisions-will-enable-u-s-crewed-lunar-landings/</guid>
-<pubDate>Fri, 23 Oct 2026 01:11:27 +0000</pubDate>
-<description>Sound decisions will enable U.S. crewed lunar landings</description>
 </item>
 </channel>
 </rss>
