@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 28 Oct 2026 16:58:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 21:35:06 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Launch executives warn Pentagon faces capacity crunch through 2030s</title>
+<link>https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</link>
+<guid isPermaLink="true">https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</guid>
+<pubDate>Wed, 28 Oct 2026 17:56:39 +0000</pubDate>
+<description>Military bet on commercial rockets faces new uncertainty as SpaceX shifts focus</description>
+</item>
 <item>
 <title>Boeing to be awarded sole-source deal worth up to $946 million to maintain military satellites</title>
 <link>https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/turning-capacity-into-capability-recommendations-for-americas-ground-station-infrastructure/</guid>
 <pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
 <description>The commercial space industry is rapidly adding ground station capacity around the world. This collective investment will lower the cost of antenna access, increase supply and lower prices — but counterintuitively, more antenna capacity does not necessarily translate to capability across the diverse landscape of satellite operators and missions.</description>
-</item>
-<item>
-<title>NASA advisers raise new concerns about Artemis lunar landing plans</title>
-<link>https://spacenews.com/nasa-advisers-raise-new-concerns-about-artemis-lunar-landing-plans/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-advisers-raise-new-concerns-about-artemis-lunar-landing-plans/</guid>
-<pubDate>Fri, 23 Oct 2026 11:57:06 +0000</pubDate>
-<description>Ahead of a NASA update on its Artemis lunar exploration plans, the agency’s safety advisers expressed concerns about the maturity of those plans.</description>
 </item>
 </channel>
 </rss>
