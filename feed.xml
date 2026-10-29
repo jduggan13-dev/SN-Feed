@@ -4,16 +4,23 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 29 Oct 2026 15:50:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 20:51:26 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Vietnam Signs The Artemis Accords</title>
-<link>https://spacenews.com/vietnam-signs-the-artemis-accords/</link>
-<guid isPermaLink="true">https://spacenews.com/vietnam-signs-the-artemis-accords/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Vietnam Signs The Artemis Accords</description>
+<title>Former FCC adviser Courtney Reinhard to lead Space Bureau</title>
+<link>https://spacenews.com/former-fcc-adviser-courtney-reinhard-to-lead-space-bureau/</link>
+<guid isPermaLink="true">https://spacenews.com/former-fcc-adviser-courtney-reinhard-to-lead-space-bureau/</guid>
+<pubDate>Thu, 29 Oct 2026 20:22:21 +0000</pubDate>
+<description>Federal Communications Commission Chairman Brendan Carr has appointed former FCC adviser Courtney Reinhard to lead the regulator’s Space Bureau.</description>
+</item>
+<item>
+<title>Global Telesat Lightspeed service delayed to mid-2028</title>
+<link>https://spacenews.com/global-telesat-lightspeed-service-delayed-to-mid-2028/</link>
+<guid isPermaLink="true">https://spacenews.com/global-telesat-lightspeed-service-delayed-to-mid-2028/</guid>
+<pubDate>Thu, 29 Oct 2026 18:23:59 +0000</pubDate>
+<description>Delayed pathfinder satellites for Telesat’s planned Lightspeed broadband constellation have pushed global service back three months to around the end of the second quarter of 2028, the Canadian operator announced Oct. 29.</description>
 </item>
 <item>
 <title>Oct. 29: Applying AI/SI to the GEOINT Mission</title>
@@ -30,95 +37,11 @@
 <description>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>Rendezvous Robotics Raises 20 Million For Self Assembling Spacecraft</title>
-<link>https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/</link>
-<guid isPermaLink="true">https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Rendezvous Robotics Raises 20 Million For Self Assembling Spacecraft</description>
-</item>
-<item>
-<title>Seraphim Seeking Space Startups For More Intensive Accelerator Program</title>
-<link>https://spacenews.com/seraphim-seeking-space-startups-for-more-intensive-accelerator-program/</link>
-<guid isPermaLink="true">https://spacenews.com/seraphim-seeking-space-startups-for-more-intensive-accelerator-program/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Seraphim Seeking Space Startups For More Intensive Accelerator Program</description>
-</item>
-<item>
-<title>Virgin Galactic Rolls Out New Suborbital Spaceplane</title>
-<link>https://spacenews.com/virgin-galactic-rolls-out-new-suborbital-spaceplane/</link>
-<guid isPermaLink="true">https://spacenews.com/virgin-galactic-rolls-out-new-suborbital-spaceplane/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Virgin Galactic’s newest suborbital spaceplane arrived at the company’s New Mexico spaceport for flight tests as its first commercial flights slip further into 2027.</description>
-</item>
-<item>
-<title>Space Force Missile Tracking Satellite Launch Slips To 2027 As Sda Reassesses Acquisition Approach</title>
-<link>https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Space Development Agency director Sandhoo calls for more technology demonstrations before larger production orders</description>
-</item>
-<item>
-<title>Advice For Optimizing The Space Industry With Laura Crabtree</title>
-<link>https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</link>
-<guid isPermaLink="true">https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […] The post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews .</description>
-</item>
-<item>
 <title>Rethinking networks in space with Aalyria’s Brian Barritt</title>
 <link>https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/</link>
 <guid isPermaLink="true">https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/</guid>
 <pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
 <description>In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>U.S. intelligence report publishes clear image of China’s secretive spaceplane</title>
-<link>https://spacenews.com/u-s-intelligence-report-publishes-clear-image-of-chinas-secretive-spaceplane/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-intelligence-report-publishes-clear-image-of-chinas-secretive-spaceplane/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>HELSINKI — A new U.S. intelligence report has published the first clear image of China’s reusable spaceplane in orbit, providing new specifics on the secretive spacecraft.</description>
-</item>
-<item>
-<title>Boeing to be awarded sole-source deal worth up to $946 million to maintain military satellites</title>
-<link>https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Space Force says Boeing's proprietary technical data and software make a competitive procurement impractical</description>
-</item>
-<item>
-<title>Launch Executives Warn Pentagon Faces Capacity Crunch Through 2030S</title>
-<link>https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</link>
-<guid isPermaLink="true">https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Military bet on commercial rockets faces new uncertainty as SpaceX shifts focus</description>
-</item>
-<item>
-<title>FCC clears Globalstar’s $11.5 billion sale to Amazon</title>
-<link>https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</link>
-<guid isPermaLink="true">https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>The Federal Communications Commission has approved Amazon’s plans to buy U.S. satellite operator Globalstar for around $11.5 billion, clearing a key regulatory hurdle to fast-track its entry into the direct-to-device connectivity market.</description>
-</item>
-<item>
-<title>Vulcan To Return To Flight In Mid November With First Amazon Leo Mission</title>
-<link>https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>United Launch Alliance plans to resume Vulcan launches in mid-November after a nine-month hiatus caused by a solid rocket booster anomaly.</description>
-</item>
-<item>
-<title>Blue Origin still pushing for return to flight of New Glenn this year</title>
-<link>https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</link>
-<guid isPermaLink="true">https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Blue Origin expects to have its rebuilt New Glenn launch pad ready by the first half of December to support a return to flight of the rocket this year.</description>
-</item>
-<item>
-<title>Ukrainian startup, GomSpace test satellite for future communications network</title>
-<link>https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</link>
-<guid isPermaLink="true">https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Space Force Weighs New Spaceport For Heavy Launches By 2030</title>
@@ -133,62 +56,6 @@
 <guid isPermaLink="true">https://spacenews.com/uzbekistan-signs-the-artemis-accords/</guid>
 <pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
 <description>Uzbekistan signs the Artemis Accords</description>
-</item>
-<item>
-<title>Nasa Ultraviolet Telescope Mission Passes Key Review</title>
-<link>https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>An ultraviolet space telescope mission has cleared a major NASA review, although the project is dealing with uncertainties about launch and communications.</description>
-</item>
-<item>
-<title>ESA downplays Space Rider test mishap</title>
-<link>https://spacenews.com/esa-downplays-space-rider-test-mishap/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-downplays-space-rider-test-mishap/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>ESA downplays Space Rider test mishap</description>
-</item>
-<item>
-<title>The attrition advantage: Why passive mobility is essential for resilient sensor architectures</title>
-<link>https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</link>
-<guid isPermaLink="true">https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>The modern battlefield has reached a dangerous tipping point. Our most expensive assets are now often our most vulnerable. For decades, United States defense strategy has relied on exquisite, stationary radar installations that delivered performance. But inexpensive drones and missiles can now threaten radar systems worth hundreds of millions of dollars, creating an increasingly unfavorable cost and survivability equation.</description>
-</item>
-<item>
-<title>The UK has finally nailed the vocabulary of orbital warfare. Now it needs a playbook.</title>
-<link>https://spacenews.com/the-uk-has-finally-nailed-the-vocabulary-of-orbital-warfare-now-it-needs-a-playbook/</link>
-<guid isPermaLink="true">https://spacenews.com/the-uk-has-finally-nailed-the-vocabulary-of-orbital-warfare-now-it-needs-a-playbook/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>The UK has finally nailed the vocabulary of orbital warfare. Now it needs a playbook.</description>
-</item>
-<item>
-<title>Flexell Space And Satoro Agree To Collaborate On In Orbit Demonstration Of Next Generation Space Solar Cells</title>
-<link>https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</link>
-<guid isPermaLink="true">https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Craft Prospect Kicks Off Perseus Project To Advance Optical Communications For Space</title>
-<link>https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</link>
-<guid isPermaLink="true">https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications for space appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Flexell Space Establishes French Subsidiary To Strengthen European Presence</title>
-<link>https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/</link>
-<guid isPermaLink="true">https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The post Flexell Space Establishes French Subsidiary to Strengthen European Presence appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites</title>
-<link>https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/</guid>
-<pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
-<description>SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […] The post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner</title>
@@ -217,6 +84,139 @@
 <guid isPermaLink="true">https://spacenews.com/opt-out-preferences/</guid>
 <pubDate>Thu, 29 Oct 2026 15:50:11 +0000</pubDate>
 <description>Opt Out Preferences</description>
+</item>
+<item>
+<title>Advice for optimizing the space industry with Laura Crabtree</title>
+<link>https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</link>
+<guid isPermaLink="true">https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</guid>
+<pubDate>Thu, 29 Oct 2026 15:01:09 +0000</pubDate>
+<description>In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […] The post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Vietnam signs the Artemis Accords</title>
+<link>https://spacenews.com/vietnam-signs-the-artemis-accords/</link>
+<guid isPermaLink="true">https://spacenews.com/vietnam-signs-the-artemis-accords/</guid>
+<pubDate>Thu, 29 Oct 2026 10:09:33 +0000</pubDate>
+<description>Vietnam is the latest country to sign the Artemis Accords, becoming the 78th country to do so in the past six years.</description>
+</item>
+<item>
+<title>Rendezvous Robotics raises $20 million for self-assembling spacecraft</title>
+<link>https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/</link>
+<guid isPermaLink="true">https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/</guid>
+<pubDate>Thu, 29 Oct 2026 09:15:07 +0000</pubDate>
+<description>Rendezvous Robotics has closed a $20 million funding round as it prepares for in-space demonstrations of technologies for self-assembling spacecraft.</description>
+</item>
+<item>
+<title>Seraphim seeking space startups for more intensive accelerator program</title>
+<link>https://spacenews.com/seraphim-seeking-space-startups-for-more-intensive-accelerator-program/</link>
+<guid isPermaLink="true">https://spacenews.com/seraphim-seeking-space-startups-for-more-intensive-accelerator-program/</guid>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<description>Space technology investor Seraphim announced a more intensive accelerator program for startups Oct. 29, outlining plans to invest $150,000 in 15 of them annually alongside up to 12 months of mentoring and networking support.</description>
+</item>
+<item>
+<title>Virgin Galactic rolls out new suborbital spaceplane</title>
+<link>https://spacenews.com/virgin-galactic-rolls-out-new-suborbital-spaceplane/</link>
+<guid isPermaLink="true">https://spacenews.com/virgin-galactic-rolls-out-new-suborbital-spaceplane/</guid>
+<pubDate>Thu, 29 Oct 2026 02:57:04 +0000</pubDate>
+<description>Virgin Galactic’s newest suborbital spaceplane arrived at the company’s New Mexico spaceport for flight tests as its first commercial flights slip further into 2027.</description>
+</item>
+<item>
+<title>Space Force missile-tracking satellite launch slips to 2027 as SDA reassesses acquisition approach</title>
+<link>https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</guid>
+<pubDate>Wed, 28 Oct 2026 22:32:27 +0000</pubDate>
+<description>Space Development Agency director Sandhoo calls for more technology demonstrations before larger production orders</description>
+</item>
+<item>
+<title>Launch executives warn Pentagon faces capacity crunch through 2030s</title>
+<link>https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</link>
+<guid isPermaLink="true">https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</guid>
+<pubDate>Wed, 28 Oct 2026 17:56:39 +0000</pubDate>
+<description>Military bet on commercial rockets faces new uncertainty as SpaceX shifts focus</description>
+</item>
+<item>
+<title>Boeing to be awarded sole-source deal worth up to $946 million to maintain military satellites</title>
+<link>https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</guid>
+<pubDate>Wed, 28 Oct 2026 16:51:31 +0000</pubDate>
+<description>Space Force says Boeing's proprietary technical data and software make a competitive procurement impractical</description>
+</item>
+<item>
+<title>Vulcan to return to flight in mid-November with first Amazon Leo mission</title>
+<link>https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</guid>
+<pubDate>Wed, 28 Oct 2026 16:39:04 +0000</pubDate>
+<description>United Launch Alliance plans to resume Vulcan launches in mid-November after a nine-month hiatus caused by a solid rocket booster anomaly.</description>
+</item>
+<item>
+<title>Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells</title>
+<link>https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</link>
+<guid isPermaLink="true">https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</guid>
+<pubDate>Wed, 28 Oct 2026 14:43:08 +0000</pubDate>
+<description>– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>The attrition advantage: Why passive mobility is essential for resilient sensor architectures</title>
+<link>https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</link>
+<guid isPermaLink="true">https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</guid>
+<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
+<description>The modern battlefield has reached a dangerous tipping point. Our most expensive assets are now often our most vulnerable. For decades, United States defense strategy has relied on exquisite, stationary radar installations that delivered performance. But inexpensive drones and missiles can now threaten radar systems worth hundreds of millions of dollars, creating an increasingly unfavorable cost and survivability equation.</description>
+</item>
+<item>
+<title>Blue Origin still pushing for return to flight of New Glenn this year</title>
+<link>https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</link>
+<guid isPermaLink="true">https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</guid>
+<pubDate>Wed, 28 Oct 2026 11:58:36 +0000</pubDate>
+<description>Blue Origin expects to have its rebuilt New Glenn launch pad ready by the first half of December to support a return to flight of the rocket this year.</description>
+</item>
+<item>
+<title>U.S. intelligence report publishes clear image of China’s secretive spaceplane</title>
+<link>https://spacenews.com/u-s-intelligence-report-publishes-clear-image-of-chinas-secretive-spaceplane/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-intelligence-report-publishes-clear-image-of-chinas-secretive-spaceplane/</guid>
+<pubDate>Wed, 28 Oct 2026 11:27:30 +0000</pubDate>
+<description>HELSINKI — A new U.S. intelligence report has published the first clear image of China’s reusable spaceplane in orbit, providing new specifics on the secretive spacecraft.</description>
+</item>
+<item>
+<title>NASA ultraviolet telescope mission passes key review</title>
+<link>https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</guid>
+<pubDate>Wed, 28 Oct 2026 11:06:04 +0000</pubDate>
+<description>An ultraviolet space telescope mission has cleared a major NASA review, although the project is dealing with uncertainties about launch and communications.</description>
+</item>
+<item>
+<title>Ukrainian startup, GomSpace test satellite for future communications network</title>
+<link>https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</link>
+<guid isPermaLink="true">https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</guid>
+<pubDate>Tue, 27 Oct 2026 20:21:30 +0000</pubDate>
+<description>The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>FCC clears Globalstar’s $11.5 billion sale to Amazon</title>
+<link>https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</link>
+<guid isPermaLink="true">https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</guid>
+<pubDate>Tue, 27 Oct 2026 19:18:19 +0000</pubDate>
+<description>The Federal Communications Commission has approved Amazon’s plans to buy U.S. satellite operator Globalstar for around $11.5 billion, clearing a key regulatory hurdle to fast-track its entry into the direct-to-device connectivity market.</description>
+</item>
+<item>
+<title>Craft Prospect kicks off PERSEUS project to advance optical communications for space</title>
+<link>https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</link>
+<guid isPermaLink="true">https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</guid>
+<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+<description>Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications for space appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Cowboy Space unveils launch vehicle for deploying its orbital data center constellation</title>
+<link>https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</guid>
+<pubDate>Tue, 27 Oct 2026 09:17:28 +0000</pubDate>
+<description>Cowboy Space has released details about the launch vehicle it is developing to deploy its proposed orbital data center constellation.</description>
+</item>
+<item>
+<title>China could field directed-energy weapons in orbit by late 2020s, U.S. intelligence says</title>
+<link>https://spacenews.com/china-could-field-directed-energy-weapons-in-orbit-by-late-2020s-u-s-intelligence-says/</link>
+<guid isPermaLink="true">https://spacenews.com/china-could-field-directed-energy-weapons-in-orbit-by-late-2020s-u-s-intelligence-says/</guid>
+<pubDate>Mon, 26 Oct 2026 22:54:55 +0000</pubDate>
+<description>New report from the Defense Intelligence Agency also details Russia's expanding anti-satellite arsenal</description>
 </item>
 </channel>
 </rss>
