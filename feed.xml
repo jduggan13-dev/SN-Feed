@@ -4,100 +4,212 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 28 Oct 2026 21:35:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 01:31:37 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Launch executives warn Pentagon faces capacity crunch through 2030s</title>
+<title>Space Force Missile Tracking Satellite Launch Slips To 2027 As Sda Reassesses Acquisition Approach</title>
+<link>https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Space Force Missile Tracking Satellite Launch Slips To 2027 As Sda Reassesses Acquisition Approach</description>
+</item>
+<item>
+<title>Oct. 29: Applying AI/SI to the GEOINT Mission</title>
+<link>https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/</link>
+<guid isPermaLink="true">https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Nov. 5: Satellite Mission Management at the Edge</title>
+<link>https://spacenews.com/satellite-mission-management-at-the-edge-event/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-mission-management-at-the-edge-event/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Launch Executives Warn Pentagon Faces Capacity Crunch Through 2030S</title>
 <link>https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</link>
 <guid isPermaLink="true">https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</guid>
-<pubDate>Wed, 28 Oct 2026 17:56:39 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
 <description>Military bet on commercial rockets faces new uncertainty as SpaceX shifts focus</description>
 </item>
 <item>
 <title>Boeing to be awarded sole-source deal worth up to $946 million to maintain military satellites</title>
 <link>https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</link>
 <guid isPermaLink="true">https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</guid>
-<pubDate>Wed, 28 Oct 2026 16:51:31 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
 <description>Space Force says Boeing's proprietary technical data and software make a competitive procurement impractical</description>
 </item>
 <item>
-<title>Vulcan to return to flight in mid-November with first Amazon Leo mission</title>
+<title>Vulcan To Return To Flight In Mid November With First Amazon Leo Mission</title>
 <link>https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</link>
 <guid isPermaLink="true">https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</guid>
-<pubDate>Wed, 28 Oct 2026 16:39:04 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
 <description>United Launch Alliance plans to resume Vulcan launches in mid-November after a nine-month hiatus caused by a solid rocket booster anomaly.</description>
-</item>
-<item>
-<title>Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells</title>
-<link>https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</link>
-<guid isPermaLink="true">https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</guid>
-<pubDate>Wed, 28 Oct 2026 14:43:08 +0000</pubDate>
-<description>– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […]</description>
 </item>
 <item>
 <title>The attrition advantage: Why passive mobility is essential for resilient sensor architectures</title>
 <link>https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</link>
 <guid isPermaLink="true">https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</guid>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
 <description>The modern battlefield has reached a dangerous tipping point. Our most expensive assets are now often our most vulnerable. For decades, United States defense strategy has relied on exquisite, stationary radar installations that delivered performance. But inexpensive drones and missiles can now threaten radar systems worth hundreds of millions of dollars, creating an increasingly unfavorable cost and survivability equation.</description>
 </item>
 <item>
-<title>Blue Origin still pushing for return to flight of New Glenn this year</title>
-<link>https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</link>
-<guid isPermaLink="true">https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</guid>
-<pubDate>Wed, 28 Oct 2026 11:58:36 +0000</pubDate>
-<description>Blue Origin expects to have its rebuilt New Glenn launch pad ready by the first half of December to support a return to flight of the rocket this year.</description>
+<title>Rethinking networks in space with Aalyria’s Brian Barritt</title>
+<link>https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/</link>
+<guid isPermaLink="true">https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>U.S. intelligence report publishes clear image of China’s secretive spaceplane</title>
 <link>https://spacenews.com/u-s-intelligence-report-publishes-clear-image-of-chinas-secretive-spaceplane/</link>
 <guid isPermaLink="true">https://spacenews.com/u-s-intelligence-report-publishes-clear-image-of-chinas-secretive-spaceplane/</guid>
-<pubDate>Wed, 28 Oct 2026 11:27:30 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
 <description>HELSINKI — A new U.S. intelligence report has published the first clear image of China’s reusable spaceplane in orbit, providing new specifics on the secretive spacecraft.</description>
-</item>
-<item>
-<title>NASA ultraviolet telescope mission passes key review</title>
-<link>https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</guid>
-<pubDate>Wed, 28 Oct 2026 11:06:04 +0000</pubDate>
-<description>An ultraviolet space telescope mission has cleared a major NASA review, although the project is dealing with uncertainties about launch and communications.</description>
 </item>
 <item>
 <title>Ukrainian startup, GomSpace test satellite for future communications network</title>
 <link>https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</link>
 <guid isPermaLink="true">https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/</guid>
-<pubDate>Tue, 27 Oct 2026 20:21:30 +0000</pubDate>
-<description>The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network</description>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Blue Origin Still Pushing For Return To Flight Of New Glenn This Year</title>
+<link>https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</link>
+<guid isPermaLink="true">https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Blue Origin expects to have its rebuilt New Glenn launch pad ready by the first half of December to support a return to flight of the rocket this year.</description>
 </item>
 <item>
 <title>FCC clears Globalstar’s $11.5 billion sale to Amazon</title>
 <link>https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</link>
 <guid isPermaLink="true">https://spacenews.com/fcc-clears-globalstars-11-5-billion-sale-to-amazon/</guid>
-<pubDate>Tue, 27 Oct 2026 19:18:19 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
 <description>The Federal Communications Commission has approved Amazon’s plans to buy U.S. satellite operator Globalstar for around $11.5 billion, clearing a key regulatory hurdle to fast-track its entry into the direct-to-device connectivity market.</description>
-</item>
-<item>
-<title>Craft Prospect kicks off PERSEUS project to advance optical communications for space</title>
-<link>https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</link>
-<guid isPermaLink="true">https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</guid>
-<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
-<description>Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […]</description>
-</item>
-<item>
-<title>Cowboy Space unveils launch vehicle for deploying its orbital data center constellation</title>
-<link>https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</guid>
-<pubDate>Tue, 27 Oct 2026 09:17:28 +0000</pubDate>
-<description>Cowboy Space has released details about the launch vehicle it is developing to deploy its proposed orbital data center constellation.</description>
 </item>
 <item>
 <title>China could field directed-energy weapons in orbit by late 2020s, U.S. intelligence says</title>
 <link>https://spacenews.com/china-could-field-directed-energy-weapons-in-orbit-by-late-2020s-u-s-intelligence-says/</link>
 <guid isPermaLink="true">https://spacenews.com/china-could-field-directed-energy-weapons-in-orbit-by-late-2020s-u-s-intelligence-says/</guid>
-<pubDate>Mon, 26 Oct 2026 22:54:55 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
 <description>New report from the Defense Intelligence Agency also details Russia's expanding anti-satellite arsenal</description>
+</item>
+<item>
+<title>Cowboy Space unveils launch vehicle for deploying its orbital data center constellation</title>
+<link>https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Cowboy Space has released details about the launch vehicle it is developing to deploy its proposed orbital data center constellation.</description>
+</item>
+<item>
+<title>Space Force Weighs New Spaceport For Heavy Launches By 2030</title>
+<link>https://spacenews.com/space-force-weighs-new-spaceport-for-heavy-launches-by-2030/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-weighs-new-spaceport-for-heavy-launches-by-2030/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Space Force Weighs New Spaceport For Heavy Launches By 2030</description>
+</item>
+<item>
+<title>Uzbekistan signs the Artemis Accords</title>
+<link>https://spacenews.com/uzbekistan-signs-the-artemis-accords/</link>
+<guid isPermaLink="true">https://spacenews.com/uzbekistan-signs-the-artemis-accords/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Uzbekistan signs the Artemis Accords</description>
+</item>
+<item>
+<title>Nasa Ultraviolet Telescope Mission Passes Key Review</title>
+<link>https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-ultraviolet-telescope-mission-passes-key-review/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>An ultraviolet space telescope mission has cleared a major NASA review, although the project is dealing with uncertainties about launch and communications.</description>
+</item>
+<item>
+<title>ESA downplays Space Rider test mishap</title>
+<link>https://spacenews.com/esa-downplays-space-rider-test-mishap/</link>
+<guid isPermaLink="true">https://spacenews.com/esa-downplays-space-rider-test-mishap/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>The European Space Agency acknowledged it lost a test article for its Space Rider spaceplane in a recent drop test but said the mishap would not significantly delay its development.</description>
+</item>
+<item>
+<title>The UK has finally nailed the vocabulary of orbital warfare. Now it needs a playbook.</title>
+<link>https://spacenews.com/the-uk-has-finally-nailed-the-vocabulary-of-orbital-warfare-now-it-needs-a-playbook/</link>
+<guid isPermaLink="true">https://spacenews.com/the-uk-has-finally-nailed-the-vocabulary-of-orbital-warfare-now-it-needs-a-playbook/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>The past year has changed how the British government talks about space. The Strategic Defence Review put space on par with land, sea and air as a warfighting domain. The Defence Investment Plan earmarked more than 3 billion pounds ($4 billion) for space over four years and named offensive and defensive space control without flinching. The UK Space Strategy, published in September, put defense and national security first. And at the UK Space Power Conference the Defence Secretary announced No. 3 Space Effects Squadron, the country’s first unit dedicated to the Control of Space mission, and spoke plainly about orbital warfare and counter-satellite weapons. After years in which the sector could barely say these things aloud, they are now being said clearly from the top.</description>
+</item>
+<item>
+<title>Turning capacity into capability: recommendations for America’s ground station infrastructure.</title>
+<link>https://spacenews.com/turning-capacity-into-capability-recommendations-for-americas-ground-station-infrastructure/</link>
+<guid isPermaLink="true">https://spacenews.com/turning-capacity-into-capability-recommendations-for-americas-ground-station-infrastructure/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>The commercial space industry is rapidly adding ground station capacity around the world. This collective investment will lower the cost of antenna access, increase supply and lower prices — but counterintuitively, more antenna capacity does not necessarily translate to capability across the diverse landscape of satellite operators and missions.</description>
+</item>
+<item>
+<title>Flexell Space And Satoro Agree To Collaborate On In Orbit Demonstration Of Next Generation Space Solar Cells</title>
+<link>https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</link>
+<guid isPermaLink="true">https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Craft Prospect Kicks Off Perseus Project To Advance Optical Communications For Space</title>
+<link>https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</link>
+<guid isPermaLink="true">https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications for space appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Flexell Space Establishes French Subsidiary To Strengthen European Presence</title>
+<link>https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/</link>
+<guid isPermaLink="true">https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The post Flexell Space Establishes French Subsidiary to Strengthen European Presence appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites</title>
+<link>https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […] The post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner</title>
+<link>https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/</link>
+<guid isPermaLink="true">https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Stellar Dispatch</title>
+<link>https://spacenews.com/stellar-dispatch/</link>
+<guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Stellar Dispatch</description>
+</item>
+<item>
+<title>Spacenews Terms Conditions</title>
+<link>https://spacenews.com/spacenews-terms-conditions/</link>
+<guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Spacenews Terms Conditions</description>
+</item>
+<item>
+<title>Opt Out Preferences</title>
+<link>https://spacenews.com/opt-out-preferences/</link>
+<guid isPermaLink="true">https://spacenews.com/opt-out-preferences/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Opt Out Preferences</description>
+</item>
+<item>
+<title>Accessibility Statement</title>
+<link>https://spacenews.com/accessibility-statement/</link>
+<guid isPermaLink="true">https://spacenews.com/accessibility-statement/</guid>
+<pubDate>Thu, 29 Oct 2026 01:31:37 +0000</pubDate>
+<description>Accessibility Statement</description>
 </item>
 <item>
 <title>Air Force recovers experimental military cargo from SpaceX Starfall capsule</title>
@@ -105,118 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/air-force-recovers-experimental-military-cargo-from-spacex-starfall-capsule/</guid>
 <pubDate>Mon, 26 Oct 2026 20:38:28 +0000</pubDate>
 <description>The recovery allows researchers to examine equipment that was exposed to the stresses of launch and atmospheric reentry.</description>
-</item>
-<item>
-<title>Pentagon backs Stoke Space launch expansion with $150 million loan commitment</title>
-<link>https://spacenews.com/pentagon-backs-stoke-space-launch-expansion-with-150-million-loan-commitment/</link>
-<guid isPermaLink="true">https://spacenews.com/pentagon-backs-stoke-space-launch-expansion-with-150-million-loan-commitment/</guid>
-<pubDate>Mon, 26 Oct 2026 20:18:38 +0000</pubDate>
-<description>Financing would support a second Cape Canaveral launchpad for the company's larger reusable rocket, scheduled to debut in 2029</description>
-</item>
-<item>
-<title>Flexell Space Establishes French Subsidiary to Strengthen European Presence</title>
-<link>https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/</link>
-<guid isPermaLink="true">https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/</guid>
-<pubDate>Mon, 26 Oct 2026 20:00:00 +0000</pubDate>
-<description>– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […]</description>
-</item>
-<item>
-<title>Former Tesla engineers raise $16 million for satellite battery startup</title>
-<link>https://spacenews.com/former-tesla-engineers-raise-16-million-for-satellite-battery-startup/</link>
-<guid isPermaLink="true">https://spacenews.com/former-tesla-engineers-raise-16-million-for-satellite-battery-startup/</guid>
-<pubDate>Mon, 26 Oct 2026 19:00:00 +0000</pubDate>
-<description>MP Space has raised $16 million in seed funding to scale production of its standardized satellite power and energy storage systems, the Australian startup founded by two former Tesla engineers announced Oct. 26.</description>
-</item>
-<item>
-<title>Space Force seeks commercial tech to modernize data networks and software</title>
-<link>https://spacenews.com/space-force-seeks-commercial-tech-to-modernize-data-networks-and-software/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-seeks-commercial-tech-to-modernize-data-networks-and-software/</guid>
-<pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
-<description>Battle Management, Command, Control, Communications and Space Intelligence, or BMC3I, is a $21 billion acquisition portfolio that the Space Force is looking to open up to new vendors</description>
-</item>
-<item>
-<title>Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites</title>
-<link>https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/</guid>
-<pubDate>Mon, 26 Oct 2026 13:00:00 +0000</pubDate>
-<description>SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […]</description>
-</item>
-<item>
-<title>The UK has finally nailed the vocabulary of orbital warfare. Now it needs a playbook.</title>
-<link>https://spacenews.com/the-uk-has-finally-nailed-the-vocabulary-of-orbital-warfare-now-it-needs-a-playbook/</link>
-<guid isPermaLink="true">https://spacenews.com/the-uk-has-finally-nailed-the-vocabulary-of-orbital-warfare-now-it-needs-a-playbook/</guid>
-<pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-<description>The past year has changed how the British government talks about space. The Strategic Defence Review put space on par with land, sea and air as a warfighting domain. The Defence Investment Plan earmarked more than 3 billion pounds ($4 billion) for space over four years and named offensive and defensive space control without flinching. The UK Space Strategy, published in September, put defense and national security first. And at the UK Space Power Conference the Defence Secretary announced No. 3 Space Effects Squadron, the country’s first unit dedicated to the Control of Space mission, and spoke plainly about orbital warfare and counter-satellite weapons. After years in which the sector could barely say these things aloud, they are now being said clearly from the top.</description>
-</item>
-<item>
-<title>ESA downplays Space Rider test mishap</title>
-<link>https://spacenews.com/esa-downplays-space-rider-test-mishap/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-downplays-space-rider-test-mishap/</guid>
-<pubDate>Sat, 24 Oct 2026 23:12:32 +0000</pubDate>
-<description>The European Space Agency acknowledged it lost a test article for its Space Rider spaceplane in a recent drop test but said the mishap would not significantly delay its development.</description>
-</item>
-<item>
-<title>Space Force shifts missile-warning, cislunar missions from Vulcan to Falcon Heavy</title>
-<link>https://spacenews.com/space-force-shifts-missile-warning-cislunar-missions-from-vulcan-to-spacex/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-shifts-missile-warning-cislunar-missions-from-vulcan-to-spacex/</guid>
-<pubDate>Sat, 24 Oct 2026 21:03:12 +0000</pubDate>
-<description>Three GPS launches, an SDA mission and two higher-energy missions moved from Vulcan to SpaceX rockets. ULA will receive later SpaceX payloads in return.</description>
-</item>
-<item>
-<title>NASA’s Swift space telescope ends mission</title>
-<link>https://spacenews.com/nasas-swift-space-telescope-ends-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/nasas-swift-space-telescope-ends-mission/</guid>
-<pubDate>Sat, 24 Oct 2026 21:02:03 +0000</pubDate>
-<description>NASA has shut down an astronomy spacecraft in a decaying orbit after a failed attempt to reboost it with a commercial spacecraft.</description>
-</item>
-<item>
-<title>China launches highly retrograde Yaogan-50 spy satellite, Long March 4B lofts six further Yaogan spacecraft</title>
-<link>https://spacenews.com/china-launches-highly-retrograde-yaogan-50-spy-satellite-long-march-4b-lofts-six-further-yaogan-spacecraft/</link>
-<guid isPermaLink="true">https://spacenews.com/china-launches-highly-retrograde-yaogan-50-spy-satellite-long-march-4b-lofts-six-further-yaogan-spacecraft/</guid>
-<pubDate>Sat, 24 Oct 2026 08:39:55 +0000</pubDate>
-<description>HELSINKI — China conducted a pair of launches Friday, first sending a new retrograde spy bird into orbit, and following up with two sets of Yaogan triplets.</description>
-</item>
-<item>
-<title>NASA keeps options open to preserve 2028 Artemis lunar landing</title>
-<link>https://spacenews.com/nasa-keeps-options-open-to-preserve-2028-artemis-lunar-landing/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-keeps-options-open-to-preserve-2028-artemis-lunar-landing/</guid>
-<pubDate>Fri, 23 Oct 2026 23:46:13 +0000</pubDate>
-<description>NASA officials say they are keeping open options regarding launch vehicles and landers to preserve a crewed lunar landing in 2028, even while noting Artemis 3 remains behind schedule.</description>
-</item>
-<item>
-<title>Space Force looks to build depth into its satellite-jamming arsenal</title>
-<link>https://spacenews.com/space-force-looks-to-build-depth-into-its-satellite-jamming-arsenal/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-looks-to-build-depth-into-its-satellite-jamming-arsenal/</guid>
-<pubDate>Fri, 23 Oct 2026 21:03:06 +0000</pubDate>
-<description>Lt. Gen. Gagnon says units need more equipment to absorb wartime losses</description>
-</item>
-<item>
-<title>Nov. 5: Satellite Mission Management at the Edge</title>
-<link>https://spacenews.com/satellite-mission-management-at-the-edge-event/</link>
-<guid isPermaLink="true">https://spacenews.com/satellite-mission-management-at-the-edge-event/</guid>
-<pubDate>Fri, 23 Oct 2026 19:53:25 +0000</pubDate>
-<description>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations</description>
-</item>
-<item>
-<title>ESA says Ariane 6 engine issues resolved</title>
-<link>https://spacenews.com/esa-says-ariane-6-engine-issues-resolved/</link>
-<guid isPermaLink="true">https://spacenews.com/esa-says-ariane-6-engine-issues-resolved/</guid>
-<pubDate>Fri, 23 Oct 2026 17:57:04 +0000</pubDate>
-<description>The European Space Agency says engine issues that have delayed Ariane 6 launches have been resolved as it continues to study ways to increase the vehicle’s flight rate.</description>
-</item>
-<item>
-<title>Pentagon looking past Earth orbit for its next military frontier</title>
-<link>https://spacenews.com/pentagon-looking-past-earth-orbit-for-its-next-military-frontier/</link>
-<guid isPermaLink="true">https://spacenews.com/pentagon-looking-past-earth-orbit-for-its-next-military-frontier/</guid>
-<pubDate>Fri, 23 Oct 2026 14:31:33 +0000</pubDate>
-<description>Military officials are describing the vast region between Earth and the moon as a future battlefield. The Space Force is starting to put acquisition plans behind the rhetoric.</description>
-</item>
-<item>
-<title>Turning capacity into capability: recommendations for America’s ground station infrastructure.</title>
-<link>https://spacenews.com/turning-capacity-into-capability-recommendations-for-americas-ground-station-infrastructure/</link>
-<guid isPermaLink="true">https://spacenews.com/turning-capacity-into-capability-recommendations-for-americas-ground-station-infrastructure/</guid>
-<pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
-<description>The commercial space industry is rapidly adding ground station capacity around the world. This collective investment will lower the cost of antenna access, increase supply and lower prices — but counterintuitively, more antenna capacity does not necessarily translate to capability across the diverse landscape of satellite operators and missions.</description>
 </item>
 </channel>
 </rss>
