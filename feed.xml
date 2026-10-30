@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 30 Oct 2026 00:35:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 06:47:09 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>SR-1 on track for late 2028 launch</title>
+<link>https://spacenews.com/sr-1-on-track-for-late-2028-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/sr-1-on-track-for-late-2028-launch/</guid>
+<pubDate>Fri, 30 Oct 2026 00:51:23 +0000</pubDate>
+<description>NASA officials a nuclear electric propulsion mission is still expected to launch in late 2028, despite limited details about its cost and schedule.</description>
+</item>
 <item>
 <title>Demand for satellite radar imagery prompts NRO to revisit contracting practices</title>
 <link>https://spacenews.com/demand-for-satellite-radar-imagery-prompts-nro-to-revisit-contracting-practices/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</guid>
 <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
 <description>Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications for space appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Cowboy Space unveils launch vehicle for deploying its orbital data center constellation</title>
-<link>https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</guid>
-<pubDate>Tue, 27 Oct 2026 09:17:28 +0000</pubDate>
-<description>Cowboy Space has released details about the launch vehicle it is developing to deploy its proposed orbital data center constellation.</description>
 </item>
 </channel>
 </rss>
