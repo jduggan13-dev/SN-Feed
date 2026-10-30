@@ -4,10 +4,52 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 30 Oct 2026 18:58:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:54:14 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NASA seeks ideas for Hubble servicing mission</title>
+<link>https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</guid>
+<pubDate>Fri, 30 Oct 2026 22:17:38 +0000</pubDate>
+<description>NASA is restarting a search for commercial missions to reboost or service the Hubble Space Telescope, more than two years after concluding existing options were too risky.</description>
+</item>
+<item>
+<title>Defense investors wary of Golden Dome revenue prospects as Pentagon pushes to cut costs</title>
+<link>https://spacenews.com/defense-investors-wary-of-golden-dome-revenue-prospects-as-pentagon-pushes-to-cut-costs/</link>
+<guid isPermaLink="true">https://spacenews.com/defense-investors-wary-of-golden-dome-revenue-prospects-as-pentagon-pushes-to-cut-costs/</guid>
+<pubDate>Fri, 30 Oct 2026 22:13:33 +0000</pubDate>
+<description>Executives cite political uncertainty, acquisition friction and the challenge of integrating existing military systems</description>
+</item>
+<item>
+<title>MDA Space gets initial contract to supply antennas for 66 IRIS² satellites</title>
+<link>https://spacenews.com/mda-space-gets-initial-contract-to-supply-antennas-for-66-iris%c2%b2-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/mda-space-gets-initial-contract-to-supply-antennas-for-66-iris%c2%b2-satellites/</guid>
+<pubDate>Fri, 30 Oct 2026 21:29:31 +0000</pubDate>
+<description>Canada’s MDA Space has an initial contract to provide antennas for the first 66 LEO satellites Thales Alenia Space aims to help deliver in 2029 for IRIS², Europe’s planned multi-orbit sovereign broadband network.</description>
+</item>
+<item>
+<title>Chinese reusable rocket developers reach structural and propulsion milestones</title>
+<link>https://spacenews.com/chinese-reusable-rocket-developers-reach-structural-and-propulsion-milestones/</link>
+<guid isPermaLink="true">https://spacenews.com/chinese-reusable-rocket-developers-reach-structural-and-propulsion-milestones/</guid>
+<pubDate>Fri, 30 Oct 2026 21:13:42 +0000</pubDate>
+<description>HELSINKI — Two Chinese commercial launch firms have passed key hardware milestones as they move toward inaugural flights of reusable launchers.</description>
+</item>
+<item>
+<title>India launches navigation satellite</title>
+<link>https://spacenews.com/india-launches-navigation-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/india-launches-navigation-satellite/</guid>
+<pubDate>Fri, 30 Oct 2026 21:11:55 +0000</pubDate>
+<description>India launched a satellite Oct. 30 intended to restore a regional navigation system, provided the satellite avoids the fate of its predecessor.</description>
+</item>
+<item>
+<title>DoJ urges federal judge to throw out Ligado’s $50 billion lawsuit</title>
+<link>https://spacenews.com/doj-urges-federal-judge-to-throw-out-ligados-50-billion-lawsuit/</link>
+<guid isPermaLink="true">https://spacenews.com/doj-urges-federal-judge-to-throw-out-ligados-50-billion-lawsuit/</guid>
+<pubDate>Fri, 30 Oct 2026 20:25:56 +0000</pubDate>
+<description>The U.S. Department of Justice has made another push to dismiss Ligado Networks’ roughly $50 billion lawsuit over its derailed wireless network plans, arguing the bankrupt satellite operator’s L-band license does not come with protected property rights.</description>
+</item>
 <item>
 <title>ESI supplying solar array components to missile defense programs</title>
 <link>https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/</link>
@@ -175,48 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</guid>
 <pubDate>Wed, 28 Oct 2026 22:32:27 +0000</pubDate>
 <description>Space Development Agency director Sandhoo calls for more technology demonstrations before larger production orders</description>
-</item>
-<item>
-<title>Launch executives warn Pentagon faces capacity crunch through 2030s</title>
-<link>https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</link>
-<guid isPermaLink="true">https://spacenews.com/launch-executives-warn-pentagon-faces-capacity-crunch-through-2030s/</guid>
-<pubDate>Wed, 28 Oct 2026 17:56:39 +0000</pubDate>
-<description>Military bet on commercial rockets faces new uncertainty as SpaceX shifts focus</description>
-</item>
-<item>
-<title>Boeing to be awarded sole-source deal worth up to $946 million to maintain military satellites</title>
-<link>https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/boeing-to-be-awarded-sole-source-deal-worth-up-to-946-million-to-maintain-military-satellites/</guid>
-<pubDate>Wed, 28 Oct 2026 16:51:31 +0000</pubDate>
-<description>Space Force says Boeing's proprietary technical data and software make a competitive procurement impractical</description>
-</item>
-<item>
-<title>Vulcan to return to flight in mid-November with first Amazon Leo mission</title>
-<link>https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/vulcan-to-return-to-flight-in-mid-november-with-first-amazon-leo-mission/</guid>
-<pubDate>Wed, 28 Oct 2026 16:39:04 +0000</pubDate>
-<description>United Launch Alliance plans to resume Vulcan launches in mid-November after a nine-month hiatus caused by a solid rocket booster anomaly.</description>
-</item>
-<item>
-<title>Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells</title>
-<link>https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</link>
-<guid isPermaLink="true">https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/</guid>
-<pubDate>Wed, 28 Oct 2026 14:43:08 +0000</pubDate>
-<description>– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […] The post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>The attrition advantage: Why passive mobility is essential for resilient sensor architectures</title>
-<link>https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</link>
-<guid isPermaLink="true">https://spacenews.com/the-attrition-advantage-why-passive-mobility-is-essential-for-resilient-sensor-architectures/</guid>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>The modern battlefield has reached a dangerous tipping point. Our most expensive assets are now often our most vulnerable. For decades, United States defense strategy has relied on exquisite, stationary radar installations that delivered performance. But inexpensive drones and missiles can now threaten radar systems worth hundreds of millions of dollars, creating an increasingly unfavorable cost and survivability equation.</description>
-</item>
-<item>
-<title>Blue Origin still pushing for return to flight of New Glenn this year</title>
-<link>https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</link>
-<guid isPermaLink="true">https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/</guid>
-<pubDate>Wed, 28 Oct 2026 11:58:36 +0000</pubDate>
-<description>Blue Origin expects to have its rebuilt New Glenn launch pad ready by the first half of December to support a return to flight of the rocket this year.</description>
 </item>
 </channel>
 </rss>
