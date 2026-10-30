@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 29 Oct 2026 20:51:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 00:35:43 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Demand for satellite radar imagery prompts NRO to revisit contracting practices</title>
+<link>https://spacenews.com/demand-for-satellite-radar-imagery-prompts-nro-to-revisit-contracting-practices/</link>
+<guid isPermaLink="true">https://spacenews.com/demand-for-satellite-radar-imagery-prompts-nro-to-revisit-contracting-practices/</guid>
+<pubDate>Thu, 29 Oct 2026 22:02:25 +0000</pubDate>
+<description>Intelligence agency weighing how to balance suppliers' financial needs with government priorities</description>
+</item>
 <item>
 <title>Former FCC adviser Courtney Reinhard to lead Space Bureau</title>
 <link>https://spacenews.com/former-fcc-adviser-courtney-reinhard-to-lead-space-bureau/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/</guid>
 <pubDate>Tue, 27 Oct 2026 09:17:28 +0000</pubDate>
 <description>Cowboy Space has released details about the launch vehicle it is developing to deploy its proposed orbital data center constellation.</description>
-</item>
-<item>
-<title>China could field directed-energy weapons in orbit by late 2020s, U.S. intelligence says</title>
-<link>https://spacenews.com/china-could-field-directed-energy-weapons-in-orbit-by-late-2020s-u-s-intelligence-says/</link>
-<guid isPermaLink="true">https://spacenews.com/china-could-field-directed-energy-weapons-in-orbit-by-late-2020s-u-s-intelligence-says/</guid>
-<pubDate>Mon, 26 Oct 2026 22:54:55 +0000</pubDate>
-<description>New report from the Defense Intelligence Agency also details Russia's expanding anti-satellite arsenal</description>
 </item>
 </channel>
 </rss>
