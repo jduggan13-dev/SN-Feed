@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 31 Oct 2026 19:42:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 23:04:06 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>China outlines uncrewed test campaign for buildup to crewed moon landing</title>
+<link>https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</link>
+<guid isPermaLink="true">https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</guid>
+<pubDate>Sat, 31 Oct 2026 21:01:27 +0000</pubDate>
+<description>HELSINKI — China will fly a standalone Lanyue lunar lander mission and a full-scale uncrewed landing rehearsal before attempting to land astronauts on the moon before 2030.</description>
+</item>
 <item>
 <title>New UK policy raises stakes for foreign bidders in military space market</title>
 <link>https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/seraphim-seeking-space-startups-for-more-intensive-accelerator-program/</guid>
 <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
 <description>Space technology investor Seraphim announced a more intensive accelerator program for startups Oct. 29, outlining plans to invest $150,000 in 15 of them annually alongside up to 12 months of mentoring and networking support.</description>
-</item>
-<item>
-<title>Virgin Galactic rolls out new suborbital spaceplane</title>
-<link>https://spacenews.com/virgin-galactic-rolls-out-new-suborbital-spaceplane/</link>
-<guid isPermaLink="true">https://spacenews.com/virgin-galactic-rolls-out-new-suborbital-spaceplane/</guid>
-<pubDate>Thu, 29 Oct 2026 02:57:04 +0000</pubDate>
-<description>Virgin Galactic’s newest suborbital spaceplane arrived at the company’s New Mexico spaceport for flight tests as its first commercial flights slip further into 2027.</description>
 </item>
 </channel>
 </rss>
