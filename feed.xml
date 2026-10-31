@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 31 Oct 2026 15:00:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 19:42:33 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>New UK policy raises stakes for foreign bidders in military space market</title>
+<link>https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</link>
+<guid isPermaLink="true">https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</guid>
+<pubDate>Sat, 31 Oct 2026 15:11:58 +0000</pubDate>
+<description>The new ‘offset’ policy could require overseas contractors to generate British industrial benefits worth up to the full value of major defense contracts, with space among the priority sectors</description>
+</item>
 <item>
 <title>NASA seeks ideas for Hubble servicing mission</title>
 <link>https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/virgin-galactic-rolls-out-new-suborbital-spaceplane/</guid>
 <pubDate>Thu, 29 Oct 2026 02:57:04 +0000</pubDate>
 <description>Virgin Galactic’s newest suborbital spaceplane arrived at the company’s New Mexico spaceport for flight tests as its first commercial flights slip further into 2027.</description>
-</item>
-<item>
-<title>Space Force missile-tracking satellite launch slips to 2027 as SDA reassesses acquisition approach</title>
-<link>https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-missile-tracking-satellite-launch-slips-to-2027-as-sda-reassesses-acquisition-approach/</guid>
-<pubDate>Wed, 28 Oct 2026 22:32:27 +0000</pubDate>
-<description>Space Development Agency director Sandhoo calls for more technology demonstrations before larger production orders</description>
 </item>
 </channel>
 </rss>
