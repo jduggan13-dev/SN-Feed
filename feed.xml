@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sun, 01 Nov 2026 11:40:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 17:37:57 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google runs AI model on satellite chip, advancing orbital data center ambitions</title>
+<link>https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</link>
+<guid isPermaLink="true">https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</guid>
+<pubDate>Sun, 01 Nov 2026 13:26:25 +0000</pubDate>
+<description>Spacecraft built by Planet Labs demonstrates Google's data-center processor in orbit</description>
+</item>
 <item>
 <title>Cape pressing ahead with spaceport upgrades despite near-term launch downturn</title>
 <link>https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/vietnam-signs-the-artemis-accords/</guid>
 <pubDate>Thu, 29 Oct 2026 10:09:33 +0000</pubDate>
 <description>Vietnam is the latest country to sign the Artemis Accords, becoming the 78th country to do so in the past six years.</description>
-</item>
-<item>
-<title>Rendezvous Robotics raises $20 million for self-assembling spacecraft</title>
-<link>https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/</link>
-<guid isPermaLink="true">https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/</guid>
-<pubDate>Thu, 29 Oct 2026 09:15:07 +0000</pubDate>
-<description>Rendezvous Robotics has closed a $20 million funding round as it prepares for in-space demonstrations of technologies for self-assembling spacecraft.</description>
 </item>
 </channel>
 </rss>
