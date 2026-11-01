@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 31 Oct 2026 23:04:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 04:20:45 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cape pressing ahead with spaceport upgrades despite near-term launch downturn</title>
+<link>https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</link>
+<guid isPermaLink="true">https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</guid>
+<pubDate>Sat, 31 Oct 2026 23:16:28 +0000</pubDate>
+<description>Despite a downturn in launches from Cape Canaveral this year, the Space Force is continues work to support much higher launch rates, including assigning another launch site to Blue Origin.</description>
+</item>
 <item>
 <title>China outlines uncrewed test campaign for buildup to crewed moon landing</title>
 <link>https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/rendezvous-robotics-raises-20-million-for-self-assembling-spacecraft/</guid>
 <pubDate>Thu, 29 Oct 2026 09:15:07 +0000</pubDate>
 <description>Rendezvous Robotics has closed a $20 million funding round as it prepares for in-space demonstrations of technologies for self-assembling spacecraft.</description>
-</item>
-<item>
-<title>Seraphim seeking space startups for more intensive accelerator program</title>
-<link>https://spacenews.com/seraphim-seeking-space-startups-for-more-intensive-accelerator-program/</link>
-<guid isPermaLink="true">https://spacenews.com/seraphim-seeking-space-startups-for-more-intensive-accelerator-program/</guid>
-<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
-<description>Space technology investor Seraphim announced a more intensive accelerator program for startups Oct. 29, outlining plans to invest $150,000 in 15 of them annually alongside up to 12 months of mentoring and networking support.</description>
 </item>
 </channel>
 </rss>
