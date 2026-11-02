@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 02 Nov 2026 17:41:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 19:10:06 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Europe looks beyond the ISS</title>
+<link>https://spacenews.com/europe-looks-beyond-the-iss/</link>
+<guid isPermaLink="true">https://spacenews.com/europe-looks-beyond-the-iss/</guid>
+<pubDate>Mon, 02 Nov 2026 18:51:03 +0000</pubDate>
+<description>European Space Agency member states will meet in Rome Dec. 15 to decide the future of Europe’s human and robotic exploration program. The meeting breaks with ESA’s usual three-year ministerial cycle, giving ministers an earlier opportunity to respond to the approaching end of the ISS and growing calls for Europe to secure a more autonomous role in human spaceflight and exploration.</description>
+</item>
+<item>
+<title>Spy satellite designs could change as AI takes on more intelligence analysis</title>
+<link>https://spacenews.com/spy-satellite-designs-could-change-as-ai-takes-on-more-intelligence-analysis/</link>
+<guid isPermaLink="true">https://spacenews.com/spy-satellite-designs-could-change-as-ai-takes-on-more-intelligence-analysis/</guid>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+<description>An NRO official suggests building satellites to meet the needs of algorithms could make larger constellations more affordable</description>
+</item>
 <item>
 <title>Sn Media Kit</title>
 <link>https://spacenews.com/sn-media-kit/</link>
@@ -16,53 +30,11 @@
 <description>Sn Media Kit</description>
 </item>
 <item>
-<title>Computer And Gyro Problems Likely Caused Loss Of Maven</title>
-<link>https://spacenews.com/computer-and-gyro-problems-likely-caused-loss-of-maven/</link>
-<guid isPermaLink="true">https://spacenews.com/computer-and-gyro-problems-likely-caused-loss-of-maven/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Computer And Gyro Problems Likely Caused Loss Of Maven</description>
-</item>
-<item>
-<title>How to Expand Reliable, Flexible Access to Space</title>
-<link>https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</link>
-<guid isPermaLink="true">https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews .</description>
-</item>
-<item>
 <title>Nov. 5: Satellite Mission Management at the Edge</title>
 <link>https://spacenews.com/satellite-mission-management-at-the-edge-event/</link>
 <guid isPermaLink="true">https://spacenews.com/satellite-mission-management-at-the-edge-event/</guid>
 <pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
 <description>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Vantor Cuts Satellite Imagery Delivery Time To Seven Minutes In Ukraine Test</title>
-<link>https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</link>
-<guid isPermaLink="true">https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Vantor Cuts Satellite Imagery Delivery Time To Seven Minutes In Ukraine Test</description>
-</item>
-<item>
-<title>Hardware For Chinas Crewed Moon Program Spotted Near Wenchang Spaceport</title>
-<link>https://spacenews.com/hardware-for-chinas-crewed-moon-program-spotted-near-wenchang-spaceport/</link>
-<guid isPermaLink="true">https://spacenews.com/hardware-for-chinas-crewed-moon-program-spotted-near-wenchang-spaceport/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Hardware For Chinas Crewed Moon Program Spotted Near Wenchang Spaceport</description>
-</item>
-<item>
-<title>Space Forces Commercial Satellite Push Draws Criticism Over Slow Pace</title>
-<link>https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</link>
-<guid isPermaLink="true">https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Space Forces Commercial Satellite Push Draws Criticism Over Slow Pace</description>
-</item>
-<item>
-<title>Voyager Names Former Space Force Chief Saltzman To Lead Advisory Board</title>
-<link>https://spacenews.com/voyager-names-former-space-force-chief-saltzman-to-lead-advisory-board/</link>
-<guid isPermaLink="true">https://spacenews.com/voyager-names-former-space-force-chief-saltzman-to-lead-advisory-board/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Voyager Names Former Space Force Chief Saltzman To Lead Advisory Board</description>
 </item>
 <item>
 <title>Advice For Optimizing The Space Industry With Laura Crabtree</title>
@@ -77,97 +49,6 @@
 <guid isPermaLink="true">https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/</guid>
 <pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
 <description>In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>China Outlines Uncrewed Test Campaign For Buildup To Crewed Moon Landing</title>
-<link>https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</link>
-<guid isPermaLink="true">https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>HELSINKI — China will fly a standalone Lanyue lunar lander mission and a full-scale uncrewed landing rehearsal before attempting to land astronauts on the moon before 2030.</description>
-</item>
-<item>
-<title>Amazons Launch Gamble Reaches A Turning Point</title>
-<link>https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</link>
-<guid isPermaLink="true">https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Amazons Launch Gamble Reaches A Turning Point</description>
-</item>
-<item>
-<title>Cape Pressing Ahead With Spaceport Upgrades Despite Near Term Launch Downturn</title>
-<link>https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</link>
-<guid isPermaLink="true">https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Despite a downturn in launches from Cape Canaveral this year, the Space Force is continues work to support much higher launch rates, including assigning another launch site to Blue Origin.</description>
-</item>
-<item>
-<title>Google runs AI model on satellite chip, advancing orbital data center ambitions</title>
-<link>https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</link>
-<guid isPermaLink="true">https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Spacecraft built by Planet Labs demonstrates Google's data-center processor in orbit</description>
-</item>
-<item>
-<title>Northwood Space Raises 375 Million To Expand Satellite Antenna Network</title>
-<link>https://spacenews.com/northwood-space-raises-375-million-to-expand-satellite-antenna-network/</link>
-<guid isPermaLink="true">https://spacenews.com/northwood-space-raises-375-million-to-expand-satellite-antenna-network/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Northwood Space Raises 375 Million To Expand Satellite Antenna Network</description>
-</item>
-<item>
-<title>New UK policy raises stakes for foreign bidders in military space market</title>
-<link>https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</link>
-<guid isPermaLink="true">https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>The new ‘offset’ policy could require overseas contractors to generate British industrial benefits worth up to the full value of major defense contracts, with space among the priority sectors</description>
-</item>
-<item>
-<title>Chinese reusable rocket developers reach structural and propulsion milestones</title>
-<link>https://spacenews.com/chinese-reusable-rocket-developers-reach-structural-and-propulsion-milestones/</link>
-<guid isPermaLink="true">https://spacenews.com/chinese-reusable-rocket-developers-reach-structural-and-propulsion-milestones/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>HELSINKI — Two Chinese commercial launch firms have passed key hardware milestones as they move toward inaugural flights of reusable launchers.</description>
-</item>
-<item>
-<title>Midterm Election To Test Bipartisan Support For Nasa</title>
-<link>https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</link>
-<guid isPermaLink="true">https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Midterm Election To Test Bipartisan Support For Nasa</description>
-</item>
-<item>
-<title>What’s at stake for military space in midterm elections</title>
-<link>https://spacenews.com/whats-at-stake-for-military-space-in-midterm-elections/</link>
-<guid isPermaLink="true">https://spacenews.com/whats-at-stake-for-military-space-in-midterm-elections/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Space Force spending surge and Golden Dome missile defense plans face uncertain futures as voters decide control of Congress</description>
-</item>
-<item>
-<title>NASA seeks ideas for Hubble servicing mission</title>
-<link>https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>NASA is restarting a search for commercial missions to reboost or service the Hubble Space Telescope, more than two years after concluding existing options were too risky.</description>
-</item>
-<item>
-<title>Private Companies Should Not Decide The Course Of War</title>
-<link>https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</link>
-<guid isPermaLink="true">https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Private Companies Should Not Decide The Course Of War</description>
-</item>
-<item>
-<title>America needs a Space Academy for the space age</title>
-<link>https://spacenews.com/america-needs-a-space-academy-for-the-space-age/</link>
-<guid isPermaLink="true">https://spacenews.com/america-needs-a-space-academy-for-the-space-age/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>The United States is moving its space activity outward, from low Earth orbit to the moon, cislunar space and beyond. Rockets and spacecraft are the visible part of that expansion. The harder problem is people. The country needs leaders who can run an enterprise that grows more complicated every year, and a U.S. Space Academy would help supply them.</description>
-</item>
-<item>
-<title>Esi Supplying Solar Array Components To Missile Defense Programs</title>
-<link>https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/</guid>
-<pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
-<description>Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […] The post ESI supplying solar array components to missile defense programs appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Flexell Space And Satoro Agree To Collaborate On In Orbit Demonstration Of Next Generation Space Solar Cells</title>
@@ -217,6 +98,125 @@
 <guid isPermaLink="true">https://spacenews.com/opt-out-preferences/</guid>
 <pubDate>Mon, 02 Nov 2026 17:41:36 +0000</pubDate>
 <description>Opt Out Preferences</description>
+</item>
+<item>
+<title>Computer and gyro problems likely caused loss of MAVEN</title>
+<link>https://spacenews.com/computer-and-gyro-problems-likely-caused-loss-of-maven/</link>
+<guid isPermaLink="true">https://spacenews.com/computer-and-gyro-problems-likely-caused-loss-of-maven/</guid>
+<pubDate>Mon, 02 Nov 2026 17:12:05 +0000</pubDate>
+<description>A computer glitch and a faulty gyro likely caused the loss of a NASA Mars orbiter nearly a year ago, an agency investigation concluded.</description>
+</item>
+<item>
+<title>Vantor cuts satellite imagery delivery time to seven minutes in Ukraine test</title>
+<link>https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</link>
+<guid isPermaLink="true">https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</guid>
+<pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
+<description>Executives from Vantor, BlackSky forecast growing demand for rapid intelligence and sovereign satellites</description>
+</item>
+<item>
+<title>Hardware for China’s crewed moon program spotted near Wenchang spaceport</title>
+<link>https://spacenews.com/hardware-for-chinas-crewed-moon-program-spotted-near-wenchang-spaceport/</link>
+<guid isPermaLink="true">https://spacenews.com/hardware-for-chinas-crewed-moon-program-spotted-near-wenchang-spaceport/</guid>
+<pubDate>Mon, 02 Nov 2026 15:50:15 +0000</pubDate>
+<description>HELSINKI — Hardware for a crucial first flight test of a launch vehicle and spacecraft for China’s crewed lunar program appears to have arrived at Wenchang spaceport.</description>
+</item>
+<item>
+<title>Space Force’s commercial satellite push draws criticism over slow pace</title>
+<link>https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</link>
+<guid isPermaLink="true">https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</guid>
+<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+<description>Executives warn that small initial orders and lengthy deployment timelines could undermine the cost savings promised by the RG-XX surveillance program</description>
+</item>
+<item>
+<title>Voyager names former Space Force chief Saltzman to lead advisory board</title>
+<link>https://spacenews.com/voyager-names-former-space-force-chief-saltzman-to-lead-advisory-board/</link>
+<guid isPermaLink="true">https://spacenews.com/voyager-names-former-space-force-chief-saltzman-to-lead-advisory-board/</guid>
+<pubDate>Mon, 02 Nov 2026 14:26:20 +0000</pubDate>
+<description>Appointment comes as Voyager seeks to expand its national security space business</description>
+</item>
+<item>
+<title>Private companies should not decide the course of war</title>
+<link>https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</link>
+<guid isPermaLink="true">https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</guid>
+<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+<description>Decisions about war and peace in a democracy should rest with elected leaders and duly authorized government officials — not with private individuals who happen to control critical military technologies.</description>
+</item>
+<item>
+<title>How to Expand Reliable, Flexible Access to Space</title>
+<link>https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</link>
+<guid isPermaLink="true">https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</guid>
+<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+<description>The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Midterm election to test bipartisan support for NASA</title>
+<link>https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</link>
+<guid isPermaLink="true">https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</guid>
+<pubDate>Mon, 02 Nov 2026 12:54:21 +0000</pubDate>
+<description>A change in party control of Congress after the midterm elections may put to the test the longstanding bipartisan nature of civil space policy.</description>
+</item>
+<item>
+<title>Amazon’s launch gamble reaches a turning point</title>
+<link>https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</link>
+<guid isPermaLink="true">https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</guid>
+<pubDate>Mon, 02 Nov 2026 12:30:00 +0000</pubDate>
+<description>The tide could be turning for Amazon’s multibillion-dollar bet on mostly new rockets to roll out the first major competitor to Starlink, SpaceX’s colossal broadband network with more than 11,000 satellites in low Earth orbit (LEO).</description>
+</item>
+<item>
+<title>Northwood Space raises $375 million to expand satellite antenna network</title>
+<link>https://spacenews.com/northwood-space-raises-375-million-to-expand-satellite-antenna-network/</link>
+<guid isPermaLink="true">https://spacenews.com/northwood-space-raises-375-million-to-expand-satellite-antenna-network/</guid>
+<pubDate>Mon, 02 Nov 2026 10:30:00 +0000</pubDate>
+<description>The California startup anticipates growing demand for ground infrastructure to communicate with spacecraft</description>
+</item>
+<item>
+<title>Google runs AI model on satellite chip, advancing orbital data center ambitions</title>
+<link>https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</link>
+<guid isPermaLink="true">https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</guid>
+<pubDate>Sun, 01 Nov 2026 13:26:25 +0000</pubDate>
+<description>Spacecraft built by Planet Labs demonstrates Google's data-center processor in orbit</description>
+</item>
+<item>
+<title>Cape pressing ahead with spaceport upgrades despite near-term launch downturn</title>
+<link>https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</link>
+<guid isPermaLink="true">https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</guid>
+<pubDate>Sat, 31 Oct 2026 23:16:28 +0000</pubDate>
+<description>Despite a downturn in launches from Cape Canaveral this year, the Space Force is continues work to support much higher launch rates, including assigning another launch site to Blue Origin.</description>
+</item>
+<item>
+<title>China outlines uncrewed test campaign for buildup to crewed moon landing</title>
+<link>https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</link>
+<guid isPermaLink="true">https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</guid>
+<pubDate>Sat, 31 Oct 2026 21:01:27 +0000</pubDate>
+<description>HELSINKI — China will fly a standalone Lanyue lunar lander mission and a full-scale uncrewed landing rehearsal before attempting to land astronauts on the moon before 2030.</description>
+</item>
+<item>
+<title>New UK policy raises stakes for foreign bidders in military space market</title>
+<link>https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</link>
+<guid isPermaLink="true">https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</guid>
+<pubDate>Sat, 31 Oct 2026 15:11:58 +0000</pubDate>
+<description>The new ‘offset’ policy could require overseas contractors to generate British industrial benefits worth up to the full value of major defense contracts, with space among the priority sectors</description>
+</item>
+<item>
+<title>NASA seeks ideas for Hubble servicing mission</title>
+<link>https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</guid>
+<pubDate>Fri, 30 Oct 2026 22:17:38 +0000</pubDate>
+<description>NASA is restarting a search for commercial missions to reboost or service the Hubble Space Telescope, more than two years after concluding existing options were too risky.</description>
+</item>
+<item>
+<title>Defense investors wary of Golden Dome revenue prospects as Pentagon pushes to cut costs</title>
+<link>https://spacenews.com/defense-investors-wary-of-golden-dome-revenue-prospects-as-pentagon-pushes-to-cut-costs/</link>
+<guid isPermaLink="true">https://spacenews.com/defense-investors-wary-of-golden-dome-revenue-prospects-as-pentagon-pushes-to-cut-costs/</guid>
+<pubDate>Fri, 30 Oct 2026 22:13:33 +0000</pubDate>
+<description>Executives cite political uncertainty, acquisition friction and the challenge of integrating existing military systems</description>
+</item>
+<item>
+<title>MDA Space gets initial contract to supply antennas for 66 IRIS² satellites</title>
+<link>https://spacenews.com/mda-space-gets-initial-contract-to-supply-antennas-for-66-iris%c2%b2-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/mda-space-gets-initial-contract-to-supply-antennas-for-66-iris%c2%b2-satellites/</guid>
+<pubDate>Fri, 30 Oct 2026 21:29:31 +0000</pubDate>
+<description>Canada’s MDA Space has an initial contract to provide antennas for the first 66 LEO satellites Thales Alenia Space aims to help deliver in 2029 for IRIS², Europe’s planned multi-orbit sovereign broadband network.</description>
 </item>
 </channel>
 </rss>
