@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 03 Nov 2026 17:31:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 22:53:33 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>China’s Star Vision to build AI constellation for Oman</title>
+<link>https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</link>
+<guid isPermaLink="true">https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</guid>
+<pubDate>Tue, 03 Nov 2026 22:36:10 +0000</pubDate>
+<description>HELSINKI — Chinese commercial firm Star Vision has signed agreements to develop, launch and operate an AI-enabled constellation for Oman.</description>
+</item>
 <item>
 <title>Voyager satisfied with Astrobotic acquisition ahead of Griffin-1 launch</title>
 <link>https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</guid>
 <pubDate>Mon, 02 Nov 2026 12:54:21 +0000</pubDate>
 <description>A change in party control of Congress after the midterm elections may put to the test the longstanding bipartisan nature of civil space policy.</description>
-</item>
-<item>
-<title>Amazon’s launch gamble reaches a turning point</title>
-<link>https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</link>
-<guid isPermaLink="true">https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</guid>
-<pubDate>Mon, 02 Nov 2026 12:30:00 +0000</pubDate>
-<description>The tide could be turning for Amazon’s multibillion-dollar bet on mostly new rockets to roll out the first major competitor to Starlink, SpaceX’s colossal broadband network with more than 11,000 satellites in low Earth orbit (LEO).</description>
 </item>
 </channel>
 </rss>
