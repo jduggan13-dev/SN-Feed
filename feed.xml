@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 02 Nov 2026 19:10:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:59:31 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hydrosat announces new thermal imaging program for European defense customers</title>
+<link>https://spacenews.com/hydrosat-announces-new-thermal-imaging-program-for-european-defense-customers/</link>
+<guid isPermaLink="true">https://spacenews.com/hydrosat-announces-new-thermal-imaging-program-for-european-defense-customers/</guid>
+<pubDate>Mon, 02 Nov 2026 20:55:51 +0000</pubDate>
+<description>JOHANNESBURG — Thermal imaging company Hydrosat announced a new high-resolution midwave infrared imaging program that will provide tactical intelligence, surveillance and reconnaissance capabilities for European governments and allied defense customers.</description>
+</item>
 <item>
 <title>Europe looks beyond the ISS</title>
 <link>https://spacenews.com/europe-looks-beyond-the-iss/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/defense-investors-wary-of-golden-dome-revenue-prospects-as-pentagon-pushes-to-cut-costs/</guid>
 <pubDate>Fri, 30 Oct 2026 22:13:33 +0000</pubDate>
 <description>Executives cite political uncertainty, acquisition friction and the challenge of integrating existing military systems</description>
-</item>
-<item>
-<title>MDA Space gets initial contract to supply antennas for 66 IRIS² satellites</title>
-<link>https://spacenews.com/mda-space-gets-initial-contract-to-supply-antennas-for-66-iris%c2%b2-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/mda-space-gets-initial-contract-to-supply-antennas-for-66-iris%c2%b2-satellites/</guid>
-<pubDate>Fri, 30 Oct 2026 21:29:31 +0000</pubDate>
-<description>Canada’s MDA Space has an initial contract to provide antennas for the first 66 LEO satellites Thales Alenia Space aims to help deliver in 2029 for IRIS², Europe’s planned multi-orbit sovereign broadband network.</description>
 </item>
 </channel>
 </rss>
