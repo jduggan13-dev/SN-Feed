@@ -4,10 +4,59 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 03 Nov 2026 09:24:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 17:31:36 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Voyager satisfied with Astrobotic acquisition ahead of Griffin-1 launch</title>
+<link>https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</guid>
+<pubDate>Tue, 03 Nov 2026 17:08:33 +0000</pubDate>
+<description>Voyager Technologies says it is pleased with its acquisition of lunar lander developer Astrobotic as the company prepares for the launch of its next mission.</description>
+</item>
+<item>
+<title>Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution</title>
+<link>https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</link>
+<guid isPermaLink="true">https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</guid>
+<pubDate>Tue, 03 Nov 2026 16:59:43 +0000</pubDate>
+<description>Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […]</description>
+</item>
+<item>
+<title>DETUMBLER: Airbus’ Passive Spin Stabilization Solution</title>
+<link>https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</link>
+<guid isPermaLink="true">https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</guid>
+<pubDate>Tue, 03 Nov 2026 13:30:00 +0000</pubDate>
+<description>The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […]</description>
+</item>
+<item>
+<title>Electron nears century mark with iQPS launch</title>
+<link>https://spacenews.com/electron-nears-century-mark-with-iqps-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/electron-nears-century-mark-with-iqps-launch/</guid>
+<pubDate>Tue, 03 Nov 2026 12:40:33 +0000</pubDate>
+<description>A Rocket Lab Electron rocket successfully launched a radar-imaging satellite for a Japanese company as the vehicle nears its 100th mission.</description>
+</item>
+<item>
+<title>The 2028 Imperative: NOAA’s commercial weather data ambitions hinge on funding</title>
+<link>https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</link>
+<guid isPermaLink="true">https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</guid>
+<pubDate>Tue, 03 Nov 2026 12:02:00 +0000</pubDate>
+<description>Commercial weather satellite operators are watching the National Oceanic and Atmospheric Administration’s 2028 budget request for signs the agency is prepared to expand its purchases of commercial data.</description>
+</item>
+<item>
+<title>The 2028 Imperative: NASA’s 2028 crunch for Artemis, SR-1 and robotic lunar landings</title>
+<link>https://spacenews.com/race-to-2028-nasas-2028-crunch-for-artemis-sr-1-and-robotic-lunar-landings/</link>
+<guid isPermaLink="true">https://spacenews.com/race-to-2028-nasas-2028-crunch-for-artemis-sr-1-and-robotic-lunar-landings/</guid>
+<pubDate>Tue, 03 Nov 2026 12:01:00 +0000</pubDate>
+<description>During his first few months as NASA administrator, Jared Isaacman shook up many of the agency’s key programs. In February, he announced that Artemis 3 — expected to be the first crewed landing attempt on the moon since 1972 — would instead be a test flight in low Earth orbit involving Orion and two lunar landers in mid-2027. It would, though, set up two landing attempts on the moon in 2028 on Artemis 4 and 5.</description>
+</item>
+<item>
+<title>The 2028 imperative: A ‘show-me’ year for military space programs</title>
+<link>https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</link>
+<guid isPermaLink="true">https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</guid>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<description>From orbital missile interceptors to satellites tracking enemy aircraft, the military is racing to turn ambitious concepts into working systems.</description>
+</item>
 <item>
 <title>Hydrosat announces new thermal imaging program for European defense customers</title>
 <link>https://spacenews.com/hydrosat-announces-new-thermal-imaging-program-for-european-defense-customers/</link>
@@ -168,55 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</guid>
 <pubDate>Mon, 02 Nov 2026 12:30:00 +0000</pubDate>
 <description>The tide could be turning for Amazon’s multibillion-dollar bet on mostly new rockets to roll out the first major competitor to Starlink, SpaceX’s colossal broadband network with more than 11,000 satellites in low Earth orbit (LEO).</description>
-</item>
-<item>
-<title>Northwood Space raises $375 million to expand satellite antenna network</title>
-<link>https://spacenews.com/northwood-space-raises-375-million-to-expand-satellite-antenna-network/</link>
-<guid isPermaLink="true">https://spacenews.com/northwood-space-raises-375-million-to-expand-satellite-antenna-network/</guid>
-<pubDate>Mon, 02 Nov 2026 10:30:00 +0000</pubDate>
-<description>The California startup anticipates growing demand for ground infrastructure to communicate with spacecraft</description>
-</item>
-<item>
-<title>Google runs AI model on satellite chip, advancing orbital data center ambitions</title>
-<link>https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</link>
-<guid isPermaLink="true">https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/</guid>
-<pubDate>Sun, 01 Nov 2026 13:26:25 +0000</pubDate>
-<description>Spacecraft built by Planet Labs demonstrates Google's data-center processor in orbit</description>
-</item>
-<item>
-<title>Cape pressing ahead with spaceport upgrades despite near-term launch downturn</title>
-<link>https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</link>
-<guid isPermaLink="true">https://spacenews.com/cape-pressing-ahead-with-spaceport-upgrades-despite-near-term-launch-downturn/</guid>
-<pubDate>Sat, 31 Oct 2026 23:16:28 +0000</pubDate>
-<description>Despite a downturn in launches from Cape Canaveral this year, the Space Force is continues work to support much higher launch rates, including assigning another launch site to Blue Origin.</description>
-</item>
-<item>
-<title>China outlines uncrewed test campaign for buildup to crewed moon landing</title>
-<link>https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</link>
-<guid isPermaLink="true">https://spacenews.com/china-outlines-uncrewed-test-campaign-for-buildup-to-crewed-moon-landing/</guid>
-<pubDate>Sat, 31 Oct 2026 21:01:27 +0000</pubDate>
-<description>HELSINKI — China will fly a standalone Lanyue lunar lander mission and a full-scale uncrewed landing rehearsal before attempting to land astronauts on the moon before 2030.</description>
-</item>
-<item>
-<title>New UK policy raises stakes for foreign bidders in military space market</title>
-<link>https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</link>
-<guid isPermaLink="true">https://spacenews.com/new-uk-policy-raises-stakes-for-foreign-bidders-in-military-space-market/</guid>
-<pubDate>Sat, 31 Oct 2026 15:11:58 +0000</pubDate>
-<description>The new ‘offset’ policy could require overseas contractors to generate British industrial benefits worth up to the full value of major defense contracts, with space among the priority sectors</description>
-</item>
-<item>
-<title>NASA seeks ideas for Hubble servicing mission</title>
-<link>https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-seeks-ideas-for-hubble-servicing-mission/</guid>
-<pubDate>Fri, 30 Oct 2026 22:17:38 +0000</pubDate>
-<description>NASA is restarting a search for commercial missions to reboost or service the Hubble Space Telescope, more than two years after concluding existing options were too risky.</description>
-</item>
-<item>
-<title>Defense investors wary of Golden Dome revenue prospects as Pentagon pushes to cut costs</title>
-<link>https://spacenews.com/defense-investors-wary-of-golden-dome-revenue-prospects-as-pentagon-pushes-to-cut-costs/</link>
-<guid isPermaLink="true">https://spacenews.com/defense-investors-wary-of-golden-dome-revenue-prospects-as-pentagon-pushes-to-cut-costs/</guid>
-<pubDate>Fri, 30 Oct 2026 22:13:33 +0000</pubDate>
-<description>Executives cite political uncertainty, acquisition friction and the challenge of integrating existing military systems</description>
 </item>
 </channel>
 </rss>
