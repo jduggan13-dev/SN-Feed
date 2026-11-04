@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 04 Nov 2026 12:23:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 18:26:56 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force chief warns post-election budget delays could slow expansion plans</title>
+<link>https://spacenews.com/space-force-chief-warns-post-election-budget-delays-could-slow-expansion-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-chief-warns-post-election-budget-delays-could-slow-expansion-plans/</guid>
+<pubDate>Wed, 04 Nov 2026 16:36:58 +0000</pubDate>
+<description>Gen. Douglas Schiess sees bipartisan support for military space missions but says temporary funding restrictions are slowing the service's buildup</description>
+</item>
+<item>
+<title>The cost of operating amid debris</title>
+<link>https://spacenews.com/the-cost-of-operating-amid-debris/</link>
+<guid isPermaLink="true">https://spacenews.com/the-cost-of-operating-amid-debris/</guid>
+<pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
+<description>Multiple in-orbit servicing ventures have emerged to tackle the industry’s rising debris risk, but finding paying customers remains a core challenge even as government-backed demos ramp up and key technologies are proven in orbit.</description>
+</item>
+<item>
+<title>Space is a warfighting domain. Our industrial base must reflect that.</title>
+<link>https://spacenews.com/space-is-a-warfighting-domain-our-industrial-base-must-reflect-that/</link>
+<guid isPermaLink="true">https://spacenews.com/space-is-a-warfighting-domain-our-industrial-base-must-reflect-that/</guid>
+<pubDate>Wed, 04 Nov 2026 14:15:00 +0000</pubDate>
+<description>When I served as acting Secretary of Defense, I took a trip to Buckley Space Force Base. I went as someone who understood in the abstract that space had become contested. I left understanding it in my gut. Watching the men and women who track every object on orbit and leverage space-based sensors to spot a launch anywhere on Earth to give our ground forces the seconds of warning that save lives, I came away with a conviction that has only deepened since: Space is a warfighting domain, and we are not yet organized to win in it.</description>
+</item>
+<item>
+<title>SkyFi brings satellite intelligence to Robinhood investors for $10 a month</title>
+<link>https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</link>
+<guid isPermaLink="true">https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</guid>
+<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+<description>Satellite intelligence service uses BlackSky imagery to monitor factories, warehouses, data centers and theme parks. Traders can track Tesla factories, Amazon warehouses from space</description>
+</item>
+<item>
+<title>Astrolab to develop lunar power and communications infrastructure</title>
+<link>https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</link>
+<guid isPermaLink="true">https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</guid>
+<pubDate>Wed, 04 Nov 2026 13:03:15 +0000</pubDate>
+<description>Astrolab, a company developing crewed and robotic rovers, is expanding into lunar infrastructure with systems that can provide power and communications for a future moon base.</description>
+</item>
 <item>
 <title>Satellite on orbit responded to voice command in experimental first</title>
 <link>https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/computer-and-gyro-problems-likely-caused-loss-of-maven/</guid>
 <pubDate>Mon, 02 Nov 2026 17:12:05 +0000</pubDate>
 <description>A computer glitch and a faulty gyro likely caused the loss of a NASA Mars orbiter nearly a year ago, an agency investigation concluded.</description>
-</item>
-<item>
-<title>Vantor cuts satellite imagery delivery time to seven minutes in Ukraine test</title>
-<link>https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</link>
-<guid isPermaLink="true">https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</guid>
-<pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
-<description>Executives from Vantor, BlackSky forecast growing demand for rapid intelligence and sovereign satellites</description>
-</item>
-<item>
-<title>Hardware for China’s crewed moon program spotted near Wenchang spaceport</title>
-<link>https://spacenews.com/hardware-for-chinas-crewed-moon-program-spotted-near-wenchang-spaceport/</link>
-<guid isPermaLink="true">https://spacenews.com/hardware-for-chinas-crewed-moon-program-spotted-near-wenchang-spaceport/</guid>
-<pubDate>Mon, 02 Nov 2026 15:50:15 +0000</pubDate>
-<description>HELSINKI — Hardware for a crucial first flight test of a launch vehicle and spacecraft for China’s crewed lunar program appears to have arrived at Wenchang spaceport.</description>
-</item>
-<item>
-<title>Space Force’s commercial satellite push draws criticism over slow pace</title>
-<link>https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</link>
-<guid isPermaLink="true">https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</guid>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
-<description>Executives warn that small initial orders and lengthy deployment timelines could undermine the cost savings promised by the RG-XX surveillance program</description>
-</item>
-<item>
-<title>Voyager names former Space Force chief Saltzman to lead advisory board</title>
-<link>https://spacenews.com/voyager-names-former-space-force-chief-saltzman-to-lead-advisory-board/</link>
-<guid isPermaLink="true">https://spacenews.com/voyager-names-former-space-force-chief-saltzman-to-lead-advisory-board/</guid>
-<pubDate>Mon, 02 Nov 2026 14:26:20 +0000</pubDate>
-<description>Appointment comes as Voyager seeks to expand its national security space business</description>
-</item>
-<item>
-<title>Private companies should not decide the course of war</title>
-<link>https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</link>
-<guid isPermaLink="true">https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</guid>
-<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
-<description>Decisions about war and peace in a democracy should rest with elected leaders and duly authorized government officials — not with private individuals who happen to control critical military technologies.</description>
 </item>
 </channel>
 </rss>
