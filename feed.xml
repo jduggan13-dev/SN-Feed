@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 04 Nov 2026 02:54:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 12:23:29 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Satellite on orbit responded to voice command in experimental first</title>
+<link>https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</guid>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<description>Operators on the ground successfully directed a satellite on orbit with a voice command for the first time. Researchers told SpaceNews that their experimental success could be a step toward a future in which responsive satellites can listen for distress calls and emergency signals from ships at sea.</description>
+</item>
+<item>
+<title>Starfish Space’s first Otter servicing spacecraft fails</title>
+<link>https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</link>
+<guid isPermaLink="true">https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</guid>
+<pubDate>Wed, 04 Nov 2026 04:28:02 +0000</pubDate>
+<description>Starfish Space says its first Otter servicing spacecraft failed shortly after launch when a fault protection system on the satellite blocked communications.</description>
+</item>
 <item>
 <title>China’s Star Vision to build AI constellation for Oman</title>
 <link>https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</guid>
 <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
 <description>Decisions about war and peace in a democracy should rest with elected leaders and duly authorized government officials — not with private individuals who happen to control critical military technologies.</description>
-</item>
-<item>
-<title>How to Expand Reliable, Flexible Access to Space</title>
-<link>https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</link>
-<guid isPermaLink="true">https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</guid>
-<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
-<description>The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Midterm election to test bipartisan support for NASA</title>
-<link>https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</link>
-<guid isPermaLink="true">https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</guid>
-<pubDate>Mon, 02 Nov 2026 12:54:21 +0000</pubDate>
-<description>A change in party control of Congress after the midterm elections may put to the test the longstanding bipartisan nature of civil space policy.</description>
 </item>
 </channel>
 </rss>
