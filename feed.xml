@@ -4,10 +4,52 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 05 Nov 2026 07:41:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 16:08:15 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>National security launch faces a post-Falcon question</title>
+<link>https://spacenews.com/national-security-launch-faces-a-post-falcon-question/</link>
+<guid isPermaLink="true">https://spacenews.com/national-security-launch-faces-a-post-falcon-question/</guid>
+<pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+<description>The question is what happens when SpaceX no longer wants to operate the launch business in quite the same way.</description>
+</item>
+<item>
+<title>Building a ‘highway to the moon and back’ with Winnie Lai</title>
+<link>https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/</link>
+<guid isPermaLink="true">https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/</guid>
+<pubDate>Thu, 05 Nov 2026 14:15:38 +0000</pubDate>
+<description>In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […]</description>
+</item>
+<item>
+<title>Why the space sector needs to take a project-centric approach to strategy</title>
+<link>https://spacenews.com/why-the-space-sector-needs-to-take-a-project-centric-approach-to-strategy/</link>
+<guid isPermaLink="true">https://spacenews.com/why-the-space-sector-needs-to-take-a-project-centric-approach-to-strategy/</guid>
+<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
+<description>Throughout my career, I have seen organizations develop bold strategies, pursue high risk missions and deliver ambitious goals. But in my experience, the difference between strategic success and failure rarely comes down to the vision itself. So why are some strategies delivered successfully, while others fail to achieve their goals?</description>
+</item>
+<item>
+<title>Former NASA official to lead Canadian Space Agency</title>
+<link>https://spacenews.com/former-nasa-official-to-lead-canadian-space-agency/</link>
+<guid isPermaLink="true">https://spacenews.com/former-nasa-official-to-lead-canadian-space-agency/</guid>
+<pubDate>Thu, 05 Nov 2026 12:51:46 +0000</pubDate>
+<description>The Canadian government has picked a former NASA chief economist to lead the nation’s space agency as it navigates changes to NASA’s exploration plans.</description>
+</item>
+<item>
+<title>Eighteen launches, no program names: a call for disclosure</title>
+<link>https://spacenews.com/eighteen-launches-no-program-names-a-call-for-disclosure/</link>
+<guid isPermaLink="true">https://spacenews.com/eighteen-launches-no-program-names-a-call-for-disclosure/</guid>
+<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+<description>On the evening of October 15, a Falcon 9 lifted off from Space Launch Complex 4 East at Vandenberg carrying a classified payload for the Space Force. The booster, B1081, came back to the droneship on its 28th flight. SpaceX ended the broadcast at stage separation, as it does. The payload was not described, the satellites were not counted and no program was named.</description>
+</item>
+<item>
+<title>Redwire wins $20 million DARPA contract for second low-orbit satellite test</title>
+<link>https://spacenews.com/redwire-wins-20-million-darpa-contract-for-second-low-orbit-satellite-test/</link>
+<guid isPermaLink="true">https://spacenews.com/redwire-wins-20-million-darpa-contract-for-second-low-orbit-satellite-test/</guid>
+<pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
+<description>New mission will test a smaller SabreSat spacecraft in very low Earth orbit.</description>
+</item>
 <item>
 <title>New Congress to examine NASA budgets and programs</title>
 <link>https://spacenews.com/new-congress-to-examine-nasa-budgets-and-programs/</link>
@@ -175,48 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/electron-nears-century-mark-with-iqps-launch/</guid>
 <pubDate>Tue, 03 Nov 2026 12:40:33 +0000</pubDate>
 <description>A Rocket Lab Electron rocket successfully launched a radar-imaging satellite for a Japanese company as the vehicle nears its 100th mission.</description>
-</item>
-<item>
-<title>The 2028 Imperative: NOAA’s commercial weather data ambitions hinge on funding</title>
-<link>https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</link>
-<guid isPermaLink="true">https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</guid>
-<pubDate>Tue, 03 Nov 2026 12:02:00 +0000</pubDate>
-<description>Commercial weather satellite operators are watching the National Oceanic and Atmospheric Administration’s 2028 budget request for signs the agency is prepared to expand its purchases of commercial data.</description>
-</item>
-<item>
-<title>The 2028 Imperative: NASA’s 2028 crunch for Artemis, SR-1 and robotic lunar landings</title>
-<link>https://spacenews.com/race-to-2028-nasas-2028-crunch-for-artemis-sr-1-and-robotic-lunar-landings/</link>
-<guid isPermaLink="true">https://spacenews.com/race-to-2028-nasas-2028-crunch-for-artemis-sr-1-and-robotic-lunar-landings/</guid>
-<pubDate>Tue, 03 Nov 2026 12:01:00 +0000</pubDate>
-<description>During his first few months as NASA administrator, Jared Isaacman shook up many of the agency’s key programs. In February, he announced that Artemis 3 — expected to be the first crewed landing attempt on the moon since 1972 — would instead be a test flight in low Earth orbit involving Orion and two lunar landers in mid-2027. It would, though, set up two landing attempts on the moon in 2028 on Artemis 4 and 5.</description>
-</item>
-<item>
-<title>The 2028 imperative: A ‘show-me’ year for military space programs</title>
-<link>https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</guid>
-<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-<description>From orbital missile interceptors to satellites tracking enemy aircraft, the military is racing to turn ambitious concepts into working systems.</description>
-</item>
-<item>
-<title>Hydrosat announces new thermal imaging program for European defense customers</title>
-<link>https://spacenews.com/hydrosat-announces-new-thermal-imaging-program-for-european-defense-customers/</link>
-<guid isPermaLink="true">https://spacenews.com/hydrosat-announces-new-thermal-imaging-program-for-european-defense-customers/</guid>
-<pubDate>Mon, 02 Nov 2026 20:55:51 +0000</pubDate>
-<description>JOHANNESBURG — Thermal imaging company Hydrosat announced a new high-resolution midwave infrared imaging program that will provide tactical intelligence, surveillance and reconnaissance capabilities for European governments and allied defense customers.</description>
-</item>
-<item>
-<title>Europe looks beyond the ISS</title>
-<link>https://spacenews.com/europe-looks-beyond-the-iss/</link>
-<guid isPermaLink="true">https://spacenews.com/europe-looks-beyond-the-iss/</guid>
-<pubDate>Mon, 02 Nov 2026 18:51:03 +0000</pubDate>
-<description>European Space Agency member states will meet in Rome Dec. 15 to decide the future of Europe’s human and robotic exploration program. The meeting breaks with ESA’s usual three-year ministerial cycle, giving ministers an earlier opportunity to respond to the approaching end of the ISS and growing calls for Europe to secure a more autonomous role in human spaceflight and exploration.</description>
-</item>
-<item>
-<title>Spy satellite designs could change as AI takes on more intelligence analysis</title>
-<link>https://spacenews.com/spy-satellite-designs-could-change-as-ai-takes-on-more-intelligence-analysis/</link>
-<guid isPermaLink="true">https://spacenews.com/spy-satellite-designs-could-change-as-ai-takes-on-more-intelligence-analysis/</guid>
-<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-<description>An NRO official suggests building satellites to meet the needs of algorithms could make larger constellations more affordable</description>
 </item>
 </channel>
 </rss>
