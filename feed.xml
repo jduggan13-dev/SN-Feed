@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 05 Nov 2026 00:08:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 07:41:41 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>New Congress to examine NASA budgets and programs</title>
+<link>https://spacenews.com/new-congress-to-examine-nasa-budgets-and-programs/</link>
+<guid isPermaLink="true">https://spacenews.com/new-congress-to-examine-nasa-budgets-and-programs/</guid>
+<pubDate>Thu, 05 Nov 2026 02:47:49 +0000</pubDate>
+<description>With Democrats winning control of Congress in the midterm elections, the space community is pondering how the new Congress will take on issues ranging from NASA budgets to SpaceX.</description>
+</item>
 <item>
 <title>Sn Media Kit</title>
 <link>https://spacenews.com/sn-media-kit/</link>
@@ -21,48 +28,6 @@
 <guid isPermaLink="true">https://spacenews.com/satellite-mission-management-at-the-edge-event/</guid>
 <pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
 <description>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Pentagon Backs Leolabs Radar Expansion With 150 Million Loan Commitment</title>
-<link>https://spacenews.com/pentagon-backs-leolabs-radar-expansion-with-150-million-loan-commitment/</link>
-<guid isPermaLink="true">https://spacenews.com/pentagon-backs-leolabs-radar-expansion-with-150-million-loan-commitment/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Pentagon Backs Leolabs Radar Expansion With 150 Million Loan Commitment</description>
-</item>
-<item>
-<title>How to Expand Reliable, Flexible Access to Space</title>
-<link>https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</link>
-<guid isPermaLink="true">https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Arianegroups Sylex Sounding Rocket Completes First Operational Mission</title>
-<link>https://spacenews.com/arianegroups-sylex-sounding-rocket-completes-first-operational-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/arianegroups-sylex-sounding-rocket-completes-first-operational-mission/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Arianegroups Sylex Sounding Rocket Completes First Operational Mission</description>
-</item>
-<item>
-<title>Open Cosmos Ka Band Filing Capped At 52 Satellites</title>
-<link>https://spacenews.com/open-cosmos-ka-band-filing-capped-at-52-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/open-cosmos-ka-band-filing-capped-at-52-satellites/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Open Cosmos Ka Band Filing Capped At 52 Satellites</description>
-</item>
-<item>
-<title>Space Force Chief Warns Post Election Budget Delays Could Slow Expansion Plans</title>
-<link>https://spacenews.com/space-force-chief-warns-post-election-budget-delays-could-slow-expansion-plans/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-chief-warns-post-election-budget-delays-could-slow-expansion-plans/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Gen. Douglas Schiess sees bipartisan support for military space missions but says temporary funding restrictions are slowing the service's buildup</description>
-</item>
-<item>
-<title>The Cost Of Operating Amid Debris</title>
-<link>https://spacenews.com/the-cost-of-operating-amid-debris/</link>
-<guid isPermaLink="true">https://spacenews.com/the-cost-of-operating-amid-debris/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Multiple in-orbit servicing ventures have emerged to tackle the industry’s rising debris risk, but finding paying customers remains a core challenge even as government-backed demos ramp up and key technologies are proven in orbit.</description>
 </item>
 <item>
 <title>Advice For Optimizing The Space Industry With Laura Crabtree</title>
@@ -79,123 +44,11 @@
 <description>In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews .</description>
 </item>
 <item>
-<title>Starfish Space’s first Otter servicing spacecraft fails</title>
-<link>https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</link>
-<guid isPermaLink="true">https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Starfish Space says its first Otter servicing spacecraft failed shortly after launch when a fault protection system on the satellite blocked communications.</description>
-</item>
-<item>
-<title>Satellite On Orbit Responded To Voice Command In Experimental First</title>
-<link>https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</link>
-<guid isPermaLink="true">https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Operators on the ground successfully directed a satellite on orbit with a voice command for the first time. Researchers told SpaceNews that their experimental success could be a step toward a future in which responsive satellites can listen for distress calls and emergency signals from ships at sea.</description>
-</item>
-<item>
-<title>Vantor Cuts Satellite Imagery Delivery Time To Seven Minutes In Ukraine Test</title>
-<link>https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</link>
-<guid isPermaLink="true">https://spacenews.com/vantor-cuts-satellite-imagery-delivery-time-to-seven-minutes-in-ukraine-test/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Vantor Cuts Satellite Imagery Delivery Time To Seven Minutes In Ukraine Test</description>
-</item>
-<item>
-<title>Voyager Satisfied With Astrobotic Acquisition Ahead Of Griffin 1 Launch</title>
-<link>https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Voyager Technologies says it is pleased with its acquisition of lunar lander developer Astrobotic as the company prepares for the launch of its next mission.</description>
-</item>
-<item>
-<title>Astrolab To Develop Lunar Power And Communications Infrastructure</title>
-<link>https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</link>
-<guid isPermaLink="true">https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Astrolab, a company developing crewed and robotic rovers, is expanding into lunar infrastructure with systems that can provide power and communications for a future moon base.</description>
-</item>
-<item>
-<title>The 2028 imperative: A ‘show-me’ year for military space programs</title>
-<link>https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>From orbital missile interceptors to satellites tracking enemy aircraft, the military is racing to turn ambitious concepts into working systems.</description>
-</item>
-<item>
-<title>Space Force’s commercial satellite push draws criticism over slow pace</title>
-<link>https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</link>
-<guid isPermaLink="true">https://spacenews.com/space-forces-commercial-satellite-push-draws-criticism-over-slow-pace/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Space Force’s commercial satellite push draws criticism over slow pace</description>
-</item>
-<item>
-<title>Electron Nears Century Mark With Iqps Launch</title>
-<link>https://spacenews.com/electron-nears-century-mark-with-iqps-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/electron-nears-century-mark-with-iqps-launch/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>A Rocket Lab Electron rocket successfully launched a radar-imaging satellite for a Japanese company as the vehicle nears its 100th mission.</description>
-</item>
-<item>
 <title>Amazon’s launch gamble reaches a turning point</title>
 <link>https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</link>
 <guid isPermaLink="true">https://spacenews.com/amazons-launch-gamble-reaches-a-turning-point/</guid>
 <pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
 <description>Amazon’s launch gamble reaches a turning point</description>
-</item>
-<item>
-<title>SkyFi brings satellite intelligence to Robinhood investors for $10 a month</title>
-<link>https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</link>
-<guid isPermaLink="true">https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Satellite intelligence service uses BlackSky imagery to monitor factories, warehouses, data centers and theme parks. Traders can track Tesla factories, Amazon warehouses from space</description>
-</item>
-<item>
-<title>China’s Star Vision to build AI constellation for Oman</title>
-<link>https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</link>
-<guid isPermaLink="true">https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>HELSINKI — Chinese commercial firm Star Vision has signed agreements to develop, launch and operate an AI-enabled constellation for Oman.</description>
-</item>
-<item>
-<title>Midterm election to test bipartisan support for NASA</title>
-<link>https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</link>
-<guid isPermaLink="true">https://spacenews.com/midterm-election-to-test-bipartisan-support-for-nasa/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Midterm election to test bipartisan support for NASA</description>
-</item>
-<item>
-<title>The 2028 Imperative: NOAA’s commercial weather data ambitions hinge on funding</title>
-<link>https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</link>
-<guid isPermaLink="true">https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Commercial weather satellite operators are watching the National Oceanic and Atmospheric Administration’s 2028 budget request for signs the agency is prepared to expand its purchases of commercial data.</description>
-</item>
-<item>
-<title>Space is a warfighting domain. Our industrial base must reflect that.</title>
-<link>https://spacenews.com/space-is-a-warfighting-domain-our-industrial-base-must-reflect-that/</link>
-<guid isPermaLink="true">https://spacenews.com/space-is-a-warfighting-domain-our-industrial-base-must-reflect-that/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>When I served as acting Secretary of Defense, I took a trip to Buckley Space Force Base. I went as someone who understood in the abstract that space had become contested. I left understanding it in my gut. Watching the men and women who track every object on orbit and leverage space-based sensors to spot a launch anywhere on Earth to give our ground forces the seconds of warning that save lives, I came away with a conviction that has only deepened since: Space is a warfighting domain, and we are not yet organized to win in it.</description>
-</item>
-<item>
-<title>Private companies should not decide the course of war</title>
-<link>https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</link>
-<guid isPermaLink="true">https://spacenews.com/private-companies-should-not-decide-the-course-of-war/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Private companies should not decide the course of war</description>
-</item>
-<item>
-<title>Simera Sense And Spacemanic To Collaborate On A New Complete Dual Use Mission Solution</title>
-<link>https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […] The post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>DETUMBLER: Airbus’ Passive Spin Stabilization Solution</title>
-<link>https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</link>
-<guid isPermaLink="true">https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</guid>
-<pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
-<description>The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […] The post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Esi Supplying Solar Array Components To Missile Defense Programs</title>
@@ -217,6 +70,153 @@
 <guid isPermaLink="true">https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/</guid>
 <pubDate>Thu, 05 Nov 2026 00:08:48 +0000</pubDate>
 <description>Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications for space appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Pentagon backs LeoLabs radar expansion with $150 million loan commitment</title>
+<link>https://spacenews.com/pentagon-backs-leolabs-radar-expansion-with-150-million-loan-commitment/</link>
+<guid isPermaLink="true">https://spacenews.com/pentagon-backs-leolabs-radar-expansion-with-150-million-loan-commitment/</guid>
+<pubDate>Wed, 04 Nov 2026 20:58:25 +0000</pubDate>
+<description>Office of Strategic Capital financing would fund Scout production and expansion of the company’s global sensing network</description>
+</item>
+<item>
+<title>ArianeGroup’s SyLEx sounding rocket completes first operational mission</title>
+<link>https://spacenews.com/arianegroups-sylex-sounding-rocket-completes-first-operational-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/arianegroups-sylex-sounding-rocket-completes-first-operational-mission/</guid>
+<pubDate>Wed, 04 Nov 2026 19:51:29 +0000</pubDate>
+<description>JOHANNESBURG — France’s defense procurement agency (DGA) conducted the first operational flight of ArianeGroup’s SyLEx sounding rocket Nov. 4, carrying experimental payloads to support the development of the country’s next-generation ballistic missile.</description>
+</item>
+<item>
+<title>Open Cosmos Ka-band filing capped at 52 satellites</title>
+<link>https://spacenews.com/open-cosmos-ka-band-filing-capped-at-52-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/open-cosmos-ka-band-filing-capped-at-52-satellites/</guid>
+<pubDate>Wed, 04 Nov 2026 18:58:23 +0000</pubDate>
+<description>International regulators have capped a key spectrum filing for Open Cosmos’ planned connectivity network at 52 satellites after missed deployment deadlines, little more than a quarter of what the British company plans for initial global services.</description>
+</item>
+<item>
+<title>Space Force chief warns post-election budget delays could slow expansion plans</title>
+<link>https://spacenews.com/space-force-chief-warns-post-election-budget-delays-could-slow-expansion-plans/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-chief-warns-post-election-budget-delays-could-slow-expansion-plans/</guid>
+<pubDate>Wed, 04 Nov 2026 16:36:58 +0000</pubDate>
+<description>Gen. Douglas Schiess sees bipartisan support for military space missions but says temporary funding restrictions are slowing the service's buildup</description>
+</item>
+<item>
+<title>The cost of operating amid debris</title>
+<link>https://spacenews.com/the-cost-of-operating-amid-debris/</link>
+<guid isPermaLink="true">https://spacenews.com/the-cost-of-operating-amid-debris/</guid>
+<pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
+<description>Multiple in-orbit servicing ventures have emerged to tackle the industry’s rising debris risk, but finding paying customers remains a core challenge even as government-backed demos ramp up and key technologies are proven in orbit.</description>
+</item>
+<item>
+<title>Space is a warfighting domain. Our industrial base must reflect that.</title>
+<link>https://spacenews.com/space-is-a-warfighting-domain-our-industrial-base-must-reflect-that/</link>
+<guid isPermaLink="true">https://spacenews.com/space-is-a-warfighting-domain-our-industrial-base-must-reflect-that/</guid>
+<pubDate>Wed, 04 Nov 2026 14:15:00 +0000</pubDate>
+<description>When I served as acting Secretary of Defense, I took a trip to Buckley Space Force Base. I went as someone who understood in the abstract that space had become contested. I left understanding it in my gut. Watching the men and women who track every object on orbit and leverage space-based sensors to spot a launch anywhere on Earth to give our ground forces the seconds of warning that save lives, I came away with a conviction that has only deepened since: Space is a warfighting domain, and we are not yet organized to win in it.</description>
+</item>
+<item>
+<title>SkyFi brings satellite intelligence to Robinhood investors for $10 a month</title>
+<link>https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</link>
+<guid isPermaLink="true">https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</guid>
+<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+<description>Satellite intelligence service uses BlackSky imagery to monitor factories, warehouses, data centers and theme parks. Traders can track Tesla factories, Amazon warehouses from space</description>
+</item>
+<item>
+<title>Astrolab to develop lunar power and communications infrastructure</title>
+<link>https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</link>
+<guid isPermaLink="true">https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</guid>
+<pubDate>Wed, 04 Nov 2026 13:03:15 +0000</pubDate>
+<description>Astrolab, a company developing crewed and robotic rovers, is expanding into lunar infrastructure with systems that can provide power and communications for a future moon base.</description>
+</item>
+<item>
+<title>Satellite on orbit responded to voice command in experimental first</title>
+<link>https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</guid>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<description>Operators on the ground successfully directed a satellite on orbit with a voice command for the first time. Researchers told SpaceNews that their experimental success could be a step toward a future in which responsive satellites can listen for distress calls and emergency signals from ships at sea.</description>
+</item>
+<item>
+<title>Starfish Space’s first Otter servicing spacecraft fails</title>
+<link>https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</link>
+<guid isPermaLink="true">https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</guid>
+<pubDate>Wed, 04 Nov 2026 04:28:02 +0000</pubDate>
+<description>Starfish Space says its first Otter servicing spacecraft failed shortly after launch when a fault protection system on the satellite blocked communications.</description>
+</item>
+<item>
+<title>China’s Star Vision to build AI constellation for Oman</title>
+<link>https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</link>
+<guid isPermaLink="true">https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</guid>
+<pubDate>Tue, 03 Nov 2026 22:36:10 +0000</pubDate>
+<description>HELSINKI — Chinese commercial firm Star Vision has signed agreements to develop, launch and operate an AI-enabled constellation for Oman.</description>
+</item>
+<item>
+<title>Voyager satisfied with Astrobotic acquisition ahead of Griffin-1 launch</title>
+<link>https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</guid>
+<pubDate>Tue, 03 Nov 2026 17:08:33 +0000</pubDate>
+<description>Voyager Technologies says it is pleased with its acquisition of lunar lander developer Astrobotic as the company prepares for the launch of its next mission.</description>
+</item>
+<item>
+<title>Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution</title>
+<link>https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</link>
+<guid isPermaLink="true">https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</guid>
+<pubDate>Tue, 03 Nov 2026 16:59:43 +0000</pubDate>
+<description>Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […] The post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>DETUMBLER: Airbus’ Passive Spin Stabilization Solution</title>
+<link>https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</link>
+<guid isPermaLink="true">https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</guid>
+<pubDate>Tue, 03 Nov 2026 13:30:00 +0000</pubDate>
+<description>The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […] The post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Electron nears century mark with iQPS launch</title>
+<link>https://spacenews.com/electron-nears-century-mark-with-iqps-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/electron-nears-century-mark-with-iqps-launch/</guid>
+<pubDate>Tue, 03 Nov 2026 12:40:33 +0000</pubDate>
+<description>A Rocket Lab Electron rocket successfully launched a radar-imaging satellite for a Japanese company as the vehicle nears its 100th mission.</description>
+</item>
+<item>
+<title>The 2028 Imperative: NOAA’s commercial weather data ambitions hinge on funding</title>
+<link>https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</link>
+<guid isPermaLink="true">https://spacenews.com/race-to-2028-noaas-commercial-weather-data-ambitions-hinge-on-funding/</guid>
+<pubDate>Tue, 03 Nov 2026 12:02:00 +0000</pubDate>
+<description>Commercial weather satellite operators are watching the National Oceanic and Atmospheric Administration’s 2028 budget request for signs the agency is prepared to expand its purchases of commercial data.</description>
+</item>
+<item>
+<title>The 2028 Imperative: NASA’s 2028 crunch for Artemis, SR-1 and robotic lunar landings</title>
+<link>https://spacenews.com/race-to-2028-nasas-2028-crunch-for-artemis-sr-1-and-robotic-lunar-landings/</link>
+<guid isPermaLink="true">https://spacenews.com/race-to-2028-nasas-2028-crunch-for-artemis-sr-1-and-robotic-lunar-landings/</guid>
+<pubDate>Tue, 03 Nov 2026 12:01:00 +0000</pubDate>
+<description>During his first few months as NASA administrator, Jared Isaacman shook up many of the agency’s key programs. In February, he announced that Artemis 3 — expected to be the first crewed landing attempt on the moon since 1972 — would instead be a test flight in low Earth orbit involving Orion and two lunar landers in mid-2027. It would, though, set up two landing attempts on the moon in 2028 on Artemis 4 and 5.</description>
+</item>
+<item>
+<title>The 2028 imperative: A ‘show-me’ year for military space programs</title>
+<link>https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</link>
+<guid isPermaLink="true">https://spacenews.com/the-2028-imperative-a-show-me-year-for-military-space-programs/</guid>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<description>From orbital missile interceptors to satellites tracking enemy aircraft, the military is racing to turn ambitious concepts into working systems.</description>
+</item>
+<item>
+<title>Hydrosat announces new thermal imaging program for European defense customers</title>
+<link>https://spacenews.com/hydrosat-announces-new-thermal-imaging-program-for-european-defense-customers/</link>
+<guid isPermaLink="true">https://spacenews.com/hydrosat-announces-new-thermal-imaging-program-for-european-defense-customers/</guid>
+<pubDate>Mon, 02 Nov 2026 20:55:51 +0000</pubDate>
+<description>JOHANNESBURG — Thermal imaging company Hydrosat announced a new high-resolution midwave infrared imaging program that will provide tactical intelligence, surveillance and reconnaissance capabilities for European governments and allied defense customers.</description>
+</item>
+<item>
+<title>Europe looks beyond the ISS</title>
+<link>https://spacenews.com/europe-looks-beyond-the-iss/</link>
+<guid isPermaLink="true">https://spacenews.com/europe-looks-beyond-the-iss/</guid>
+<pubDate>Mon, 02 Nov 2026 18:51:03 +0000</pubDate>
+<description>European Space Agency member states will meet in Rome Dec. 15 to decide the future of Europe’s human and robotic exploration program. The meeting breaks with ESA’s usual three-year ministerial cycle, giving ministers an earlier opportunity to respond to the approaching end of the ISS and growing calls for Europe to secure a more autonomous role in human spaceflight and exploration.</description>
+</item>
+<item>
+<title>Spy satellite designs could change as AI takes on more intelligence analysis</title>
+<link>https://spacenews.com/spy-satellite-designs-could-change-as-ai-takes-on-more-intelligence-analysis/</link>
+<guid isPermaLink="true">https://spacenews.com/spy-satellite-designs-could-change-as-ai-takes-on-more-intelligence-analysis/</guid>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+<description>An NRO official suggests building satellites to meet the needs of algorithms could make larger constellations more affordable</description>
 </item>
 </channel>
 </rss>
