@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 06 Nov 2026 03:08:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 11:47:51 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NASA selects three companies for TDRSS replacement program</title>
+<link>https://spacenews.com/nasa-selects-three-companies-for-tdrss-replacement-program/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-selects-three-companies-for-tdrss-replacement-program/</guid>
+<pubDate>Fri, 06 Nov 2026 11:21:00 +0000</pubDate>
+<description>NASA has selected three companies for the next phase of an effort to provide a commercial replacement for its aging data-relay constellation.</description>
+</item>
 <item>
 <title>Sn Media Kit</title>
 <link>https://spacenews.com/sn-media-kit/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</guid>
 <pubDate>Tue, 03 Nov 2026 22:36:10 +0000</pubDate>
 <description>HELSINKI — Chinese commercial firm Star Vision has signed agreements to develop, launch and operate an AI-enabled constellation for Oman.</description>
-</item>
-<item>
-<title>Voyager satisfied with Astrobotic acquisition ahead of Griffin-1 launch</title>
-<link>https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/voyager-satisfied-with-astrobotic-acquisition-ahead-of-griffin-1-launch/</guid>
-<pubDate>Tue, 03 Nov 2026 17:08:33 +0000</pubDate>
-<description>Voyager Technologies says it is pleased with its acquisition of lunar lander developer Astrobotic as the company prepares for the launch of its next mission.</description>
 </item>
 </channel>
 </rss>
