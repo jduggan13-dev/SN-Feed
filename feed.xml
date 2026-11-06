@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 06 Nov 2026 11:47:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 18:52:29 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Don’t blame just SpaceX for the launch capacity crunch</title>
+<link>https://spacenews.com/dont-blame-just-spacex-for-the-launch-capacity-crunch/</link>
+<guid isPermaLink="true">https://spacenews.com/dont-blame-just-spacex-for-the-launch-capacity-crunch/</guid>
+<pubDate>Fri, 06 Nov 2026 16:50:00 +0000</pubDate>
+<description>Perhaps the biggest topic of discussion in the space industry in the last few months involves the future of the Falcon 9. That discourse has evolved from SpaceX ending its popular rideshare launch program to halting commercial sales of the rocket entirely and, potentially, winding down launches for the U.S. government. What has become arguably the world’s most successful rocket may soon retire.</description>
+</item>
+<item>
+<title>Protection or preparation for attack? Counterspace capabilities, international law and nuclear command and control</title>
+<link>https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</link>
+<guid isPermaLink="true">https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</guid>
+<pubDate>Fri, 06 Nov 2026 16:39:17 +0000</pubDate>
+<description>Space militarization is not new, but its pace and breadth have increased sharply. The Secure World Foundation’s 2026 assessment documents counterspace capabilities being developed by 13 countries across five categories as of Feb. 28: co-orbital systems, direct-ascent weapons, electronic warfare, directed energy and cyber operations. The report finds that only non-destructive counterspace capabilities were being used in active military conflicts at that point.</description>
+</item>
+<item>
+<title>Viasat wins Space Force network operations contract worth up to $450 million</title>
+<link>https://spacenews.com/viasat-wins-space-force-network-operations-contract-worth-up-to-450-million/</link>
+<guid isPermaLink="true">https://spacenews.com/viasat-wins-space-force-network-operations-contract-worth-up-to-450-million/</guid>
+<pubDate>Fri, 06 Nov 2026 14:17:26 +0000</pubDate>
+<description>The company will integrate multiple satellite providers into military data network as SpaceX develops initial backbone</description>
+</item>
+<item>
+<title>AST SpaceMobile to develop own rocket using Firefly engines</title>
+<link>https://spacenews.com/ast-spacemobile-to-develop-own-rocket-using-firefly-engines/</link>
+<guid isPermaLink="true">https://spacenews.com/ast-spacemobile-to-develop-own-rocket-using-firefly-engines/</guid>
+<pubDate>Fri, 06 Nov 2026 13:26:23 +0000</pubDate>
+<description>AST SpaceMobile, whose plans to deploy a constellation of direct-to-device satellites have been slowed by launch vehicle delays, plans to develop its own rocket using engines from Firefly Aerospace.</description>
+</item>
+<item>
+<title>ULA resuming Vulcan launches as it continues solid rocket booster investigation</title>
+<link>https://spacenews.com/ula-resuming-vulcan-launches-as-it-continues-solid-rocket-booster-investigation/</link>
+<guid isPermaLink="true">https://spacenews.com/ula-resuming-vulcan-launches-as-it-continues-solid-rocket-booster-investigation/</guid>
+<pubDate>Fri, 06 Nov 2026 12:29:32 +0000</pubDate>
+<description>United Launch Alliance believes that changes to solid rocket boosters for its Vulcan rocket will address problems seen on two launches even as an investigation into a February anomaly continues.</description>
+</item>
 <item>
 <title>NASA selects three companies for TDRSS replacement program</title>
 <link>https://spacenews.com/nasa-selects-three-companies-for-tdrss-replacement-program/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/space-is-a-warfighting-domain-our-industrial-base-must-reflect-that/</guid>
 <pubDate>Wed, 04 Nov 2026 14:15:00 +0000</pubDate>
 <description>When I served as acting Secretary of Defense, I took a trip to Buckley Space Force Base. I went as someone who understood in the abstract that space had become contested. I left understanding it in my gut. Watching the men and women who track every object on orbit and leverage space-based sensors to spot a launch anywhere on Earth to give our ground forces the seconds of warning that save lives, I came away with a conviction that has only deepened since: Space is a warfighting domain, and we are not yet organized to win in it.</description>
-</item>
-<item>
-<title>SkyFi brings satellite intelligence to Robinhood investors for $10 a month</title>
-<link>https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</link>
-<guid isPermaLink="true">https://spacenews.com/skyfi-brings-satellite-intelligence-to-robinhood-investors-for-10-a-month/</guid>
-<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
-<description>Satellite intelligence service uses BlackSky imagery to monitor factories, warehouses, data centers and theme parks. Traders can track Tesla factories, Amazon warehouses from space</description>
-</item>
-<item>
-<title>Astrolab to develop lunar power and communications infrastructure</title>
-<link>https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</link>
-<guid isPermaLink="true">https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</guid>
-<pubDate>Wed, 04 Nov 2026 13:03:15 +0000</pubDate>
-<description>Astrolab, a company developing crewed and robotic rovers, is expanding into lunar infrastructure with systems that can provide power and communications for a future moon base.</description>
-</item>
-<item>
-<title>Satellite on orbit responded to voice command in experimental first</title>
-<link>https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</link>
-<guid isPermaLink="true">https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/</guid>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-<description>Operators on the ground successfully directed a satellite on orbit with a voice command for the first time. Researchers told SpaceNews that their experimental success could be a step toward a future in which responsive satellites can listen for distress calls and emergency signals from ships at sea.</description>
-</item>
-<item>
-<title>Starfish Space’s first Otter servicing spacecraft fails</title>
-<link>https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</link>
-<guid isPermaLink="true">https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/</guid>
-<pubDate>Wed, 04 Nov 2026 04:28:02 +0000</pubDate>
-<description>Starfish Space says its first Otter servicing spacecraft failed shortly after launch when a fault protection system on the satellite blocked communications.</description>
-</item>
-<item>
-<title>China’s Star Vision to build AI constellation for Oman</title>
-<link>https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</link>
-<guid isPermaLink="true">https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</guid>
-<pubDate>Tue, 03 Nov 2026 22:36:10 +0000</pubDate>
-<description>HELSINKI — Chinese commercial firm Star Vision has signed agreements to develop, launch and operate an AI-enabled constellation for Oman.</description>
 </item>
 </channel>
 </rss>
