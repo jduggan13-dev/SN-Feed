@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sun, 08 Nov 2026 01:04:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 08:34:35 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NASA awards lunar transportation and lander contracts</title>
+<link>https://spacenews.com/nasa-awards-lunar-transportation-and-lander-contracts/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-awards-lunar-transportation-and-lander-contracts/</guid>
+<pubDate>Sun, 08 Nov 2026 02:32:21 +0000</pubDate>
+<description>NASA’s efforts to develop a lunar base continued with the award of contracts for a new generation of lunar landers as well as transportation for some missions.</description>
+</item>
+<item>
+<title>NASA proceeds with plans to convert Mars rover engineering model into a lunar rover</title>
+<link>https://spacenews.com/nasa-proceeds-with-plans-to-convert-mars-rover-engineering-model-into-a-lunar-rover/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-proceeds-with-plans-to-convert-mars-rover-engineering-model-into-a-lunar-rover/</guid>
+<pubDate>Sun, 08 Nov 2026 01:19:02 +0000</pubDate>
+<description>NASA is moving forward with plans to convert an engineering model of a Mars rover into one that will go to the moon in 2028.</description>
+</item>
 <item>
 <title>Blue Origin pushes back New Glenn return to flight to early 2027</title>
 <link>https://spacenews.com/blue-origin-pushes-back-new-glenn-return-to-flight-to-early-2027/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/eighteen-launches-no-program-names-a-call-for-disclosure/</guid>
 <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
 <description>On the evening of October 15, a Falcon 9 lifted off from Space Launch Complex 4 East at Vandenberg carrying a classified payload for the Space Force. The booster, B1081, came back to the droneship on its 28th flight. SpaceX ended the broadcast at stage separation, as it does. The payload was not described, the satellites were not counted and no program was named.</description>
-</item>
-<item>
-<title>Redwire wins $20 million DARPA contract for second low-orbit satellite test</title>
-<link>https://spacenews.com/redwire-wins-20-million-darpa-contract-for-second-low-orbit-satellite-test/</link>
-<guid isPermaLink="true">https://spacenews.com/redwire-wins-20-million-darpa-contract-for-second-low-orbit-satellite-test/</guid>
-<pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
-<description>New mission will test a smaller SabreSat spacecraft in very low Earth orbit.</description>
-</item>
-<item>
-<title>New Congress to examine NASA budgets and programs</title>
-<link>https://spacenews.com/new-congress-to-examine-nasa-budgets-and-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/new-congress-to-examine-nasa-budgets-and-programs/</guid>
-<pubDate>Thu, 05 Nov 2026 02:47:49 +0000</pubDate>
-<description>With Democrats winning control of Congress in the midterm elections, the space community is pondering how the new Congress will take on issues ranging from NASA budgets to SpaceX.</description>
 </item>
 </channel>
 </rss>
