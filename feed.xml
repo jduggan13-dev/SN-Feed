@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 07 Nov 2026 21:26:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 01:04:05 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Blue Origin pushes back New Glenn return to flight to early 2027</title>
+<link>https://spacenews.com/blue-origin-pushes-back-new-glenn-return-to-flight-to-early-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/blue-origin-pushes-back-new-glenn-return-to-flight-to-early-2027/</guid>
+<pubDate>Sat, 07 Nov 2026 21:38:51 +0000</pubDate>
+<description>Blue Origin confirmed that the return to flight of its New Glenn rocket will slip into next year as it continues work rebuilding the vehicle’s Cape Canaveral launch pad.</description>
+</item>
 <item>
 <title>SpaceX sets Nov. 13 date for Starship launch and catch</title>
 <link>https://spacenews.com/spacex-sets-nov-13-date-for-starship-launch-and-catch/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/new-congress-to-examine-nasa-budgets-and-programs/</guid>
 <pubDate>Thu, 05 Nov 2026 02:47:49 +0000</pubDate>
 <description>With Democrats winning control of Congress in the midterm elections, the space community is pondering how the new Congress will take on issues ranging from NASA budgets to SpaceX.</description>
-</item>
-<item>
-<title>Pentagon backs LeoLabs radar expansion with $150 million loan commitment</title>
-<link>https://spacenews.com/pentagon-backs-leolabs-radar-expansion-with-150-million-loan-commitment/</link>
-<guid isPermaLink="true">https://spacenews.com/pentagon-backs-leolabs-radar-expansion-with-150-million-loan-commitment/</guid>
-<pubDate>Wed, 04 Nov 2026 20:58:25 +0000</pubDate>
-<description>Office of Strategic Capital financing would fund Scout production and expansion of the company’s global sensing network</description>
 </item>
 </channel>
 </rss>
