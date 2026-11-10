@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 09 Nov 2026 18:17:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 01:52:41 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rocket Lab gets Pentagon financing to boost Neutron production</title>
+<link>https://spacenews.com/rocket-lab-gets-pentagon-financing-to-boost-neutron-production/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-gets-pentagon-financing-to-boost-neutron-production/</guid>
+<pubDate>Tue, 10 Nov 2026 00:03:03 +0000</pubDate>
+<description>A $150 million government loan would support production and recovery infrastructure for the reusable rocket</description>
+</item>
+<item>
+<title>Firefly sees business opportunities as Pentagon turns to cislunar space</title>
+<link>https://spacenews.com/firefly-sees-business-opportunities-as-pentagon-turns-to-cislunar-space/</link>
+<guid isPermaLink="true">https://spacenews.com/firefly-sees-business-opportunities-as-pentagon-turns-to-cislunar-space/</guid>
+<pubDate>Mon, 09 Nov 2026 22:28:01 +0000</pubDate>
+<description>Space Force's emerging plans for military operations near the moon are drawing interest from spacecraft manufacturers and ground communications providers.</description>
+</item>
 <item>
 <title>Globalstar approved to deploy next-gen direct-to-device constellation</title>
 <link>https://spacenews.com/globalstar-gets-approval-to-deploy-next-gen-direct-to-device-constellation/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/cesiumastro-valued-at-more-than-4-5-billion-after-raising-funds-for-constellation-expansion/</guid>
 <pubDate>Thu, 05 Nov 2026 21:45:00 +0000</pubDate>
 <description>CesiumAstro announced $730 million in Series D financing Nov. 5 to support the satellite antenna specialist’s transformation into a constellation operator, valuing the Texas-based company above $4.5 billion.</description>
-</item>
-<item>
-<title>CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission</title>
-<link>https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/</link>
-<guid isPermaLink="true">https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/</guid>
-<pubDate>Thu, 05 Nov 2026 21:45:00 +0000</pubDate>
-<description>CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […] The post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Blue Origin to develop New Glenn third stage, new booster engine</title>
-<link>https://spacenews.com/blue-origin-to-develop-new-glenn-third-stage-new-booster-engine/</link>
-<guid isPermaLink="true">https://spacenews.com/blue-origin-to-develop-new-glenn-third-stage-new-booster-engine/</guid>
-<pubDate>Thu, 05 Nov 2026 21:15:47 +0000</pubDate>
-<description>Blue Origin announced plans Nov. 5 to develop a new third stage for its New Glenn rocket as well as a new rocket engine.</description>
 </item>
 </channel>
 </rss>
