@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 10 Nov 2026 17:28:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 22:49:36 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AST SpaceMobile discloses role in Space Force airborne-tracking program</title>
+<link>https://spacenews.com/ast-spacemobile-discloses-role-in-space-force-airborne-tracking-program/</link>
+<guid isPermaLink="true">https://spacenews.com/ast-spacemobile-discloses-role-in-space-force-airborne-tracking-program/</guid>
+<pubDate>Tue, 10 Nov 2026 22:37:31 +0000</pubDate>
+<description>Direct-to-device satellite company expects $100 million from subcontract to STR for technologies for tracking airborne targets from orbit</description>
+</item>
 <item>
 <title>Iridium pitches new satellite services as it awaits Pentagon contract renewal</title>
 <link>https://spacenews.com/iridium-pitches-new-satellite-services-as-it-awaits-pentagon-contract-renewal/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/blue-origin-pushes-back-new-glenn-return-to-flight-to-early-2027/</guid>
 <pubDate>Sat, 07 Nov 2026 21:38:51 +0000</pubDate>
 <description>Blue Origin confirmed that the return to flight of its New Glenn rocket will slip into next year as it continues work rebuilding the vehicle’s Cape Canaveral launch pad.</description>
-</item>
-<item>
-<title>SpaceX sets Nov. 13 date for Starship launch and catch</title>
-<link>https://spacenews.com/spacex-sets-nov-13-date-for-starship-launch-and-catch/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-sets-nov-13-date-for-starship-launch-and-catch/</guid>
-<pubDate>Sat, 07 Nov 2026 21:00:29 +0000</pubDate>
-<description>SpaceX is targeting Nov. 13 for the next flight of its Starship vehicle, a mission that will attempt to catch both stages back at the launch site.</description>
 </item>
 </channel>
 </rss>
