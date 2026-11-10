@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 10 Nov 2026 01:52:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 09:14:23 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ESCAPADE on its way to Mars after Earth flybys</title>
+<link>https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/</link>
+<guid isPermaLink="true">https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/</guid>
+<pubDate>Tue, 10 Nov 2026 08:01:39 +0000</pubDate>
+<description>Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.</description>
+</item>
 <item>
 <title>Rocket Lab gets Pentagon financing to boost Neutron production</title>
 <link>https://spacenews.com/rocket-lab-gets-pentagon-financing-to-boost-neutron-production/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/democrat-jessica-killin-ousts-republican-in-colorado-springs-military-space-hub/</guid>
 <pubDate>Thu, 05 Nov 2026 22:09:47 +0000</pubDate>
 <description>Army veteran defeats first-term Republican Jeff Crank in a district home to major U.S. Space Force installations</description>
-</item>
-<item>
-<title>CesiumAstro valued at more than $4.5 billion after raising funds for constellation expansion</title>
-<link>https://spacenews.com/cesiumastro-valued-at-more-than-4-5-billion-after-raising-funds-for-constellation-expansion/</link>
-<guid isPermaLink="true">https://spacenews.com/cesiumastro-valued-at-more-than-4-5-billion-after-raising-funds-for-constellation-expansion/</guid>
-<pubDate>Thu, 05 Nov 2026 21:45:00 +0000</pubDate>
-<description>CesiumAstro announced $730 million in Series D financing Nov. 5 to support the satellite antenna specialist’s transformation into a constellation operator, valuing the Texas-based company above $4.5 billion.</description>
 </item>
 </channel>
 </rss>
