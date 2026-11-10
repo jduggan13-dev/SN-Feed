@@ -4,10 +4,59 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 10 Nov 2026 09:14:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 17:28:59 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Iridium pitches new satellite services as it awaits Pentagon contract renewal</title>
+<link>https://spacenews.com/iridium-pitches-new-satellite-services-as-it-awaits-pentagon-contract-renewal/</link>
+<guid isPermaLink="true">https://spacenews.com/iridium-pitches-new-satellite-services-as-it-awaits-pentagon-contract-renewal/</guid>
+<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
+<description>As Rocket Lab acquisition moves forward, Iridium seeks to expand its military communications business with direct-to-device technology</description>
+</item>
+<item>
+<title>AST SpaceMobile plots 40-50 satellites for Japanese direct-to-device network</title>
+<link>https://spacenews.com/ast-spacemobile-plots-40-50-satellites-for-japanese-direct-to-device-network/</link>
+<guid isPermaLink="true">https://spacenews.com/ast-spacemobile-plots-40-50-satellites-for-japanese-direct-to-device-network/</guid>
+<pubDate>Tue, 10 Nov 2026 14:02:40 +0000</pubDate>
+<description>AST SpaceMobile plans to build as many as 50 satellites for a joint venture with Japanese technology conglomerate Rakuten, which is in line for up to 148 billion yen ($1 billion) in subsidies to develop Japan’s own direct-to-device network by March 2029.</description>
+</item>
+<item>
+<title>Anduril unveils satellite technology for space surveillance</title>
+<link>https://spacenews.com/anduril-unveils-satellite-technology-for-space-surveillance/</link>
+<guid isPermaLink="true">https://spacenews.com/anduril-unveils-satellite-technology-for-space-surveillance/</guid>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>The company says it’s demonstrated new playloads aboard its first integrated satellite, including an infrared sensor designed to track spacecraft in Earth's shadow.</description>
+</item>
+<item>
+<title>Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions</title>
+<link>https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/</link>
+<guid isPermaLink="true">https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/</guid>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>SAN DIEGO, CA, November 10, 2026 – Kratos Defense &amp; Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […]</description>
+</item>
+<item>
+<title>Enpulsion and Orbion collaborate on spacecraft propulsion systems</title>
+<link>https://spacenews.com/enpulsion-and-orbion-collaborate-on-spacecraft-propulsion-systems/</link>
+<guid isPermaLink="true">https://spacenews.com/enpulsion-and-orbion-collaborate-on-spacecraft-propulsion-systems/</guid>
+<pubDate>Tue, 10 Nov 2026 13:00:00 +0000</pubDate>
+<description>Two spacecraft propulsion companies are partnering to provide electric thruster systems for European spacecraft manufacturers.</description>
+</item>
+<item>
+<title>Kuaizhou to debut reusable Kuaizhou-6 and low-cost Kuaizhou-12 rockets in 2027</title>
+<link>https://spacenews.com/kuaizhou-to-debut-reusable-kuaizhou-6-and-low-cost-kuaizhou-12-rockets-in-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/kuaizhou-to-debut-reusable-kuaizhou-6-and-low-cost-kuaizhou-12-rockets-in-2027/</guid>
+<pubDate>Tue, 10 Nov 2026 11:19:01 +0000</pubDate>
+<description>MANCHESTER, England — Chinese launch firm Kuaizhou Aerospace plans to conduct first launches of new rockets next year, including a first-stage recovery attempt.</description>
+</item>
+<item>
+<title>High demand prompts Rocket Lab to raise launch prices</title>
+<link>https://spacenews.com/high-demand-prompts-rocket-lab-to-raise-launch-prices/</link>
+<guid isPermaLink="true">https://spacenews.com/high-demand-prompts-rocket-lab-to-raise-launch-prices/</guid>
+<pubDate>Tue, 10 Nov 2026 10:58:21 +0000</pubDate>
+<description>Rocket Lab is increasing prices for launches of its Electron and Neutron rockets, citing high demand for the vehicles in a constrained market.</description>
+</item>
 <item>
 <title>ESCAPADE on its way to Mars after Earth flybys</title>
 <link>https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/</link>
@@ -168,55 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/spacex-sets-nov-13-date-for-starship-launch-and-catch/</guid>
 <pubDate>Sat, 07 Nov 2026 21:00:29 +0000</pubDate>
 <description>SpaceX is targeting Nov. 13 for the next flight of its Starship vehicle, a mission that will attempt to catch both stages back at the launch site.</description>
-</item>
-<item>
-<title>Don’t blame just SpaceX for the launch capacity crunch</title>
-<link>https://spacenews.com/dont-blame-just-spacex-for-the-launch-capacity-crunch/</link>
-<guid isPermaLink="true">https://spacenews.com/dont-blame-just-spacex-for-the-launch-capacity-crunch/</guid>
-<pubDate>Fri, 06 Nov 2026 16:50:00 +0000</pubDate>
-<description>Perhaps the biggest topic of discussion in the space industry in the last few months involves the future of the Falcon 9. That discourse has evolved from SpaceX ending its popular rideshare launch program to halting commercial sales of the rocket entirely and, potentially, winding down launches for the U.S. government. What has become arguably the world’s most successful rocket may soon retire.</description>
-</item>
-<item>
-<title>Protection or preparation for attack? Counterspace capabilities, international law and nuclear command and control</title>
-<link>https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</link>
-<guid isPermaLink="true">https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</guid>
-<pubDate>Fri, 06 Nov 2026 16:39:17 +0000</pubDate>
-<description>Space militarization is not new, but its pace and breadth have increased sharply. The Secure World Foundation’s 2026 assessment documents counterspace capabilities being developed by 13 countries across five categories as of Feb. 28: co-orbital systems, direct-ascent weapons, electronic warfare, directed energy and cyber operations. The report finds that only non-destructive counterspace capabilities were being used in active military conflicts at that point.</description>
-</item>
-<item>
-<title>Viasat wins Space Force network operations contract worth up to $450 million</title>
-<link>https://spacenews.com/viasat-wins-space-force-network-operations-contract-worth-up-to-450-million/</link>
-<guid isPermaLink="true">https://spacenews.com/viasat-wins-space-force-network-operations-contract-worth-up-to-450-million/</guid>
-<pubDate>Fri, 06 Nov 2026 14:17:26 +0000</pubDate>
-<description>The company will integrate multiple satellite providers into military data network as SpaceX develops initial backbone</description>
-</item>
-<item>
-<title>AST SpaceMobile to develop own rocket using Firefly engines</title>
-<link>https://spacenews.com/ast-spacemobile-to-develop-own-rocket-using-firefly-engines/</link>
-<guid isPermaLink="true">https://spacenews.com/ast-spacemobile-to-develop-own-rocket-using-firefly-engines/</guid>
-<pubDate>Fri, 06 Nov 2026 13:26:23 +0000</pubDate>
-<description>AST SpaceMobile, whose plans to deploy a constellation of direct-to-device satellites have been slowed by launch vehicle delays, plans to develop its own rocket using engines from Firefly Aerospace.</description>
-</item>
-<item>
-<title>ULA resuming Vulcan launches as it continues solid rocket booster investigation</title>
-<link>https://spacenews.com/ula-resuming-vulcan-launches-as-it-continues-solid-rocket-booster-investigation/</link>
-<guid isPermaLink="true">https://spacenews.com/ula-resuming-vulcan-launches-as-it-continues-solid-rocket-booster-investigation/</guid>
-<pubDate>Fri, 06 Nov 2026 12:29:32 +0000</pubDate>
-<description>United Launch Alliance believes that changes to solid rocket boosters for its Vulcan rocket will address problems seen on two launches even as an investigation into a February anomaly continues.</description>
-</item>
-<item>
-<title>NASA selects three companies for TDRSS replacement program</title>
-<link>https://spacenews.com/nasa-selects-three-companies-for-tdrss-replacement-program/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-selects-three-companies-for-tdrss-replacement-program/</guid>
-<pubDate>Fri, 06 Nov 2026 11:21:00 +0000</pubDate>
-<description>NASA has selected three companies for the next phase of an effort to provide a commercial replacement for its aging data-relay constellation.</description>
-</item>
-<item>
-<title>Democrat Jessica Killin ousts Republican in Colorado Springs’ military space hub</title>
-<link>https://spacenews.com/democrat-jessica-killin-ousts-republican-in-colorado-springs-military-space-hub/</link>
-<guid isPermaLink="true">https://spacenews.com/democrat-jessica-killin-ousts-republican-in-colorado-springs-military-space-hub/</guid>
-<pubDate>Thu, 05 Nov 2026 22:09:47 +0000</pubDate>
-<description>Army veteran defeats first-term Republican Jeff Crank in a district home to major U.S. Space Force installations</description>
 </item>
 </channel>
 </rss>
