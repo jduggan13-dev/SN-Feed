@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 11 Nov 2026 10:18:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 18:21:53 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare</title>
+<link>https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</link>
+<guid isPermaLink="true">https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</guid>
+<pubDate>Wed, 11 Nov 2026 15:53:57 +0000</pubDate>
+<description>East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]</description>
+</item>
+<item>
+<title>SpaceX to study options to bridge commercial and military satellite networks</title>
+<link>https://spacenews.com/spacex-to-study-options-to-bridge-commercial-and-military-satellite-networks/</link>
+<guid isPermaLink="true">https://spacenews.com/spacex-to-study-options-to-bridge-commercial-and-military-satellite-networks/</guid>
+<pubDate>Wed, 11 Nov 2026 14:15:00 +0000</pubDate>
+<description>The Space Development Agency awarded SpaceX a nearly $10 million contract to examines Plaser integration with missile-warning and tracking systems</description>
+</item>
+<item>
+<title>China recruits international partners for 34-satellite cislunar constellation</title>
+<link>https://spacenews.com/china-recruits-international-partners-for-34-satellite-cislunar-constellation/</link>
+<guid isPermaLink="true">https://spacenews.com/china-recruits-international-partners-for-34-satellite-cislunar-constellation/</guid>
+<pubDate>Wed, 11 Nov 2026 13:28:21 +0000</pubDate>
+<description>MANCHESTER, England — China is recruiting international partners for a constellation of small spacecraft occupying nine-day elliptical orbits reaching lunar distance targeted for launch in 2030.</description>
+</item>
+<item>
+<title>Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push</title>
+<link>https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/</link>
+<guid isPermaLink="true">https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/</guid>
+<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
+<description>(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […]</description>
+</item>
+<item>
+<title>Firefly remains committed to Eclipse as it sells engines to AST SpaceMobile</title>
+<link>https://spacenews.com/firefly-remains-committed-to-eclipse-as-it-sells-engines-to-ast-spacemobile/</link>
+<guid isPermaLink="true">https://spacenews.com/firefly-remains-committed-to-eclipse-as-it-sells-engines-to-ast-spacemobile/</guid>
+<pubDate>Wed, 11 Nov 2026 12:43:51 +0000</pubDate>
+<description>Firefly Aerospace defended its agreement to sell rocket engines, rather than rocket launches, to AST SpaceMobile, calling it a “transformative deal” that gives it capital to accelerate its own vehicles.</description>
+</item>
 <item>
 <title>Sierra Space gets FAA reentry license for Dream Chaser</title>
 <link>https://spacenews.com/sierra-space-gets-faa-reentry-license-for-dream-chaser/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</guid>
 <pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
 <description>Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […] The post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>DETUMBLER: Airbus’ Passive Spin Stabilization Solution</title>
-<link>https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</link>
-<guid isPermaLink="true">https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […] The post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>ESI supplying solar array components to missile defense programs</title>
-<link>https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/</link>
-<guid isPermaLink="true">https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […] The post ESI supplying solar array components to missile defense programs appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Stellar Dispatch</title>
-<link>https://spacenews.com/stellar-dispatch/</link>
-<guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>Stellar Dispatch</description>
-</item>
-<item>
-<title>Spacenews Terms Conditions</title>
-<link>https://spacenews.com/spacenews-terms-conditions/</link>
-<guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>Spacenews Terms Conditions</description>
-</item>
-<item>
-<title>NASA awards lunar transportation and lander contracts</title>
-<link>https://spacenews.com/nasa-awards-lunar-transportation-and-lander-contracts/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-awards-lunar-transportation-and-lander-contracts/</guid>
-<pubDate>Sun, 08 Nov 2026 02:32:21 +0000</pubDate>
-<description>NASA’s efforts to develop a lunar base continued with the award of contracts for a new generation of lunar landers as well as transportation for some missions.</description>
 </item>
 </channel>
 </rss>
