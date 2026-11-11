@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 11 Nov 2026 02:30:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 10:18:56 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sierra Space gets FAA reentry license for Dream Chaser</title>
+<link>https://spacenews.com/sierra-space-gets-faa-reentry-license-for-dream-chaser/</link>
+<guid isPermaLink="true">https://spacenews.com/sierra-space-gets-faa-reentry-license-for-dream-chaser/</guid>
+<pubDate>Wed, 11 Nov 2026 09:30:42 +0000</pubDate>
+<description>Sierra Space is planning a first flight of its Dream Chaser spacecraft in the spring of 2027 after receiving a reentry license from the FAA.</description>
+</item>
 <item>
 <title>Reflect Orbital raises $73.5 million</title>
 <link>https://spacenews.com/reflect-orbital-raises-73-5-million/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/nasa-awards-lunar-transportation-and-lander-contracts/</guid>
 <pubDate>Sun, 08 Nov 2026 02:32:21 +0000</pubDate>
 <description>NASA’s efforts to develop a lunar base continued with the award of contracts for a new generation of lunar landers as well as transportation for some missions.</description>
-</item>
-<item>
-<title>NASA proceeds with plans to convert Mars rover engineering model into a lunar rover</title>
-<link>https://spacenews.com/nasa-proceeds-with-plans-to-convert-mars-rover-engineering-model-into-a-lunar-rover/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-proceeds-with-plans-to-convert-mars-rover-engineering-model-into-a-lunar-rover/</guid>
-<pubDate>Sun, 08 Nov 2026 01:19:02 +0000</pubDate>
-<description>NASA is moving forward with plans to convert an engineering model of a Mars rover into one that will go to the moon in 2028.</description>
 </item>
 </channel>
 </rss>
