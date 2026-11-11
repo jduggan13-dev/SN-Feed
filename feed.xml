@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 10 Nov 2026 22:49:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 02:30:42 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reflect Orbital raises $73.5 million</title>
+<link>https://spacenews.com/reflect-orbital-raises-73-5-million/</link>
+<guid isPermaLink="true">https://spacenews.com/reflect-orbital-raises-73-5-million/</guid>
+<pubDate>Tue, 10 Nov 2026 23:53:13 +0000</pubDate>
+<description>Reflect Orbital, a company whose plans to reflect sunlight to specific locations on the ground have attracted both interest and controversy, has raised $73.5 million.</description>
+</item>
 <item>
 <title>AST SpaceMobile discloses role in Space Force airborne-tracking program</title>
 <link>https://spacenews.com/ast-spacemobile-discloses-role-in-space-force-airborne-tracking-program/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/nasa-proceeds-with-plans-to-convert-mars-rover-engineering-model-into-a-lunar-rover/</guid>
 <pubDate>Sun, 08 Nov 2026 01:19:02 +0000</pubDate>
 <description>NASA is moving forward with plans to convert an engineering model of a Mars rover into one that will go to the moon in 2028.</description>
-</item>
-<item>
-<title>Blue Origin pushes back New Glenn return to flight to early 2027</title>
-<link>https://spacenews.com/blue-origin-pushes-back-new-glenn-return-to-flight-to-early-2027/</link>
-<guid isPermaLink="true">https://spacenews.com/blue-origin-pushes-back-new-glenn-return-to-flight-to-early-2027/</guid>
-<pubDate>Sat, 07 Nov 2026 21:38:51 +0000</pubDate>
-<description>Blue Origin confirmed that the return to flight of its New Glenn rocket will slip into next year as it continues work rebuilding the vehicle’s Cape Canaveral launch pad.</description>
 </item>
 </channel>
 </rss>
