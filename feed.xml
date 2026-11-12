@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 11 Nov 2026 18:21:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 01:18:02 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Senate committee takes up nominees for NASA chief financial officer and inspector general</title>
+<link>https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/</link>
+<guid isPermaLink="true">https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:18 +0000</pubDate>
+<description>A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.</description>
+</item>
+<item>
+<title>China launches pathfinder spacecraft for “Origins” space science flagships</title>
+<link>https://spacenews.com/china-launches-pathfinder-spacecraft-for-origins-space-science-flagships/</link>
+<guid isPermaLink="true">https://spacenews.com/china-launches-pathfinder-spacecraft-for-origins-space-science-flagships/</guid>
+<pubDate>Wed, 11 Nov 2026 21:59:51 +0000</pubDate>
+<description>MANCHESTER, England — China launched a four-satellite technology demonstration mission Wednesday to test key instruments for upcoming flagship space science missions, including a lunar-orbiting radio array.</description>
+</item>
+<item>
+<title>France awards $1.7 billion contract for next-generation spy satellites</title>
+<link>https://spacenews.com/france-awards-1-7-billion-contract-for-next-generation-spy-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/france-awards-1-7-billion-contract-for-next-generation-spy-satellites/</guid>
+<pubDate>Wed, 11 Nov 2026 21:10:19 +0000</pubDate>
+<description>JOHANNESBURG — France has awarded Airbus Defence and Space and Thales Alenia Space a contract worth more than 1.5 billion euros ($1.7 billion) to develop two next-generation military Earth observation satellites.</description>
+</item>
+<item>
+<title>Revolv Space closes $5.6 million Series A</title>
+<link>https://spacenews.com/revolv-space-closes-5-6-million-series-a/</link>
+<guid isPermaLink="true">https://spacenews.com/revolv-space-closes-5-6-million-series-a/</guid>
+<pubDate>Wed, 11 Nov 2026 19:00:00 +0000</pubDate>
+<description>WARSAW, Poland — Revolv Space, an aerospace power system developer based in Italy and the Netherlands, has closed a 5 million euro ($5.6 million) Series A round led by Deep Ocean Capital, aiming to use the funds to bolster research and development as well as production capacities. That brings the company’s fundraising total to 8.6 million euros, 7.8 million of which are in equity, Revolv Space said in a Nov. 11 fundraising announcement.</description>
+</item>
 <item>
 <title>Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare</title>
 <link>https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</guid>
 <pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
 <description>In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […] The post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Nov. 5: Satellite Mission Management at the Edge</title>
-<link>https://spacenews.com/satellite-mission-management-at-the-edge-event/</link>
-<guid isPermaLink="true">https://spacenews.com/satellite-mission-management-at-the-edge-event/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>China’s Star Vision to build AI constellation for Oman</title>
-<link>https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</link>
-<guid isPermaLink="true">https://spacenews.com/chinas-star-vision-to-build-ai-constellation-for-oman/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>China’s Star Vision to build AI constellation for Oman</description>
-</item>
-<item>
-<title>Astrolab to develop lunar power and communications infrastructure</title>
-<link>https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</link>
-<guid isPermaLink="true">https://spacenews.com/astrolab-to-develop-lunar-power-and-communications-infrastructure/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>Astrolab to develop lunar power and communications infrastructure</description>
-</item>
-<item>
-<title>Simera Sense And Spacemanic To Collaborate On A New Complete Dual Use Mission Solution</title>
-<link>https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […] The post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
