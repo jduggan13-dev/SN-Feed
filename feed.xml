@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 12 Nov 2026 01:18:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 09:16:08 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Gama raises 15 million euros for large deployable solar arrays</title>
+<link>https://spacenews.com/gama-raises-15-million-euros-for-large-deployable-solar-arrays/</link>
+<guid isPermaLink="true">https://spacenews.com/gama-raises-15-million-euros-for-large-deployable-solar-arrays/</guid>
+<pubDate>Thu, 12 Nov 2026 05:20:39 +0000</pubDate>
+<description>Gama, a French company that pivoted from developing solar sails to solar arrays, has raised 15 million euros ($16.6 million).</description>
+</item>
 <item>
 <title>Senate committee takes up nominees for NASA chief financial officer and inspector general</title>
 <link>https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/</guid>
 <pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
 <description>The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Advice For Optimizing The Space Industry With Laura Crabtree</title>
-<link>https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</link>
-<guid isPermaLink="true">https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</guid>
-<pubDate>Sun, 08 Nov 2026 20:10:39 +0000</pubDate>
-<description>In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […] The post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
