@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 13 Nov 2026 13:54:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 20:44:59 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Axiom Space completes key review for lunar spacesuit</title>
+<link>https://spacenews.com/axiom-space-completes-key-review-for-lunar-spacesuit/</link>
+<guid isPermaLink="true">https://spacenews.com/axiom-space-completes-key-review-for-lunar-spacesuit/</guid>
+<pubDate>Fri, 13 Nov 2026 20:04:04 +0000</pubDate>
+<description>Axiom Space has completed the critical design review for a spacesuit it is developing for NASA’s Artemis missions as it also works on a simplified version for initial landings.</description>
+</item>
+<item>
+<title>Commercial Space Federation Welcomes CesiumAstro as a New Associate Member</title>
+<link>https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/</link>
+<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/</guid>
+<pubDate>Fri, 13 Nov 2026 18:00:00 +0000</pubDate>
+<description>November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […]</description>
+</item>
+<item>
+<title>Hawkeye 360 to expand commercial business in 2027</title>
+<link>https://spacenews.com/hawkeye-360-to-expand-commercial-business-in-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/hawkeye-360-to-expand-commercial-business-in-2027/</guid>
+<pubDate>Fri, 13 Nov 2026 17:13:49 +0000</pubDate>
+<description>WASHINGTON — Signals intelligence firm Hawkeye 360 plans to expand its commercial offerings in the coming year as part of a broader push to diversify its customer base to include more private sector and international clients, CEO John Serafini told investors during a Nov. 12 earnings call.</description>
+</item>
+<item>
+<title>Space Force picks three firms to develop cloud software to control electronic jammer fleet</title>
+<link>https://spacenews.com/space-force-picks-three-firms-to-develop-cloud-software-to-control-electronic-jammer-fleet/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-picks-three-firms-to-develop-cloud-software-to-control-electronic-jammer-fleet/</guid>
+<pubDate>Fri, 13 Nov 2026 16:11:05 +0000</pubDate>
+<description>Anduril, Booz Allen and Peerless selected for first phase of $60 million prototype program</description>
+</item>
 <item>
 <title>Office of Space Commerce selects four companies for mission authorization pilot program</title>
 <link>https://spacenews.com/office-of-space-commerce-selects-four-companies-for-mission-authorization-pilot-program/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/gama-raises-15-million-euros-for-large-deployable-solar-arrays/</guid>
 <pubDate>Thu, 12 Nov 2026 05:20:39 +0000</pubDate>
 <description>Gama, a French company that pivoted from developing solar sails to solar arrays, has raised 15 million euros ($16.6 million).</description>
-</item>
-<item>
-<title>Senate committee takes up nominees for NASA chief financial officer and inspector general</title>
-<link>https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/</link>
-<guid isPermaLink="true">https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:18 +0000</pubDate>
-<description>A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>China launches pathfinder spacecraft for “Origins” space science flagships</title>
-<link>https://spacenews.com/china-launches-pathfinder-spacecraft-for-origins-space-science-flagships/</link>
-<guid isPermaLink="true">https://spacenews.com/china-launches-pathfinder-spacecraft-for-origins-space-science-flagships/</guid>
-<pubDate>Wed, 11 Nov 2026 21:59:51 +0000</pubDate>
-<description>MANCHESTER, England — China launched a four-satellite technology demonstration mission Wednesday to test key instruments for upcoming flagship space science missions, including a lunar-orbiting radio array.</description>
-</item>
-<item>
-<title>France awards $1.7 billion contract for next-generation spy satellites</title>
-<link>https://spacenews.com/france-awards-1-7-billion-contract-for-next-generation-spy-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/france-awards-1-7-billion-contract-for-next-generation-spy-satellites/</guid>
-<pubDate>Wed, 11 Nov 2026 21:10:19 +0000</pubDate>
-<description>JOHANNESBURG — France has awarded Airbus Defence and Space and Thales Alenia Space a contract worth more than 1.5 billion euros ($1.7 billion) to develop two next-generation military Earth observation satellites.</description>
-</item>
-<item>
-<title>Revolv Space closes $5.6 million Series A</title>
-<link>https://spacenews.com/revolv-space-closes-5-6-million-series-a/</link>
-<guid isPermaLink="true">https://spacenews.com/revolv-space-closes-5-6-million-series-a/</guid>
-<pubDate>Wed, 11 Nov 2026 19:00:00 +0000</pubDate>
-<description>WARSAW, Poland — Revolv Space, an aerospace power system developer based in Italy and the Netherlands, has closed a 5 million euro ($5.6 million) Series A round led by Deep Ocean Capital, aiming to use the funds to bolster research and development as well as production capacities. That brings the company’s fundraising total to 8.6 million euros, 7.8 million of which are in equity, Revolv Space said in a Nov. 11 fundraising announcement.</description>
 </item>
 </channel>
 </rss>
