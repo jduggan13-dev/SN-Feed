@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 12 Nov 2026 23:12:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 05:00:21 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AST SpaceMobile presses case for developing own launch vehicle</title>
+<link>https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/</link>
+<guid isPermaLink="true">https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/</guid>
+<pubDate>Fri, 13 Nov 2026 01:15:21 +0000</pubDate>
+<description>AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.</description>
+</item>
+<item>
+<title>Serco expands military space business with $292 million QinetiQ deal</title>
+<link>https://spacenews.com/serco-expands-military-space-business-with-292-million-qinetiq-deal/</link>
+<guid isPermaLink="true">https://spacenews.com/serco-expands-military-space-business-with-292-million-qinetiq-deal/</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<description>Acquisition brings Space Development Agency engineering work into Serco's U.S. defense portfolio</description>
+</item>
+<item>
+<title>York Space takes $750 million charge amid uncertainty over future Pentagon contracts</title>
+<link>https://spacenews.com/york-space-takes-750-million-charge-as-pentagon-contract-uncertainty-weighs/</link>
+<guid isPermaLink="true">https://spacenews.com/york-space-takes-750-million-charge-as-pentagon-contract-uncertainty-weighs/</guid>
+<pubDate>Thu, 12 Nov 2026 23:44:56 +0000</pubDate>
+<description>Satellite maker expects major awards to slip into 2027 and 2028 as Space Force reshapes its procurement strategy</description>
+</item>
 <item>
 <title>Iceye US expands manufacturing, targets new military markets for radar payloads</title>
 <link>https://spacenews.com/iceye-us-expands-manufacturing-targets-new-military-markets-for-radar-payloads/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/china-recruits-international-partners-for-34-satellite-cislunar-constellation/</guid>
 <pubDate>Wed, 11 Nov 2026 13:28:21 +0000</pubDate>
 <description>MANCHESTER, England — China is recruiting international partners for a constellation of small spacecraft occupying nine-day elliptical orbits reaching lunar distance targeted for launch in 2030.</description>
-</item>
-<item>
-<title>Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push</title>
-<link>https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/</link>
-<guid isPermaLink="true">https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/</guid>
-<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-<description>(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […] The post Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Firefly remains committed to Eclipse as it sells engines to AST SpaceMobile</title>
-<link>https://spacenews.com/firefly-remains-committed-to-eclipse-as-it-sells-engines-to-ast-spacemobile/</link>
-<guid isPermaLink="true">https://spacenews.com/firefly-remains-committed-to-eclipse-as-it-sells-engines-to-ast-spacemobile/</guid>
-<pubDate>Wed, 11 Nov 2026 12:43:51 +0000</pubDate>
-<description>Firefly Aerospace defended its agreement to sell rocket engines, rather than rocket launches, to AST SpaceMobile, calling it a “transformative deal” that gives it capital to accelerate its own vehicles.</description>
-</item>
-<item>
-<title>Sierra Space gets FAA reentry license for Dream Chaser</title>
-<link>https://spacenews.com/sierra-space-gets-faa-reentry-license-for-dream-chaser/</link>
-<guid isPermaLink="true">https://spacenews.com/sierra-space-gets-faa-reentry-license-for-dream-chaser/</guid>
-<pubDate>Wed, 11 Nov 2026 09:30:42 +0000</pubDate>
-<description>Sierra Space is planning a first flight of its Dream Chaser spacecraft in the spring of 2027 after receiving a reentry license from the FAA.</description>
 </item>
 </channel>
 </rss>
