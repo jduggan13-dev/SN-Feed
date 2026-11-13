@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 13 Nov 2026 05:00:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 13:54:30 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Office of Space Commerce selects four companies for mission authorization pilot program</title>
+<link>https://spacenews.com/office-of-space-commerce-selects-four-companies-for-mission-authorization-pilot-program/</link>
+<guid isPermaLink="true">https://spacenews.com/office-of-space-commerce-selects-four-companies-for-mission-authorization-pilot-program/</guid>
+<pubDate>Fri, 13 Nov 2026 12:39:34 +0000</pubDate>
+<description>The Office of Space Commerce selected four companies to participate in a pilot program that will lead to a mission authorization system for new commercial space activities.</description>
+</item>
+<item>
+<title>China’s Tianwen-4 Jupiter mission to attempt Callisto moon landing</title>
+<link>https://spacenews.com/chinas-tianwen-4-jupiter-mission-to-attempt-callisto-moon-landing/</link>
+<guid isPermaLink="true">https://spacenews.com/chinas-tianwen-4-jupiter-mission-to-attempt-callisto-moon-landing/</guid>
+<pubDate>Fri, 13 Nov 2026 11:46:22 +0000</pubDate>
+<description>HELSINKI — China’s space agency has issued a call for payloads for its Jupiter exploration project, revealing the inclusion of a lander targeting Galilean moon Callisto.</description>
+</item>
+<item>
+<title>Blue Origin bows out of NASA commercial space station competition</title>
+<link>https://spacenews.com/blue-origin-bows-out-of-nasa-commercial-space-station-competition/</link>
+<guid isPermaLink="true">https://spacenews.com/blue-origin-bows-out-of-nasa-commercial-space-station-competition/</guid>
+<pubDate>Fri, 13 Nov 2026 11:27:54 +0000</pubDate>
+<description>Blue Origin has decided not to bid on a NASA competition to support the development of commercial space stations.</description>
+</item>
 <item>
 <title>AST SpaceMobile presses case for developing own launch vehicle</title>
 <link>https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/revolv-space-closes-5-6-million-series-a/</guid>
 <pubDate>Wed, 11 Nov 2026 19:00:00 +0000</pubDate>
 <description>WARSAW, Poland — Revolv Space, an aerospace power system developer based in Italy and the Netherlands, has closed a 5 million euro ($5.6 million) Series A round led by Deep Ocean Capital, aiming to use the funds to bolster research and development as well as production capacities. That brings the company’s fundraising total to 8.6 million euros, 7.8 million of which are in equity, Revolv Space said in a Nov. 11 fundraising announcement.</description>
-</item>
-<item>
-<title>Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare</title>
-<link>https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</link>
-<guid isPermaLink="true">https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</guid>
-<pubDate>Wed, 11 Nov 2026 15:53:57 +0000</pubDate>
-<description>East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>SpaceX to study options to bridge commercial and military satellite networks</title>
-<link>https://spacenews.com/spacex-to-study-options-to-bridge-commercial-and-military-satellite-networks/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-to-study-options-to-bridge-commercial-and-military-satellite-networks/</guid>
-<pubDate>Wed, 11 Nov 2026 14:15:00 +0000</pubDate>
-<description>The Space Development Agency awarded SpaceX a nearly $10 million contract to examines Plaser integration with missile-warning and tracking systems</description>
-</item>
-<item>
-<title>China recruits international partners for 34-satellite cislunar constellation</title>
-<link>https://spacenews.com/china-recruits-international-partners-for-34-satellite-cislunar-constellation/</link>
-<guid isPermaLink="true">https://spacenews.com/china-recruits-international-partners-for-34-satellite-cislunar-constellation/</guid>
-<pubDate>Wed, 11 Nov 2026 13:28:21 +0000</pubDate>
-<description>MANCHESTER, England — China is recruiting international partners for a constellation of small spacecraft occupying nine-day elliptical orbits reaching lunar distance targeted for launch in 2030.</description>
 </item>
 </channel>
 </rss>
