@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 14 Nov 2026 08:34:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 15:32:38 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electron launches for 100th time</title>
+<link>https://spacenews.com/electron-launches-for-100th-time/</link>
+<guid isPermaLink="true">https://spacenews.com/electron-launches-for-100th-time/</guid>
+<pubDate>Sat, 14 Nov 2026 13:53:12 +0000</pubDate>
+<description>Rocket Lab’s Electron launched for the 100th time on a Nov. 14 mission for a Japanese customer, reaching that milestone faster than any other commercial rocket.</description>
+</item>
 <item>
 <title>Starship launches on 15th test, calls off booster catch</title>
 <link>https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/connectivity-and-control-why-militaries-relying-on-starlink-need-end-use-agreements/</guid>
 <pubDate>Thu, 12 Nov 2026 13:00:00 +0000</pubDate>
 <description>A military that relies on a foreign company for its satellite communications gives up a great degree of control over its own operations. Ukraine, which has relied on Starlink for battlefield communications since the early days of its war with Russia, learned once again in October about the dangers of depending on a foreign capability.</description>
-</item>
-<item>
-<title>York Space expands into unmanned ground systems with acquisition of Outlook Industries</title>
-<link>https://spacenews.com/york-space-expands-into-unmanned-ground-systems-with-acquisition-of-outlook-industries/</link>
-<guid isPermaLink="true">https://spacenews.com/york-space-expands-into-unmanned-ground-systems-with-acquisition-of-outlook-industries/</guid>
-<pubDate>Thu, 12 Nov 2026 12:36:32 +0000</pubDate>
-<description>The company is acquiring Australian military contractor and plans to create a new business focused on unmanned ground systems</description>
 </item>
 </channel>
 </rss>
