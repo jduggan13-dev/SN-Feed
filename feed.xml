@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 14 Nov 2026 01:16:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 08:34:53 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Starship launches on 15th test, calls off booster catch</title>
+<link>https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/</link>
+<guid isPermaLink="true">https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/</guid>
+<pubDate>Sat, 14 Nov 2026 01:18:09 +0000</pubDate>
+<description>SpaceX launched its Starship vehicle on the company’s first attempt to recover both stages of the rocket but was forced to call off recovery of the Super Heavy booster.</description>
+</item>
 <item>
 <title>Axiom Space completes key review for lunar spacesuit</title>
 <link>https://spacenews.com/axiom-space-completes-key-review-for-lunar-spacesuit/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/york-space-expands-into-unmanned-ground-systems-with-acquisition-of-outlook-industries/</guid>
 <pubDate>Thu, 12 Nov 2026 12:36:32 +0000</pubDate>
 <description>The company is acquiring Australian military contractor and plans to create a new business focused on unmanned ground systems</description>
-</item>
-<item>
-<title>Gama raises 15 million euros for large deployable solar arrays</title>
-<link>https://spacenews.com/gama-raises-15-million-euros-for-large-deployable-solar-arrays/</link>
-<guid isPermaLink="true">https://spacenews.com/gama-raises-15-million-euros-for-large-deployable-solar-arrays/</guid>
-<pubDate>Thu, 12 Nov 2026 05:20:39 +0000</pubDate>
-<description>Gama, a French company that pivoted from developing solar sails to solar arrays, has raised 15 million euros ($16.6 million).</description>
 </item>
 </channel>
 </rss>
