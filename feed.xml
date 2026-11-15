@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sun, 15 Nov 2026 15:18:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 20:48:34 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Vulcan launch of Amazon Leo satellites fails</title>
+<link>https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</link>
+<guid isPermaLink="true">https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</guid>
+<pubDate>Sun, 15 Nov 2026 19:12:10 +0000</pubDate>
+<description>A ULA Vulcan carrying a set of Amazon Leo satellites failed to reach orbit Nov. 15, dealing a major blow to the company in Vulcan’s first flight in nine months.</description>
+</item>
 <item>
 <title>SpaceX catches Starship upper stage</title>
 <link>https://spacenews.com/spacex-catches-starship-upper-stage/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/trusted-space-acquires-falcon-exodynamics-to-expand-military-satellite-autonomy-business/</guid>
 <pubDate>Thu, 12 Nov 2026 15:18:58 +0000</pubDate>
 <description>Washington Harbour-backed deal combines mission software and spacecraft control technology</description>
-</item>
-<item>
-<title>Caltech tests in-space robotic assembly on Momentus spacecraft</title>
-<link>https://spacenews.com/caltech-tests-in-space-robotic-assembly-on-momentus-spacecraft/</link>
-<guid isPermaLink="true">https://spacenews.com/caltech-tests-in-space-robotic-assembly-on-momentus-spacecraft/</guid>
-<pubDate>Thu, 12 Nov 2026 13:01:00 +0000</pubDate>
-<description>Momentus and Caltech have made progress in testing in-space assembly technology for DARPA, which could enable production of very large structures in orbit.</description>
 </item>
 </channel>
 </rss>
