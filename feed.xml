@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 14 Nov 2026 20:24:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 00:44:04 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>SpaceX catches Starship upper stage</title>
+<link>https://spacenews.com/spacex-catches-starship-upper-stage/</link>
+<guid isPermaLink="true">https://spacenews.com/spacex-catches-starship-upper-stage/</guid>
+<pubDate>Sat, 14 Nov 2026 21:51:19 +0000</pubDate>
+<description>The upper stage of SpaceX’s Starship successfully returned to the launch site for the first time Nov. 14, a major milestone in the company’s efforts to make the vehicle rapidly reusable.</description>
+</item>
 <item>
 <title>Electron launches for 100th time</title>
 <link>https://spacenews.com/electron-launches-for-100th-time/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/caltech-tests-in-space-robotic-assembly-on-momentus-spacecraft/</guid>
 <pubDate>Thu, 12 Nov 2026 13:01:00 +0000</pubDate>
 <description>Momentus and Caltech have made progress in testing in-space assembly technology for DARPA, which could enable production of very large structures in orbit.</description>
-</item>
-<item>
-<title>Connectivity and control: why militaries relying on Starlink need end-use agreements</title>
-<link>https://spacenews.com/connectivity-and-control-why-militaries-relying-on-starlink-need-end-use-agreements/</link>
-<guid isPermaLink="true">https://spacenews.com/connectivity-and-control-why-militaries-relying-on-starlink-need-end-use-agreements/</guid>
-<pubDate>Thu, 12 Nov 2026 13:00:00 +0000</pubDate>
-<description>A military that relies on a foreign company for its satellite communications gives up a great degree of control over its own operations. Ukraine, which has relied on Starlink for battlefield communications since the early days of its war with Russia, learned once again in October about the dangers of depending on a foreign capability.</description>
 </item>
 </channel>
 </rss>
