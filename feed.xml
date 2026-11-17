@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 17 Nov 2026 10:10:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 19:35:43 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How AI is pushing satellites to evolve</title>
+<link>https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/</link>
+<guid isPermaLink="true">https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/</guid>
+<pubDate>Tue, 17 Nov 2026 17:02:33 +0000</pubDate>
+<description>During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […]</description>
+</item>
+<item>
+<title>Iceye launches bid to acquire Avio</title>
+<link>https://spacenews.com/iceye-launches-bid-to-acquire-avio/</link>
+<guid isPermaLink="true">https://spacenews.com/iceye-launches-bid-to-acquire-avio/</guid>
+<pubDate>Tue, 17 Nov 2026 15:31:59 +0000</pubDate>
+<description>Radar-imaging company Iceye announced Nov. 17 it is offering to buy Italian launch company Avio for more than 2 billion euros ($2.2 billion).</description>
+</item>
+<item>
+<title>Iceye unveils high-resolution Gen5 satellites</title>
+<link>https://spacenews.com/iceye-unveils-high-resolution-gen5-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/iceye-unveils-high-resolution-gen5-satellites/</guid>
+<pubDate>Tue, 17 Nov 2026 15:15:46 +0000</pubDate>
+<description>WASHINGTON — Space intelligence company Iceye unveiled its newest synthetic aperture radar satellite, Gen5, designed to provide more precise, clear ground imagery for government customers.</description>
+</item>
+<item>
+<title>Ramon.Space raises $124 million</title>
+<link>https://spacenews.com/ramon-space-raises-124-million/</link>
+<guid isPermaLink="true">https://spacenews.com/ramon-space-raises-124-million/</guid>
+<pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
+<description>Ramon.Space has raised $124 million to ramp up development of orbital computing capabilities needed for space AI applications.</description>
+</item>
+<item>
+<title>Polish ILR-33 Amber 2K rocket carries first customer payload</title>
+<link>https://spacenews.com/polish-ilr-33-amber-2k-rocket-carries-first-customer-payload/</link>
+<guid isPermaLink="true">https://spacenews.com/polish-ilr-33-amber-2k-rocket-carries-first-customer-payload/</guid>
+<pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+<description>JOHANNESBURG — Poland’s Łukasiewicz Institute of Aviation launched its second ILR-33 Amber 2K suborbital rocket on Nov. 12, marking the first time the vehicle has carried a customer payload. The flight comes as Poland explores establishing permanent infrastructure to support a domestic commercial suborbital launch industry.</description>
+</item>
 <item>
 <title>Sn Media Kit</title>
 <link>https://spacenews.com/sn-media-kit/</link>
@@ -16,53 +51,11 @@
 <description>Sn Media Kit</description>
 </item>
 <item>
-<title>Seops Stoke Sign Deal For Waymaker Rideshare Missions</title>
-<link>https://spacenews.com/seops-stoke-sign-deal-for-waymaker-rideshare-missions/</link>
-<guid isPermaLink="true">https://spacenews.com/seops-stoke-sign-deal-for-waymaker-rideshare-missions/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Seops Stoke Sign Deal For Waymaker Rideshare Missions</description>
-</item>
-<item>
 <title>How Mini Constellations Could More Quickly Bring New Tech To Europe And To Orbit</title>
 <link>https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/</link>
 <guid isPermaLink="true">https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/</guid>
 <pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
 <description>How Mini Constellations Could More Quickly Bring New Tech To Europe And To Orbit</description>
-</item>
-<item>
-<title>Senate Defense Bill Backs Space Buildup But Questions Acquisition Strategy</title>
-<link>https://spacenews.com/senate-defense-bill-backs-space-buildup-but-questions-acquisition-strategy/</link>
-<guid isPermaLink="true">https://spacenews.com/senate-defense-bill-backs-space-buildup-but-questions-acquisition-strategy/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Appropriators move billions in space funding into the regular defense budget</description>
-</item>
-<item>
-<title>Senate Appropriations Bill Wants To Speed Up Work On Habitable Worlds Observatory</title>
-<link>https://spacenews.com/senate-appropriations-bill-wants-to-speed-up-work-on-habitable-worlds-observatory/</link>
-<guid isPermaLink="true">https://spacenews.com/senate-appropriations-bill-wants-to-speed-up-work-on-habitable-worlds-observatory/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Senate appropriators want to accelerate development of a NASA space telescope, offering additional funding for the mission in 2027.</description>
-</item>
-<item>
-<title>Space Force Eyes 2029 Cislunar Launch As Key Mission Questions Remain Open</title>
-<link>https://spacenews.com/space-force-eyes-2029-cislunar-launch-as-key-mission-questions-remain-open/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-eyes-2029-cislunar-launch-as-key-mission-questions-remain-open/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Space Force Eyes 2029 Cislunar Launch As Key Mission Questions Remain Open</description>
-</item>
-<item>
-<title>Leolabs Buys Missile Defense Specialist Fisheye Software</title>
-<link>https://spacenews.com/leolabs-buys-missile-defense-specialist-fisheye-software/</link>
-<guid isPermaLink="true">https://spacenews.com/leolabs-buys-missile-defense-specialist-fisheye-software/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Deal adds cleared radar and software engineers as LeoLabs expands its defense hardware business</description>
-</item>
-<item>
-<title>Jamming Is A Much Bigger Problem Than We Think</title>
-<link>https://spacenews.com/jamming-is-a-much-bigger-problem-than-we-think/</link>
-<guid isPermaLink="true">https://spacenews.com/jamming-is-a-much-bigger-problem-than-we-think/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Last month, a Russian Kosmos military satellite came within a few hundred metres of an American commercial satellite operated by ICEYE. The ICEYE satellite provides imagery to Ukraine’s armed forces. The incident elicited warnings from Washington and renewed fears that Russia might attack Western satellites in orbit. If anyone outside Moscow knows what the Russian spacecraft was doing, they haven’t made it public, although the movements of the Kosmos spacecraft were plainly deliberate. The prospect of hostile satellites chasing one another through space is certainly alarming. But military planners have another, less conspicuous threat to contend with, and good reason to suspect that it is far more widespread than we have been led to believe.</description>
 </item>
 <item>
 <title>What role does industry play in Europe’s space sovereignty push?</title>
@@ -86,81 +79,11 @@
 <description>Advice For Optimizing The Space Industry With Laura Crabtree</description>
 </item>
 <item>
-<title>Spacenukes Opens Los Alamos Manufacture And Materials Facility To Build Its Next Generation Space Reactor</title>
-<link>https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</link>
-<guid isPermaLink="true">https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Vulcan Launch Of Amazon Leo Satellites Fails</title>
-<link>https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</link>
-<guid isPermaLink="true">https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>A ULA Vulcan carrying a set of Amazon Leo satellites failed to reach orbit Nov. 15, dealing a major blow to the company in Vulcan’s first flight in nine months.</description>
-</item>
-<item>
-<title>Hawkeye 360 To Expand Commercial Business In 2027</title>
-<link>https://spacenews.com/hawkeye-360-to-expand-commercial-business-in-2027/</link>
-<guid isPermaLink="true">https://spacenews.com/hawkeye-360-to-expand-commercial-business-in-2027/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>WASHINGTON — Signals intelligence firm Hawkeye 360 plans to expand its commercial offerings in the coming year as part of a broader push to diversify its customer base to include more private sector and international clients, CEO John Serafini told investors during a Nov. 12 earnings call.</description>
-</item>
-<item>
-<title>Space Force picks three firms to develop cloud software to control electronic jammer fleet</title>
-<link>https://spacenews.com/space-force-picks-three-firms-to-develop-cloud-software-to-control-electronic-jammer-fleet/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-picks-three-firms-to-develop-cloud-software-to-control-electronic-jammer-fleet/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Space Force picks three firms to develop cloud software to control electronic jammer fleet</description>
-</item>
-<item>
-<title>SpaceX catches Starship upper stage</title>
-<link>https://spacenews.com/spacex-catches-starship-upper-stage/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-catches-starship-upper-stage/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>The upper stage of SpaceX’s Starship successfully returned to the launch site for the first time Nov. 14, a major milestone in the company’s efforts to make the vehicle rapidly reusable.</description>
-</item>
-<item>
-<title>Kbr Spinoff Trinzic Eyes Military Space Growth As Nasa Work Declines</title>
-<link>https://spacenews.com/kbr-spinoff-trinzic-eyes-military-space-growth-as-nasa-work-declines/</link>
-<guid isPermaLink="true">https://spacenews.com/kbr-spinoff-trinzic-eyes-military-space-growth-as-nasa-work-declines/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Company pursuing military satellite integration opportunities in the U.S. and Australia</description>
-</item>
-<item>
-<title>Electron launches for 100th time</title>
-<link>https://spacenews.com/electron-launches-for-100th-time/</link>
-<guid isPermaLink="true">https://spacenews.com/electron-launches-for-100th-time/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Rocket Lab’s Electron launched for the 100th time on a Nov. 14 mission for a Japanese customer, reaching that milestone faster than any other commercial rocket.</description>
-</item>
-<item>
-<title>Office Of Space Commerce Selects Four Companies For Mission Authorization Pilot Program</title>
-<link>https://spacenews.com/office-of-space-commerce-selects-four-companies-for-mission-authorization-pilot-program/</link>
-<guid isPermaLink="true">https://spacenews.com/office-of-space-commerce-selects-four-companies-for-mission-authorization-pilot-program/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>The Office of Space Commerce selected four companies to participate in a pilot program that will lead to a mission authorization system for new commercial space activities.</description>
-</item>
-<item>
 <title>White House declaration reaffirms freedom of American activities in space</title>
 <link>https://spacenews.com/white-house-declaration-reaffirms-freedom-of-american-activities-in-space/</link>
 <guid isPermaLink="true">https://spacenews.com/white-house-declaration-reaffirms-freedom-of-american-activities-in-space/</guid>
 <pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
 <description>White House declaration reaffirms freedom of American activities in space</description>
-</item>
-<item>
-<title>Axiom Space Completes Key Review For Lunar Spacesuit</title>
-<link>https://spacenews.com/axiom-space-completes-key-review-for-lunar-spacesuit/</link>
-<guid isPermaLink="true">https://spacenews.com/axiom-space-completes-key-review-for-lunar-spacesuit/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Axiom Space has completed the critical design review for a spacesuit it is developing for NASA’s Artemis missions as it also works on a simplified version for initial landings.</description>
-</item>
-<item>
-<title>China’s Tianwen-4 Jupiter mission to attempt Callisto moon landing</title>
-<link>https://spacenews.com/chinas-tianwen-4-jupiter-mission-to-attempt-callisto-moon-landing/</link>
-<guid isPermaLink="true">https://spacenews.com/chinas-tianwen-4-jupiter-mission-to-attempt-callisto-moon-landing/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>HELSINKI — China’s space agency has issued a call for payloads for its Jupiter exploration project, revealing the inclusion of a lander targeting Galilean moon Callisto.</description>
 </item>
 <item>
 <title>Connectivity And Control Why Militaries Relying On Starlink Need End Use Agreements</title>
@@ -175,20 +98,6 @@
 <guid isPermaLink="true">https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</guid>
 <pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
 <description>Protection or preparation for attack? Counterspace capabilities, international law and nuclear command and control</description>
-</item>
-<item>
-<title>Cosmo Bee To Flight Test Honeybee Hall Thruster With D Orbit In 2027</title>
-<link>https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/</link>
-<guid isPermaLink="true">https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Commercial Space Federation Welcomes Cesiumastro As A New Associate Member</title>
-<link>https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/</link>
-<guid isPermaLink="true">https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology</title>
@@ -217,6 +126,97 @@
 <guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
 <pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
 <description>Spacenews Terms Conditions</description>
+</item>
+<item>
+<title>Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027</title>
+<link>https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/</guid>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+<description>Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>SEOPS, Stoke sign deal for Waymaker rideshare missions</title>
+<link>https://spacenews.com/seops-stoke-sign-deal-for-waymaker-rideshare-missions/</link>
+<guid isPermaLink="true">https://spacenews.com/seops-stoke-sign-deal-for-waymaker-rideshare-missions/</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+<description>EDITOR’S NOTE: This story was updated Nov. 17 with information about an additional SEOPS rideshare opportunity.</description>
+</item>
+<item>
+<title>Senate defense bill backs space buildup but questions acquisition strategy</title>
+<link>https://spacenews.com/senate-defense-bill-backs-space-buildup-but-questions-acquisition-strategy/</link>
+<guid isPermaLink="true">https://spacenews.com/senate-defense-bill-backs-space-buildup-but-questions-acquisition-strategy/</guid>
+<pubDate>Tue, 17 Nov 2026 00:16:43 +0000</pubDate>
+<description>Appropriators move billions in space funding into the regular defense budget</description>
+</item>
+<item>
+<title>Senate appropriations bill wants to speed up work on Habitable Worlds Observatory</title>
+<link>https://spacenews.com/senate-appropriations-bill-wants-to-speed-up-work-on-habitable-worlds-observatory/</link>
+<guid isPermaLink="true">https://spacenews.com/senate-appropriations-bill-wants-to-speed-up-work-on-habitable-worlds-observatory/</guid>
+<pubDate>Mon, 16 Nov 2026 21:31:30 +0000</pubDate>
+<description>Senate appropriators want to accelerate development of a NASA space telescope, offering additional funding for the mission in 2027.</description>
+</item>
+<item>
+<title>SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor</title>
+<link>https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</link>
+<guid isPermaLink="true">https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</guid>
+<pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
+<description>LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Space Force eyes 2029 cislunar launch as key mission questions remain open</title>
+<link>https://spacenews.com/space-force-eyes-2029-cislunar-launch-as-key-mission-questions-remain-open/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-eyes-2029-cislunar-launch-as-key-mission-questions-remain-open/</guid>
+<pubDate>Mon, 16 Nov 2026 18:00:00 +0000</pubDate>
+<description>Space Force Eyes 2029 Cislunar Launch As Key Mission Questions Remain Open</description>
+</item>
+<item>
+<title>LeoLabs buys missile-defense specialist FishEye Software</title>
+<link>https://spacenews.com/leolabs-buys-missile-defense-specialist-fisheye-software/</link>
+<guid isPermaLink="true">https://spacenews.com/leolabs-buys-missile-defense-specialist-fisheye-software/</guid>
+<pubDate>Mon, 16 Nov 2026 13:30:00 +0000</pubDate>
+<description>Deal adds cleared radar and software engineers as LeoLabs expands its defense hardware business</description>
+</item>
+<item>
+<title>Jamming is a much bigger problem than we think</title>
+<link>https://spacenews.com/jamming-is-a-much-bigger-problem-than-we-think/</link>
+<guid isPermaLink="true">https://spacenews.com/jamming-is-a-much-bigger-problem-than-we-think/</guid>
+<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+<description>Last month, a Russian Kosmos military satellite came within a few hundred metres of an American commercial satellite operated by ICEYE. The ICEYE satellite provides imagery to Ukraine’s armed forces. The incident elicited warnings from Washington and renewed fears that Russia might attack Western satellites in orbit. If anyone outside Moscow knows what the Russian spacecraft was doing, they haven’t made it public, although the movements of the Kosmos spacecraft were plainly deliberate. The prospect of hostile satellites chasing one another through space is certainly alarming. But military planners have another, less conspicuous threat to contend with, and good reason to suspect that it is far more widespread than we have been led to believe.</description>
+</item>
+<item>
+<title>KBR spinoff Trinzic eyes military space growth as NASA work declines</title>
+<link>https://spacenews.com/kbr-spinoff-trinzic-eyes-military-space-growth-as-nasa-work-declines/</link>
+<guid isPermaLink="true">https://spacenews.com/kbr-spinoff-trinzic-eyes-military-space-growth-as-nasa-work-declines/</guid>
+<pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
+<description>Company pursuing military satellite integration opportunities in the U.S. and Australia</description>
+</item>
+<item>
+<title>Vulcan launch of Amazon Leo satellites fails</title>
+<link>https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</link>
+<guid isPermaLink="true">https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</guid>
+<pubDate>Sun, 15 Nov 2026 19:12:10 +0000</pubDate>
+<description>A ULA Vulcan carrying a set of Amazon Leo satellites failed to reach orbit Nov. 15, dealing a major blow to the company in Vulcan’s first flight in nine months.</description>
+</item>
+<item>
+<title>SpaceX catches Starship upper stage</title>
+<link>https://spacenews.com/spacex-catches-starship-upper-stage/</link>
+<guid isPermaLink="true">https://spacenews.com/spacex-catches-starship-upper-stage/</guid>
+<pubDate>Sat, 14 Nov 2026 21:51:19 +0000</pubDate>
+<description>The upper stage of SpaceX’s Starship successfully returned to the launch site for the first time Nov. 14, a major milestone in the company’s efforts to make the vehicle rapidly reusable.</description>
+</item>
+<item>
+<title>Electron launches for 100th time</title>
+<link>https://spacenews.com/electron-launches-for-100th-time/</link>
+<guid isPermaLink="true">https://spacenews.com/electron-launches-for-100th-time/</guid>
+<pubDate>Sat, 14 Nov 2026 13:53:12 +0000</pubDate>
+<description>Rocket Lab’s Electron launched for the 100th time on a Nov. 14 mission for a Japanese customer, reaching that milestone faster than any other commercial rocket.</description>
+</item>
+<item>
+<title>Starship launches on 15th test, calls off booster catch</title>
+<link>https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/</link>
+<guid isPermaLink="true">https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/</guid>
+<pubDate>Sat, 14 Nov 2026 01:18:09 +0000</pubDate>
+<description>SpaceX launched its Starship vehicle on the company’s first attempt to recover both stages of the rocket but was forced to call off recovery of the Super Heavy booster.</description>
 </item>
 </channel>
 </rss>
