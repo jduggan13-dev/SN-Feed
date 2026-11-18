@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 18 Nov 2026 11:06:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 19:57:24 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>U.S. commission warns of China’s efforts to track submarines from space</title>
+<link>https://spacenews.com/u-s-commission-warns-of-chinas-efforts-to-track-submarines-from-space/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-commission-warns-of-chinas-efforts-to-track-submarines-from-space/</guid>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
+<description>Congressional commission says even limited submarine detection could erode a key U.S. military advantage in the Pacific</description>
+</item>
+<item>
+<title>The high frontier is not red or blue</title>
+<link>https://spacenews.com/the-high-frontier-is-not-red-or-blue/</link>
+<guid isPermaLink="true">https://spacenews.com/the-high-frontier-is-not-red-or-blue/</guid>
+<pubDate>Wed, 18 Nov 2026 17:23:27 +0000</pubDate>
+<description>The American people have spoken. The Democrats have swept into control of Congress, and Washington is about to change dramatically.</description>
+</item>
+<item>
+<title>Origami and solar arrays</title>
+<link>https://spacenews.com/origami-and-solar-arrays/</link>
+<guid isPermaLink="true">https://spacenews.com/origami-and-solar-arrays/</guid>
+<pubDate>Wed, 18 Nov 2026 16:56:05 +0000</pubDate>
+<description>In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]</description>
+</item>
 <item>
 <title>U.S. senators call for deeper military space ties with New Zealand</title>
 <link>https://spacenews.com/u-s-senators-call-for-deeper-military-space-ties-with-new-zealand/</link>
@@ -58,7 +79,7 @@
 <description>L3Harris executive Rob Mitrevski says missile defense threats remain a bipartisan concern despite the political uncertainty surrounding Golden Dome</description>
 </item>
 <item>
-<title>ULA CEO says Vulcan failure probe focused on liquid core booster</title>
+<title>Updated: ULA says Vulcan failure likely caused by inadequate fuel supply</title>
 <link>https://spacenews.com/ula-ceo-says-vulcan-failure-probe-focused-on-liquid-core-booster/</link>
 <guid isPermaLink="true">https://spacenews.com/ula-ceo-says-vulcan-failure-probe-focused-on-liquid-core-booster/</guid>
 <pubDate>Tue, 17 Nov 2026 20:33:47 +0000</pubDate>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/seops-stoke-sign-deal-for-waymaker-rideshare-missions/</guid>
 <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
 <description>EDITOR’S NOTE: This story was updated Nov. 17 with information about an additional SEOPS rideshare opportunity.</description>
-</item>
-<item>
-<title>Senate defense bill backs space buildup but questions acquisition strategy</title>
-<link>https://spacenews.com/senate-defense-bill-backs-space-buildup-but-questions-acquisition-strategy/</link>
-<guid isPermaLink="true">https://spacenews.com/senate-defense-bill-backs-space-buildup-but-questions-acquisition-strategy/</guid>
-<pubDate>Tue, 17 Nov 2026 00:16:43 +0000</pubDate>
-<description>Appropriators move billions in space funding into the regular defense budget</description>
-</item>
-<item>
-<title>Senate appropriations bill wants to speed up work on Habitable Worlds Observatory</title>
-<link>https://spacenews.com/senate-appropriations-bill-wants-to-speed-up-work-on-habitable-worlds-observatory/</link>
-<guid isPermaLink="true">https://spacenews.com/senate-appropriations-bill-wants-to-speed-up-work-on-habitable-worlds-observatory/</guid>
-<pubDate>Mon, 16 Nov 2026 21:31:30 +0000</pubDate>
-<description>Senate appropriators want to accelerate development of a NASA space telescope, offering additional funding for the mission in 2027.</description>
-</item>
-<item>
-<title>SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor</title>
-<link>https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</link>
-<guid isPermaLink="true">https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</guid>
-<pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
-<description>LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
