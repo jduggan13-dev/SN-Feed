@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 17 Nov 2026 19:35:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 02:05:56 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Isaacman makes case for government-led research amid commercial space uncertainties</title>
+<link>https://spacenews.com/isaacman-makes-case-for-government-led-research-amid-commercial-space-uncertainties/</link>
+<guid isPermaLink="true">https://spacenews.com/isaacman-makes-case-for-government-led-research-amid-commercial-space-uncertainties/</guid>
+<pubDate>Tue, 17 Nov 2026 23:06:00 +0000</pubDate>
+<description>NASA chief says agency must preserve expertise in high-risk research</description>
+</item>
+<item>
+<title>Shift to regular defense funding seen as key to Golden Dome’s future</title>
+<link>https://spacenews.com/shift-to-regular-defense-funding-seen-as-key-to-golden-domes-future/</link>
+<guid isPermaLink="true">https://spacenews.com/shift-to-regular-defense-funding-seen-as-key-to-golden-domes-future/</guid>
+<pubDate>Tue, 17 Nov 2026 21:58:20 +0000</pubDate>
+<description>L3Harris executive Rob Mitrevski says missile defense threats remain a bipartisan concern despite the political uncertainty surrounding Golden Dome</description>
+</item>
+<item>
+<title>ULA CEO says Vulcan failure probe focused on liquid core booster</title>
+<link>https://spacenews.com/ula-ceo-says-vulcan-failure-probe-focused-on-liquid-core-booster/</link>
+<guid isPermaLink="true">https://spacenews.com/ula-ceo-says-vulcan-failure-probe-focused-on-liquid-core-booster/</guid>
+<pubDate>Tue, 17 Nov 2026 20:33:47 +0000</pubDate>
+<description>Mark Peller gives first public comments since Nov. 15 Amazon Leo launch failure</description>
+</item>
 <item>
 <title>How AI is pushing satellites to evolve</title>
 <link>https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</guid>
 <pubDate>Sun, 15 Nov 2026 19:12:10 +0000</pubDate>
 <description>A ULA Vulcan carrying a set of Amazon Leo satellites failed to reach orbit Nov. 15, dealing a major blow to the company in Vulcan’s first flight in nine months.</description>
-</item>
-<item>
-<title>SpaceX catches Starship upper stage</title>
-<link>https://spacenews.com/spacex-catches-starship-upper-stage/</link>
-<guid isPermaLink="true">https://spacenews.com/spacex-catches-starship-upper-stage/</guid>
-<pubDate>Sat, 14 Nov 2026 21:51:19 +0000</pubDate>
-<description>The upper stage of SpaceX’s Starship successfully returned to the launch site for the first time Nov. 14, a major milestone in the company’s efforts to make the vehicle rapidly reusable.</description>
-</item>
-<item>
-<title>Electron launches for 100th time</title>
-<link>https://spacenews.com/electron-launches-for-100th-time/</link>
-<guid isPermaLink="true">https://spacenews.com/electron-launches-for-100th-time/</guid>
-<pubDate>Sat, 14 Nov 2026 13:53:12 +0000</pubDate>
-<description>Rocket Lab’s Electron launched for the 100th time on a Nov. 14 mission for a Japanese customer, reaching that milestone faster than any other commercial rocket.</description>
-</item>
-<item>
-<title>Starship launches on 15th test, calls off booster catch</title>
-<link>https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/</link>
-<guid isPermaLink="true">https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/</guid>
-<pubDate>Sat, 14 Nov 2026 01:18:09 +0000</pubDate>
-<description>SpaceX launched its Starship vehicle on the company’s first attempt to recover both stages of the rocket but was forced to call off recovery of the Super Heavy booster.</description>
 </item>
 </channel>
 </rss>
