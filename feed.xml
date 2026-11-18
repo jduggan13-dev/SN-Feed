@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 18 Nov 2026 02:05:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 11:06:08 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>U.S. senators call for deeper military space ties with New Zealand</title>
+<link>https://spacenews.com/u-s-senators-call-for-deeper-military-space-ties-with-new-zealand/</link>
+<guid isPermaLink="true">https://spacenews.com/u-s-senators-call-for-deeper-military-space-ties-with-new-zealand/</guid>
+<pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+<description>Lawmakers want more personnel exchanges with the Five Eyes partner, citing gaps in cooperation and growing security challenges in the Indo-Pacific</description>
+</item>
+<item>
+<title>Dcubed raises $30 million</title>
+<link>https://spacenews.com/dcubed-raises-30-million/</link>
+<guid isPermaLink="true">https://spacenews.com/dcubed-raises-30-million/</guid>
+<pubDate>Wed, 18 Nov 2026 07:10:05 +0000</pubDate>
+<description>Dcubed, which produces actuators and power systems for spacecraft, raised nearly $30 million to expand production of those components in Germany and the United States.</description>
+</item>
+<item>
+<title>Mitsubishi books second Miura 5 test flight for megaconstellation demo</title>
+<link>https://spacenews.com/mitsubishi-books-second-miura-5-test-flight-for-megaconstellation-demo/</link>
+<guid isPermaLink="true">https://spacenews.com/mitsubishi-books-second-miura-5-test-flight-for-megaconstellation-demo/</guid>
+<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+<description>Mitsubishi Electric plans to fly a demonstrator for a proposed multipurpose megaconstellation on the second test flight of Miura 5, which Spanish launch venture PLD Space aims to debut in the first half of 2027.</description>
+</item>
+<item>
+<title>Space Cargo Unlimited unveils model of reusable spacecraft for microgravity research</title>
+<link>https://spacenews.com/space-cargo-unlimited-unveils-model-of-reusable-spacecraft-for-microgravity-research/</link>
+<guid isPermaLink="true">https://spacenews.com/space-cargo-unlimited-unveils-model-of-reusable-spacecraft-for-microgravity-research/</guid>
+<pubDate>Wed, 18 Nov 2026 04:46:46 +0000</pubDate>
+<description>Space Cargo Unlimited, a European space manufacturing company, has completed a development model of a reusable spacecraft for flying payloads into space and returning them to Earth.</description>
+</item>
+<item>
+<title>France and Germany offer different approaches for European cooperation in space</title>
+<link>https://spacenews.com/france-and-germany-offer-different-approaches-for-european-cooperation-in-space/</link>
+<guid isPermaLink="true">https://spacenews.com/france-and-germany-offer-different-approaches-for-european-cooperation-in-space/</guid>
+<pubDate>Wed, 18 Nov 2026 03:18:12 +0000</pubDate>
+<description>The leaders of two of the largest national space agencies in Europe emphasized the need for greater cooperation within the continent on space but offered different approaches for doing so.</description>
+</item>
 <item>
 <title>Isaacman makes case for government-led research amid commercial space uncertainties</title>
 <link>https://spacenews.com/isaacman-makes-case-for-government-led-research-amid-commercial-space-uncertainties/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</guid>
 <pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
 <description>LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Space Force eyes 2029 cislunar launch as key mission questions remain open</title>
-<link>https://spacenews.com/space-force-eyes-2029-cislunar-launch-as-key-mission-questions-remain-open/</link>
-<guid isPermaLink="true">https://spacenews.com/space-force-eyes-2029-cislunar-launch-as-key-mission-questions-remain-open/</guid>
-<pubDate>Mon, 16 Nov 2026 18:00:00 +0000</pubDate>
-<description>Space Force Eyes 2029 Cislunar Launch As Key Mission Questions Remain Open</description>
-</item>
-<item>
-<title>LeoLabs buys missile-defense specialist FishEye Software</title>
-<link>https://spacenews.com/leolabs-buys-missile-defense-specialist-fisheye-software/</link>
-<guid isPermaLink="true">https://spacenews.com/leolabs-buys-missile-defense-specialist-fisheye-software/</guid>
-<pubDate>Mon, 16 Nov 2026 13:30:00 +0000</pubDate>
-<description>Deal adds cleared radar and software engineers as LeoLabs expands its defense hardware business</description>
-</item>
-<item>
-<title>Jamming is a much bigger problem than we think</title>
-<link>https://spacenews.com/jamming-is-a-much-bigger-problem-than-we-think/</link>
-<guid isPermaLink="true">https://spacenews.com/jamming-is-a-much-bigger-problem-than-we-think/</guid>
-<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-<description>Last month, a Russian Kosmos military satellite came within a few hundred metres of an American commercial satellite operated by ICEYE. The ICEYE satellite provides imagery to Ukraine’s armed forces. The incident elicited warnings from Washington and renewed fears that Russia might attack Western satellites in orbit. If anyone outside Moscow knows what the Russian spacecraft was doing, they haven’t made it public, although the movements of the Kosmos spacecraft were plainly deliberate. The prospect of hostile satellites chasing one another through space is certainly alarming. But military planners have another, less conspicuous threat to contend with, and good reason to suspect that it is far more widespread than we have been led to believe.</description>
-</item>
-<item>
-<title>KBR spinoff Trinzic eyes military space growth as NASA work declines</title>
-<link>https://spacenews.com/kbr-spinoff-trinzic-eyes-military-space-growth-as-nasa-work-declines/</link>
-<guid isPermaLink="true">https://spacenews.com/kbr-spinoff-trinzic-eyes-military-space-growth-as-nasa-work-declines/</guid>
-<pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
-<description>Company pursuing military satellite integration opportunities in the U.S. and Australia</description>
-</item>
-<item>
-<title>Vulcan launch of Amazon Leo satellites fails</title>
-<link>https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</link>
-<guid isPermaLink="true">https://spacenews.com/vulcan-launch-of-amazon-leo-satellites-fails/</guid>
-<pubDate>Sun, 15 Nov 2026 19:12:10 +0000</pubDate>
-<description>A ULA Vulcan carrying a set of Amazon Leo satellites failed to reach orbit Nov. 15, dealing a major blow to the company in Vulcan’s first flight in nine months.</description>
 </item>
 </channel>
 </rss>
