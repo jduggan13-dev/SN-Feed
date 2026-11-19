@@ -4,10 +4,66 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 19 Nov 2026 09:52:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 18:51:00 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The sweet spot for constellation size</title>
+<link>https://spacenews.com/the-sweet-spot-for-constellation-size/</link>
+<guid isPermaLink="true">https://spacenews.com/the-sweet-spot-for-constellation-size/</guid>
+<pubDate>Thu, 19 Nov 2026 17:25:17 +0000</pubDate>
+<description>In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […]</description>
+</item>
+<item>
+<title>GAO says Pentagon lacks a coordinated view of space supply-chain risks</title>
+<link>https://spacenews.com/gao-says-pentagon-lacks-a-coordinated-view-of-space-supply-chain-risks/</link>
+<guid isPermaLink="true">https://spacenews.com/gao-says-pentagon-lacks-a-coordinated-view-of-space-supply-chain-risks/</guid>
+<pubDate>Thu, 19 Nov 2026 16:12:06 +0000</pubDate>
+<description>The broad diagnosis is familiar: proliferated constellations are stressing manufacturing capacity, optical terminals remain a problem, and single-source suppliers create risk</description>
+</item>
+<item>
+<title>Making the case for optical</title>
+<link>https://spacenews.com/making-the-case-for-optical/</link>
+<guid isPermaLink="true">https://spacenews.com/making-the-case-for-optical/</guid>
+<pubDate>Thu, 19 Nov 2026 15:38:18 +0000</pubDate>
+<description>In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […]</description>
+</item>
+<item>
+<title>New Glenn to launch Project Suncatcher data center satellites for Google</title>
+<link>https://spacenews.com/new-glenn-to-launch-project-suncatcher-data-center-satellites-for-google/</link>
+<guid isPermaLink="true">https://spacenews.com/new-glenn-to-launch-project-suncatcher-data-center-satellites-for-google/</guid>
+<pubDate>Thu, 19 Nov 2026 15:05:19 +0000</pubDate>
+<description>Google will launch a set of prototype data center satellites on Blue Origin’s New Glenn rocket in 2029.</description>
+</item>
+<item>
+<title>Florida scientists to conduct microgravity research on Virgin Galactic flight</title>
+<link>https://spacenews.com/florida-scientists-to-conduct-microgravity-research-on-virgin-galactic-flight/</link>
+<guid isPermaLink="true">https://spacenews.com/florida-scientists-to-conduct-microgravity-research-on-virgin-galactic-flight/</guid>
+<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
+<description>Two University of Florida scientists will fly on a Virgin Galactic suborbital mission to conduct microgravity experiments, continuing efforts to make such flights part of the normal research process.</description>
+</item>
+<item>
+<title>RBC Signals raises $10 million for government-focused space infrastructure</title>
+<link>https://spacenews.com/washington-harbour-invests-10-million-in-rbc-signals/</link>
+<guid isPermaLink="true">https://spacenews.com/washington-harbour-invests-10-million-in-rbc-signals/</guid>
+<pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
+<description>Investment from Washington Harbour Partners will support expansion of government services and commercialization of emerging technologies.</description>
+</item>
+<item>
+<title>Common Space picks Satellogic to build humanitarian satellite</title>
+<link>https://spacenews.com/common-space-picks-satellogic-to-build-humanitarian-satellite/</link>
+<guid isPermaLink="true">https://spacenews.com/common-space-picks-satellogic-to-build-humanitarian-satellite/</guid>
+<pubDate>Thu, 19 Nov 2026 13:01:00 +0000</pubDate>
+<description>WASHINGTON — Common Space, a non-profit building an Earth observation constellation for humanitarian use, is teaming up with Satellogic to launch its first satellite next summer.</description>
+</item>
+<item>
+<title>Senate committee advances NASA and FCC nominees despite partisan dispute</title>
+<link>https://spacenews.com/senate-committee-advances-nasa-and-fcc-nominees-despite-partisan-dispute/</link>
+<guid isPermaLink="true">https://spacenews.com/senate-committee-advances-nasa-and-fcc-nominees-despite-partisan-dispute/</guid>
+<pubDate>Thu, 19 Nov 2026 10:47:15 +0000</pubDate>
+<description>The Senate Commerce Committee advanced nominees for NASA and the Federal Communications Commission despite a partisan dispute that led Democrats to boycott the session.</description>
+</item>
 <item>
 <title>Sophia Space deploys on-orbit computing software</title>
 <link>https://spacenews.com/sophia-space-deploys-on-orbit-computing-software/</link>
@@ -161,62 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/polish-ilr-33-amber-2k-rocket-carries-first-customer-payload/</guid>
 <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
 <description>JOHANNESBURG — Poland’s Łukasiewicz Institute of Aviation launched its second ILR-33 Amber 2K suborbital rocket on Nov. 12, marking the first time the vehicle has carried a customer payload. The flight comes as Poland explores establishing permanent infrastructure to support a domestic commercial suborbital launch industry.</description>
-</item>
-<item>
-<title>Sn Media Kit</title>
-<link>https://spacenews.com/sn-media-kit/</link>
-<guid isPermaLink="true">https://spacenews.com/sn-media-kit/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Sn Media Kit</description>
-</item>
-<item>
-<title>How Mini Constellations Could More Quickly Bring New Tech To Europe And To Orbit</title>
-<link>https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/</link>
-<guid isPermaLink="true">https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>How Mini Constellations Could More Quickly Bring New Tech To Europe And To Orbit</description>
-</item>
-<item>
-<title>What role does industry play in Europe’s space sovereignty push?</title>
-<link>https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/</link>
-<guid isPermaLink="true">https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Building a ‘highway to the moon and back’ with Winnie Lai</title>
-<link>https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/</link>
-<guid isPermaLink="true">https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […] The post Building a ‘highway to the moon and back’ with Winnie Lai appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Advice For Optimizing The Space Industry With Laura Crabtree</title>
-<link>https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</link>
-<guid isPermaLink="true">https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Advice For Optimizing The Space Industry With Laura Crabtree</description>
-</item>
-<item>
-<title>White House declaration reaffirms freedom of American activities in space</title>
-<link>https://spacenews.com/white-house-declaration-reaffirms-freedom-of-american-activities-in-space/</link>
-<guid isPermaLink="true">https://spacenews.com/white-house-declaration-reaffirms-freedom-of-american-activities-in-space/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>White House declaration reaffirms freedom of American activities in space</description>
-</item>
-<item>
-<title>Connectivity And Control Why Militaries Relying On Starlink Need End Use Agreements</title>
-<link>https://spacenews.com/connectivity-and-control-why-militaries-relying-on-starlink-need-end-use-agreements/</link>
-<guid isPermaLink="true">https://spacenews.com/connectivity-and-control-why-militaries-relying-on-starlink-need-end-use-agreements/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Connectivity And Control Why Militaries Relying On Starlink Need End Use Agreements</description>
-</item>
-<item>
-<title>Protection or preparation for attack? Counterspace capabilities, international law and nuclear command and control</title>
-<link>https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</link>
-<guid isPermaLink="true">https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Protection or preparation for attack? Counterspace capabilities, international law and nuclear command and control</description>
 </item>
 </channel>
 </rss>
