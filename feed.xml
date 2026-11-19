@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 18 Nov 2026 19:57:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 01:46:18 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Office of Space Commerce lays out 2027 priorities</title>
+<link>https://spacenews.com/office-of-space-commerce-lays-out-2027-priorities/</link>
+<guid isPermaLink="true">https://spacenews.com/office-of-space-commerce-lays-out-2027-priorities/</guid>
+<pubDate>Thu, 19 Nov 2026 00:51:33 +0000</pubDate>
+<description>GREENBELT, Md. — The director of the Office of Space Commerce said removing regulatory barriers and ensuring “American voices” are heard on the international stage are among his top priorities for the coming year.</description>
+</item>
+<item>
+<title>NATO creates marketplace to buy satellite data and services</title>
+<link>https://spacenews.com/nato-creates-marketplace-to-buy-satellite-data-and-services/</link>
+<guid isPermaLink="true">https://spacenews.com/nato-creates-marketplace-to-buy-satellite-data-and-services/</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<description>The alliance is adapting U.S. Space Force technology to its own requirements and plans to expand access to hundreds of commercial suppliers</description>
+</item>
+<item>
+<title>Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers</title>
+<link>https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/</link>
+<guid isPermaLink="true">https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/</guid>
+<pubDate>Wed, 18 Nov 2026 22:02:00 +0000</pubDate>
+<description>– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […]</description>
+</item>
+<item>
+<title>All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center</title>
+<link>https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/</link>
+<guid isPermaLink="true">https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/</guid>
+<pubDate>Wed, 18 Nov 2026 20:31:51 +0000</pubDate>
+<description>MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […]</description>
+</item>
 <item>
 <title>U.S. commission warns of China’s efforts to track submarines from space</title>
 <link>https://spacenews.com/u-s-commission-warns-of-chinas-efforts-to-track-submarines-from-space/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</guid>
 <pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
 <description>East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Stellar Dispatch</title>
-<link>https://spacenews.com/stellar-dispatch/</link>
-<guid isPermaLink="true">https://spacenews.com/stellar-dispatch/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Stellar Dispatch</description>
-</item>
-<item>
-<title>Spacenews Terms Conditions</title>
-<link>https://spacenews.com/spacenews-terms-conditions/</link>
-<guid isPermaLink="true">https://spacenews.com/spacenews-terms-conditions/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Spacenews Terms Conditions</description>
-</item>
-<item>
-<title>Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027</title>
-<link>https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/</link>
-<guid isPermaLink="true">https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-<description>Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>SEOPS, Stoke sign deal for Waymaker rideshare missions</title>
-<link>https://spacenews.com/seops-stoke-sign-deal-for-waymaker-rideshare-missions/</link>
-<guid isPermaLink="true">https://spacenews.com/seops-stoke-sign-deal-for-waymaker-rideshare-missions/</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
-<description>EDITOR’S NOTE: This story was updated Nov. 17 with information about an additional SEOPS rideshare opportunity.</description>
 </item>
 </channel>
 </rss>
