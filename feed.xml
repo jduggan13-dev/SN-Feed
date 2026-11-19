@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 19 Nov 2026 01:46:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 09:52:23 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sophia Space deploys on-orbit computing software</title>
+<link>https://spacenews.com/sophia-space-deploys-on-orbit-computing-software/</link>
+<guid isPermaLink="true">https://spacenews.com/sophia-space-deploys-on-orbit-computing-software/</guid>
+<pubDate>Thu, 19 Nov 2026 05:01:00 +0000</pubDate>
+<description>WASHINGTON — Sophia Space has deployed its first Sophia Orbital Operating System in space, a step toward establishing a baseline software layer for the company’s future on-orbit computing infrastructure.</description>
+</item>
+<item>
+<title>MaiaSpace signs Space Cargo Unlimited as customer for first commercial launch</title>
+<link>https://spacenews.com/maiaspace-signs-space-cargo-unlimited-as-customer-for-first-commercial-launch/</link>
+<guid isPermaLink="true">https://spacenews.com/maiaspace-signs-space-cargo-unlimited-as-customer-for-first-commercial-launch/</guid>
+<pubDate>Thu, 19 Nov 2026 04:45:35 +0000</pubDate>
+<description>MaiaSpace, a French company developing a small launch vehicle, has signed a customer for the first commercial flight of its rocket.</description>
+</item>
 <item>
 <title>Office of Space Commerce lays out 2027 priorities</title>
 <link>https://spacenews.com/office-of-space-commerce-lays-out-2027-priorities/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/protection-or-preparation-for-attack-counterspace-capabilities-international-law-and-nuclear-command-and-control/</guid>
 <pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
 <description>Protection or preparation for attack? Counterspace capabilities, international law and nuclear command and control</description>
-</item>
-<item>
-<title>UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology</title>
-<link>https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/</link>
-<guid isPermaLink="true">https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […] The post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare</title>
-<link>https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</link>
-<guid isPermaLink="true">https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/</guid>
-<pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-<description>East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews .</description>
 </item>
 </channel>
 </rss>
