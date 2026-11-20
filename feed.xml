@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 19 Nov 2026 18:51:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 01:01:55 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ATMOS and MBDA to explore space-based precision strike system</title>
+<link>https://spacenews.com/atmos-and-mbda-to-explore-space-based-precision-strike-system/</link>
+<guid isPermaLink="true">https://spacenews.com/atmos-and-mbda-to-explore-space-based-precision-strike-system/</guid>
+<pubDate>Thu, 19 Nov 2026 21:21:37 +0000</pubDate>
+<description>JOHANNESBURG — German in-space logistics startup ATMOS Space Cargo has signed a cooperation agreement with missile manufacturer MBDA Deutschland to explore the development of a capability to conduct precision strikes against ground targets from space.</description>
+</item>
 <item>
 <title>The sweet spot for constellation size</title>
 <link>https://spacenews.com/the-sweet-spot-for-constellation-size/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/ramon-space-raises-124-million/</guid>
 <pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
 <description>Ramon.Space has raised $124 million to ramp up development of orbital computing capabilities needed for space AI applications.</description>
-</item>
-<item>
-<title>Polish ILR-33 Amber 2K rocket carries first customer payload</title>
-<link>https://spacenews.com/polish-ilr-33-amber-2k-rocket-carries-first-customer-payload/</link>
-<guid isPermaLink="true">https://spacenews.com/polish-ilr-33-amber-2k-rocket-carries-first-customer-payload/</guid>
-<pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-<description>JOHANNESBURG — Poland’s Łukasiewicz Institute of Aviation launched its second ILR-33 Amber 2K suborbital rocket on Nov. 12, marking the first time the vehicle has carried a customer payload. The flight comes as Poland explores establishing permanent infrastructure to support a domestic commercial suborbital launch industry.</description>
 </item>
 </channel>
 </rss>
