@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 20 Nov 2026 01:01:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 09:39:25 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Europe seeks ‘indispensable’ new roles in Artemis</title>
+<link>https://spacenews.com/europe-seeks-indispensable-new-roles-in-artemis/</link>
+<guid isPermaLink="true">https://spacenews.com/europe-seeks-indispensable-new-roles-in-artemis/</guid>
+<pubDate>Fri, 20 Nov 2026 08:42:05 +0000</pubDate>
+<description>Nearly eight months after NASA made major changes to Artemis, Europe is still trying to determine how it can adapt and ensure it is “indispensable” for that revised approach.</description>
+</item>
 <item>
 <title>ATMOS and MBDA to explore space-based precision strike system</title>
 <link>https://spacenews.com/atmos-and-mbda-to-explore-space-based-precision-strike-system/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/iceye-unveils-high-resolution-gen5-satellites/</guid>
 <pubDate>Tue, 17 Nov 2026 15:15:46 +0000</pubDate>
 <description>WASHINGTON — Space intelligence company Iceye unveiled its newest synthetic aperture radar satellite, Gen5, designed to provide more precise, clear ground imagery for government customers.</description>
-</item>
-<item>
-<title>Ramon.Space raises $124 million</title>
-<link>https://spacenews.com/ramon-space-raises-124-million/</link>
-<guid isPermaLink="true">https://spacenews.com/ramon-space-raises-124-million/</guid>
-<pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
-<description>Ramon.Space has raised $124 million to ramp up development of orbital computing capabilities needed for space AI applications.</description>
 </item>
 </channel>
 </rss>
