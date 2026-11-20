@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 20 Nov 2026 09:39:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 18:17:30 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Landspace qualifies recovered Zhuque-3 engines for reuse after hot-fire tests</title>
+<link>https://spacenews.com/landspace-qualifies-recovered-zhuque-3-engines-for-reuse-after-hot-fire-tests/</link>
+<guid isPermaLink="true">https://spacenews.com/landspace-qualifies-recovered-zhuque-3-engines-for-reuse-after-hot-fire-tests/</guid>
+<pubDate>Fri, 20 Nov 2026 15:11:46 +0000</pubDate>
+<description>HELSINKI — Landspace has conducted hot-fire tests of nine engines from its recovered Zhuque-3 first stage and qualified them for reuse, marking a step toward reusability.</description>
+</item>
+<item>
+<title>The Space Academy’s first test is readiness</title>
+<link>https://spacenews.com/the-space-academys-first-test-is-readiness/</link>
+<guid isPermaLink="true">https://spacenews.com/the-space-academys-first-test-is-readiness/</guid>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<description>On July 11, 1955, 306 young men were sworn in as the first class of the U.S. Air Force Academy. They did not report to the famous chapel or the campus beneath the Rampart Range, because neither existed yet. They reported to Lowry Air Force Base in Denver, a working installation with classrooms, barracks, airfields and Airmen already in place. The permanent campus in Colorado Springs did not open until 1958.</description>
+</item>
+<item>
+<title>Atomic-6 tests satellite debris shielding for potential use in spacesuits</title>
+<link>https://spacenews.com/atomic-6-tests-satellite-debris-shielding-for-potential-use-in-spacesuits/</link>
+<guid isPermaLink="true">https://spacenews.com/atomic-6-tests-satellite-debris-shielding-for-potential-use-in-spacesuits/</guid>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<description>An early experiment showed promising results against debris traveling at 16,100 mph, but the technology has yet to be tested on a functioning spacesuit</description>
+</item>
 <item>
 <title>Europe seeks ‘indispensable’ new roles in Artemis</title>
 <link>https://spacenews.com/europe-seeks-indispensable-new-roles-in-artemis/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/ula-ceo-says-vulcan-failure-probe-focused-on-liquid-core-booster/</guid>
 <pubDate>Tue, 17 Nov 2026 20:33:47 +0000</pubDate>
 <description>Mark Peller gives first public comments since Nov. 15 Amazon Leo launch failure</description>
-</item>
-<item>
-<title>How AI is pushing satellites to evolve</title>
-<link>https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/</link>
-<guid isPermaLink="true">https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/</guid>
-<pubDate>Tue, 17 Nov 2026 17:02:33 +0000</pubDate>
-<description>During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […]</description>
-</item>
-<item>
-<title>Iceye launches bid to acquire Avio</title>
-<link>https://spacenews.com/iceye-launches-bid-to-acquire-avio/</link>
-<guid isPermaLink="true">https://spacenews.com/iceye-launches-bid-to-acquire-avio/</guid>
-<pubDate>Tue, 17 Nov 2026 15:31:59 +0000</pubDate>
-<description>Radar-imaging company Iceye announced Nov. 17 it is offering to buy Italian launch company Avio for more than 2 billion euros ($2.2 billion).</description>
-</item>
-<item>
-<title>Iceye unveils high-resolution Gen5 satellites</title>
-<link>https://spacenews.com/iceye-unveils-high-resolution-gen5-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/iceye-unveils-high-resolution-gen5-satellites/</guid>
-<pubDate>Tue, 17 Nov 2026 15:15:46 +0000</pubDate>
-<description>WASHINGTON — Space intelligence company Iceye unveiled its newest synthetic aperture radar satellite, Gen5, designed to provide more precise, clear ground imagery for government customers.</description>
 </item>
 </channel>
 </rss>
