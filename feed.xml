@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sat, 21 Nov 2026 07:58:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 15:59:33 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Europe’s space community makes the case for a human spaceflight program</title>
+<link>https://spacenews.com/europes-space-community-makes-the-case-for-a-human-spaceflight-program/</link>
+<guid isPermaLink="true">https://spacenews.com/europes-space-community-makes-the-case-for-a-human-spaceflight-program/</guid>
+<pubDate>Sat, 21 Nov 2026 09:02:42 +0000</pubDate>
+<description>European government officials and companies are building the case for Europe to invest in a human spaceflight capability ahead of a key meeting next month.</description>
+</item>
 <item>
 <title>China leaves 52 rocket bodies in orbit while building satellite networks</title>
 <link>https://spacenews.com/china-leaves-52-rocket-bodies-in-orbit-while-building-satellite-networks/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/dcubed-raises-30-million/</guid>
 <pubDate>Wed, 18 Nov 2026 07:10:05 +0000</pubDate>
 <description>Dcubed, which produces actuators and power systems for spacecraft, raised nearly $30 million to expand production of those components in Germany and the United States.</description>
-</item>
-<item>
-<title>Mitsubishi books second Miura 5 test flight for megaconstellation demo</title>
-<link>https://spacenews.com/mitsubishi-books-second-miura-5-test-flight-for-megaconstellation-demo/</link>
-<guid isPermaLink="true">https://spacenews.com/mitsubishi-books-second-miura-5-test-flight-for-megaconstellation-demo/</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-<description>Mitsubishi Electric plans to fly a demonstrator for a proposed multipurpose megaconstellation on the second test flight of Miura 5, which Spanish launch venture PLD Space aims to debut in the first half of 2027.</description>
 </item>
 </channel>
 </rss>
