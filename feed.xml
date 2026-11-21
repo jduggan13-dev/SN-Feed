@@ -4,10 +4,45 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 20 Nov 2026 18:17:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 00:35:45 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>China leaves 52 rocket bodies in orbit while building satellite networks</title>
+<link>https://spacenews.com/china-leaves-52-rocket-bodies-in-orbit-while-building-satellite-networks/</link>
+<guid isPermaLink="true">https://spacenews.com/china-leaves-52-rocket-bodies-in-orbit-while-building-satellite-networks/</guid>
+<pubDate>Fri, 20 Nov 2026 22:39:36 +0000</pubDate>
+<description>DIA official says some could remain for centuries</description>
+</item>
+<item>
+<title>PiLogic testing satellite fault-prediction platform with SpaceWERX</title>
+<link>https://spacenews.com/pilogic-testing-satellite-fault-prediction-platform-with-spacewerx/</link>
+<guid isPermaLink="true">https://spacenews.com/pilogic-testing-satellite-fault-prediction-platform-with-spacewerx/</guid>
+<pubDate>Fri, 20 Nov 2026 20:44:20 +0000</pubDate>
+<description>WASHINGTON — PiLogic, a Los Angeles-based startup developing software to predict satellite failures and make spacecraft more autonomous, is working with SpaceWERX to test that capability on orbit.</description>
+</item>
+<item>
+<title>Rocketdyne adapting propulsion tech for maneuverable military satellites</title>
+<link>https://spacenews.com/rocketdyne-adapting-propulsion-tech-for-maneuverable-military-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/rocketdyne-adapting-propulsion-tech-for-maneuverable-military-satellites/</guid>
+<pubDate>Fri, 20 Nov 2026 19:07:30 +0000</pubDate>
+<description>CEO Kristin Houston says company is exploring propulsion architectures that combine chemical thrust with electric efficiency</description>
+</item>
+<item>
+<title>Turion satellites will test reconnaissance and refueling technology in GEO</title>
+<link>https://spacenews.com/turion-satellites-will-test-reconnaissance-and-refueling-technology-in-geo/</link>
+<guid isPermaLink="true">https://spacenews.com/turion-satellites-will-test-reconnaissance-and-refueling-technology-in-geo/</guid>
+<pubDate>Fri, 20 Nov 2026 18:42:54 +0000</pubDate>
+<description>Three spacecraft developed under a U.S. Space Force STRATFI contract will help the military reduce risk for its next-generation RG-XX fleet</description>
+</item>
+<item>
+<title>Vyoma contracts Scanway to develop optical in-space monitoring systems for Kepler satellites</title>
+<link>https://spacenews.com/vyoma-contracts-scanway-to-develop-optical-in-space-monitoring-systems-for-kepler-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/vyoma-contracts-scanway-to-develop-optical-in-space-monitoring-systems-for-kepler-satellites/</guid>
+<pubDate>Fri, 20 Nov 2026 18:41:22 +0000</pubDate>
+<description>WARSAW, Poland — Scanway, an optical systems manufacturer based in Poland, has signed a contract with the German space domain awareness company Vyoma to develop optical instruments for an orbital object monitoring system. Scanway’s instruments will be incorporated into sensors that Vyoma plans to deploy on satellites operated by Canada-based Kepler Communications.</description>
+</item>
 <item>
 <title>Landspace qualifies recovered Zhuque-3 engines for reuse after hot-fire tests</title>
 <link>https://spacenews.com/landspace-qualifies-recovered-zhuque-3-engines-for-reuse-after-hot-fire-tests/</link>
@@ -182,41 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/mitsubishi-books-second-miura-5-test-flight-for-megaconstellation-demo/</guid>
 <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
 <description>Mitsubishi Electric plans to fly a demonstrator for a proposed multipurpose megaconstellation on the second test flight of Miura 5, which Spanish launch venture PLD Space aims to debut in the first half of 2027.</description>
-</item>
-<item>
-<title>Space Cargo Unlimited unveils model of reusable spacecraft for microgravity research</title>
-<link>https://spacenews.com/space-cargo-unlimited-unveils-model-of-reusable-spacecraft-for-microgravity-research/</link>
-<guid isPermaLink="true">https://spacenews.com/space-cargo-unlimited-unveils-model-of-reusable-spacecraft-for-microgravity-research/</guid>
-<pubDate>Wed, 18 Nov 2026 04:46:46 +0000</pubDate>
-<description>Space Cargo Unlimited, a European space manufacturing company, has completed a development model of a reusable spacecraft for flying payloads into space and returning them to Earth.</description>
-</item>
-<item>
-<title>France and Germany offer different approaches for European cooperation in space</title>
-<link>https://spacenews.com/france-and-germany-offer-different-approaches-for-european-cooperation-in-space/</link>
-<guid isPermaLink="true">https://spacenews.com/france-and-germany-offer-different-approaches-for-european-cooperation-in-space/</guid>
-<pubDate>Wed, 18 Nov 2026 03:18:12 +0000</pubDate>
-<description>The leaders of two of the largest national space agencies in Europe emphasized the need for greater cooperation within the continent on space but offered different approaches for doing so.</description>
-</item>
-<item>
-<title>Isaacman makes case for government-led research amid commercial space uncertainties</title>
-<link>https://spacenews.com/isaacman-makes-case-for-government-led-research-amid-commercial-space-uncertainties/</link>
-<guid isPermaLink="true">https://spacenews.com/isaacman-makes-case-for-government-led-research-amid-commercial-space-uncertainties/</guid>
-<pubDate>Tue, 17 Nov 2026 23:06:00 +0000</pubDate>
-<description>NASA chief says agency must preserve expertise in high-risk research</description>
-</item>
-<item>
-<title>Shift to regular defense funding seen as key to Golden Dome’s future</title>
-<link>https://spacenews.com/shift-to-regular-defense-funding-seen-as-key-to-golden-domes-future/</link>
-<guid isPermaLink="true">https://spacenews.com/shift-to-regular-defense-funding-seen-as-key-to-golden-domes-future/</guid>
-<pubDate>Tue, 17 Nov 2026 21:58:20 +0000</pubDate>
-<description>L3Harris executive Rob Mitrevski says missile defense threats remain a bipartisan concern despite the political uncertainty surrounding Golden Dome</description>
-</item>
-<item>
-<title>Updated: ULA says Vulcan failure likely caused by inadequate fuel supply</title>
-<link>https://spacenews.com/ula-ceo-says-vulcan-failure-probe-focused-on-liquid-core-booster/</link>
-<guid isPermaLink="true">https://spacenews.com/ula-ceo-says-vulcan-failure-probe-focused-on-liquid-core-booster/</guid>
-<pubDate>Tue, 17 Nov 2026 20:33:47 +0000</pubDate>
-<description>Mark Peller gives first public comments since Nov. 15 Amazon Leo launch failure</description>
 </item>
 </channel>
 </rss>
