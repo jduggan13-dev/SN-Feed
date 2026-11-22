@@ -4,10 +4,17 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Sun, 22 Nov 2026 09:20:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 17:36:30 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Force speeds satellite network launches</title>
+<link>https://spacenews.com/space-force-speeds-satellite-network-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-speeds-satellite-network-launches/</guid>
+<pubDate>Sun, 22 Nov 2026 11:14:36 +0000</pubDate>
+<description>Three launches in two weeks advance SpaceX-built Space Data Network Backbone network amid concerns over procurement competition</description>
+</item>
 <item>
 <title>Europe’s space community makes the case for a human spaceflight program</title>
 <link>https://spacenews.com/europes-space-community-makes-the-case-for-a-human-spaceflight-program/</link>
@@ -210,13 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/u-s-senators-call-for-deeper-military-space-ties-with-new-zealand/</guid>
 <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
 <description>Lawmakers want more personnel exchanges with the Five Eyes partner, citing gaps in cooperation and growing security challenges in the Indo-Pacific</description>
-</item>
-<item>
-<title>Dcubed raises $30 million</title>
-<link>https://spacenews.com/dcubed-raises-30-million/</link>
-<guid isPermaLink="true">https://spacenews.com/dcubed-raises-30-million/</guid>
-<pubDate>Wed, 18 Nov 2026 07:10:05 +0000</pubDate>
-<description>Dcubed, which produces actuators and power systems for spacecraft, raised nearly $30 million to expand production of those components in Germany and the United States.</description>
 </item>
 </channel>
 </rss>
