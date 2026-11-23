@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 23 Nov 2026 05:43:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 17:22:26 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Space Beyond orders hardware for 10 more memorial cubesat missions</title>
+<link>https://spacenews.com/space-beyond-orders-hardware-for-10-more-memorial-cubesat-missions/</link>
+<guid isPermaLink="true">https://spacenews.com/space-beyond-orders-hardware-for-10-more-memorial-cubesat-missions/</guid>
+<pubDate>Mon, 23 Nov 2026 14:33:21 +0000</pubDate>
+<description>Space Beyond has ordered enough hardware for 10 follow-on cubesats after growing sales for the Florida startup’s first memorial spacecraft, slated to carry cremated remains into orbit in October 2027.</description>
+</item>
+<item>
+<title>Upgrading cellular networks with space support</title>
+<link>https://spacenews.com/upgrading-cellular-networks-with-space-support/</link>
+<guid isPermaLink="true">https://spacenews.com/upgrading-cellular-networks-with-space-support/</guid>
+<pubDate>Mon, 23 Nov 2026 14:02:00 +0000</pubDate>
+<description>Using satellites to connect smartphones beyond the reach of cell towers is not the only way the space industry can help cellular operators plug coverage gaps.</description>
+</item>
+<item>
+<title>Thruster glitch clouds BepiColombo arrival at Mercury</title>
+<link>https://spacenews.com/thruster-glitch-clouds-bepicolombo-arrival-at-mercury/</link>
+<guid isPermaLink="true">https://spacenews.com/thruster-glitch-clouds-bepicolombo-arrival-at-mercury/</guid>
+<pubDate>Mon, 23 Nov 2026 11:03:34 +0000</pubDate>
+<description>A joint European-Japanese mission has entered orbit around Mercury after an eight-year journey, but a premature shutdown of its thrusters has raised questions about its orbit.</description>
+</item>
+<item>
+<title>With the proliferation of European satellites, we need a new approach to space-based surveillance</title>
+<link>https://spacenews.com/with-the-proliferation-of-european-satellites-we-need-a-new-approach-to-space-based-surveillance/</link>
+<guid isPermaLink="true">https://spacenews.com/with-the-proliferation-of-european-satellites-we-need-a-new-approach-to-space-based-surveillance/</guid>
+<pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
+<description>European space companies are expanding rapidly. They are attracting substantial investment, developing new satellite services and competing for contracts once reserved for large aerospace groups. But as more satellites enter low Earth orbit (LEO), operators face a growing problem: how can they monitor and protect the spacecraft on which communications, navigation, financial transactions and national security increasingly depend?</description>
+</item>
 <item>
 <title>Space Force speeds satellite network launches</title>
 <link>https://spacenews.com/space-force-speeds-satellite-network-launches/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/</guid>
 <pubDate>Wed, 18 Nov 2026 20:31:51 +0000</pubDate>
 <description>MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […]</description>
-</item>
-<item>
-<title>U.S. commission warns of China’s efforts to track submarines from space</title>
-<link>https://spacenews.com/u-s-commission-warns-of-chinas-efforts-to-track-submarines-from-space/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-commission-warns-of-chinas-efforts-to-track-submarines-from-space/</guid>
-<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
-<description>Congressional commission says even limited submarine detection could erode a key U.S. military advantage in the Pacific</description>
-</item>
-<item>
-<title>The high frontier is not red or blue</title>
-<link>https://spacenews.com/the-high-frontier-is-not-red-or-blue/</link>
-<guid isPermaLink="true">https://spacenews.com/the-high-frontier-is-not-red-or-blue/</guid>
-<pubDate>Wed, 18 Nov 2026 17:23:27 +0000</pubDate>
-<description>The American people have spoken. The Democrats have swept into control of Congress, and Washington is about to change dramatically.</description>
-</item>
-<item>
-<title>Origami and solar arrays</title>
-<link>https://spacenews.com/origami-and-solar-arrays/</link>
-<guid isPermaLink="true">https://spacenews.com/origami-and-solar-arrays/</guid>
-<pubDate>Wed, 18 Nov 2026 16:56:05 +0000</pubDate>
-<description>In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]</description>
-</item>
-<item>
-<title>U.S. senators call for deeper military space ties with New Zealand</title>
-<link>https://spacenews.com/u-s-senators-call-for-deeper-military-space-ties-with-new-zealand/</link>
-<guid isPermaLink="true">https://spacenews.com/u-s-senators-call-for-deeper-military-space-ties-with-new-zealand/</guid>
-<pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
-<description>Lawmakers want more personnel exchanges with the Five Eyes partner, citing gaps in cooperation and growing security challenges in the Indo-Pacific</description>
 </item>
 </channel>
 </rss>
