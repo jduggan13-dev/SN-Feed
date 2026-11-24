@@ -4,10 +4,38 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 24 Nov 2026 03:48:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 14:31:58 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ariane 6 launches fourth set of Amazon Leo satellites</title>
+<link>https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</guid>
+<pubDate>Tue, 24 Nov 2026 14:17:20 +0000</pubDate>
+<description>An Ariane 6 successfully launched three dozen Amazon Leo satellites, the first satellites for that constellation to reach orbit in four and a half months.</description>
+</item>
+<item>
+<title>BlackSky acquires data firm EpochGeo</title>
+<link>https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</link>
+<guid isPermaLink="true">https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</guid>
+<pubDate>Tue, 24 Nov 2026 14:16:47 +0000</pubDate>
+<description>WASHINGTON — BlackSky Technology announced it acquired geospatial data firm EpochGeo, a move to expand its slate of real-time intelligence tools as defense customers seek deeper analysis and data fusion capabilities.</description>
+</item>
+<item>
+<title>Russia launches Progress cargo spacecraft to ISS with unusual secrecy</title>
+<link>https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</link>
+<guid isPermaLink="true">https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</guid>
+<pubDate>Tue, 24 Nov 2026 12:32:55 +0000</pubDate>
+<description>Russia launched a Progress cargo spacecraft to the International Space Station Nov. 24 under an unusual level of secrecy assisted by NASA.</description>
+</item>
+<item>
+<title>Northwood’s phased-array antennas establish two-way link with U.S. satellite in GEO</title>
+<link>https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</link>
+<guid isPermaLink="true">https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</guid>
+<pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+<description>The company’s Portal system sent commands to and received telemetry from a government satellite</description>
+</item>
 <item>
 <title>Ford takes stake in Revolution Space</title>
 <link>https://spacenews.com/ford-takes-stake-in-revolution-space/</link>
@@ -189,34 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/senate-committee-advances-nasa-and-fcc-nominees-despite-partisan-dispute/</guid>
 <pubDate>Thu, 19 Nov 2026 10:47:15 +0000</pubDate>
 <description>The Senate Commerce Committee advanced nominees for NASA and the Federal Communications Commission despite a partisan dispute that led Democrats to boycott the session.</description>
-</item>
-<item>
-<title>Sophia Space deploys on-orbit computing software</title>
-<link>https://spacenews.com/sophia-space-deploys-on-orbit-computing-software/</link>
-<guid isPermaLink="true">https://spacenews.com/sophia-space-deploys-on-orbit-computing-software/</guid>
-<pubDate>Thu, 19 Nov 2026 05:01:00 +0000</pubDate>
-<description>WASHINGTON — Sophia Space has deployed its first Sophia Orbital Operating System in space, a step toward establishing a baseline software layer for the company’s future on-orbit computing infrastructure.</description>
-</item>
-<item>
-<title>MaiaSpace signs Space Cargo Unlimited as customer for first commercial launch</title>
-<link>https://spacenews.com/maiaspace-signs-space-cargo-unlimited-as-customer-for-first-commercial-launch/</link>
-<guid isPermaLink="true">https://spacenews.com/maiaspace-signs-space-cargo-unlimited-as-customer-for-first-commercial-launch/</guid>
-<pubDate>Thu, 19 Nov 2026 04:45:35 +0000</pubDate>
-<description>MaiaSpace, a French company developing a small launch vehicle, has signed a customer for the first commercial flight of its rocket.</description>
-</item>
-<item>
-<title>Office of Space Commerce lays out 2027 priorities</title>
-<link>https://spacenews.com/office-of-space-commerce-lays-out-2027-priorities/</link>
-<guid isPermaLink="true">https://spacenews.com/office-of-space-commerce-lays-out-2027-priorities/</guid>
-<pubDate>Thu, 19 Nov 2026 00:51:33 +0000</pubDate>
-<description>GREENBELT, Md. — The director of the Office of Space Commerce said removing regulatory barriers and ensuring “American voices” are heard on the international stage are among his top priorities for the coming year.</description>
-</item>
-<item>
-<title>NATO creates marketplace to buy satellite data and services</title>
-<link>https://spacenews.com/nato-creates-marketplace-to-buy-satellite-data-and-services/</link>
-<guid isPermaLink="true">https://spacenews.com/nato-creates-marketplace-to-buy-satellite-data-and-services/</guid>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<description>The alliance is adapting U.S. Space Force technology to its own requirements and plans to expand access to hundreds of commercial suppliers</description>
 </item>
 </channel>
 </rss>
