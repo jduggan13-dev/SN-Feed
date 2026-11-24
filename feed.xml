@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Tue, 24 Nov 2026 14:31:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 23:45:02 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Private equity firm Cerberus to acquire Airbus’ U.S. satellite business</title>
+<link>https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</link>
+<guid isPermaLink="true">https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</guid>
+<pubDate>Tue, 24 Nov 2026 16:10:10 +0000</pubDate>
+<description>The deal brings a factory built for OneWeb’s broadband constellation under American ownership.</description>
+</item>
+<item>
+<title>Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution</title>
+<link>https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</link>
+<guid isPermaLink="true">https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</guid>
+<pubDate>Tue, 24 Nov 2026 15:17:50 +0000</pubDate>
+<description>Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […]</description>
+</item>
+<item>
+<title>A reset in the military spending debate</title>
+<link>https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</link>
+<guid isPermaLink="true">https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</guid>
+<pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
+<description>The immediate question is whether Congress can agree on a fiscal 2027 defense budget, and how long the Pentagon and its contractors might have to wait.</description>
+</item>
 <item>
 <title>Ariane 6 launches fourth set of Amazon Leo satellites</title>
 <link>https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/florida-scientists-to-conduct-microgravity-research-on-virgin-galactic-flight/</guid>
 <pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
 <description>Two University of Florida scientists will fly on a Virgin Galactic suborbital mission to conduct microgravity experiments, continuing efforts to make such flights part of the normal research process.</description>
-</item>
-<item>
-<title>RBC Signals raises $10 million for government-focused space infrastructure</title>
-<link>https://spacenews.com/washington-harbour-invests-10-million-in-rbc-signals/</link>
-<guid isPermaLink="true">https://spacenews.com/washington-harbour-invests-10-million-in-rbc-signals/</guid>
-<pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
-<description>Investment from Washington Harbour Partners will support expansion of government services and commercialization of emerging technologies.</description>
-</item>
-<item>
-<title>Common Space picks Satellogic to build humanitarian satellite</title>
-<link>https://spacenews.com/common-space-picks-satellogic-to-build-humanitarian-satellite/</link>
-<guid isPermaLink="true">https://spacenews.com/common-space-picks-satellogic-to-build-humanitarian-satellite/</guid>
-<pubDate>Thu, 19 Nov 2026 13:01:00 +0000</pubDate>
-<description>WASHINGTON — Common Space, a non-profit building an Earth observation constellation for humanitarian use, is teaming up with Satellogic to launch its first satellite next summer.</description>
-</item>
-<item>
-<title>Senate committee advances NASA and FCC nominees despite partisan dispute</title>
-<link>https://spacenews.com/senate-committee-advances-nasa-and-fcc-nominees-despite-partisan-dispute/</link>
-<guid isPermaLink="true">https://spacenews.com/senate-committee-advances-nasa-and-fcc-nominees-despite-partisan-dispute/</guid>
-<pubDate>Thu, 19 Nov 2026 10:47:15 +0000</pubDate>
-<description>The Senate Commerce Committee advanced nominees for NASA and the Federal Communications Commission despite a partisan dispute that led Democrats to boycott the session.</description>
 </item>
 </channel>
 </rss>
