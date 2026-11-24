@@ -4,10 +4,24 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Mon, 23 Nov 2026 17:22:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 03:48:03 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ford takes stake in Revolution Space</title>
+<link>https://spacenews.com/ford-takes-stake-in-revolution-space/</link>
+<guid isPermaLink="true">https://spacenews.com/ford-takes-stake-in-revolution-space/</guid>
+<pubDate>Mon, 23 Nov 2026 23:23:31 +0000</pubDate>
+<description>Automaker to bring manufacturing expertise to Boston space company expanding from electric propulsion to complete spacecraft</description>
+</item>
+<item>
+<title>Umbra unveils new family of SAR satellites</title>
+<link>https://spacenews.com/umbra-unveils-new-family-of-sar-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/umbra-unveils-new-family-of-sar-satellites/</guid>
+<pubDate>Mon, 23 Nov 2026 17:45:51 +0000</pubDate>
+<description>WASHINGTON — Space technology company Umbra unveiled a new line of synthetic aperture radar (SAR) satellites that the company says will bring improved accuracy and an expanded capability set.</description>
+</item>
 <item>
 <title>Space Beyond orders hardware for 10 more memorial cubesat missions</title>
 <link>https://spacenews.com/space-beyond-orders-hardware-for-10-more-memorial-cubesat-missions/</link>
@@ -203,20 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/nato-creates-marketplace-to-buy-satellite-data-and-services/</guid>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <description>The alliance is adapting U.S. Space Force technology to its own requirements and plans to expand access to hundreds of commercial suppliers</description>
-</item>
-<item>
-<title>Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers</title>
-<link>https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/</link>
-<guid isPermaLink="true">https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/</guid>
-<pubDate>Wed, 18 Nov 2026 22:02:00 +0000</pubDate>
-<description>– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […]</description>
-</item>
-<item>
-<title>All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center</title>
-<link>https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/</link>
-<guid isPermaLink="true">https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/</guid>
-<pubDate>Wed, 18 Nov 2026 20:31:51 +0000</pubDate>
-<description>MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […]</description>
 </item>
 </channel>
 </rss>
