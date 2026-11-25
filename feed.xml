@@ -4,10 +4,73 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Wed, 25 Nov 2026 06:57:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 17:52:27 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>NASA exploring EarthDaily data to complement Landsat</title>
+<link>https://spacenews.com/nasa-exploring-earthdaily-data-to-complement-landsat/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-exploring-earthdaily-data-to-complement-landsat/</guid>
+<pubDate>Wed, 25 Nov 2026 17:25:56 +0000</pubDate>
+<description>WASHINGTON — EarthDaily’s recent contract to validate the quality and compatibility of its data with NASA’s Landsat imaging constellation could offer the civil space agency a complementary commercial source for Earth observation and analytics.</description>
+</item>
+<item>
+<title>China’s first commercial lunar missions take shape</title>
+<link>https://spacenews.com/chinas-first-commercial-lunar-missions-take-shape/</link>
+<guid isPermaLink="true">https://spacenews.com/chinas-first-commercial-lunar-missions-take-shape/</guid>
+<pubDate>Wed, 25 Nov 2026 15:17:26 +0000</pubDate>
+<description>HELSINKI — Two Chinese commercial companies are developing lunar spacecraft, signalling the start of a new phase in the country’s moon exploration efforts.</description>
+</item>
+<item>
+<title>Is faster and cheaper really better for NASA science?</title>
+<link>https://spacenews.com/is-faster-and-cheaper-really-better-for-nasa-science/</link>
+<guid isPermaLink="true">https://spacenews.com/is-faster-and-cheaper-really-better-for-nasa-science/</guid>
+<pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+<description>Since NASA Administrator Dan Goldin introduced the concept of “faster, better, cheaper” to the agency in the 1990s, a debate has raged: Can smaller missions, which are faster and less expensive to develop but carry a higher risk of failure, be as effective as larger flagship missions, which have been prone to major cost and schedule overruns?</description>
+</item>
+<item>
+<title>Quantum Space goes public</title>
+<link>https://spacenews.com/quantum-space-goes-public/</link>
+<guid isPermaLink="true">https://spacenews.com/quantum-space-goes-public/</guid>
+<pubDate>Wed, 25 Nov 2026 13:05:12 +0000</pubDate>
+<description>Quantum Space, a company developing highly maneuverable spacecraft and led by a former NASA administrator, started trading publicly Nov. 24 after completing a merger.</description>
+</item>
+<item>
+<title>Small nations don’t need a Space Force. They need the right space organization.</title>
+<link>https://spacenews.com/small-nations-dont-need-a-space-force-they-need-the-right-space-organization/</link>
+<guid isPermaLink="true">https://spacenews.com/small-nations-dont-need-a-space-force-they-need-the-right-space-organization/</guid>
+<pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+<description>The establishment of the United States Space Force, China’s Aerospace Force and France’s Space Command has prompted political and military leaders to consider creating similar organizations. For small and medium-sized states, that temptation is a trap. Recognizing space as a warfighting domain compels smaller states to develop military space organizations — but not as national symbols. The main limitations are the strategic position of these small states and their budgets to build and sustain such organizations. For small and medium-sized states, creating a military space organization involves an opportunity cost. Resources could alternatively be allocated to building more combat units or acquiring additional tanks, aircraft and ships. On the other hand, a smaller military space organization may be a force multiplier to help the mission.</description>
+</item>
+<item>
+<title>White House seeks an additional $2 billion for Artemis in 2027</title>
+<link>https://spacenews.com/white-house-seeks-an-additional-2-billion-for-artemis-in-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/white-house-seeks-an-additional-2-billion-for-artemis-in-2027/</guid>
+<pubDate>Wed, 25 Nov 2026 11:51:55 +0000</pubDate>
+<description>The White House is asking Congress to provide up to $2 billion in additional funding for NASA’s Artemis program, but with few details about how the money should be spent.</description>
+</item>
+<item>
+<title>European companies seek supporting roles on orbital data center projects</title>
+<link>https://spacenews.com/european-companies-seek-supporting-roles-on-orbital-data-center-projects/</link>
+<guid isPermaLink="true">https://spacenews.com/european-companies-seek-supporting-roles-on-orbital-data-center-projects/</guid>
+<pubDate>Wed, 25 Nov 2026 11:41:07 +0000</pubDate>
+<description>As American and Chinese companies advance plans to develop orbital data centers, European firms are looking for ways to support those efforts rather than compete directly.</description>
+</item>
+<item>
+<title>Satellite maker EnduroSat books two dedicated New Glenn launches</title>
+<link>https://spacenews.com/satellite-maker-endurosat-books-two-dedicated-new-glenn-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-maker-endurosat-books-two-dedicated-new-glenn-launches/</guid>
+<pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
+<description>EnduroSat has booked two dedicated New Glenn launches starting in 2029 for the Bulgarian satellite maker’s customers as the industry prepares for the end of SpaceX’s Falcon 9 rideshare program.</description>
+</item>
+<item>
+<title>First international astronaut arrives at Tiangong on Shenzhou-24</title>
+<link>https://spacenews.com/first-international-astronaut-arrives-at-tiangong-on-shenzhou-24/</link>
+<guid isPermaLink="true">https://spacenews.com/first-international-astronaut-arrives-at-tiangong-on-shenzhou-24/</guid>
+<pubDate>Wed, 25 Nov 2026 10:54:48 +0000</pubDate>
+<description>HELSINKI — A Pakistani astronaut arrived at China’s Tiangong space station Wednesday, the first foreign national to fly on a Chinese spacecraft and visit the orbital outpost.</description>
+</item>
 <item>
 <title>Private equity firm Cerberus to acquire Airbus’ U.S. satellite business</title>
 <link>https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</link>
@@ -154,69 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/landspace-qualifies-recovered-zhuque-3-engines-for-reuse-after-hot-fire-tests/</guid>
 <pubDate>Fri, 20 Nov 2026 15:11:46 +0000</pubDate>
 <description>HELSINKI — Landspace has conducted hot-fire tests of nine engines from its recovered Zhuque-3 first stage and qualified them for reuse, marking a step toward reusability.</description>
-</item>
-<item>
-<title>The Space Academy’s first test is readiness</title>
-<link>https://spacenews.com/the-space-academys-first-test-is-readiness/</link>
-<guid isPermaLink="true">https://spacenews.com/the-space-academys-first-test-is-readiness/</guid>
-<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
-<description>On July 11, 1955, 306 young men were sworn in as the first class of the U.S. Air Force Academy. They did not report to the famous chapel or the campus beneath the Rampart Range, because neither existed yet. They reported to Lowry Air Force Base in Denver, a working installation with classrooms, barracks, airfields and Airmen already in place. The permanent campus in Colorado Springs did not open until 1958.</description>
-</item>
-<item>
-<title>Atomic-6 tests satellite debris shielding for potential use in spacesuits</title>
-<link>https://spacenews.com/atomic-6-tests-satellite-debris-shielding-for-potential-use-in-spacesuits/</link>
-<guid isPermaLink="true">https://spacenews.com/atomic-6-tests-satellite-debris-shielding-for-potential-use-in-spacesuits/</guid>
-<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
-<description>An early experiment showed promising results against debris traveling at 16,100 mph, but the technology has yet to be tested on a functioning spacesuit</description>
-</item>
-<item>
-<title>Europe seeks ‘indispensable’ new roles in Artemis</title>
-<link>https://spacenews.com/europe-seeks-indispensable-new-roles-in-artemis/</link>
-<guid isPermaLink="true">https://spacenews.com/europe-seeks-indispensable-new-roles-in-artemis/</guid>
-<pubDate>Fri, 20 Nov 2026 08:42:05 +0000</pubDate>
-<description>Nearly eight months after NASA made major changes to Artemis, Europe is still trying to determine how it can adapt and ensure it is “indispensable” for that revised approach.</description>
-</item>
-<item>
-<title>ATMOS and MBDA to explore space-based precision strike system</title>
-<link>https://spacenews.com/atmos-and-mbda-to-explore-space-based-precision-strike-system/</link>
-<guid isPermaLink="true">https://spacenews.com/atmos-and-mbda-to-explore-space-based-precision-strike-system/</guid>
-<pubDate>Thu, 19 Nov 2026 21:21:37 +0000</pubDate>
-<description>JOHANNESBURG — German in-space logistics startup ATMOS Space Cargo has signed a cooperation agreement with missile manufacturer MBDA Deutschland to explore the development of a capability to conduct precision strikes against ground targets from space.</description>
-</item>
-<item>
-<title>The sweet spot for constellation size</title>
-<link>https://spacenews.com/the-sweet-spot-for-constellation-size/</link>
-<guid isPermaLink="true">https://spacenews.com/the-sweet-spot-for-constellation-size/</guid>
-<pubDate>Thu, 19 Nov 2026 17:25:17 +0000</pubDate>
-<description>In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […]</description>
-</item>
-<item>
-<title>GAO says Pentagon lacks a coordinated view of space supply-chain risks</title>
-<link>https://spacenews.com/gao-says-pentagon-lacks-a-coordinated-view-of-space-supply-chain-risks/</link>
-<guid isPermaLink="true">https://spacenews.com/gao-says-pentagon-lacks-a-coordinated-view-of-space-supply-chain-risks/</guid>
-<pubDate>Thu, 19 Nov 2026 16:12:06 +0000</pubDate>
-<description>The broad diagnosis is familiar: proliferated constellations are stressing manufacturing capacity, optical terminals remain a problem, and single-source suppliers create risk</description>
-</item>
-<item>
-<title>Making the case for optical</title>
-<link>https://spacenews.com/making-the-case-for-optical/</link>
-<guid isPermaLink="true">https://spacenews.com/making-the-case-for-optical/</guid>
-<pubDate>Thu, 19 Nov 2026 15:38:18 +0000</pubDate>
-<description>In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […]</description>
-</item>
-<item>
-<title>New Glenn to launch Project Suncatcher data center satellites for Google</title>
-<link>https://spacenews.com/new-glenn-to-launch-project-suncatcher-data-center-satellites-for-google/</link>
-<guid isPermaLink="true">https://spacenews.com/new-glenn-to-launch-project-suncatcher-data-center-satellites-for-google/</guid>
-<pubDate>Thu, 19 Nov 2026 15:05:19 +0000</pubDate>
-<description>Google will launch a set of prototype data center satellites on Blue Origin’s New Glenn rocket in 2029.</description>
-</item>
-<item>
-<title>Florida scientists to conduct microgravity research on Virgin Galactic flight</title>
-<link>https://spacenews.com/florida-scientists-to-conduct-microgravity-research-on-virgin-galactic-flight/</link>
-<guid isPermaLink="true">https://spacenews.com/florida-scientists-to-conduct-microgravity-research-on-virgin-galactic-flight/</guid>
-<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
-<description>Two University of Florida scientists will fly on a Virgin Galactic suborbital mission to conduct microgravity experiments, continuing efforts to make such flights part of the normal research process.</description>
 </item>
 </channel>
 </rss>
