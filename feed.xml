@@ -4,7 +4,7 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 26 Nov 2026 01:32:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 10:27:03 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
@@ -14,55 +14,6 @@
 <guid isPermaLink="true">https://spacenews.com/sn-media-kit/</guid>
 <pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
 <description>Sn Media Kit</description>
-</item>
-<item>
-<title>Nasa Nuclear Propulsion Demo Mission To Make Limited Use Of Nuclear Propulsion</title>
-<link>https://spacenews.com/nasa-nuclear-propulsion-demo-mission-to-make-limited-use-of-nuclear-propulsion/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-nuclear-propulsion-demo-mission-to-make-limited-use-of-nuclear-propulsion/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>Nasa Nuclear Propulsion Demo Mission To Make Limited Use Of Nuclear Propulsion</description>
-</item>
-<item>
-<title>Fcc Authorizes Spacex To Deploy One Million Orbital Data Centers</title>
-<link>https://spacenews.com/fcc-authorizes-spacex-to-deploy-one-million-orbital-data-centers/</link>
-<guid isPermaLink="true">https://spacenews.com/fcc-authorizes-spacex-to-deploy-one-million-orbital-data-centers/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>Fcc Authorizes Spacex To Deploy One Million Orbital Data Centers</description>
-</item>
-<item>
-<title>Hera Glimpses The Results Of Dart Asteroid Impact</title>
-<link>https://spacenews.com/hera-glimpses-the-results-of-dart-asteroid-impact/</link>
-<guid isPermaLink="true">https://spacenews.com/hera-glimpses-the-results-of-dart-asteroid-impact/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>Hera Glimpses The Results Of Dart Asteroid Impact</description>
-</item>
-<item>
-<title>Nasa Exploring Earthdaily Data To Complement Landsat</title>
-<link>https://spacenews.com/nasa-exploring-earthdaily-data-to-complement-landsat/</link>
-<guid isPermaLink="true">https://spacenews.com/nasa-exploring-earthdaily-data-to-complement-landsat/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>WASHINGTON — EarthDaily’s recent contract to validate the quality and compatibility of its data with NASA’s Landsat imaging constellation could offer the civil space agency a complementary commercial source for Earth observation and analytics.</description>
-</item>
-<item>
-<title>China’s first commercial lunar missions take shape</title>
-<link>https://spacenews.com/chinas-first-commercial-lunar-missions-take-shape/</link>
-<guid isPermaLink="true">https://spacenews.com/chinas-first-commercial-lunar-missions-take-shape/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>HELSINKI — Two Chinese commercial companies are developing lunar spacecraft, signalling the start of a new phase in the country’s moon exploration efforts.</description>
-</item>
-<item>
-<title>Is faster and cheaper really better for NASA science?</title>
-<link>https://spacenews.com/is-faster-and-cheaper-really-better-for-nasa-science/</link>
-<guid isPermaLink="true">https://spacenews.com/is-faster-and-cheaper-really-better-for-nasa-science/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>Since NASA Administrator Dan Goldin introduced the concept of “faster, better, cheaper” to the agency in the 1990s, a debate has raged: Can smaller missions, which are faster and less expensive to develop but carry a higher risk of failure, be as effective as larger flagship missions, which have been prone to major cost and schedule overruns?</description>
-</item>
-<item>
-<title>Quantum Space Goes Public</title>
-<link>https://spacenews.com/quantum-space-goes-public/</link>
-<guid isPermaLink="true">https://spacenews.com/quantum-space-goes-public/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>Quantum Space, a company developing highly maneuverable spacecraft and led by a former NASA administrator, started trading publicly Nov. 24 after completing a merger.</description>
 </item>
 <item>
 <title>The Sweet Spot For Constellation Size</title>
@@ -84,111 +35,6 @@
 <guid isPermaLink="true">https://spacenews.com/origami-and-solar-arrays/</guid>
 <pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
 <description>In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Democratic Sweep Resets Military Space Spending Debate</title>
-<link>https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</link>
-<guid isPermaLink="true">https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>The immediate question is whether Congress can agree on a fiscal 2027 defense budget, and how long the Pentagon and its contractors might have to wait.</description>
-</item>
-<item>
-<title>White House seeks an additional $2 billion for Artemis in 2027</title>
-<link>https://spacenews.com/white-house-seeks-an-additional-2-billion-for-artemis-in-2027/</link>
-<guid isPermaLink="true">https://spacenews.com/white-house-seeks-an-additional-2-billion-for-artemis-in-2027/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>The White House is asking Congress to provide up to $2 billion in additional funding for NASA’s Artemis program, but with few details about how the money should be spent.</description>
-</item>
-<item>
-<title>Private equity firm Cerberus to acquire Airbus’ U.S. satellite business</title>
-<link>https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</link>
-<guid isPermaLink="true">https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>The deal brings a factory built for OneWeb’s broadband constellation under American ownership.</description>
-</item>
-<item>
-<title>Satellite Maker Endurosat Books Two Dedicated New Glenn Launches</title>
-<link>https://spacenews.com/satellite-maker-endurosat-books-two-dedicated-new-glenn-launches/</link>
-<guid isPermaLink="true">https://spacenews.com/satellite-maker-endurosat-books-two-dedicated-new-glenn-launches/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>EnduroSat has booked two dedicated New Glenn launches starting in 2029 for the Bulgarian satellite maker’s customers as the industry prepares for the end of SpaceX’s Falcon 9 rideshare program.</description>
-</item>
-<item>
-<title>Northwood’s phased-array antennas establish two-way link with U.S. satellite in GEO</title>
-<link>https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</link>
-<guid isPermaLink="true">https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>The company’s Portal system sent commands to and received telemetry from a government satellite</description>
-</item>
-<item>
-<title>BlackSky acquires data firm EpochGeo</title>
-<link>https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</link>
-<guid isPermaLink="true">https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>WASHINGTON — BlackSky Technology announced it acquired geospatial data firm EpochGeo, a move to expand its slate of real-time intelligence tools as defense customers seek deeper analysis and data fusion capabilities.</description>
-</item>
-<item>
-<title>First international astronaut arrives at Tiangong on Shenzhou-24</title>
-<link>https://spacenews.com/first-international-astronaut-arrives-at-tiangong-on-shenzhou-24/</link>
-<guid isPermaLink="true">https://spacenews.com/first-international-astronaut-arrives-at-tiangong-on-shenzhou-24/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>HELSINKI — A Pakistani astronaut arrived at China’s Tiangong space station Wednesday, the first foreign national to fly on a Chinese spacecraft and visit the orbital outpost.</description>
-</item>
-<item>
-<title>European Companies Seek Supporting Roles On Orbital Data Center Projects</title>
-<link>https://spacenews.com/european-companies-seek-supporting-roles-on-orbital-data-center-projects/</link>
-<guid isPermaLink="true">https://spacenews.com/european-companies-seek-supporting-roles-on-orbital-data-center-projects/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>As American and Chinese companies advance plans to develop orbital data centers, European firms are looking for ways to support those efforts rather than compete directly.</description>
-</item>
-<item>
-<title>Ariane 6 launches fourth set of Amazon Leo satellites</title>
-<link>https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>An Ariane 6 successfully launched three dozen Amazon Leo satellites, the first satellites for that constellation to reach orbit in four and a half months.</description>
-</item>
-<item>
-<title>Europe’s space community makes the case for a human spaceflight program</title>
-<link>https://spacenews.com/europes-space-community-makes-the-case-for-a-human-spaceflight-program/</link>
-<guid isPermaLink="true">https://spacenews.com/europes-space-community-makes-the-case-for-a-human-spaceflight-program/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>European government officials and companies are building the case for Europe to invest in a human spaceflight capability ahead of a key meeting next month.</description>
-</item>
-<item>
-<title>Russia Launches Progress Cargo Spacecraft To Iss With Unusual Secrecy</title>
-<link>https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</link>
-<guid isPermaLink="true">https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>Russia launched a Progress cargo spacecraft to the International Space Station Nov. 24 under an unusual level of secrecy assisted by NASA.</description>
-</item>
-<item>
-<title>Thruster glitch clouds BepiColombo arrival at Mercury</title>
-<link>https://spacenews.com/thruster-glitch-clouds-bepicolombo-arrival-at-mercury/</link>
-<guid isPermaLink="true">https://spacenews.com/thruster-glitch-clouds-bepicolombo-arrival-at-mercury/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>A joint European-Japanese mission has entered orbit around Mercury after an eight-year journey, but a premature shutdown of its thrusters has raised questions about its orbit.</description>
-</item>
-<item>
-<title>Small nations don’t need a Space Force. They need the right space organization.</title>
-<link>https://spacenews.com/small-nations-dont-need-a-space-force-they-need-the-right-space-organization/</link>
-<guid isPermaLink="true">https://spacenews.com/small-nations-dont-need-a-space-force-they-need-the-right-space-organization/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>The establishment of the United States Space Force, China’s Aerospace Force and France’s Space Command has prompted political and military leaders to consider creating similar organizations. For small and medium-sized states, that temptation is a trap. Recognizing space as a warfighting domain compels smaller states to develop military space organizations — but not as national symbols. The main limitations are the strategic position of these small states and their budgets to build and sustain such organizations. For small and medium-sized states, creating a military space organization involves an opportunity cost. Resources could alternatively be allocated to building more combat units or acquiring additional tanks, aircraft and ships. On the other hand, a smaller military space organization may be a force multiplier to help the mission.</description>
-</item>
-<item>
-<title>With the proliferation of European satellites, we need a new approach to space-based surveillance</title>
-<link>https://spacenews.com/with-the-proliferation-of-european-satellites-we-need-a-new-approach-to-space-based-surveillance/</link>
-<guid isPermaLink="true">https://spacenews.com/with-the-proliferation-of-european-satellites-we-need-a-new-approach-to-space-based-surveillance/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>European space companies are expanding rapidly. They are attracting substantial investment, developing new satellite services and competing for contracts once reserved for large aerospace groups. But as more satellites enter low Earth orbit (LEO), operators face a growing problem: how can they monitor and protect the spacecraft on which communications, navigation, financial transactions and national security increasingly depend?</description>
-</item>
-<item>
-<title>Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution</title>
-<link>https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</guid>
-<pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
-<description>Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […] The post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution appeared first on SpaceNews .</description>
 </item>
 <item>
 <title>Flexell Space And Alatyr Sign Mou To Explore Solar Power Solutions For Orbital Data Centers</title>
@@ -217,6 +63,160 @@
 <guid isPermaLink="true">https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/</guid>
 <pubDate>Thu, 26 Nov 2026 01:32:30 +0000</pubDate>
 <description>LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […] The post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>NASA nuclear propulsion demo mission to make limited use of nuclear propulsion</title>
+<link>https://spacenews.com/nasa-nuclear-propulsion-demo-mission-to-make-limited-use-of-nuclear-propulsion/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-nuclear-propulsion-demo-mission-to-make-limited-use-of-nuclear-propulsion/</guid>
+<pubDate>Wed, 25 Nov 2026 23:06:25 +0000</pubDate>
+<description>A NASA mission billed as the first in-space demonstration of nuclear propulsion will be propelled by nuclear power for only the “initial” part of its journey to Mars.</description>
+</item>
+<item>
+<title>FCC authorizes SpaceX to deploy one million orbital data centers</title>
+<link>https://spacenews.com/fcc-authorizes-spacex-to-deploy-one-million-orbital-data-centers/</link>
+<guid isPermaLink="true">https://spacenews.com/fcc-authorizes-spacex-to-deploy-one-million-orbital-data-centers/</guid>
+<pubDate>Wed, 25 Nov 2026 18:48:38 +0000</pubDate>
+<description>The Federal Communications Commission cleared SpaceX to deploy one million orbital data centers Nov. 25, rejecting calls to block a constellation of unprecedented size over interference, orbital safety and environmental concerns.</description>
+</item>
+<item>
+<title>Hera glimpses the results of DART asteroid impact</title>
+<link>https://spacenews.com/hera-glimpses-the-results-of-dart-asteroid-impact/</link>
+<guid isPermaLink="true">https://spacenews.com/hera-glimpses-the-results-of-dart-asteroid-impact/</guid>
+<pubDate>Wed, 25 Nov 2026 18:05:00 +0000</pubDate>
+<description>A NASA spacecraft that deliberately collided with a small asteroid four years ago produced a giant crater and caused the asteroid to tumble.</description>
+</item>
+<item>
+<title>NASA exploring EarthDaily data to complement Landsat</title>
+<link>https://spacenews.com/nasa-exploring-earthdaily-data-to-complement-landsat/</link>
+<guid isPermaLink="true">https://spacenews.com/nasa-exploring-earthdaily-data-to-complement-landsat/</guid>
+<pubDate>Wed, 25 Nov 2026 17:25:56 +0000</pubDate>
+<description>WASHINGTON — EarthDaily’s recent contract to validate the quality and compatibility of its data with NASA’s Landsat imaging constellation could offer the civil space agency a complementary commercial source for Earth observation and analytics.</description>
+</item>
+<item>
+<title>China’s first commercial lunar missions take shape</title>
+<link>https://spacenews.com/chinas-first-commercial-lunar-missions-take-shape/</link>
+<guid isPermaLink="true">https://spacenews.com/chinas-first-commercial-lunar-missions-take-shape/</guid>
+<pubDate>Wed, 25 Nov 2026 15:17:26 +0000</pubDate>
+<description>HELSINKI — Two Chinese commercial companies are developing lunar spacecraft, signalling the start of a new phase in the country’s moon exploration efforts.</description>
+</item>
+<item>
+<title>Is faster and cheaper really better for NASA science?</title>
+<link>https://spacenews.com/is-faster-and-cheaper-really-better-for-nasa-science/</link>
+<guid isPermaLink="true">https://spacenews.com/is-faster-and-cheaper-really-better-for-nasa-science/</guid>
+<pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+<description>Since NASA Administrator Dan Goldin introduced the concept of “faster, better, cheaper” to the agency in the 1990s, a debate has raged: Can smaller missions, which are faster and less expensive to develop but carry a higher risk of failure, be as effective as larger flagship missions, which have been prone to major cost and schedule overruns?</description>
+</item>
+<item>
+<title>Quantum Space goes public</title>
+<link>https://spacenews.com/quantum-space-goes-public/</link>
+<guid isPermaLink="true">https://spacenews.com/quantum-space-goes-public/</guid>
+<pubDate>Wed, 25 Nov 2026 13:05:12 +0000</pubDate>
+<description>Quantum Space, a company developing highly maneuverable spacecraft and led by a former NASA administrator, started trading publicly Nov. 24 after completing a merger.</description>
+</item>
+<item>
+<title>Small nations don’t need a Space Force. They need the right space organization.</title>
+<link>https://spacenews.com/small-nations-dont-need-a-space-force-they-need-the-right-space-organization/</link>
+<guid isPermaLink="true">https://spacenews.com/small-nations-dont-need-a-space-force-they-need-the-right-space-organization/</guid>
+<pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+<description>The establishment of the United States Space Force, China’s Aerospace Force and France’s Space Command has prompted political and military leaders to consider creating similar organizations. For small and medium-sized states, that temptation is a trap. Recognizing space as a warfighting domain compels smaller states to develop military space organizations — but not as national symbols. The main limitations are the strategic position of these small states and their budgets to build and sustain such organizations. For small and medium-sized states, creating a military space organization involves an opportunity cost. Resources could alternatively be allocated to building more combat units or acquiring additional tanks, aircraft and ships. On the other hand, a smaller military space organization may be a force multiplier to help the mission.</description>
+</item>
+<item>
+<title>White House seeks an additional $2 billion for Artemis in 2027</title>
+<link>https://spacenews.com/white-house-seeks-an-additional-2-billion-for-artemis-in-2027/</link>
+<guid isPermaLink="true">https://spacenews.com/white-house-seeks-an-additional-2-billion-for-artemis-in-2027/</guid>
+<pubDate>Wed, 25 Nov 2026 11:51:55 +0000</pubDate>
+<description>The White House is asking Congress to provide up to $2 billion in additional funding for NASA’s Artemis program, but with few details about how the money should be spent.</description>
+</item>
+<item>
+<title>European companies seek supporting roles on orbital data center projects</title>
+<link>https://spacenews.com/european-companies-seek-supporting-roles-on-orbital-data-center-projects/</link>
+<guid isPermaLink="true">https://spacenews.com/european-companies-seek-supporting-roles-on-orbital-data-center-projects/</guid>
+<pubDate>Wed, 25 Nov 2026 11:41:07 +0000</pubDate>
+<description>As American and Chinese companies advance plans to develop orbital data centers, European firms are looking for ways to support those efforts rather than compete directly.</description>
+</item>
+<item>
+<title>Satellite maker EnduroSat books two dedicated New Glenn launches</title>
+<link>https://spacenews.com/satellite-maker-endurosat-books-two-dedicated-new-glenn-launches/</link>
+<guid isPermaLink="true">https://spacenews.com/satellite-maker-endurosat-books-two-dedicated-new-glenn-launches/</guid>
+<pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
+<description>EnduroSat has booked two dedicated New Glenn launches starting in 2029 for the Bulgarian satellite maker’s customers as the industry prepares for the end of SpaceX’s Falcon 9 rideshare program.</description>
+</item>
+<item>
+<title>First international astronaut arrives at Tiangong on Shenzhou-24</title>
+<link>https://spacenews.com/first-international-astronaut-arrives-at-tiangong-on-shenzhou-24/</link>
+<guid isPermaLink="true">https://spacenews.com/first-international-astronaut-arrives-at-tiangong-on-shenzhou-24/</guid>
+<pubDate>Wed, 25 Nov 2026 10:54:48 +0000</pubDate>
+<description>HELSINKI — A Pakistani astronaut arrived at China’s Tiangong space station Wednesday, the first foreign national to fly on a Chinese spacecraft and visit the orbital outpost.</description>
+</item>
+<item>
+<title>Private equity firm Cerberus to acquire Airbus’ U.S. satellite business</title>
+<link>https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</link>
+<guid isPermaLink="true">https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</guid>
+<pubDate>Tue, 24 Nov 2026 16:10:10 +0000</pubDate>
+<description>The deal brings a factory built for OneWeb’s broadband constellation under American ownership.</description>
+</item>
+<item>
+<title>Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution</title>
+<link>https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</link>
+<guid isPermaLink="true">https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</guid>
+<pubDate>Tue, 24 Nov 2026 15:17:50 +0000</pubDate>
+<description>Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […] The post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution appeared first on SpaceNews .</description>
+</item>
+<item>
+<title>Democratic Sweep Resets Military Space Spending Debate</title>
+<link>https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</link>
+<guid isPermaLink="true">https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</guid>
+<pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
+<description>The immediate question is whether Congress can agree on a fiscal 2027 defense budget, and how long the Pentagon and its contractors might have to wait.</description>
+</item>
+<item>
+<title>Ariane 6 launches fourth set of Amazon Leo satellites</title>
+<link>https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</guid>
+<pubDate>Tue, 24 Nov 2026 14:17:20 +0000</pubDate>
+<description>An Ariane 6 successfully launched three dozen Amazon Leo satellites, the first satellites for that constellation to reach orbit in four and a half months.</description>
+</item>
+<item>
+<title>BlackSky acquires data firm EpochGeo</title>
+<link>https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</link>
+<guid isPermaLink="true">https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</guid>
+<pubDate>Tue, 24 Nov 2026 14:16:47 +0000</pubDate>
+<description>WASHINGTON — BlackSky Technology announced it acquired geospatial data firm EpochGeo, a move to expand its slate of real-time intelligence tools as defense customers seek deeper analysis and data fusion capabilities.</description>
+</item>
+<item>
+<title>Russia launches Progress cargo spacecraft to ISS with unusual secrecy</title>
+<link>https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</link>
+<guid isPermaLink="true">https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</guid>
+<pubDate>Tue, 24 Nov 2026 12:32:55 +0000</pubDate>
+<description>Russia launched a Progress cargo spacecraft to the International Space Station Nov. 24 under an unusual level of secrecy assisted by NASA.</description>
+</item>
+<item>
+<title>Northwood’s phased-array antennas establish two-way link with U.S. satellite in GEO</title>
+<link>https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</link>
+<guid isPermaLink="true">https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</guid>
+<pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+<description>The company’s Portal system sent commands to and received telemetry from a government satellite</description>
+</item>
+<item>
+<title>Ford takes stake in Revolution Space</title>
+<link>https://spacenews.com/ford-takes-stake-in-revolution-space/</link>
+<guid isPermaLink="true">https://spacenews.com/ford-takes-stake-in-revolution-space/</guid>
+<pubDate>Mon, 23 Nov 2026 23:23:31 +0000</pubDate>
+<description>Automaker to bring manufacturing expertise to Boston space company expanding from electric propulsion to complete spacecraft</description>
+</item>
+<item>
+<title>Umbra unveils new family of SAR satellites</title>
+<link>https://spacenews.com/umbra-unveils-new-family-of-sar-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/umbra-unveils-new-family-of-sar-satellites/</guid>
+<pubDate>Mon, 23 Nov 2026 17:45:51 +0000</pubDate>
+<description>WASHINGTON — Space technology company Umbra unveiled a new line of synthetic aperture radar (SAR) satellites that the company says will bring improved accuracy and an expanded capability set.</description>
+</item>
+<item>
+<title>Space Beyond orders hardware for 10 more memorial cubesat missions</title>
+<link>https://spacenews.com/space-beyond-orders-hardware-for-10-more-memorial-cubesat-missions/</link>
+<guid isPermaLink="true">https://spacenews.com/space-beyond-orders-hardware-for-10-more-memorial-cubesat-missions/</guid>
+<pubDate>Mon, 23 Nov 2026 14:33:21 +0000</pubDate>
+<description>Space Beyond has ordered enough hardware for 10 follow-on cubesats after growing sales for the Florida startup’s first memorial spacecraft, slated to carry cremated remains into orbit in October 2027.</description>
 </item>
 </channel>
 </rss>
