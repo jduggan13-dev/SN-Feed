@@ -4,10 +4,31 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Thu, 26 Nov 2026 10:27:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 19:58:50 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>China prepares for weekend Shenzhou-23 return, launches new Yaogan series</title>
+<link>https://spacenews.com/china-prepares-for-weekend-shenzhou-23-return-launches-new-yaogan-series/</link>
+<guid isPermaLink="true">https://spacenews.com/china-prepares-for-weekend-shenzhou-23-return-launches-new-yaogan-series/</guid>
+<pubDate>Thu, 26 Nov 2026 18:01:41 +0000</pubDate>
+<description>HELSINKI — China is preparing to bring three astronauts, including Pakistan’s first, back to Earth Nov. 29, while lofting a new series of Yaogan satellites Thursday.</description>
+</item>
+<item>
+<title>The ‘bare-knuckled’ future of life in space with Tim Marshall</title>
+<link>https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/</link>
+<guid isPermaLink="true">https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/</guid>
+<pubDate>Thu, 26 Nov 2026 17:53:00 +0000</pubDate>
+<description>In this episode, Mike Gruss speaks with journalist and best-selling author Tim Marshall. They discuss how the war in Ukraine represented a wakeup call for how Europe and the United […]</description>
+</item>
+<item>
+<title>European startup OSMOS X begins bodyguard satellite development to address European capability gap</title>
+<link>https://spacenews.com/european-startup-osmos-x-begins-bodyguard-satellite-development-to-address-european-capability-gap/</link>
+<guid isPermaLink="true">https://spacenews.com/european-startup-osmos-x-begins-bodyguard-satellite-development-to-address-european-capability-gap/</guid>
+<pubDate>Thu, 26 Nov 2026 16:37:23 +0000</pubDate>
+<description>LONDON – A consortium of European space companies and research institutions has kicked off development of a dual-use orbital capture demonstrator aiming to address the European technology gap in space control and orbital defense. The project could pave the way for a fleet of orbital bodyguards — guardian satellites that would be stationed near critical European assets in space — amid growing geopolitical tensions.</description>
+</item>
 <item>
 <title>Sn Media Kit</title>
 <link>https://spacenews.com/sn-media-kit/</link>
@@ -196,27 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</guid>
 <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
 <description>The company’s Portal system sent commands to and received telemetry from a government satellite</description>
-</item>
-<item>
-<title>Ford takes stake in Revolution Space</title>
-<link>https://spacenews.com/ford-takes-stake-in-revolution-space/</link>
-<guid isPermaLink="true">https://spacenews.com/ford-takes-stake-in-revolution-space/</guid>
-<pubDate>Mon, 23 Nov 2026 23:23:31 +0000</pubDate>
-<description>Automaker to bring manufacturing expertise to Boston space company expanding from electric propulsion to complete spacecraft</description>
-</item>
-<item>
-<title>Umbra unveils new family of SAR satellites</title>
-<link>https://spacenews.com/umbra-unveils-new-family-of-sar-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/umbra-unveils-new-family-of-sar-satellites/</guid>
-<pubDate>Mon, 23 Nov 2026 17:45:51 +0000</pubDate>
-<description>WASHINGTON — Space technology company Umbra unveiled a new line of synthetic aperture radar (SAR) satellites that the company says will bring improved accuracy and an expanded capability set.</description>
-</item>
-<item>
-<title>Space Beyond orders hardware for 10 more memorial cubesat missions</title>
-<link>https://spacenews.com/space-beyond-orders-hardware-for-10-more-memorial-cubesat-missions/</link>
-<guid isPermaLink="true">https://spacenews.com/space-beyond-orders-hardware-for-10-more-memorial-cubesat-missions/</guid>
-<pubDate>Mon, 23 Nov 2026 14:33:21 +0000</pubDate>
-<description>Space Beyond has ordered enough hardware for 10 follow-on cubesats after growing sales for the Florida startup’s first memorial spacecraft, slated to carry cremated remains into orbit in October 2027.</description>
 </item>
 </channel>
 </rss>
