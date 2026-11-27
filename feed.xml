@@ -4,10 +4,59 @@
 <title>SpaceNews (current articles)</title>
 <link>https://spacenews.com/</link>
 <description>Current SpaceNews articles rebuilt from the WordPress REST API for Protopage.</description>
-<lastBuildDate>Fri, 27 Nov 2026 11:45:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 20:40:14 +0000</lastBuildDate>
 <language>en-US</language>
 <ttl>60</ttl>
 <atom:link href="https://jduggan13-dev.github.io/SN-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>White House seeks $5 billion for Golden Dome in stopgap spending bill</title>
+<link>https://spacenews.com/white-house-seeks-5-billion-for-golden-dome-in-stopgap-spending-bill/</link>
+<guid isPermaLink="true">https://spacenews.com/white-house-seeks-5-billion-for-golden-dome-in-stopgap-spending-bill/</guid>
+<pubDate>Fri, 27 Nov 2026 17:34:40 +0000</pubDate>
+<description>Administration warns Golden Dome production at risk without funding fix</description>
+</item>
+<item>
+<title>Germany’s DLR awards Airbus $6.5 million for in-orbit refueling experiment on the ISS</title>
+<link>https://spacenews.com/germanys-dlr-awards-airbus-6-5-million-for-in-orbit-refueling-experiment-on-the-iss/</link>
+<guid isPermaLink="true">https://spacenews.com/germanys-dlr-awards-airbus-6-5-million-for-in-orbit-refueling-experiment-on-the-iss/</guid>
+<pubDate>Fri, 27 Nov 2026 17:12:22 +0000</pubDate>
+<description>JOHANNESBURG — The German Space Agency at DLR has awarded Airbus Defence and Space a 5.94 million euro ($6.51 million) contract to continue the development of an experiment that will support the advancement of in-orbit refueling technologies.</description>
+</item>
+<item>
+<title>Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates</title>
+<link>https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/</link>
+<guid isPermaLink="true">https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/</guid>
+<pubDate>Fri, 27 Nov 2026 15:35:22 +0000</pubDate>
+<description>Paris, France | November 2026 — Novaspace’s Space Defense &amp; Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally in 2025, reflecting […]</description>
+</item>
+<item>
+<title>Engineers develop workaround for BepiColombo software issue</title>
+<link>https://spacenews.com/engineers-develop-workaround-for-bepicolombo-software-issue/</link>
+<guid isPermaLink="true">https://spacenews.com/engineers-develop-workaround-for-bepicolombo-software-issue/</guid>
+<pubDate>Fri, 27 Nov 2026 14:30:06 +0000</pubDate>
+<description>The BepiColombo mission has developed a workaround for the software issue that cut short its Mercury orbit insertion burn.</description>
+</item>
+<item>
+<title>Chinese startup publishes GEO tracking report from global telescope network, including Chinese and U.S. military satellites</title>
+<link>https://spacenews.com/chinese-startup-publishes-geo-tracking-report-from-global-telescope-network-including-chinese-and-u-s-military-satellites/</link>
+<guid isPermaLink="true">https://spacenews.com/chinese-startup-publishes-geo-tracking-report-from-global-telescope-network-including-chinese-and-u-s-military-satellites/</guid>
+<pubDate>Fri, 27 Nov 2026 12:28:42 +0000</pubDate>
+<description>HELSINKI — A Beijing startup has released a year-long survey of activity in geostationary orbit, based on observations from what it describes as a global telescope network.</description>
+</item>
+<item>
+<title>Rocket Lab sets Electron launch record with Synspective mission</title>
+<link>https://spacenews.com/rocket-lab-sets-electron-launch-record-with-synspective-mission/</link>
+<guid isPermaLink="true">https://spacenews.com/rocket-lab-sets-electron-launch-record-with-synspective-mission/</guid>
+<pubDate>Fri, 27 Nov 2026 12:25:45 +0000</pubDate>
+<description>Rocket Lab set a new record for most Electron launches in a year with the flight of a Japanese radar-imaging satellite Nov. 26.</description>
+</item>
+<item>
+<title>Space Force reopens $13 billion satellite services program to new vendors</title>
+<link>https://spacenews.com/space-force-reopens-13-billion-satellite-services-program-to-new-vendors/</link>
+<guid isPermaLink="true">https://spacenews.com/space-force-reopens-13-billion-satellite-services-program-to-new-vendors/</guid>
+<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+<description>SpaceX accounts for about 96% of nearly $1 billion in recorded obligations under the program</description>
+</item>
 <item>
 <title>China prepares for weekend Shenzhou-23 return, launches new Yaogan series</title>
 <link>https://spacenews.com/china-prepares-for-weekend-shenzhou-23-return-launches-new-yaogan-series/</link>
@@ -168,55 +217,6 @@
 <guid isPermaLink="true">https://spacenews.com/first-international-astronaut-arrives-at-tiangong-on-shenzhou-24/</guid>
 <pubDate>Wed, 25 Nov 2026 10:54:48 +0000</pubDate>
 <description>HELSINKI — A Pakistani astronaut arrived at China’s Tiangong space station Wednesday, the first foreign national to fly on a Chinese spacecraft and visit the orbital outpost.</description>
-</item>
-<item>
-<title>Private equity firm Cerberus to acquire Airbus’ U.S. satellite business</title>
-<link>https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</link>
-<guid isPermaLink="true">https://spacenews.com/private-equity-firm-cerberus-to-acquire-airbus-u-s-satellite-business/</guid>
-<pubDate>Tue, 24 Nov 2026 16:10:10 +0000</pubDate>
-<description>The deal brings a factory built for OneWeb’s broadband constellation under American ownership.</description>
-</item>
-<item>
-<title>Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution</title>
-<link>https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</link>
-<guid isPermaLink="true">https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/</guid>
-<pubDate>Tue, 24 Nov 2026 15:17:50 +0000</pubDate>
-<description>Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […] The post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution appeared first on SpaceNews .</description>
-</item>
-<item>
-<title>Democratic Sweep Resets Military Space Spending Debate</title>
-<link>https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</link>
-<guid isPermaLink="true">https://spacenews.com/democratic-sweep-resets-military-space-spending-debate/</guid>
-<pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
-<description>The immediate question is whether Congress can agree on a fiscal 2027 defense budget, and how long the Pentagon and its contractors might have to wait.</description>
-</item>
-<item>
-<title>Ariane 6 launches fourth set of Amazon Leo satellites</title>
-<link>https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</link>
-<guid isPermaLink="true">https://spacenews.com/ariane-6-launches-fourth-set-of-amazon-leo-satellites/</guid>
-<pubDate>Tue, 24 Nov 2026 14:17:20 +0000</pubDate>
-<description>An Ariane 6 successfully launched three dozen Amazon Leo satellites, the first satellites for that constellation to reach orbit in four and a half months.</description>
-</item>
-<item>
-<title>BlackSky acquires data firm EpochGeo</title>
-<link>https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</link>
-<guid isPermaLink="true">https://spacenews.com/blacksky-acquires-data-firm-epochgeo/</guid>
-<pubDate>Tue, 24 Nov 2026 14:16:47 +0000</pubDate>
-<description>WASHINGTON — BlackSky Technology announced it acquired geospatial data firm EpochGeo, a move to expand its slate of real-time intelligence tools as defense customers seek deeper analysis and data fusion capabilities.</description>
-</item>
-<item>
-<title>Russia launches Progress cargo spacecraft to ISS with unusual secrecy</title>
-<link>https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</link>
-<guid isPermaLink="true">https://spacenews.com/russia-launches-progress-cargo-spacecraft-to-iss-with-unusual-secrecy/</guid>
-<pubDate>Tue, 24 Nov 2026 12:32:55 +0000</pubDate>
-<description>Russia launched a Progress cargo spacecraft to the International Space Station Nov. 24 under an unusual level of secrecy assisted by NASA.</description>
-</item>
-<item>
-<title>Northwood’s phased-array antennas establish two-way link with U.S. satellite in GEO</title>
-<link>https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</link>
-<guid isPermaLink="true">https://spacenews.com/northwoods-phased-array-antennas-establish-two-way-link-with-u-s-satellite-in-geo/</guid>
-<pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
-<description>The company’s Portal system sent commands to and received telemetry from a government satellite</description>
 </item>
 </channel>
 </rss>
